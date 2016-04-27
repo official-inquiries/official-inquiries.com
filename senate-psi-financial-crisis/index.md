@@ -1,3 +1,8 @@
+---
+title: Senate PSI report into the Financial Crisis
+edit: true
+---
+
 # Read the Report
 
 ## Full Report (minus exhibits)
