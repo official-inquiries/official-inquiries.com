@@ -1350,8 +1350,6 @@ html.mm-background .mm-page,
         font-size:28px;
         letter-spacing:2px;
         margin-bottom:10px;
-        position:absolute;
-        left:-999px;
         
         @include media($medium-screen) {
           position:static;
@@ -1406,9 +1404,10 @@ html.mm-background .mm-page,
     & > div {
       padding:$base-spacing;
       @include media($medium-screen) {
-        @include span-columns(4);
+/*      @include span-columns(4);
         position:relative;
         padding-top: $base-spacing * 2;
+*/
         
         &:after {
           content:'';
