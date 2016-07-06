@@ -4,11 +4,11 @@ title: The Iraq Inquiry
 edit: true
 ---
 
-## This report is **coming soon**
+## The full version of this report is **coming soon**
 
-### Full Report
-* [Full text version](/uk-parliament-iraq-inquiry/text/index.md)
-* [Original .PDF]()
+### Executive Summary
+* [Text version](/uk-parliament-iraq-inquiry/text/)
+* [Original PDF](http://www.iraqinquiry.org.uk/media/246416/the-report-of-the-iraq-inquiry_executive-summary.pdf)
 
 ## Summary
 

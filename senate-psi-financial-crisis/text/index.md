@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Financial Crisis: Anatomy of a Financial Collapse
+title: The Financial Crisis - Anatomy of a Financial Collapse
 edit: true
 ---
 United States Senate 
