@@ -7,27 +7,12 @@ The Report of the Iraq Inquiry
 
 Executive Summary
 
-Report of a Committee of Privy Counsellors
-
-HC 264
-
-Return to an Address of the Honourable the House of Commons  
-
 dated 6 July 2016  
-
-for
-
-The Report of the Iraq Inquiry
-
-Executive Summary
-
-Report of a Committee of Privy Counsellors
 
 Ordered by the House of Commons to be printed on 6 July 2016
 
-HC 264 
-
- 
+* TOC
+{:toc} 
 
 © Crown copyright 2016
 This publication is licensed under the terms of the Open Government Licence v3.0 except where 
@@ -47,120 +32,9 @@ Printed in the UK by the Williams Lea Group on behalf of the Controller of Her M
 
 EXECUTIVE SUMMARY
 
-Contents
-Introduction  ...................................................................................................................... 4
+Executive Summary
 
-Pre‑conflict strategy and planning  .................................................................................... 5
-
-The UK decision to support US military action  ................................................................. 6
-UK policy before 9/11  ................................................................................................. 6
-The impact of 9/11  ................................................................................................... 10
-Decision to take the UN route  .................................................................................. 16
-Negotiation of resolution 1441  ................................................................................. 19
-The prospect of military action  ................................................................................. 21
-The gap between the Permanent Members of the Security Council widens  ........... 24
-The end of the UN route  .......................................................................................... 30
-
-Why Iraq? Why now?  ..................................................................................................... 40
-Was Iraq a serious or imminent threat?  ................................................................... 40
-The predicted increase in the threat to the UK as a result of military action in Iraq  . 47
-
-The UK’s relationship with the US  .................................................................................. 51
-
-Decision‑making  ............................................................................................................ 54
-Collective responsibility  ........................................................................................... 55
-
-Advice on the legal basis for military action  ................................................................... 62
-The timing of Lord Goldsmith’s advice on the interpretation of resolution 1441  ...... 63
-Lord Goldsmith’s advice of 7 March 2003  ............................................................... 65
-Lord Goldsmith’s arrival at a “better view”  ............................................................... 66
-The exchange of letters on 14 and 15 March 2003  ................................................. 66
-Lord Goldsmith’s Written Answer of 17 March 2003  ................................................ 67
-Cabinet, 17 March 2003  .......................................................................................... 68
-
-Weapons of mass destruction  ........................................................................................ 69
-Iraq WMD assessments, pre‑July 2002  ................................................................... 69
-Iraq WMD assessments, July to September 2002  ................................................... 72
-Iraq WMD assessments, October 2002 to March 2003  ........................................... 75
-The search for WMD  ................................................................................................ 77
-
-1
-
-Planning for a post‑Saddam Hussein Iraq  ..................................................................... 78
-The failure to plan or prepare for known risks  ......................................................... 78
-The planning process and decision‑making  ............................................................ 81
-
-The post‑conflict period  .................................................................................................. 86
-Occupation  ............................................................................................................... 86
-Looting in Basra  ................................................................................................ 86
-Looting in Baghdad   .......................................................................................... 88
-UK influence on post‑invasion strategy: resolution 1483  .................................. 89
-UK influence on the Coalition Provisional Authority  .......................................... 90
-A decline in security ........................................................................................... 93
-The turning point  ............................................................................................... 96
-Transition  ................................................................................................................. 97
-UK influence on US strategy post‑CPA  ............................................................. 97
-Planning for withdrawal  ..................................................................................... 97
-The impact of Afghanistan  ................................................................................. 99
-Iraqiisation  ....................................................................................................... 101
-Preparation for withdrawal  ..................................................................................... 103
-A major divergence in strategy  ........................................................................ 103
-A possible civil war  .......................................................................................... 104
-Force Level Review  ......................................................................................... 107
-The beginning of the end ................................................................................. 108
-
-Did the UK achieve its objectives in Iraq?  .................................................................... 109
-
-Key findings  ..................................................................................................................111
-Development of UK strategy and options, 9/11 to early January 2002  ...................111
-Development of UK strategy and options, January to April 2002 – “axis of evil” to 
-Crawford  .................................................................................................................111
-Development of UK strategy and options, April to July 2002  ................................. 112
-Development of UK strategy and options, late July to 14 September 2002  .......... 112
-Development of UK strategy and options, September to November 2002 – the 
-negotiation of resolution 1441  ................................................................................ 113
-Development of UK strategy and options, November 2002 to January 2003  ........ 113
-Development of UK strategy and options, 1 February to 7 March 2003  ................ 114
-Iraq WMD assessments, pre‑July 2002  ................................................................. 115
-Iraq WMD assessments, July to September 2002  ................................................. 116
-Iraq WMD assessments, October 2002 to March 2003  ......................................... 117
-The search for WMD  .............................................................................................. 117
-
-2
-
-The Report of the Iraq InquiryAdvice on the legal basis for military action, November 2002 to March 2003  ....... 119
-Development of the military options for an invasion of Iraq  ................................... 120
-Military planning for the invasion, January to March 2003  ..................................... 121
-Military equipment (pre‑conflict)  ............................................................................. 122
-Planning for a post‑Saddam Hussein Iraq  ............................................................. 122
-The invasion  .......................................................................................................... 123
-The post‑conflict period  ......................................................................................... 123
-Reconstruction  ....................................................................................................... 124
-De‑Ba’athification  ................................................................................................... 125
-Security Sector Reform  .......................................................................................... 125
-Resources  .............................................................................................................. 126
-Military equipment (post‑conflict)  ........................................................................... 126
-Civilian personnel  .................................................................................................. 127
-Service Personnel  .................................................................................................. 127
-Civilian casualties  .................................................................................................. 128
-
-Lessons  ........................................................................................................................ 129
-The decision to go to war  ....................................................................................... 129
-Weapons of mass destruction  ............................................................................... 130
-The invasion of Iraq  ............................................................................................... 133
-The post‑conflict period  ......................................................................................... 134
-Reconstruction  ....................................................................................................... 135
-De‑Ba’athification  ................................................................................................... 137
-Security Sector Reform  .......................................................................................... 138
-Resources  .............................................................................................................. 138
-Military equipment (post‑conflict)  ........................................................................... 139
-Civilian personnel  .................................................................................................. 140
-
-Timeline of events  ........................................................................................................ 141
-
-3
-
-Executive SummaryIntroduction
+# Introduction
 1.  In 2003, for the first time since the Second World War, the United Kingdom took part 
 in an opposed invasion and full‑scale occupation of a sovereign State – Iraq. Cabinet 
 decided on 17 March to join the US‑led invasion of Iraq, assuming there was no 
@@ -211,7 +85,7 @@ events, and the Inquiry’s full conclusions and lessons.
 The Report of the Iraq Inquiry9.  The following are extracts from the main body of the Report covering some of the 
 most important issues considered by the Inquiry.
 
-Pre‑conflict strategy and planning
+# Pre‑conflict strategy and planning
 10.  After the attacks on the US on 11 September 2001 and the fall of the Taliban regime 
 in Afghanistan in November, the US Administration turned its attention to regime change 
 in Iraq as part of the second phase of what it called the Global War on Terror.
@@ -273,7 +147,7 @@ military action.
 nation, without the support of a Security Council resolution explicitly authorising the use 
 of force. Parliament endorsed that choice.
 
-The UK decision to support US military action
+# The UK decision to support US military action
 24.  President Bush decided at the end of 2001 to pursue a policy of regime change 
 in Iraq.
 
@@ -462,7 +336,7 @@ containment, but sanctions were eroding.12 The policy was “partially successfu
 but it did not mean that Saddam Hussein was “not still developing his [prohibited] 
 programmes”. 
 
-The impact of 9/11
+# The impact of 9/11
 46.  The attacks on the US on 11 September 2001 changed perceptions about the 
 severity and likelihood of the threat from international terrorism. They showed that 
 attacks intended to cause large‑scale civilian casualties could be mounted anywhere 
@@ -779,7 +653,7 @@ That could result in a material breach of the obligations imposed by the UN.
 99.  The Note reflected Mr Blair’s own views. The proposals had not been discussed 
 or agreed with his colleagues.
 
-Decision to take the UN route
+# Decision to take the UN route
 100.  Sir David Manning, Mr Blair’s Foreign Policy Adviser, told President Bush that it 
 would be impossible for the UK to take part in any action against Iraq unless it went 
 through the UN. 
@@ -897,7 +771,9 @@ not backed by the threat of force has never worked with dictators and never will
 
 18
 
-The Report of the Iraq InquiryNegotiation of resolution 1441
+The Report of the Iraq Inquiry
+
+# Negotiation of resolution 1441
 119.  There were significant differences between the US and UK positions, and between 
 them and China, France and Russia about the substance of the strategy to be adopted, 
 including the role of the Security Council in determining whether peaceful means had 
@@ -996,7 +872,8 @@ Affairs of Iraq addressed to the Secretary‑General’ (S/2002/1242).
 
 20
 
-The Report of the Iraq InquiryThe prospect of military action
+The Report of the Iraq Inquiry
+# The prospect of military action
 135.  Following Iraq’s submission of the declaration on its chemical, biological, nuclear 
 and ballistic missile programmes to the UN on 7 December, and before the inspectors 
 had properly begun their task, the US concluded that Saddam Hussein was not going 
@@ -1148,8 +1025,9 @@ on 31 January’.
 
 23
 
-Executive SummaryThe gap between the Permanent Members of the Security Council 
-widens
+Executive Summary
+
+# The gap between the Permanent Members of the Security Council widens
 162.  In their reports to the Security Council on 14 February:
 
 •  Dr Blix reported that UNMOVIC had not found any weapons of mass destruction 
@@ -1471,7 +1349,7 @@ an all‑Iraq NFZ”.
 
 213.  Lord Goldsmith sent his formal advice to Mr Blair on 7 March.97
 
-The end of the UN route
+# The end of the UN route
 214.  When Mr Blair spoke to President Bush at 6pm on 7 March he emphasised the 
 importance of securing nine positive votes98 in the Security Council for Parliamentary 
 approval for UK military action.99
@@ -1962,7 +1840,7 @@ to take action against Iraq. France had not been prepared to accept that Iraq’
 failure to comply with its obligations should lead to the use of force to achieve 
 compliance.”142
 
-Why Iraq? Why now?
+# Why Iraq? Why now?
 294.  In his memoir, Mr Blair described his speech opening the debate on 18 March 
 as “the most important speech I had ever made”.143 
 
@@ -1984,7 +1862,7 @@ the way in which the United States engages with the rest of the world. So it cou
 hardly be more important. It will determine the pattern of international politics for 
 the next generation.”
 
-Was Iraq a serious or imminent threat?
+# Was Iraq a serious or imminent threat?
 297.  On 18 March 2003, the House of Commons was asked:
 
 •  to recognise that Iraq’s weapons of mass destruction and long‑range missiles, 
@@ -2337,8 +2215,8 @@ without the explicit authorisation which it had sought from the Security Council
 339.  At the time of the Parliamentary vote of 18 March, diplomatic options had not been 
 exhausted. The point had not been reached where military action was the last resort. 
 
-The predicted increase in the threat to the UK as a result of military 
-action in Iraq
+# The predicted increase in the threat to the UK as a result of military action in Iraq
+
 340.  Mr Blair had been advised that an invasion of Iraq was expected to increase 
 the threat to the UK and UK interests from Al Qaida and its affiliates.
 
@@ -2510,7 +2388,7 @@ The Report of the Iraq InquiryIn any event, following 9/11 and Afghanistan we w
 events in Europe and the US show, irrespective of Iraq, there are ample justifications 
 such terrorists will use as excuses for terrorism.”172 
 
-The UK’s relationship with the US
+# The UK’s relationship with the US
 359.  The UK’s relationship with the US was a determining factor in the Government’s 
 decisions over Iraq.
 
@@ -2688,7 +2566,7 @@ not succeed in changing the approach determined in Washington.
 389.  This issue is addressed in the Lessons section of this Executive Summary, under 
 the heading “The decision to go to war”. 
 
-Decision‑making
+# Decision‑making
 390.  The way in which the policy on Iraq was developed and decisions were taken and 
 implemented within the UK Government has been at the heart of the Inquiry’s work and 
 fundamental to its conclusions. 
@@ -2705,7 +2583,7 @@ Report many of the documents which illuminate who took the key decisions and on 
 The Report of the Iraq Inquirybasis, including the full record of the discussion on Iraq in Cabinet on five key occasions 
 pre‑conflict, and policy advice to Ministers which is not normally disclosed.
 
-Collective responsibility
+# Collective responsibility
 392.  Under UK constitutional conventions – in which the Prime Minister leads the 
 Government – Cabinet is the main mechanism by which the most senior members 
 of the Government take collective responsibility for its most important decisions. 
@@ -3076,7 +2954,7 @@ sense, or they are missing certain important things.”199
 fully engaged in ways that allow them to accept collective responsibility and to meet their 
 departmental obligations nevertheless remains. 
 
-Advice on the legal basis for military action
+# Advice on the legal basis for military action
 431.  The Inquiry has reviewed the debate that took place within the Government and 
 how it reached its decision. 
 
@@ -3127,8 +3005,7 @@ Security Council.
 breach of resolution 1441 would have furthered the UK’s aspiration to uphold the 
 authority of the Council. 
 
-The timing of Lord Goldsmith’s advice on the interpretation of 
-resolution 1441
+# The timing of Lord Goldsmith’s advice on the interpretation of resolution 1441
 441.  Following the adoption of resolution 1441, a decision was taken to delay the 
 receipt of formal advice from Lord Goldsmith.
 
@@ -3195,7 +3072,7 @@ although the possibility of a second resolution remained.
 
 457.  Lord Goldsmith provided formal written advice on 7 March.
 
-Lord Goldsmith’s advice of 7 March 2003
+# Lord Goldsmith’s advice of 7 March 2003
 458.  Lord Goldsmith’s formal advice of 7 March set out alternative interpretations of 
 the legal effect of resolution 1441. He concluded that the safer route would be to seek 
 a second resolution, and he set out the ways in which, in the absence of a second 
@@ -3251,7 +3128,7 @@ the No.10 meeting on 11 March, but it is not clear how and when it reached them.
 Mr Gordon Brown (Chancellor of the Exchequer) and Ms Short, and their senior officials, 
 did not see the advice.
 
-Lord Goldsmith’s arrival at a “better view”
+# Lord Goldsmith’s arrival at a “better view”
 467.  At the meeting on 11 March, Mr Blair stated that Lord Goldsmith’s “advice made 
 it clear that a reasonable case could be made” that resolution 1441 was “capable of 
 reviving” the authorisation of resolution 678, “although of course a second resolution 
@@ -3275,7 +3152,7 @@ the conditions for the operation of the revival argument were met in this case, 
 that there was a lawful basis for the use of force without a further resolution beyond 
 resolution 1441.
 
-The exchange of letters on 14 and 15 March 2003
+# The exchange of letters on 14 and 15 March 2003
 472.  Mr David Brummell (Legal Secretary to the Law Officers) wrote to Mr Matthew 
 Rycroft (Mr Blair’s Private Secretary for Foreign Affairs) on 14 March:
 
@@ -3317,7 +3194,7 @@ letter of 14 March, either in the Defence and Overseas Policy Committee or a
 reported its conclusions to Cabinet before its members were asked to endorse the 
 Government’s policy.
 
-Lord Goldsmith’s Written Answer of 17 March 2003
+# Lord Goldsmith’s Written Answer of 17 March 2003
 478.  In Parliament during the second week of March, and in the media, there were calls 
 on the Government to make a statement about its legal position.
 
@@ -3338,7 +3215,7 @@ Secretary of State providing that explanation, was unusual.
 482.  The normal practice was, and is, that the Minister responsible for the policy, in this 
 case Mr Blair or Mr Straw, would have made such a statement. 
 
-Cabinet, 17 March 2003
+# Cabinet, 17 March 2003
 483.  Cabinet was provided with the text of Lord Goldsmith’s Written Answer to Baroness 
 Ramsey of Cartvale setting out the legal basis for military action. 
 
@@ -3393,9 +3270,9 @@ opportunity offered by resolution 1441.
 495.  The advice should have been provided to Ministers and senior officials whose 
 responsibilities were directly engaged and should have been made available to Cabinet. 
 
-Weapons of mass destruction
+# Weapons of mass destruction
 
-Iraq WMD assessments, pre‑July 2002
+## Iraq WMD assessments, pre‑July 2002
 496.  The ingrained belief that Saddam Hussein’s regime retained chemical and 
 biological warfare capabilities, was determined to preserve and if possible enhance its 
 capabilities, including at some point in the future a nuclear capability, and was pursuing 
@@ -3533,7 +3410,7 @@ last resort against invading military forces or as a weapon of terror to threate
 populations in other countries) was likely to have created the impression that Iraq posed 
 a greater threat than the detailed JIC Assessments would have supported. 
 
-Iraq WMD assessments, July to September 2002
+## Iraq WMD assessments, July to September 2002
 519.  From late February 2002, the UK Government position was that Iraq was a threat 
 that had to be dealt with; that Iraq needed to disarm in accordance with the obligations 
 imposed by the UN; and that it was important to agree to the return of UN inspectors 
@@ -3693,7 +3570,7 @@ attributed to it were not taken seriously.
 the dossier and subsequent statements to Parliament also became the baseline against 
 which the Government’s good faith and credibility were judged.
 
-Iraq WMD assessments, October 2002 to March 2003
+## Iraq WMD assessments, October 2002 to March 2003
 552.  From October 2002 onwards, the JIC focused on two main themes:
 
 compliance with the specific obligations imposed by resolution 1441; and 
@@ -3775,7 +3652,9 @@ should certainly have prompted a review.
 
 76
 
-The Report of the Iraq InquiryThe search for WMD
+The Report of the Iraq Inquiry
+
+# The search for WMD
 571.  Section 4.4 considers the impact of the failure to find stockpiles of WMD in Iraq 
 in the months immediately after the invasion, and of the emerging conclusions of the 
 Iraq Survey Group (ISG), on: 
@@ -3865,9 +3744,9 @@ and growing threat.
 589.  The explanation for military action put forward by Mr Blair in October 2004 was 
 not the one given before the conflict. 
 
-Planning for a post‑Saddam Hussein Iraq
+# Planning for a post‑Saddam Hussein Iraq
 
-The failure to plan or prepare for known risks
+# The failure to plan or prepare for known risks
 590.  The information on Iraq available to the UK Government before the invasion 
 provided a clear indication of the potential scale of the post‑conflict task.
 
@@ -3981,7 +3860,8 @@ Interim Administration would be in the US interest’.
 
 80
 
-The Report of the Iraq InquiryThe planning process and decision‑making
+The Report of the Iraq Inquiry
+# The planning process and decision‑making
 602.  As a junior partner in the Coalition, the UK worked within a planning framework 
 established by the US. It had limited influence over a process dominated increasingly 
 by the US military.
@@ -4277,11 +4157,11 @@ be unable to respond to the unexpected in Iraq.
 637.  In the longer term, they reduced the likelihood of achieving the UK’s strategic 
 objectives in Iraq.
 
-The post‑conflict period
+# The post‑conflict period
 
-Occupation
+## Occupation
 
-LOOTING IN BASRA
+### LOOTING IN BASRA
 638.  As described in Section 8, UK forces entered Basra City on the night of 6/7 April 
 2003 and rapidly gained control, meeting less resistance than anticipated. Once 
 the city was under its control, the UK was responsible, as the Occupying Power, for 
@@ -4347,7 +4227,7 @@ rapid drawdown of UK forces by the autumn despite the identified risk that the c
 of the local population was built on potentially vulnerable foundations, which could be 
 undermined rapidly and with serious consequences. 
 
-LOOTING IN BAGHDAD 
+### LOOTING IN BAGHDAD 
 649.  In the absence of a functioning Iraqi police force and criminal justice system, 
 and without a clear Coalition Phase IV plan, looting and score‑settling became a 
 serious problem in Baghdad soon after the regime fell. The looting of ministry buildings 
@@ -4392,7 +4272,7 @@ The Report of the Iraq Inquiryadvised on 21 May against deploying 16 Air Assaul
 conclude that the tasks it was proposed that 16 Air Assault Brigade should undertake 
 were unnecessary, but rather that US troops would complete them.
 
-UK INFLUENCE ON POST‑INVASION STRATEGY: RESOLUTION 1483
+## UK INFLUENCE ON POST‑INVASION STRATEGY: RESOLUTION 1483
 655.  On 21 March 2003, the day after the start of the invasion, Mr Powell and Sir David 
 Manning, two of Mr Blair’s closest advisers, offered him advice on how to influence the 
 post‑invasion US agenda. Key among their concerns was the need for post‑conflict 
@@ -4435,7 +4315,8 @@ development at least equal to that of the UN.
 
 89
 
-Executive SummaryUK INFLUENCE ON THE COALITION PROVISIONAL AUTHORITY
+Executive Summary
+## UK INFLUENCE ON THE COALITION PROVISIONAL AUTHORITY
 662.  By the time resolution 1483 was adopted, the CPA was already operating in Iraq 
 under the leadership of Ambassador L Paul Bremer, reporting to Mr Donald Rumsfeld, 
 the US Defense Secretary. There was no reporting line from the CPA to the UK. 
@@ -4601,7 +4482,7 @@ decisions would have led to better outcomes. But it is clear that the UK’s abi
 influence decisions made by the CPA was not commensurate with its responsibilities 
 as joint Occupying Power. 
 
-A DECLINE IN SECURITY
+## A DECLINE IN SECURITY
 681.  From early June 2003, and throughout the summer, there were signs that security 
 in both Baghdad and the South was deteriorating. The MOD’s SPG warned that “more 
 organised opposition to the Coalition may be emerging”238 as discontent about the 
@@ -4731,7 +4612,7 @@ rationale for continued drawdown was based on adjusted criteria by which the suc
 of Security Sector Reform would be judged, meaning that such reform would be 
 implemented “only to applicable standards for Iraq”.244
 
-THE TURNING POINT
+## THE TURNING POINT
 699.  February 2004 was the worst month for Coalition casualties since the fall of 
 Saddam Hussein’s regime. More than 200 people, mainly Iraqi citizens, were killed in 
 suicide attacks. Attacks on the Iraqi Security Forces were increasing and concerns about 
@@ -4770,9 +4651,10 @@ as the key issue; and
 
 96
 
-The Report of the Iraq InquiryTransition
+The Report of the Iraq Inquiry
+# Transition
 
-UK INFLUENCE ON US STRATEGY POST‑CPA
+## UK INFLUENCE ON US STRATEGY POST‑CPA
 705.  In June 2004, the US and UK ceased to be Occupying Powers in Iraq and the 
 CPA was disbanded. Responsibility for day‑to‑day interaction on civil affairs with the 
 Iraqi Interim Government on civil affairs passed to the newly appointed British and 
@@ -4793,7 +4675,7 @@ outreach to the Sunni community (often referred to as “reconciliation”), pro
 support to Prime Minister Ayad Allawi and better use of local media to transmit a positive 
 message about the coalition’s intentions and actions. 
 
-PLANNING FOR WITHDRAWAL
+## PLANNING FOR WITHDRAWAL
 709.  By July 2004, the UK envisaged that, providing the necessary criteria were 
 met, there would be a gradual reduction in troop numbers during 2005 leading 
 to final withdrawal in 2006, to be followed by a period of “Strategic Overwatch”.
@@ -4876,7 +4758,7 @@ be possible significantly to undermine the insurgency”.
 “A significant Sunni insurgency will continue through 2005 and beyond, but the 
 opportunities for reducing it appear greater than we judged in early February.”251
 
-THE IMPACT OF AFGHANISTAN
+## THE IMPACT OF AFGHANISTAN
 720.  In June 2004, the UK had made a public commitment to deploy HQ ARRC to 
 Afghanistan in 2006, based on a recommendation from the Chiefs of Staff and Mr Hoon, 
 and with Mr Straw’s support. HQ ARRC was a NATO asset for which the UK was the 
@@ -4961,7 +4843,8 @@ is addressed in Sections 14 and 16.
 
 100
 
-The Report of the Iraq InquiryIRAQIISATION
+The Report of the Iraq Inquiry
+## IRAQIISATION
 733.  After becoming Defence Secretary in May 2005, Dr Reid had continued the policy 
 of reducing UK troop levels based on the transition of lead responsibility for security 
 to the Iraqi Security Forces (ISF). In one of his early acts as Defence Secretary, he 
@@ -5054,9 +4937,11 @@ an assessment of the effect of those tasks on the capability of the ISF.
 
 102
 
-The Report of the Iraq InquiryPreparation for withdrawal
+The Report of the Iraq Inquiry
 
-A MAJOR DIVERGENCE IN STRATEGY
+# Preparation for withdrawal
+
+## A MAJOR DIVERGENCE IN STRATEGY
 746.  US and UK strategies for Iraq had in effect been on different courses since the UK 
 decision to focus its attention on MND(SE) in 2003. As a result of that decision, the UK 
 had acquired distinctly different priorities from the US. It was only marginally involved in 
@@ -5103,7 +4988,9 @@ group in Basra which allowed the safe exit of UK troops from their main base in 
 
 103
 
-Executive SummaryA POSSIBLE CIVIL WAR
+Executive Summary
+
+## A POSSIBLE CIVIL WAR
 752.  By March 2006, senior members of the UK military were considering the possibility 
 of civil war in Iraq, prompted by rising levels of sectarian violence and concerns that the 
 Iraqi Government was “not ... perceived as even‑handed in security issues”.263 The risk 
@@ -5245,7 +5132,8 @@ MND(SE) were explicitly questioned in Maj Gen Shirreff’s end of tour report.
 
 106
 
-The Report of the Iraq InquiryFORCE LEVEL REVIEW
+The Report of the Iraq Inquiry
+## FORCE LEVEL REVIEW
 773.  The balance of forces between Iraq and Afghanistan was reviewed by DOP in 
 February 2007 on the basis that the UK could only sustain the enduring operational 
 deployment of eight battlegroups.
@@ -5316,7 +5204,7 @@ combat operations. The JIC and others also identified continued weaknesses in th
 ISF. Their “ability and willingness to maintain security in the South remains patchy and 
 dependent on MNF training, logistic and specialist air support”.277 
 
-THE BEGINNING OF THE END
+## THE BEGINNING OF THE END
 783.  On 27 February 2008, the JIC assessed security prospects in the South at the 
 request of the Permanent Joint Headquarters (PJHQ): security in Basra remained 
 a concern.
@@ -5346,7 +5234,7 @@ was premature in the light of both the level of uncertainty generated by the Cha
 the Knights and continued questions about the ability of the ISF to take the security 
 lead in Basra. 
 
-Did the UK achieve its objectives in Iraq?
+# Did the UK achieve its objectives in Iraq?
 788.  From mid‑2005 onwards, various senior individuals – officials, military officers and 
 Ministers – began to consider whether the UK was heading towards “strategic failure” 
 in Iraq. 
@@ -5431,9 +5319,11 @@ reappraisal. None took place.
 
 110
 
-The Report of the Iraq InquiryKey findings
+The Report of the Iraq Inquiry
 
-Development of UK strategy and options, 9/11 to early January 2002
+# Key findings
+
+## Development of UK strategy and options, 9/11 to early January 2002
 799.  The following key findings are from Section 3.1:
 
 •  After the attacks on the US on 9/11, Mr Blair declared that the UK would 
@@ -5467,7 +5357,7 @@ his decisions on how to proceed.
 
 •  That remained Mr Blair’s approach in the months that followed.
 
-Development of UK strategy and options, January to April 2002 – 
+## Development of UK strategy and options, January to April 2002 – 
 “axis of evil” to Crawford
 800.  The following key findings are from Section 3.2:
 
@@ -5502,7 +5392,7 @@ had to be confronted and brought back into compliance with the UN.
 invasion of Iraq was a profound change in UK thinking. Although no decisions had 
 been taken, that became the basis for contingency planning in the months ahead.
 
-Development of UK strategy and options, April to July 2002
+## Development of UK strategy and options, April to July 2002
 801.  The following key findings are from Section 3.3:
 
 •  By July 2002, the UK Government had concluded that President Bush 
@@ -5522,7 +5412,7 @@ set the UK on a path leading to diplomatic activity in the UN and the possibilit
 of participation in military action in a way that would make it very difficult for the 
 UK subsequently to withdraw its support for the US.
 
-Development of UK strategy and options, late July to 14 September 
+## Development of UK strategy and options, late July to 14 September 
 2002
 802.  The following key findings are from Section 3.4:
 
@@ -5551,7 +5441,7 @@ Council, in particular about the role of the Council in deciding whether militar
 action was justified. As a result, the negotiation of resolution 1441 was complex 
 and difficult. 
 
-Development of UK strategy and options, September to November 
+## Development of UK strategy and options, September to November 
 2002 – the negotiation of resolution 1441
 803.  The following key findings are from Section 3.5:
 
@@ -5572,7 +5462,7 @@ level of non‑compliance with resolution 1441 which would constitute a material
 breach; by whom that determination would be made; and whether there would 
 be a second resolution explicitly authorising the use of force.
 
-Development of UK strategy and options, November 2002 to 
+## Development of UK strategy and options, November 2002 to 
 January 2003
 804.  The following key findings are from Section 3.6:
 
@@ -5607,7 +5497,7 @@ of March or early April. That left little time for the inspections process to pr
 the evidence that would be needed to achieve international agreement on the 
 way ahead. 
 
-Development of UK strategy and options, 1 February to 7 March 2003
+## Development of UK strategy and options, 1 February to 7 March 2003
 805.  The following key findings are from Section 3.7:
 
 •  By the time the Security Council met on 7 March 2003 there were deep divisions 
@@ -5674,7 +5564,7 @@ for Iraqi co‑operation could be needed to secure support from Mexico and Chile
 
 Security Council for Parliamentary approval for UK military action.
 
-Iraq WMD assessments, pre‑July 2002
+## Iraq WMD assessments, pre‑July 2002
 806.  The following key findings are from Section 4.1:
 
 •  The ingrained belief that Saddam Hussein’s regime retained chemical and 
@@ -5713,7 +5603,7 @@ the sanctions regime.
 documents on ‘Iraq’s Weapons of Mass Destruction’, ‘Weapons Inspections’ 
 and ‘Abuse of Human Rights’ was postponed until the policy on Iraq was clearer.
 
-Iraq WMD assessments, July to September 2002
+## Iraq WMD assessments, July to September 2002
 807.  The following key findings are from Section 4.2:
 
 •  The urgency and certainty with which the Government stated that Iraq was 
@@ -5756,7 +5646,7 @@ The Report of the Iraq Inquiry•  There are lessons which should be implemente
 
 JIC Assessments to underpin policy decisions.
 
-Iraq WMD assessments, October 2002 to March 2003
+## Iraq WMD assessments, October 2002 to March 2003
 808.  The following key findings are from Section 4.3:
 
 •  The ingrained belief already described in this Section underpinned the UK 
@@ -5861,7 +5751,9 @@ on the ISG’s findings, but was not the explanation given before the conflict.
 
 118
 
-The Report of the Iraq InquiryAdvice on the legal basis for military action, November 2002 to 
+The Report of the Iraq Inquiry
+
+# Advice on the legal basis for military action, November 2002 to 
 March 2003
 810.  The following key findings are from Section 5:
 
@@ -5944,7 +5836,7 @@ a further resolution of the Security Council.
 responsibilities were directly engaged and should have been made available 
 to Cabinet. 
 
-Development of the military options for an invasion of Iraq
+## Development of the military options for an invasion of Iraq
 811.  The following key findings are from Section 6.1:
 
 •  The size and composition of a UK military contribution to the US‑led invasion of 
@@ -6010,7 +5902,7 @@ would be no agreement to the deployment of UK ground forces through Turkey.
 
 in southern Iraq. 
 
-Military planning for the invasion, January to March 2003
+## Military planning for the invasion, January to March 2003
 812.  The following key findings are from Section 6.2:
 
 •  The decisions taken between mid‑December 2002 and mid‑January 2003 to 
@@ -6030,7 +5922,7 @@ difficult to sustain the force if combat operations had been delayed until autum
 2003 or longer, and it constrained the capabilities which were available for a UK 
 military contribution to post‑conflict operations.
 
-Military equipment (pre‑conflict)
+## Military equipment (pre‑conflict)
 813.  The following key findings are from Section 6.3:
 
 •  The decisions taken between mid‑December 2002 and mid‑January 2003 
@@ -6050,7 +5942,7 @@ identified but not adequately addressed.
 •  Ministers were not fully aware of the risks inherent in the decisions and the MOD 
 and PJHQ were not fully aware of the situation on the ground during the conflict.
 
-Planning for a post‑Saddam Hussein Iraq
+# Planning for a post‑Saddam Hussein Iraq
 814.  The following key findings are from Section 6.4, and relate to evidence in 
 Sections 6.4 and 6.5:
 
@@ -6090,7 +5982,7 @@ consider or seek advice on whether the absence of a satisfactory plan called
 for reassessment of the terms of the UK’s engagement and did not make 
 agreement on such a plan a condition of UK participation in military action.
 
-The invasion
+# The invasion
 815.  The following key findings are from Section 8:
 
 and the fall of Baghdad.
@@ -6115,7 +6007,7 @@ Iraq, a position it then held for six years, without a formal Ministerial decisi
 without carrying out a robust analysis of the strategic implications for the UK or 
 the military’s capacity to support the UK’s potential obligations in the region.
 
-The post‑conflict period
+# The post‑conflict period
 816.  The following key findings are from Section 9.8, and relate to evidence in 
 Sections 9.1 to 9.7:
 
@@ -6158,7 +6050,7 @@ a desired end state without setting out how it would be reached.
 
 objectives defined in January 2003.
 
-Reconstruction
+# Reconstruction
 817.  The following key findings are from Section 10.4, and relate to evidence in 
 Sections 10.1 to 10.3:
 
@@ -6201,7 +6093,7 @@ government in Basra.
 •  Lessons learned through successive reviews of the UK approach to post‑conflict 
 reconstruction and stabilisation, in Iraq and elsewhere, were not applied in Iraq.
 
-De‑Ba’athification
+# De‑Ba’athification
 818.  The following key findings are from Section 11.2, and relate to evidence in 
 Section 11.1:
 
@@ -6220,7 +6112,7 @@ limited and informal.
 
 implementation of de‑Ba’athification policy to the Governing Council. 
 
-Security Sector Reform
+# Security Sector Reform
 819.  The following key findings are from Section 12.2, and relate to evidence in 
 Section 12.1:
 
@@ -6248,7 +6140,7 @@ that of the Iraqi Police Service. But the UK was still aware before it withdrew
 from Iraq that the Iraqi Army had not been sufficiently tested. The UK was not 
 confident that the Iraqi Army could maintain security without support.
 
-Resources
+# Resources
 820.  The following key findings are from Section 13.2, and relate to evidence in 
 Section 13.1:
 
@@ -6282,7 +6174,7 @@ civilian activities.
 and unpredictable. Some high‑priority civilian activities were funded late or 
 only in part. 
 
-Military equipment (post‑conflict)
+# Military equipment (post‑conflict)
 821.  The following key findings are from Section 14.2, and relate to evidence in 
 Section 14.1:
 
@@ -6319,7 +6211,7 @@ immediate issue related to medium weight PPV capability.
 availability of key capabilities for deployment to Iraq, particularly helicopters 
 and ISTAR.
 
-Civilian personnel
+# Civilian personnel
 822.  The following key findings are from Section 15.2, and relate to evidence in 
 Section 15.1:
 
@@ -6337,7 +6229,7 @@ the level of its ambition in Iraq.
 duty of care to UK‑based and locally engaged civilians in Iraq. A significant effort 
 was made to keep civilians safe in a dangerous environment.
 
-Service Personnel
+# Service Personnel
 823.  The following key findings are from Section 16.4, and relate to evidence in 
 Sections 16.1 to 16.3:
 
@@ -6394,7 +6286,7 @@ military investigations and inquests.
 mobilised individually (a category which included almost all Reservists) and their 
 families, than to formed units. 
 
-Civilian casualties
+# Civilian casualties
 824.  The following key findings are from Section 17:
 
 •  The Inquiry considers that a Government has a responsibility to make every 
@@ -6425,7 +6317,7 @@ driven by its concern to rebut accusations that Coalition Forces were responsibl
 for the deaths of large numbers of civilians, and to sustain domestic support for 
 operations in Iraq. 
 
-Lessons
+# Lessons
 825.  In a number of Sections of this Report, the Inquiry has set out explicit lessons. 
 They relate in particular to those elements of the UK’s engagement in Iraq which might 
 be replicated in future operations. 
@@ -6439,7 +6331,7 @@ and embedded in its conclusions. Lessons on collective Ministerial decision‑ma
 where the principles identified are enduring ones, are an exception. They, and other 
 lessons which have general application, are set out below. 
 
-The decision to go to war
+# The decision to go to war
 827.  In a democratic system, public support and understanding for a major military 
 operation are essential. It is therefore important to guard against overstating what 
 military action might achieve and against any tendency to play down the risks. A realistic 
@@ -6501,7 +6393,7 @@ made explicit.
 
 a means to an end.
 
-Weapons of mass destruction
+# Weapons of mass destruction
 835.  There will continue to be demands for factual evidence to explain the background 
 to controversial policy decisions including, where appropriate, the explicit and public use 
 of assessed intelligence.
@@ -6630,7 +6522,7 @@ ensuring that the JIC is free of all political pressure”.
 “We agree. The JIC plays a crucial role in providing the Government with objective 
 assessments on a range of issues of importance to national interests.”283
 
-The invasion of Iraq
+# The invasion of Iraq
 849.  The military plan for the invasion of Iraq depended for success on a rapid 
 advance on Baghdad, including convincing the Iraqi population of the Coalition’s 
 determination to remove the regime. 
@@ -6675,7 +6567,7 @@ wider strategic and resource implications and contingent liabilities.
 to have been formally involved in providing Ministers with coherent inter‑departmental 
 advice before decisions are taken; the proper function of the Cabinet Committee system. 
 
-The post‑conflict period
+# The post‑conflict period
 856.  The UK had not participated in an opposed invasion and full‑scale occupation of 
 a sovereign State (followed by shared responsibility for security and reconstruction over 
 a long period) since the end of the Second World War. The particular circumstances of 
@@ -6753,7 +6645,7 @@ and is therefore able to call on his or her influence in resolving problems or c
 A coherent inter‑departmental effort, supported by a structure able to hold departments 
 to account, is required to support such a Minister.
 
-Reconstruction
+# Reconstruction
 866.  The starting point for all discussions of reconstruction in circumstances 
 comparable to those in Iraq between 2003 and 2009 must be that this is an area where 
 progress will be extremely difficult.
@@ -6832,7 +6724,7 @@ inside and outside government as a centre of excellence in its field if the Unit
 credibility and influence in No.10, the National Security Council, the Treasury, the FCO, 
 DFID and the MOD, and with the military. 
 
-De‑Ba’athification
+# De‑Ba’athification
 880.  After the fall of a repressive regime, steps inevitably have to be taken to prevent 
 those closely identified with that regime from continuing to hold positions of influence 
 in public life. The development of plans which minimise undesired consequences, 
@@ -6855,7 +6747,8 @@ oversight that are as impartial and non‑partisan as possible.
 
 137
 
-Executive SummarySecurity Sector Reform
+Executive Summary
+# Security Sector Reform
 884.  An SSR strategy should define the functions of different elements of the relevant 
 security sector and the structures needed to perform those functions. Considering those 
 questions should drive a robust debate about how security requirements might change 
@@ -6880,7 +6773,7 @@ population, the indicators of that success should be obvious. It should rarely c
 on a one‑dimensional set of numbers but instead be a more qualitative and rounded 
 assessment.
 
-Resources
+# Resources
 888.  The direction in the Ministerial Code that the estimate of a cost of a proposal 
 should be included in the memorandum submitted to Cabinet or a Ministerial Committee 
 applies equally to military operations. When evaluating military options it is appropriate 
@@ -6932,7 +6825,7 @@ arguing about funding individual activities.
 the UK’s strategic and operational approach to reconstruction and stabilisation, including 
 to the arrangements for funding such operations. 
 
-Military equipment (post‑conflict)
+# Military equipment (post‑conflict)
 896.  In deciding to undertake concurrent operations in Iraq and Afghanistan, the UK 
 knowingly exceeded the Defence Planning Assumptions. All resources from that point 
 onwards were going to be stretched. Any decision which commits the UK to extended 
@@ -6969,7 +6862,7 @@ and that wider MOD risk management processes have also been revised. In any futu
 operation the level of force protection required to meet the assessed threat needs to be 
 addressed explicitly. 
 
-Civilian personnel
+# Civilian personnel
 901.  The Inquiry recognises that, since 2003, significant changes have been made to 
 the UK’s strategic and operational approach to reconstruction and stabilisation. Some 
 of those changes, including the establishment of a deployable UK civilian stand‑by 
@@ -7028,7 +6921,7 @@ in what roles, as a serious failure. Data management systems must provide accura
 information on the names, roles and locations of all staff for whom departments have 
 duty of care responsibilities. 
 
-Timeline of events
+# Timeline of events
 
 Before 2001
 2 August 1990 
