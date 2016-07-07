@@ -20,4 +20,4 @@ The Iraq Inquiry website can be found at [https://www.iraqinquiry.org.uk](https:
 
 ## License
 
-UK government and so public domain.
+Original material was [licensed under the terms of the Open Government Licence v3.0](http://nationalarchives.gov.uk/doc/open-government-licence/version/3/)
