@@ -7,7 +7,7 @@ edit: true
 ## The full version of this report is **coming soon**
 
 ### Executive Summary
-* [Text version](/uk-parliament-iraq-inquiry/text/)
+* [Text version](/uk-parliament-iraq-inquiry/text/executive-summary)
 * [Original PDF](http://www.iraqinquiry.org.uk/media/246416/the-report-of-the-iraq-inquiry_executive-summary.pdf)
 
 ## Summary

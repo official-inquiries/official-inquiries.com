@@ -14,28 +14,6 @@ Ordered by the House of Commons to be printed on 6 July 2016
 * TOC
 {:toc} 
 
-
-© Crown copyright 2016
-This publication is licensed under the terms of the Open Government Licence v3.0 except where 
-otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/
-version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or 
-email: psi@nationalarchives.gsi.gov.uk.
-Where we have identified any third party copyright information you will need to obtain permission from the 
-copyright holders concerned.
-This publication is available at www.gov.uk/government/publications 
-Any enquiries regarding this publication should be sent to us at 
-Iraq.Inquiry@Cabinet-Office.x.gsi.gov.uk
-Print ISBN 9781474133319 
-Web ISBN 9781474133326
-ID 23051602  46561  07/16
-Printed on paper containing 75% recycled fibre content minimum
-Printed in the UK by the Williams Lea Group on behalf of the Controller of Her Majesty’s Stationery Office
-
-EXECUTIVE SUMMARY
-
-Executive Summary
-
-
 # Introduction
 1.  In 2003, for the first time since the Second World War, the United Kingdom took part 
 in an opposed invasion and full‑scale occupation of a sovereign State – Iraq. Cabinet 
