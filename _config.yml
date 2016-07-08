@@ -32,8 +32,7 @@ supporters:
     footer_logo: worldbank-footer.png
     url: http://www.worldbank.org/
 
-
-#googleanalytics: UA-XXXXX-X
+google_analytics: UA-80458846-1
 
 markdown: kramdown
 
