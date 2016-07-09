@@ -2,6 +2,8 @@
 layout: page
 title: The Iraq Inquiry - Executive Summary
 edit: true
+redirect_from:
+ - /uk-parliament-iraq-inquiry/text/
 ---
 The Report of the Iraq Inquiry
 
