@@ -229,10 +229,10 @@ addition to the US and UK, 13 countries, including France and a number of Arab a
 Gulf States, took part in offensive operations. The campaign began with air strikes, 
 with the objective of:
 
-•  disrupting Iraq’s command, control and communications;
-•  destroying Iraq’s nuclear, biological and chemical warfare capability;
-•  severing supply routes to Kuwait; and
-•  attacking Iraqi forces in Kuwait.
+*  disrupting Iraq’s command, control and communications;
+*  destroying Iraq’s nuclear, biological and chemical warfare capability;
+*  severing supply routes to Kuwait; and
+*  attacking Iraqi forces in Kuwait.
 
 19.  From mid-February, Russia sought to broker a deal for the withdrawal of Iraq from 
 Kuwait, but Iraq’s conditions were unacceptable to the Security Council. In a final effort 
@@ -282,11 +282,11 @@ and Yemen abstained. Its preambular paragraphs:
 
 integrity and political independence of Kuwait and Iraq;
 
-•  recalled and affirmed the 13 previous Security Council resolutions;
-•  affirmed the commitment of all Member States to the sovereignty, territorial 
-•  recalled its objective of the establishment of a nuclear weapons-free zone in the 
-•  reiterated its objective of restoring international peace and security in the area; and
-•  set out the need to take the measures specified, acting under Chapter VII of the 
+*  recalled and affirmed the 13 previous Security Council resolutions;
+*  affirmed the commitment of all Member States to the sovereignty, territorial 
+*  recalled its objective of the establishment of a nuclear weapons-free zone in the 
+*  reiterated its objective of restoring international peace and security in the area; and
+*  set out the need to take the measures specified, acting under Chapter VII of the 
 
 region of the Middle East;
 
@@ -472,8 +472,8 @@ by avoiding full compliance, to retain and rebuild Iraq’s military capabilitie
 dimensions which developed in response to challenges posed by the Iraqi regime, 
 including:
 
-•  NFZs covering the North and South of Iraq, patrolled by US, UK and  
-•  economic sanctions;
+*  NFZs covering the North and South of Iraq, patrolled by US, UK and  
+*  economic sanctions;
 
 (until 1996) French aircraft;
 
@@ -487,10 +487,10 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
 sanctions;
 
-•  a ban on the sale of arms to Iraq;
-•  a naval force in the Gulf with powers to intercept ships suspected of breaching 
-•  military forces of the US, the UK and other allies stationed in neighbouring 
-•  efforts to enforce the provisions set out in resolution 687 for the destruction of 
+*  a ban on the sale of arms to Iraq;
+*  a naval force in the Gulf with powers to intercept ships suspected of breaching 
+*  military forces of the US, the UK and other allies stationed in neighbouring 
+*  efforts to enforce the provisions set out in resolution 687 for the destruction of 
 Iraq’s chemical, biological and nuclear weapons programmes, and of its longer-
 range missiles, under the supervision of UNSCOM inspectors.
 
@@ -846,9 +846,9 @@ affairs are set out in Section 2.
 87.  The JIC assessed Iraq’s nuclear capabilities in September 1990 and judged that, 
 without “significant external assistance”, it would take Iraq:
 
-•  “at least three years to establish a production facility for fissile material;
-•  one more year before sufficient weapons-grade material would be available for 
-•  a further year or more (ie 1995 at the earliest) before there would be enough 
+*  “at least three years to establish a production facility for fissile material;
+*  one more year before sufficient weapons-grade material would be available for 
+*  a further year or more (ie 1995 at the earliest) before there would be enough 
 
 the production of one nuclear device; and
 
@@ -867,7 +867,7 @@ be incorporated into a nuclear device.
 
 91.  The JIC noted that:
 
-•  “If and only if all of these conditions were met … it is conceivable that Iraq could 
+*  “If and only if all of these conditions were met … it is conceivable that Iraq could 
 
 have the capability to make an untested nuclear weapon … with a yield of 
 approximately 20 kilotonnes by the end of this year.”
@@ -881,7 +881,7 @@ pages 42-43.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  Saddam Hussein might have authorised a development project on those lines 
+*  Saddam Hussein might have authorised a development project on those lines 
 but its conclusion remained that “the technical difficulties would be so great as  
 to be virtually insurmountable in the short time available”.
 
@@ -897,10 +897,10 @@ not consider such supply likely.
 “considerable uncertainties about Iraq’s current ballistic missile capability and 
 deployments”, estimated that Iraq:
 
-•  had a stockpile of “about 700” ballistic missiles;
-•  could have “about 300 SCUD-B” short range (300km) missiles;
-•  “may have converted some 250 SCUD-B missiles to the longer range [650km] 
-•  could have “up to 150” (900km) Al Abbas missiles.25
+*  had a stockpile of “about 700” ballistic missiles;
+*  could have “about 300 SCUD-B” short range (300km) missiles;
+*  “may have converted some 250 SCUD-B missiles to the longer range [650km] 
+*  could have “up to 150” (900km) Al Abbas missiles.25
 
 Al Hussein variant”; and
 
@@ -987,34 +987,34 @@ page 49.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  destroyed or damaged most of Iraq’s chemical weapons infrastructure;34
-•  damaged but did not destroy Iraq’s biological weapons infrastructure;35
-•  successfully bombed most of the key facilities involved in the processing of 
+*  destroyed or damaged most of Iraq’s chemical weapons infrastructure;34
+*  damaged but did not destroy Iraq’s biological weapons infrastructure;35
+*  successfully bombed most of the key facilities involved in the processing of 
 nuclear material or weapons research which had been identified; and
-•  effectively targeted much of Iraq’s delivery systems infrastructure.36
+*  effectively targeted much of Iraq’s delivery systems infrastructure.36
 
 107.  In its report, ISG stated that:
 
-•  Iraq produced hundreds of tons of a range of chemical agents annually, 
+*  Iraq produced hundreds of tons of a range of chemical agents annually, 
 
 including mustard, sarin and tabun in the 1980s, and had committed significant 
 resources to a long-term programme.37
 
 the Kurdish population during the Iran-Iraq War.38
 
-•  More than 100,000 “chemical munitions” were used against Iranian forces and 
-•  Production of chemical agent ceased in 1988 but re-started in 1990.39
-•  A biological weapons programme had started in the 1970s.40
-•  Between 1979 and 1982 Iraq bought large quantities of uranium in several 
+*  More than 100,000 “chemical munitions” were used against Iranian forces and 
+*  Production of chemical agent ceased in 1988 but re-started in 1990.39
+*  A biological weapons programme had started in the 1970s.40
+*  Between 1979 and 1982 Iraq bought large quantities of uranium in several 
 
 forms from several countries and, in 1982, began formally to pursue uranium 
 enrichment.41
 
 complex at Al Athir.
 
-•  In 1988 work began on a nuclear weapon research, development and production 
-•  In April 1990 orders were given to weaponise agents.42
-•  By early 1991, Iraq had produced large quantities of agent, including anthrax, 
+*  In 1988 work began on a nuclear weapon research, development and production 
+*  In April 1990 orders were given to weaponise agents.42
+*  By early 1991, Iraq had produced large quantities of agent, including anthrax, 
 botulinum toxin, Clostridium perfringens, aflatoxin and small quantities of ricin 
 and it had successfully weaponised some of them into ballistic missiles, aerial 
 bombs, artillery shells and aircraft spray tanks.43
@@ -1058,26 +1058,26 @@ such weapons”.44
 
 110.  The preambular paragraphs of the resolution also:
 
-•  recalled that Iraq had “subscribed to the Final Declaration adopted by all States 
+*  recalled that Iraq had “subscribed to the Final Declaration adopted by all States 
 participating in the Conference of States Parties to the 1925 Geneva Protocol 
 and Other Interested States, held in Paris … January 1989, establishing the 
 objective of universal elimination of chemical and biological weapons”;
-•  recalled that Iraq had “signed the Convention on the Prohibition of the 
+*  recalled that Iraq had “signed the Convention on the Prohibition of the 
 
 Development, Production and Stockpiling of Bacteriological (Biological) and 
 Toxin Weapons and on Their Destruction, of 10 April 1972”;
 
 adhering” to the Convention;
 
-•  noted the “importance of Iraq ratifying this Convention”; and of “all States 
-•  was aware of Iraq’s use of “ballistic missiles in unprovoked attacks and therefore 
+*  noted the “importance of Iraq ratifying this Convention”; and of “all States 
+*  was aware of Iraq’s use of “ballistic missiles in unprovoked attacks and therefore 
 of the need to take specific measures in regard to such missiles located in Iraq”;
-•  said that the Security Council was: “Concerned by the reports in the hands 
+*  said that the Security Council was: “Concerned by the reports in the hands 
 of Member States that Iraq had attempted to acquire materials for a nuclear-
 weapons programme contrary to its obligations under the Treaty of Non-
 Proliferation of Nuclear Weapons of 1 July 1968”; and
 
-•  said that the Security Council was: “Conscious of the threat that all weapons of 
+*  said that the Security Council was: “Conscious of the threat that all weapons of 
 mass destruction pose to peace and security in the area and the need to work 
 towards the establishment in the Middle East of a zone free of such weapons.”
 
@@ -1099,19 +1099,19 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 113.  In OP8, the Security Council decided that Iraq should “unconditionally accept the 
 destruction, removal, or rendering harmless, under international supervision”, of all:
 
-•  chemical and biological weapons;
-•  stocks of agents;
-•  related subsystems and components;
-•  research, development, support and manufacturing facilities;
-•  ballistic missiles with a range greater than 150km; and
-•  related major parts, repair and production facilities.
+*  chemical and biological weapons;
+*  stocks of agents;
+*  related subsystems and components;
+*  research, development, support and manufacturing facilities;
+*  ballistic missiles with a range greater than 150km; and
+*  related major parts, repair and production facilities.
 
 114.  In OP9, the Security Council decided that Iraq should submit a declaration of 
 locations, amounts and types of all the items specified in OP8 and to agree to urgent 
 on-site inspection. OP9 also specified:
 
-•  the formation of a Special Commission to carry out on-site inspections of Iraq’s 
-•  a requirement on Iraq to yield possession to the Commission “for destruction, 
+*  the formation of a Special Commission to carry out on-site inspections of Iraq’s 
+*  a requirement on Iraq to yield possession to the Commission “for destruction, 
 
 biological, chemical and missile capabilities; and
 
@@ -1128,12 +1128,12 @@ on the Non-Proliferation of Nuclear Weapons.
 
 117.  In OP12, the Security Council decided that Iraq should:
 
-•  “unconditionally agree not to acquire or develop nuclear weapons or nuclear-
+*  “unconditionally agree not to acquire or develop nuclear weapons or nuclear-
 weapons-usable material or any subsystems or components or any research, 
 development, support or manufacturing facilities related to” nuclear weapons;
-•  submit a declaration of the locations, amounts and types of specified items to 
-•  yield up any such items to the IAEA; and
-•  accept inspection and future ongoing monitoring and verification.
+*  submit a declaration of the locations, amounts and types of specified items to 
+*  yield up any such items to the IAEA; and
+*  accept inspection and future ongoing monitoring and verification.
 
 the UN and the Director General of the IAEA;
 
@@ -1143,16 +1143,16 @@ the UN and the Director General of the IAEA;
 119.  OP13 requested the Director General of the IAEA, “through the Secretary-General, 
 with the assistance and co-operation of the Special Commission” to:
 
-•  carry out immediate on-site inspections;
+*  carry out immediate on-site inspections;
 
 45
 
-•  develop a plan for submission to the Council within 45 days “calling for the 
+*  develop a plan for submission to the Council within 45 days “calling for the 
 destruction, removal or rendering harmless as appropriate” of all items listed 
 in OP12;
 
-•  carry out that plan within 45 days of the Council’s approval; and
-•  develop a plan for future monitoring and verification for the approval of the 
+*  carry out that plan within 45 days of the Council’s approval; and
+*  develop a plan for future monitoring and verification for the approval of the 
 
 Security Council “within one hundred and twenty days”.
 
@@ -1167,15 +1167,16 @@ in international negotiations on the Chemical Weapons Convention and the Control
 Verification of the Biological Weapons Convention, was appointed Executive Chairman 
 of UNSCOM on 15 April 1991 and began work on 24 April.
 
-## Iraq’s response to resolution 687
+## Iraq`s response to resolution 687
+
 121.  Iraq’s initial declarations in response to resolution 687 were incomplete and it failed 
 to co-operate with inspections and concealed activities.
 
 122.  In resolution 687, the UN originally expected a three-step inspection process:
 
-•  full disclosure by Iraq;
-•  verification of those disclosures by the Commission; and
-•  destruction, removal or rendering harmless under international supervision,  
+*  full disclosure by Iraq;
+*  verification of those disclosures by the Commission; and
+*  destruction, removal or rendering harmless under international supervision,  
 
 of all proscribed weapons, materials and facilities.46
 
@@ -1208,11 +1209,11 @@ the Iran-Iraq War, and the range reflected the inherent uncertainties in the cal
 
 126.  The Butler Report stated that:
 
-•  the consequence of the methodology adopted was “to leave the intelligence 
+*  the consequence of the methodology adopted was “to leave the intelligence 
 community with an estimate for the size of the Iraqi chemical agent stockpile 
 which was over-cautious, and at its upper end worst case”; and
 
-•  the estimate was carried forward into subsequent Assessments but, after May 
+*  the estimate was carried forward into subsequent Assessments but, after May 
 
 1991, the Assessments did not make clear the basis of the estimate.
 
@@ -1254,7 +1255,8 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 47
 
-## The discovery of Iraq’s nuclear programme
+## The discovery of Iraq`s nuclear programme
+
 132.  Following IAEA inspections in May and June 1991, and a meeting in 
 Baghdad, Mr Ahmed Hussein, Iraq’s Minister for Foreign Affairs, wrote to the 
 UN Secretary-General on 7 July stating that Iraq had “decided that it would be 
@@ -1264,11 +1266,11 @@ appropriate to give an account” of its “peaceful nuclear programme”.54
 begun in 1956, after the US had announced that it was launching a peaceful nuclear 
 programme, and it had been implemented in three stages:
 
-•  Collaboration with some Western countries and then the Soviet Union with 
+*  Collaboration with some Western countries and then the Soviet Union with 
 the objective of building a “research reactor and laboratories for producing 
 radioactive isotopes for medical and industrial applications”.
 
-•  Accession to the Non-Proliferation Treaty and related system of safeguards 
+*  Accession to the Non-Proliferation Treaty and related system of safeguards 
 
 followed by “agreements with France, Italy and other countries” in relation to the 
 nuclear fuel cycle allowed Iraq to achieve:
@@ -1280,17 +1282,17 @@ nuclear fuel cycle allowed Iraq to achieve:
 
 equipment, which Israel had destroyed on 7 June 1981.
 
-•  As a result of the inability of international guarantees and bilateral agreements to 
+*  As a result of the inability of international guarantees and bilateral agreements to 
 protect facilities and personnel from aggression, it had been “necessary to adopt 
 new formulas … to acquire the relevant nuclear know-how … of the nuclear fuel 
 cycle, through self-reliance and the non-disclosure of information.”
 
 134.  Iraq admitted that in the third stage it had:
-•  extracted uranium from carbonate ores;
-•  purified and converted uranium-bearing compounds;
-•  enriched uranium isotopes using the electromagnetic method;
-•  enriched uranium isotopes using the centrifugal method; and
-•  enriched isotopes by chemical methods.
+*  extracted uranium from carbonate ores;
+*  purified and converted uranium-bearing compounds;
+*  enriched uranium isotopes using the electromagnetic method;
+*  enriched uranium isotopes using the centrifugal method; and
+*  enriched isotopes by chemical methods.
 
 135.  Iraq stated that the US had bombed its declared nuclear facilities and reactors 
 whilst they were in operation and that was “equivalent to a nuclear attack” which had 
@@ -1355,11 +1357,11 @@ the IAEA disputed Iraq’s view that it had not violated its obligations.56
 
 threshold for notification of 75 kilogrammes.
 
-•  Research activities had not reached the stage which required notification.
-•  The amount of enriched uranium produced was far less that the defined 
-•  It had experimented on only a “single centrifuge prototype, and not a successive 
-•  The three enrichment methods were in the early stages of development and did 
-•  Iraq was not required to report holdings of yellowcake and uranium dioxide 
+*  Research activities had not reached the stage which required notification.
+*  The amount of enriched uranium produced was far less that the defined 
+*  It had experimented on only a “single centrifuge prototype, and not a successive 
+*  The three enrichment methods were in the early stages of development and did 
+*  Iraq was not required to report holdings of yellowcake and uranium dioxide 
 
 not mean the existence of an installation.
 
@@ -1368,7 +1370,7 @@ chain”.
 which were being used for non-nuclear purposes, including reinforcing anti-tank 
 warheads.
 
-•  IAEA inspectors had had access to stores of such material alongside material 
+*  IAEA inspectors had had access to stores of such material alongside material 
 
 they were verifying and had pointed out that yellowcake was not subject to 
 inspection.
@@ -1420,18 +1422,18 @@ commitments” as a party to the NPT.
 
 150.  The demands in the resolution included that Iraq should:
 
-•  “provide full, final and complete disclosure … of all aspects” of its prohibited 
+*  “provide full, final and complete disclosure … of all aspects” of its prohibited 
 programmes and comply with its other obligations and co-operate with the 
 Special Commission and IAEA “without further delay”;
 
 and unrestricted access”;
 
-•  allow UNSCOM, the IAEA and their inspection teams “immediate, unconditional 
-•  “cease immediately any attempt to conceal, or any movement or destruction 
+*  allow UNSCOM, the IAEA and their inspection teams “immediate, unconditional 
+*  “cease immediately any attempt to conceal, or any movement or destruction 
 of any material or equipment” without notification to and prior consent from 
 UNSCOM; and
 
-•  “halt all nuclear activities of any kind”.
+*  “halt all nuclear activities of any kind”.
 
 151.  In his memoir, Dr Blix wrote that between May and September 1991, IAEA 
 inspections teams had produced “spectacular” results and the documents recovered 
@@ -1485,8 +1487,8 @@ early 1995 due to Iraqi’s obstructions”.65
 161.  In January 1992, the JIC significantly revised its assessment of Iraq’s remaining 
 ballistic missile holdings, stating:
 
-•  “Although we do not know the true figure, we assess that around 100 SCUD-B 
-•  There might be “as many as 250 complete Soviet build SCUD-B guidance 
+*  “Although we do not know the true figure, we assess that around 100 SCUD-B 
+*  There might be “as many as 250 complete Soviet build SCUD-B guidance 
 
 remain concealed.”
 
@@ -1538,18 +1540,18 @@ on those which were least modern”;
 
 to revive programmes when possible”;
 
-•  “provide only a portion of their extant weapons stocks, with an emphasis  
-•  “retain production capability and the ‘know-how’ documentation necessary  
-•  “conceal the full extent of chemical weapons programmes, including its 
-•  “conceal the number and type of BW and CW warheads for proscribed missiles”;
-•  “conceal indigenous long-range missile production, and retain production 
+*  “provide only a portion of their extant weapons stocks, with an emphasis  
+*  “retain production capability and the ‘know-how’ documentation necessary  
+*  “conceal the full extent of chemical weapons programmes, including its 
+*  “conceal the number and type of BW and CW warheads for proscribed missiles”;
+*  “conceal indigenous long-range missile production, and retain production 
 
 VX project, and retain production equipment and raw materials”;
 
 capabilities, specifically with respect to guidance systems and missile engines”; 
 and
 
-•  “conceal the very existence of its offensive biological weapons programmes and 
+*  “conceal the very existence of its offensive biological weapons programmes and 
 
 retain all production capabilities”.71
 
@@ -1733,7 +1735,8 @@ Mr Tony Lake, US National Security Advisor, to offer, on Mr Aziz’s behalf, “
 information about activity and planning inside terrorist networks” in exchange for an 
 accommodating attitude on the easing of sanctions against Iraq.86 Mr Lake declined.
 
-## The defection of Lieutenant General Hussein Kamil
+## The defection of Lieutenant General Hussein Kamil
+
 190.  On 8 August 1995, Saddam Hussein’s son-in-law, Lieutenant General Hussein 
 Kamil, the former Minister of Industry and Head of Iraq’s Military Industrialisation 
 Corporation defected to Jordan. He had been responsible for the development and 
@@ -1823,12 +1826,12 @@ in the light of the new information.92
 
 198.  In relation to Iraq’s nuclear programme, the JIC noted that Iraq:
 
-•  “… admits that it previously concealed the full extent of its nuclear programme.  
+*  “… admits that it previously concealed the full extent of its nuclear programme.  
 
 It has revealed that in August 1990 it began a crash programme, later 
 abandoned, to build a nuclear programme within a year”; and
 
-•  “… intended to use nuclear material held under IAEA safeguards in Iraq. The 
+*  “… intended to use nuclear material held under IAEA safeguards in Iraq. The 
 Iraqis claim the plan was abandoned because they concluded that the IAEA 
 would detect their activities. In fact, they had insufficient fissile material to make 
 a nuclear device. Hussein Kamil’s reported claim that, at the time of the Gulf 
@@ -2032,9 +2035,9 @@ These included:
 
 scale production techniques, weaponisation and delivery systems”;
 
-•  the “level of expertise achieved in research and development activities … large-
-•  the absence of disclosures on precursor production capabilities and dual-use 
-•  Iraq’s activities in relation to “V class” agents.
+*  the “level of expertise achieved in research and development activities … large-
+*  the absence of disclosures on precursor production capabilities and dual-use 
+*  Iraq’s activities in relation to “V class” agents.
 
 equipment within the civilian chemical industry; and
 
@@ -2048,11 +2051,11 @@ weaponisation of VX:
 
 weaponisation of the agent in three aerial bombs”.
 
-•  “Initially Iraq stated that only laboratory scale synthesis had been undertaken.”
-•  In March 1995, Iraq had admitted “production of 260 kilograms and 
-•  In November 1995, Iraq had declared that it had produced “3.3 tonnes”.
-•  In the February disclosure, the figure for production had “increased by a further 
-•  Iraq had not produced evidence to substantiate its statement that the 
+*  “Initially Iraq stated that only laboratory scale synthesis had been undertaken.”
+*  In March 1995, Iraq had admitted “production of 260 kilograms and 
+*  In November 1995, Iraq had declared that it had produced “3.3 tonnes”.
+*  In the February disclosure, the figure for production had “increased by a further 
+*  Iraq had not produced evidence to substantiate its statement that the 
 “precursors for the large-scale production of VX” had been destroyed.
 
 20 per cent”.
@@ -2070,10 +2073,10 @@ during discussions in January 1996, including:
 
 warfare munitions”.
 
-•  Al Hakam had been intended to be a “specialised filling facility for biological 
-•  R-400 bombs for biological warfare purposes were assembled there.
-•  Clarification of several issues including “those related to destruction of some 
-•  A “serious attempt” had been made to “resolve the fundamental issue of the 
+*  Al Hakam had been intended to be a “specialised filling facility for biological 
+*  R-400 bombs for biological warfare purposes were assembled there.
+*  Clarification of several issues including “those related to destruction of some 
+*  A “serious attempt” had been made to “resolve the fundamental issue of the 
 filling and … destruction of biological warfare warheads for missiles”; but it 
 had not been possible to do so because “Iraq’s statements did not conform to 
 documentation available” to UNSCOM.
@@ -2104,10 +2107,10 @@ reducing the weight of the bomb.
 
 232.  Iraq’s declaration stated that:
 
-•  The project had been abandoned and no order to produce radiological weapons 
-•  100 empty casings for a smaller calibre bomb had been produced.
-•  75 of the casings had been sent to the Al-Qa-Qa State Establishment, but their 
-•  25 of those casings which remained at al-Muthanna were unilaterally destroyed 
+*  The project had been abandoned and no order to produce radiological weapons 
+*  100 empty casings for a smaller calibre bomb had been produced.
+*  75 of the casings had been sent to the Al-Qa-Qa State Establishment, but their 
+*  25 of those casings which remained at al-Muthanna were unilaterally destroyed 
 
 fate was not addressed.
 
@@ -2189,7 +2192,8 @@ absence of underpinning reliable intelligence”, was:
 for production and destruction, unaccounted-for growth media and a total lack of 
 co-operation from the Iraqis.”109
 
-## Events leading to the withdrawal of UNSCOM
+## Events leading to the withdrawal of UNSCOM
+
 244.  Following a series of incidents in which the inspectors were denied access, 
 resolution 1060 (1996), adopted on 12 June 1996, deplored Iraq’s refusal to allow 
 UNSCOM access to sites designated for inspections and demanded “immediate, 
@@ -2239,11 +2243,11 @@ achieving the Council’s objectives would have been irreparably harmed.”
 means and techniques of verifying them.112 As a priority and to accelerate verification, 
 Iraq and UNSCOM agreed to concentrate on the fundamental areas of the:
 
-•  material balance of proscribed weapons and their major components;
-•  unilateral destruction of proscribed items;
-•  further provision of documentation; 
-•  identification of measures used to retain proscribed items; and
-•  immediate, unconditional and unrestricted access”.113
+*  material balance of proscribed weapons and their major components;
+*  unilateral destruction of proscribed items;
+*  further provision of documentation; 
+*  identification of measures used to retain proscribed items; and
+*  immediate, unconditional and unrestricted access”.113
 
 249.  Mr Ekéus told the Inquiry:
 
@@ -2291,8 +2295,8 @@ reinforcing the importance of Iraq’s co-operation with UNSCOM and that it shou
 be given immediate, unconditional and unrestricted access to facilities and individuals 
 to allow it fully to discharge its mandate and stating that:
 
-•  The Council remained “gravely concerned” by Iraq’s failure to comply fully with 
-•  Iraq’s repeated denial of access to sites and attempts made to impose 
+*  The Council remained “gravely concerned” by Iraq’s failure to comply fully with 
+*  Iraq’s repeated denial of access to sites and attempts made to impose 
 
 its obligations.
 
@@ -2427,7 +2431,8 @@ one piece of advice when he left office at the end of 1996:
 
 “Watch out for the question of Iraq … It will become very important.”
 
-## Dr Albright’s Georgetown speech
+## Dr Albright`s Georgetown speech
+
 269.  In a speech at Georgetown University on 26 March 1997, Dr Madeleine Albright, 
 the new US Secretary of State, reaffirmed that US policy in Iraq was “part of a broad 
 commitment to protect the security and territory of our friends and allies in the Gulf”.122
@@ -2460,11 +2465,11 @@ behaviour and intentions must change before our policies can change.”
 
 biological weapons;
 
-•  “yet to provide convincing evidence that it has destroyed all” its chemical and 
-•  “admitted loading many … [chemical and biological] agents into missile 
-•  retained “more than 7,500 nuclear scientists and technicians, as well as 
+*  “yet to provide convincing evidence that it has destroyed all” its chemical and 
+*  “admitted loading many … [chemical and biological] agents into missile 
+*  retained “more than 7,500 nuclear scientists and technicians, as well as 
 technical documents related to the production of nuclear weapons”; and
-•  “been caught trying to smuggle in missile guidance instruments”.
+*  “been caught trying to smuggle in missile guidance instruments”.
 
 warheads” before the Gulf Conflict;
 
@@ -2502,15 +2507,16 @@ This move by the US was from our perspective destructive.”123
 
 ## UNSCOM activity
 
-### UNSCOM report, April 1997
+### UNSCOM report, April 1997
+
 278.  The Security Council was told in April 1997 that there had been tangible results in 
 some areas of UNSCOM’s activities but the capabilities which could not be accounted 
 for could not be ignored.124
 
 279.  The report of UNSCOM’s activities since 11 October 1996 stated that work over the 
 last two years had “led to the unmasking” of:
-•  Iraq’s biological weapons programme;
-•  “highly sophisticated and advanced work on the extremely lethal chemical 
+*  Iraq’s biological weapons programme;
+*  “highly sophisticated and advanced work on the extremely lethal chemical 
 
 warfare nerve agent VX”; and
 
@@ -2523,7 +2529,7 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  the development and production of SCUD-type missile engines.
+*  the development and production of SCUD-type missile engines.
 
 280.  UNSCOM’s achievements demonstrated that:
 
@@ -2551,10 +2557,10 @@ hoped that this would help to overcome the lack of progress on technical issues.
 
 284.  The report stated that:
 
-•  The new process constituted “a fruitful approach” if Iraq was “fully co-operative 
+*  The new process constituted “a fruitful approach” if Iraq was “fully co-operative 
 and transparent in its response to the Commission’s initiatives and concerns”.
-•  “Tangible results” had “already been achieved” on missiles and chemical 
-•  Agreement for remnants of missiles unilaterally destroyed by Iraq to be removed 
+*  “Tangible results” had “already been achieved” on missiles and chemical 
+*  Agreement for remnants of missiles unilaterally destroyed by Iraq to be removed 
 
 weapons.
 
@@ -2563,9 +2569,9 @@ work would require “several weeks or months before it was completed”.
 
 been formally requested.
 
-•  More documentation on Iraq’s proscribed programmes should exist and had 
-•  Iraq had stated that there was no policy to withhold information and when 
-•  There were difficulties on biological weapons. Iraq had been asked to reconsider 
+*  More documentation on Iraq’s proscribed programmes should exist and had 
+*  Iraq had stated that there was no policy to withhold information and when 
+*  There were difficulties on biological weapons. Iraq had been asked to reconsider 
 
 documents were discovered they were given to UNSCOM.
 
@@ -2608,19 +2614,19 @@ acquire the proscribed weapons …”
 between its findings and Iraq’s declarations were set out in detail in an Appendix to the 
 report.125 Its key points included:
 
-•  Iraq had still not provided a credible account of quantities and types of “special 
+*  Iraq had still not provided a credible account of quantities and types of “special 
 warheads” which had been produced for proscribed missiles, and UNSCOM had 
 “evidence that Iraq has provided incorrect information”.
 
-•  Not all chemical bombs had been declared by Iraq.
-•  The “final disposition of the programme for the production of … VX” remained 
+*  Not all chemical bombs had been declared by Iraq.
+*  The “final disposition of the programme for the production of … VX” remained 
 
 “unresolved”. Iraq claimed that it had only carried out activities “on the 
 laboratory/pilot plant scale”, and that it had destroyed “hundreds of tons of VX 
 precursors in 1991”. UNSCOM had “evidence that Iraq obtained the technology” 
 and retained “equipment for the large-scale production of VX”.
 
-•  In December 1996, UNSCOM had presented its concerns that “In an attempt 
+*  In December 1996, UNSCOM had presented its concerns that “In an attempt 
 
 to mislead the Commission, Iraq had tried to falsify evidence” of missile 
 destruction.
@@ -2633,8 +2639,8 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  Four complete missile engines which had not been declared were found in 
-•  In March 1997, IAEA excavations at declared burial sites had unearthed an 
+*  Four complete missile engines which had not been declared were found in 
+*  In March 1997, IAEA excavations at declared burial sites had unearthed an 
 
 early 1997.
 
@@ -2717,15 +2723,15 @@ member of the US Army.
 
 UNSCOM had “no concrete evidence to substantiate them”.
 
-•  Allegations concerning concealment of proscribed items were “false”, and 
-•  Iraq had “pointed out … that limited operations of no practical value were carried 
-•  The “facts and information related to those operations” had been made available 
+*  Allegations concerning concealment of proscribed items were “false”, and 
+*  Iraq had “pointed out … that limited operations of no practical value were carried 
+*  The “facts and information related to those operations” had been made available 
 to UNSCOM, and it had interviewed the personnel involved and visited the sites 
 of concealment “over a period of several months”.
 
 out in 1991 by Hussein Kamil and a very small number of individuals”.
 
-•  Iraq suspected that the aim was “to keep matters in a state of flux, and justify the 
+*  Iraq suspected that the aim was “to keep matters in a state of flux, and justify the 
 
 endless continuation of the embargo”, which served “the well-known purposes 
 of a certain State”.
@@ -2741,19 +2747,20 @@ addressed to the President of the Security Council’ (S/1997/465).
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  The agreement that missiles should be analysed outside Iraq, in response to 
+*  The agreement that missiles should be analysed outside Iraq, in response to 
 Mr Ekéus’s “allegations” in 1996 “that Iraq might retain an operational missile 
 force”, had not provided any results.
 
-•  Iraq had allowed access to 40 of the 43 sites designated for inspection and 
+*  Iraq had allowed access to 40 of the 43 sites designated for inspection and 
 its actions “cannot be interpreted as a decision by the Government of Iraq to 
 prevent the Special Commission implementing its mandate”.
 
-•  Col Ritter’s aim in gaining access to designated sites was “to achieve other 
+*  Col Ritter’s aim in gaining access to designated sites was “to achieve other 
 
 purposes, unrelated to the Special Commission’s mandate”.
 
-### Resolution 1115 (1997)
+### Resolution 1115 (1997)
+
 303.  On 21 June, the Security Council unanimously adopted resolution 1115 (1997), 
 condemning Iraq’s actions and demanding its full co-operation. Although the resolution 
 was adopted unanimously, there were clear differences between the positions of the US 
@@ -2765,9 +2772,9 @@ designated by the Special Commission”, which constituted a “clear and flagra
 of the provisions of previous resolutions. The Council reiterated its the demands for 
 Iraq to:
 
-•  “co-operate fully”;
-•  allow “immediate, unconditional and unrestricted access” for the inspectors; and
-•  “give immediate, unconditional and unrestricted access” to officials whom the 
+*  “co-operate fully”;
+*  allow “immediate, unconditional and unrestricted access” for the inspectors; and
+*  “give immediate, unconditional and unrestricted access” to officials whom the 
 
 Special Commission wished to interview.
 
@@ -2915,18 +2922,18 @@ problems had been resolved through direct contacts between Mr Butler and Mr Aziz
 324.  In relation to ballistic missiles, the work programme “put special emphasis 
 on achieving a solid and verifiable material balance”. Mr Butler reported that:
 
-•  UNSCOM had been able to account for 817 of the 819 missiles imported by 
+*  UNSCOM had been able to account for 817 of the 819 missiles imported by 
 
 Iraq before 1988, including 83 of the 85 missiles which Iraq had claimed it had 
 unilaterally destroyed.
 
-•  Inspections in August and September 1997 had accounted for 14 mobile missile 
+*  Inspections in August and September 1997 had accounted for 14 mobile missile 
 
 launchers, but there were questions arising from Iraq’s different accounts of 
 what had happened to the launchers and its concealment of the fact that it had 
 initially retained four launchers, which were not destroyed until October 1991.
-•  UNSCOM had not yet been able to account for proscribed missile warheads 
-•  In September 1997, Iraq had offered a new account of its concealment and 
+*  UNSCOM had not yet been able to account for proscribed missile warheads 
+*  In September 1997, Iraq had offered a new account of its concealment and 
 
 or propellants or the destruction of guidance components.
 
@@ -2934,8 +2941,8 @@ destruction of components for indigenous production of missile engines and the
 means for their production, but had not provided any documentation to support 
 that declaration.
 
-•  UNSCOM questioned Iraq’s claims that it was not withholding any relevant 
-•  UNSCOM needed a full understanding of the considerations that had led to 
+*  UNSCOM questioned Iraq’s claims that it was not withholding any relevant 
+*  UNSCOM needed a full understanding of the considerations that had led to 
 
 documents.
 
@@ -2952,7 +2959,7 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  Iraq had increased its declarations on the number of special warheads for the 
+*  Iraq had increased its declarations on the number of special warheads for the 
 
 Al Hussein missile, filled with chemical or biological agents, several times. 
 UNSCOM had established that the minimum number produced was 75, and that 
@@ -2961,9 +2968,9 @@ probable existence of a number of additional special warheads”.
 
 those warheads.
 
-•  UNSCOM had been unable fully to confirm Iraq’s unilateral destruction of 45 of 
-•  Accounting for proscribed warheads would “greatly increase” UNSCOM’s ability 
-•  More work was required to account for Iraq’s indigenous production of 
+*  UNSCOM had been unable fully to confirm Iraq’s unilateral destruction of 45 of 
+*  Accounting for proscribed warheads would “greatly increase” UNSCOM’s ability 
+*  More work was required to account for Iraq’s indigenous production of 
 
 to report with confidence that Iraq did not possess a proscribed missile force.
 
@@ -2977,10 +2984,10 @@ and agents.
 from al-Muthanna until August 1997 and its plans required further clarification.
 
 327.  The “most important” outstanding issues were:
-•  “accounting for special missile warheads”;
-•  the “material balance of 155mm mustard shells”;
-•  the “extent of the VX programme”; and
-•  the rationale for the acquisition of various types of chemical weapons.
+*  “accounting for special missile warheads”;
+*  the “material balance of 155mm mustard shells”;
+*  the “extent of the VX programme”; and
+*  the rationale for the acquisition of various types of chemical weapons.
 
 328.  Iraq had declared in June 1996 that 550 artillery munitions filled with mustard agent 
 had been destroyed during the 1991 Gulf Conflict but had not yet provided evidence of 
@@ -2999,25 +3006,25 @@ before UNSCOM would be able to “report positively on disarmament”.
 331.  UNSCOM reported to the Security Council on 6 October that Iraq’s total production 
 and holdings of CW agents could not be verified:
 
-•  “Over a period of seven years Iraq had provided three formal FFCD (full and 
+*  “Over a period of seven years Iraq had provided three formal FFCD (full and 
 
 final complete declarations) and about 20 sets of clarifications …”
 
 81
 
-•  Iraq’s acquisition and expenditure of munitions before 1988 could not be 
+*  Iraq’s acquisition and expenditure of munitions before 1988 could not be 
 
 verified because of the absence of sufficient evidence from Iraq and its former 
 foreign suppliers of the procurement of precursor chemicals, production and 
 weaponisation of CW agents.
 
-•  In trying to determine a material balance of the munitions which had existed in 
+*  In trying to determine a material balance of the munitions which had existed in 
 1991, UNSCOM had been unable to account for some 16,000 unfilled munitions 
 and 550 munitions filled with mustard, primarily because of Iraq’s unilateral 
 destruction programme.
 
-•  There was also a “material balance” of around 4,000 tons of key precursor 
-•  Almost all of Iraq’s production equipment had been destroyed in the 1991 
+*  There was also a “material balance” of around 4,000 tons of key precursor 
+*  Almost all of Iraq’s production equipment had been destroyed in the 1991 
 
 chemicals.
 
@@ -3041,8 +3048,8 @@ and that the Commission would not further assist Iraq in the formulation of its 
 
 335.  The report also stated that:
 
-•  Much greater resources could be required in the future to monitor and verify 
-•  The monitoring system could not be comprehensive until the Security Council 
+*  Much greater resources could be required in the future to monitor and verify 
+*  The monitoring system could not be comprehensive until the Security Council 
 
 dual-capable facilities and the export and import of dual-capable items.
 
@@ -3050,13 +3057,13 @@ had been “able to conclude that Iraq’s prohibited programmes have been
 destroyed, removed or rendered harmless” and the “full extent” of Iraq’s 
 prohibited programmes was known.
 
-•  The Iraqi Government’s stated willingness to comply fully with the requirements 
+*  The Iraqi Government’s stated willingness to comply fully with the requirements 
 for monitoring had “not always been reflected, in practice, on the ground”. While 
 the number of incidents of concealment, deception and interference with the 
 inspections process were “relatively small”, they served to “reduce confidence in 
 Iraq’s commitment to the system”.
 
-•  There was still “considerable uncertainty” about Iraq’s retention of prohibited 
+*  There was still “considerable uncertainty” about Iraq’s retention of prohibited 
 
 material and concealment systems.
 
@@ -3064,31 +3071,31 @@ material and concealment systems.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  UNSCOM’s view was that, “were it to have full access to all relevant sites and 
+*  UNSCOM’s view was that, “were it to have full access to all relevant sites and 
 
 persons in Iraq”, it was “highly likely that proscribed items would be discovered”; 
 and that “Iraq’s actions to impede or block the Commission’s concealment 
 investigations” tended to “affirm this view”.
 
-•  Iraq had “increasingly failed to apply or behave in conformity with the modalities 
+*  Iraq had “increasingly failed to apply or behave in conformity with the modalities 
 [agreed on 22 June]” and, “in more recent times”, had “sought both to exclude 
 them altogether with respect to certain sites and to define new categories of often 
 very large sites from which the Commission inspectors would be forbidden”.
 
 336.  The report concluded that UNSCOM was “convinced” that:
 
-•  The Security Council should “insist that Iraq meet its obligation to disclose fully 
+*  The Security Council should “insist that Iraq meet its obligation to disclose fully 
 all of its prohibited weapons and associated programmes”. This was a “crucial 
 requirement” for which there was “no substitute”.
 
-•  It was “essential” for the Council to “reaffirm and demand Iraq’s complete 
+*  It was “essential” for the Council to “reaffirm and demand Iraq’s complete 
 co-operation” with UNSCOM’s exercise of “its rights to full access to sites 
 and persons”.
 
 337.  In a letter on 12 October, Mr Aziz set out Iraq’s concerns about UNSCOM activities 
 and the influence of the US and UK on UNSCOM’s approach, including:
 
-•  The US “in particular, together with Britain, were doing their utmost … to topple 
+*  The US “in particular, together with Britain, were doing their utmost … to topple 
 the national Government of Iraq and to eliminate its national leadership”. That 
 “seriously affected the composition” of UNSCOM, with the US “leading the 
 hostile work against Iraq”. An activity which was “supposed to be international 
@@ -3096,20 +3103,20 @@ and neutral” was “unbalanced”.
 
 using a plane from a neutral state.
 
-•  The US monopolised the intelligence means. Iraq wanted aerial surveillance 
-•  The justification for intrusive inspections was based on allegations of deliberate 
+*  The US monopolised the intelligence means. Iraq wanted aerial surveillance 
+*  The justification for intrusive inspections was based on allegations of deliberate 
 concealment and inaccurate information which were themselves inaccurate and 
 being deliberately used by UNSCOM to procrastinate and to prolong the inspections 
 process. For example, the delay in analysing missile fragments had been caused 
 by UNSCOM’s original insistence that the analysis should be conducted in the US.
-•  The reports submitted to the Council were “tendentious”, using a method that 
+*  The reports submitted to the Council were “tendentious”, using a method that 
 was “intended to confuse the past with what has been newly achieved, in a 
 manner that makes it difficult for the reader to differentiate between the positive 
 and negative aspects”; and that many of the reports were “inaccurate”. The 
 Security Council and international community “were being deliberately misled 
 with a view to fostering baseless suspicions about Iraq’s capabilities”.
 
-•  Iraq had not been asked in 1992 to preserve the remnants of the special 
+*  Iraq had not been asked in 1992 to preserve the remnants of the special 
 
 warheads it had destroyed, and the subject had been “considered as closed” in 
 UNSCOM’s report in June 1995. In the absence of any missiles or means for 
@@ -3118,30 +3125,31 @@ special warheads was deliberately aimed at delay.
 
 83
 
-•  UNSCOM should consider what had been achieved in relation to missiles 
+*  UNSCOM should consider what had been achieved in relation to missiles 
 
 and chemical weapons as sufficient to meet Iraq’s obligations in section C of 
 resolution 687.
 
-•  Iraq was “ready to start serious and extensive work to address the biological 
+*  Iraq was “ready to start serious and extensive work to address the biological 
 file in order to close it within a short time”. It had “completely destroyed” all the 
 biological agents in its possession and all “the sites, apparatuses and equipment 
 used in the production of biological agents”. All the 87 sites which UNSCOM 
 considered could be capable of dual use for the production of biological agent 
 were “under strict monitoring”.
 
-•  Iraq was “ready to continue to work with the Special Commission in a serious, 
+*  Iraq was “ready to continue to work with the Special Commission in a serious, 
 scientific, technical and objective manner” to close the files “so that the Council 
 may proceed to implement its obligations towards Iraq” under paragraph 22 of 
 resolution 687 (1991) (removal of the restrictions on trade in resolution 661).
 
-•  The people of Iraq could not “continue suffering this injustice”. Iraq had “fulfilled 
+*  The people of Iraq could not “continue suffering this injustice”. Iraq had “fulfilled 
 
 the obligations imposed on it” and the Security Council should do the same, 
 “starting at the earliest date”. If the “imbalance” continued, the “situation” would 
 become “absolutely unacceptable”.139
 
-### IAEA report, October 1997
+### IAEA report, October 1997
+
 338.  Dr Blix submitted his final consolidated report as Director General of the IAEA on 
 6 October, which concluded that the IAEA investigation of Iraq’s nuclear programme had 
 reached the point of diminishing returns. The extent to which the remaining uncertainty 
@@ -3195,20 +3203,20 @@ understatement of the programme’s scope and achievements”.
 activities illustrating that point. Since May 1997, the IAEA had “received clarification 
 of many matters”, although it had:
 
-•  “not provided a comprehensive statement of the membership, terms of reference 
+*  “not provided a comprehensive statement of the membership, terms of reference 
 and duration of authority of the Governmental Committee charged, inter alia, to 
 ‘reduce the effect of NPT violation to the minimum’”;
 
-•  “stated that it has no further information regarding external assistance to its 
-•  “declared itself unable to describe the motives behind the actions ascribed to 
+*  “stated that it has no further information regarding external assistance to its 
+*  “declared itself unable to describe the motives behind the actions ascribed to 
 
 clandestine nuclear programme”;
 
 the late Lt Gen Hussein Kamil which resulted in the concealment of the cache of 
 documentation, material and equipment ‘discovered’ at the Haider House farm”;
 
-•  “declined to include, in its FFCD a summary of the practical and theoretical 
-•  “yet to provide the promised written description of its post-war procurement 
+*  “declined to include, in its FFCD a summary of the practical and theoretical 
+*  “yet to provide the promised written description of its post-war procurement 
 
 achievements of Iraq’s clandestine nuclear programme”; and
 
@@ -3216,12 +3224,12 @@ system”.
 
 343.  Despite those issues, the IAEA report stated that:
 
-•  There were “no indications to suggest Iraq was successful in its attempts to 
+*  There were “no indications to suggest Iraq was successful in its attempts to 
 produce nuclear weapons”, although there was “no documentation or other 
 evidence” which showed “the actual status of the weapon design when the 
 programme was interrupted”.
 
-•  Iraq was “at, or close to, the threshold of success in such areas as the 
+*  Iraq was “at, or close to, the threshold of success in such areas as the 
 
 production of HEU [Highly Enriched Uranium] through the EMIS process, the 
 production and pilot … of … gas centrifuge machines, and the fabrication of the 
@@ -3233,18 +3241,18 @@ International Atomic Energy Agency under paragraph 16 of Security Council resolu
 
 85
 
-•  There were “no indications to suggest that Iraq had produced more than a few 
+*  There were “no indications to suggest that Iraq had produced more than a few 
 grams of weapons-usable nuclear material”, and all of that had been removed 
 from Iraq.
 
 nuclear material.
 
-•  There were “no indications” that Iraq had acquired other weapons-usable 
-•  All the “safeguarded research reactor fuel, including the HEU fuel that Iraq had 
+*  There were “no indications” that Iraq had acquired other weapons-usable 
+*  All the “safeguarded research reactor fuel, including the HEU fuel that Iraq had 
 planned to divert to its ‘crash programme’, was verified and fully accounted for 
 by the IAEA and removed from Iraq”.
 
-•  There were “no indications” that “any physical capability for the production of 
+*  There were “no indications” that “any physical capability for the production of 
 
 amounts of weapons-usable nuclear material of any practical significance”.
 
@@ -3302,8 +3310,8 @@ Members, abstained – China, Egypt, France, Kenya and Russia.
 
 compliance … with all its obligations under all previous resolutions”; and
 
-•  reaffirmed the Security Council’s “determination to ensure” Iraq’s “full 
-•  reiterated the Council’s “demand that Iraq allow immediate, unconditional and 
+*  reaffirmed the Security Council’s “determination to ensure” Iraq’s “full 
+*  reiterated the Council’s “demand that Iraq allow immediate, unconditional and 
 unrestricted access to the Special Commission to any site … and in particular 
 … fixed wing and helicopter flights throughout Iraq for all relevant purposes … 
 without interferences of any kind and upon such terms and conditions as may be 
@@ -3314,10 +3322,10 @@ included:
 
 obligations and demanding its full co-operation;
 
-•  condemning Iraq’s actions detailed in UNSCOM’s report of 6 October;
-•  deciding that Iraq’s refusal to co-operate constituted a “flagrant violation” of its 
-•  demanding that Iraq should “co-operate fully with the Special Commission in 
-•  expressing the “firm intention”, if UNSCOM reported Iraq was not in compliance 
+*  condemning Iraq’s actions detailed in UNSCOM’s report of 6 October;
+*  deciding that Iraq’s refusal to co-operate constituted a “flagrant violation” of its 
+*  demanding that Iraq should “co-operate fully with the Special Commission in 
+*  expressing the “firm intention”, if UNSCOM reported Iraq was not in compliance 
 
 accordance with the relevant resolutions”;
 
@@ -3328,7 +3336,7 @@ are responsible for or participate in instances of non-compliance … [with
 the exception of] persons carrying out bona fide diplomatic assignments or 
 missions”; and
 
-•  reaffirming its “full support for the authority of the Special Commission … to 
+*  reaffirming its “full support for the authority of the Special Commission … to 
 
 ensure the implementation of its mandate”.
 
@@ -3425,22 +3433,22 @@ reported by Mr Butler, and set out conclusions in seven areas that Egypt would h
 liked to see included in the resolution for the evaluation of the implementation of the 
 Council’s resolutions and the Council’s future actions. These were:
 
-•  The draft resolution should have taken into account the positive aspects 
-•  The Council “must be the only body responsible” for making decisions, “following 
+*  The draft resolution should have taken into account the positive aspects 
+*  The Council “must be the only body responsible” for making decisions, “following 
 
 reported by UNSCOM and the IAEA.
 
 consultations and discussions on the basis of reports submitted by the Special 
 Commission”.
 
-•  The IAEA and Special Commission were responsible for “purely technical 
+*  The IAEA and Special Commission were responsible for “purely technical 
 
 matters”. While it was “difficult” for them “to assert that nothing remains to be 
 destroyed” it was “important” for the Council to take the decision “defining the 
 ultimate goal of the activities of those two bodies in order that the Council’s 
 resolutions can be fully implemented in detail”.
 
-•  The Council should “take the time … objectively” to study the differences in 
+*  The Council should “take the time … objectively” to study the differences in 
 
 view between the Special Commission and Iraq about the interpretation of the 
 modalities for inspections. Further co-operation was needed from Iraq, but the 
@@ -3449,12 +3457,12 @@ discharge its responsibilities.
 
 89
 
-•  The reports contained sporadic instances of non-co-operation; but the question 
+*  The reports contained sporadic instances of non-co-operation; but the question 
 was whether that was “recurring, systematic non-co-operation” and if it indicated 
 “a real pattern of unwillingness to comply” or “isolated instances of differences”.
 
-•  Egypt was opposed in principle to additional sanctions.
-•  The Council should have mandated the UN Sanctions Committee to determine 
+*  Egypt was opposed in principle to additional sanctions.
+*  The Council should have mandated the UN Sanctions Committee to determine 
 clear criteria for the modalities for the implementation of the resolution so that 
 the Council could “avoid contributing to aggravating the tensions between Iraq 
 and the Special Commission, which could complicate the task of eliminating 
@@ -3559,12 +3567,12 @@ its responsibilities”:
 
 obligation to co-operate”;
 
-•  recalled the Security Council demands in resolution 1134 “that Iraq co-operate 
+*  recalled the Security Council demands in resolution 1134 “that Iraq co-operate 
 fully with the Special Commission in accordance with the relevant resolutions”;
-•  condemned “the decision … to try to dictate the terms of its compliance with its 
-•  demanded that “Iraq co-operate fully … without conditions or restrictions”;
-•  reminded Iraq “of its responsibility for the safety and security” of UNSCOM 
-•  warned “of the serious consequences of Iraq’s failure to comply immediately and 
+*  condemned “the decision … to try to dictate the terms of its compliance with its 
+*  demanded that “Iraq co-operate fully … without conditions or restrictions”;
+*  reminded Iraq “of its responsibility for the safety and security” of UNSCOM 
+*  warned “of the serious consequences of Iraq’s failure to comply immediately and 
 
 personnel; and
 
@@ -3703,15 +3711,15 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 396.  On 12 November, the Security Council unanimously adopted resolution 1137 
 (1997), which:
 
-•  recalled the Council’s previous resolutions;
-•  stated its “grave concern” about recent developments;
-•  condemned Iraq’s continued violation of its obligations, “including its 
+*  recalled the Council’s previous resolutions;
+*  stated its “grave concern” about recent developments;
+*  condemned Iraq’s continued violation of its obligations, “including its 
 
 unacceptable decision … to seek to impose conditions on co-operation” with 
 UNSCOM;
 
-•  demanded Iraq rescind its decision of 29 October; and
-•  decided to impose a travel ban on designated Iraqi officials, as foreshadowed in 
+*  demanded Iraq rescind its decision of 29 October; and
+*  decided to impose a travel ban on designated Iraqi officials, as foreshadowed in 
 
 resolution 1134.159
 
@@ -3895,7 +3903,8 @@ but would retain many US inspectors.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-## Inspectors return to Iraq
+## Inspectors return to Iraq
+
 421.  UNSCOM and IAEA inspectors returned to Iraq on 21 November 1997.164
 
 422.  At the request of the Security Council, the members of UNSCOM convened an 
@@ -3914,11 +3923,11 @@ for an early favourable report to the Security Council.”
 424.  In relation to ballistic missiles and chemical weapons, the report identified 
 priorities as:
 
-•  clarification of and accounting for Iraq’s indigenous production of proscribed 
+*  clarification of and accounting for Iraq’s indigenous production of proscribed 
 missiles, conventional and special missile warheads, and major missile parts;
-•  the extent of Iraq’s efforts to produce and weaponise VX;
-•  the material balance of chemical munitions which Iraq declared had been 
-•  the material balance of equipment procured by Iraq for production of chemical 
+*  the extent of Iraq’s efforts to produce and weaponise VX;
+*  the material balance of chemical munitions which Iraq declared had been 
+*  the material balance of equipment procured by Iraq for production of chemical 
 
 destroyed during the 1991 Gulf Conflict; and
 
@@ -3930,8 +3939,8 @@ October report.
 
 426.  The members of the Commission also:
 
-•  took note of Iraq’s systematic concealment activities which had a direct effect on 
-•  emphasised that access was fundamental to its ability to accomplish its tasks 
+*  took note of Iraq’s systematic concealment activities which had a direct effect on 
+*  emphasised that access was fundamental to its ability to accomplish its tasks 
 
 its ability to fulfil its mandate, but no details were provided;
 
@@ -3939,7 +3948,7 @@ and that greater clarity was needed in the reconciliation of Iraq’s legitimate
 concerns in respect of national security, sovereignty and dignity and the full 
 practical application of UNSCOM’s mandate;
 
-•  suggested that UNSCOM staff should continue to document all examples of Iraqi 
+*  suggested that UNSCOM staff should continue to document all examples of Iraqi 
 
 efforts to frustrate their work;
 
@@ -3950,7 +3959,7 @@ Commission established under paragraph 9 (b) (i) of Security Council resolution 
 
 99
 
-•  suggested that the Executive Chairman should assess the extent to which the 
+*  suggested that the Executive Chairman should assess the extent to which the 
 temporary cessation of UNSCOM operations had set back its ability to complete 
 its mandate;
 
@@ -3958,16 +3967,16 @@ inspections;
 
 could enhance UNSCOM effectiveness;
 
-•  recommended a review of additional equipment which could facilitate its 
-•  noted that additional aerial surveillance, including night surveillance if possible, 
-•  recommended a review of the modalities for air operations; and
-•  recommended Governments should be encouraged to make experts available.
+*  recommended a review of additional equipment which could facilitate its 
+*  noted that additional aerial surveillance, including night surveillance if possible, 
+*  recommended a review of the modalities for air operations; and
+*  recommended Governments should be encouraged to make experts available.
 427.  In response, and following consultations between members, the Security Council 
 authorised a Presidential Statement on 3 December, which:
 
-•  endorsed the Commission’s conclusions and recommendations;
-•  reiterated the demand that Iraq fulfil all its obligations and co-operate fully with 
-•  stressed that the “effectiveness and speed with which UNSCOM may 
+*  endorsed the Commission’s conclusions and recommendations;
+*  reiterated the demand that Iraq fulfil all its obligations and co-operate fully with 
+*  stressed that the “effectiveness and speed with which UNSCOM may 
 
 UNSCOM and the IAEA in implementing their mandates;
 
@@ -3976,17 +3985,17 @@ which the Government of Iraq co-operates in disclosing the full extent and
 disposition of its proscribed programmes and in granting UNSCOM unimpeded 
 access to all sites, document records and individuals”;
 
-•  acknowledged UNSCOM’s conclusion to respect the legitimate concerns of Iraq 
+*  acknowledged UNSCOM’s conclusion to respect the legitimate concerns of Iraq 
 in the application of its mandate;
-•  welcomed the progress made;
-•  encouraged intensified efforts, in line with the conclusions of the emergency 
-•  acknowledged that, as Iraq complied with its obligations and the Council agreed, 
+*  welcomed the progress made;
+*  encouraged intensified efforts, in line with the conclusions of the emergency 
+*  acknowledged that, as Iraq complied with its obligations and the Council agreed, 
 UNSCOM and the IAEA would make the transition from inspections to monitoring; 
 and
 
 session, to implement UNSCOM and IAEA mandates;
 
-•  urged Member States to respond positively to UNSCOM requests for additional 
+*  urged Member States to respond positively to UNSCOM requests for additional 
 
 personnel, equipment and information.166
 
@@ -4007,8 +4016,8 @@ of Security Council resolution 687 (1991) addressed to the President of the Coun
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  Normal – which could be visited without restriction.
-•  National Security – where the modalities for inspections of sensitive sites would 
+*  Normal – which could be visited without restriction.
+*  National Security – where the modalities for inspections of sensitive sites would 
 
 apply, “except for the most secret rooms … to which no access would be granted”. 
 Mr Aziz had agreed to an improvement of the arrangements, including that:
@@ -4022,16 +4031,16 @@ complexity of the site and agreed on a case-by-case basis.
 Iraqi minder could enter to ensure that movement was frozen and that 
 documents would not be burnt or destroyed.
 
-•  Presidential and sovereign – in relation to which Iraq’s “absolute” position was 
+*  Presidential and sovereign – in relation to which Iraq’s “absolute” position was 
 
 that inspections and overflights would not be allowed “under any circumstances”, 
 which Mr Butler doubted would be acceptable to the Security Council.
 
-•  Civilian sites/private residences – in which the Government had no authority 
+*  Civilian sites/private residences – in which the Government had no authority 
 and UNSCOM would need the owner’s permission for inspections. Mr Butler 
 expressed reservations about Iraq’s position.
 
-•  Foreign – where UNSCOM would have to deal directly with the owners.168
+*  Foreign – where UNSCOM would have to deal directly with the owners.168
 
 430.  Iraq asked again whether the U-2 surveillance flights could be replaced by Iraqi 
 assets or those of another nation.
@@ -4083,10 +4092,10 @@ violation of the relevant resolutions”.172
 
 dictate the terms of its compliance with its obligations to co-operate with UNSCOM;
 
-•  recalled its statement of 29 October 1997 condemning Iraq’s decision to try to 
-•  reiterated its demand in resolution 1137 for co-operation;
-•  expressed its full support for the Special Commission and its Executive 
-•  requested a “full briefing” from Mr Butler after his planned talks with Iraq so that 
+*  recalled its statement of 29 October 1997 condemning Iraq’s decision to try to 
+*  reiterated its demand in resolution 1137 for co-operation;
+*  expressed its full support for the Special Commission and its Executive 
+*  requested a “full briefing” from Mr Butler after his planned talks with Iraq so that 
 
 Chairman; and
 
@@ -4096,11 +4105,11 @@ it could “decide as necessary on the appropriate response”.
 available to the Security Council.173 The purpose of the visit had been to clarify five 
 points identified in paragraph 75 of the earlier report, specifically:
 
-•  “… information provided by Iraq in respect of its post-war procurement procedures 
+*  “… information provided by Iraq in respect of its post-war procurement procedures 
 
 will contribute to the ability of IAEA to identify actions that might indicate Iraq’s 
 clandestine procurement of proscribed or dual-use equipment and materials.”
-•  “The specification of the scope and content for the summary of the technical 
+*  “The specification of the scope and content for the summary of the technical 
 achievements of Iraq’s clandestine nuclear programme that IAEA handed to 
 
 170 UN Security Council, 22 December 1997, ‘Statement by the President of the Security Council’  
@@ -4121,19 +4130,19 @@ the Iraqi counterpart should facilitate the production by Iraq of a document tha
 will provide further assurance that the technically coherent picture of Iraq’s 
 clandestine nuclear programme is comprehensive.”
 
-•  It had not been possible to verify Iraq’s statement in relation to a specific 
+*  It had not been possible to verify Iraq’s statement in relation to a specific 
 
 instance of external assistance offered to its clandestine nuclear programme, or 
 its statements regarding the “government committee” or of the actions attributed 
 to Lt Gen Kamil.
 
-•  The IAEA had “no information that contradicts Iraq’s statement that it had 
+*  The IAEA had “no information that contradicts Iraq’s statement that it had 
 never identified nuclear weapon design options beyond those preliminary 
 concepts described in its report”, but ongoing monitoring would be based on 
 the assumption that Iraq retained “the technical capability to exploit, for nuclear 
 weapons purposes, any relevant material to which it might gain access”.
 
-•  The IAEA intended to implement an aerial radiation survey in Iraq, based on 
+*  The IAEA intended to implement an aerial radiation survey in Iraq, based on 
 
 Iraqi co-operation with the use of fixed-wing aircraft.
 
@@ -4349,17 +4358,17 @@ Saddam breaks the agreement.”
 
 ### Resolution 1154 (1998)
 464.  On 2 March, the Security Council unanimously adopted resolution 1154 (1998).193 It:
-•  endorsed the MOU of 23 February and looked forward to its full implementation;
-•  stressed the need for Iraq to comply with its obligations to provide access 
+*  endorsed the MOU of 23 February and looked forward to its full implementation;
+*  stressed the need for Iraq to comply with its obligations to provide access 
 to UNSCOM and the IAEA which was necessary for the implementation of 
 resolution 687;
 
 resolution 687 on the duration of prohibitions (sanctions);
 
-•  stated that “any violation would have severest consequences for Iraq”;
-•  reaffirmed its intention to act in accordance with the relevant provisions of 
-•  noted that Iraq’s failure to comply with the relevant obligations had delayed that 
-•  decided, “in accordance with its responsibility under the Charter, to remain 
+*  stated that “any violation would have severest consequences for Iraq”;
+*  reaffirmed its intention to act in accordance with the relevant provisions of 
+*  noted that Iraq’s failure to comply with the relevant obligations had delayed that 
+*  decided, “in accordance with its responsibility under the Charter, to remain 
 actively seized of the matter, in order to ensure the implementation of this 
 resolution, and to secure peace and security in the area”.
 
@@ -4431,12 +4440,12 @@ no one could “seriously imagine” the same result without that.
 
 473.  Sir John said that there were two important messages in the resolution:
 
-•  Iraq was obliged to provide access at all sites, “not just in the eight so-called 
+*  Iraq was obliged to provide access at all sites, “not just in the eight so-called 
 
 Presidential sites which have up to now been the pretext for so much delay and 
 obstruction”.
 
-•  The Iraqi regime had a choice. If it fulfilled its commitments, the way would 
+*  The Iraqi regime had a choice. If it fulfilled its commitments, the way would 
 “be open for the lifting of sanctions”; but if it failed to comply, that would “not 
 be tolerated”. The Council was “determined that any violation will result in the 
 severest consequences”.
@@ -4611,13 +4620,13 @@ imports of commodities and products originating in Iraq.197
 497.  Describing them as the “indispensible context” for the Council’s consideration 
 of Iraq’s compliance, Mr Butler set out:
 
-•  “Iraq’s claim that it has no more prohibited weapons ‘in the control of the 
+*  “Iraq’s claim that it has no more prohibited weapons ‘in the control of the 
 
 Government of Iraq, in the territory of Iraq’”; and that it had “made available 
 … all that is necessary to enable the Commission to verify that claim and that 
 nothing further, of substance, will be made available by Iraq.
 
-•  Iraq’s claim, which it had not been possible for the Commission to verify, did not 
+*  Iraq’s claim, which it had not been possible for the Commission to verify, did not 
 “satisfy the three step system the Council established in order to enable Iraq to 
 fulfil its obligations”. Those steps, which were “not separable” were:
 
@@ -4638,19 +4647,19 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
   * verification by the Commission; and
   * destruction, removal or rendering harmless under international supervision.
 
-•  Iraq’s “consistent refusal” to provide “the information and materials needed to 
+*  Iraq’s “consistent refusal” to provide “the information and materials needed to 
 verify its claim, clearly fails to satisfy the second step”; and that made the third 
 step “impossible”.
 
-•  This “difficult circumstance” had been made “even more complicated by Iraq’s 
+*  This “difficult circumstance” had been made “even more complicated by Iraq’s 
 claim that it has unilaterally destroyed those prohibited weapons which were not 
 destroyed under international supervision”; and the Commission’s inability to 
 verify “all” those claims.
 
 against Iraq” was the “main reason” why Iraq’s claim was not accepted.
 
-•  Mr Aziz’s view was that UNSCOM’s “lack of technical competence and bias 
-•  The Commission’s view was that Iraq’s “basic declarations of its holdings 
+*  Mr Aziz’s view was that UNSCOM’s “lack of technical competence and bias 
+*  The Commission’s view was that Iraq’s “basic declarations of its holdings 
 and capabilities in prohibited weapons areas” had “never been ‘full, final or 
 complete’”, and that Iraq’s failure to “fill in the gaps” in its declarations and “acts 
 of unilateral destruction” had “significantly obfuscated the situation”.
@@ -4658,9 +4667,9 @@ of unilateral destruction” had “significantly obfuscated the situation”.
 498.  Addressing the standard of verification needed for credible reports to the Council 
 under paragraph 22 of resolution 687, Mr Butler stated that:
 
-•  where prohibited weapons had existed, UNSCOM “must be able to verify 
+*  where prohibited weapons had existed, UNSCOM “must be able to verify 
 positively that they have been destroyed, removed or rendered harmless”; and
-•  where items and facilities for the potential production of such weapons existed, 
+*  where items and facilities for the potential production of such weapons existed, 
 
 UNSCOM “must be able to verify negatively that prohibited weapons are not 
 being created”.
@@ -4672,19 +4681,19 @@ Iraq’s failure to deliver the information and documents requested.
 
 500.  In three areas, new concerns had arisen:
 
-•  Following Iraq’s insistence that it was not necessary to account for all extant 
+*  Following Iraq’s insistence that it was not necessary to account for all extant 
 munitions on the grounds that any CW agent would have degraded to an inert 
 state, analysis of four 155mm artillery shells “filled with mustard of the highest 
 quality”, showed that they “could be stored for decades without any loss of 
 quality”.
 
-•  In March 1998, the Commission had discovered a document, dated 1994, which 
+*  In March 1998, the Commission had discovered a document, dated 1994, which 
 
 “indicated the existence, at a site monitored by … [a] missile monitoring team, 
 of a programme for the manufacture of nozzles for spray dryers to be delivered 
 to Al Hakam, Iraq’s principal biological weapons production facility”.
 
-•  Also in March 1998, the Commission discovered documents, dated 1993, 
+*  Also in March 1998, the Commission discovered documents, dated 1993, 
 that reflected a systematic attempt to deceive the Commission at that time, 
 contrary to Iraq’s claim that it had ended its concealment activities in 1991 and 
 
@@ -4716,13 +4725,13 @@ indications” of prohibited materials, equipment or activities.198
 504.  Dr ElBaradei reported that the IAEA had “no independently verifiable information” 
 to verify Iraqi claims that:
 
-•  Lt Gen Kamil had taken actions on the nuclear programme that were 
+*  Lt Gen Kamil had taken actions on the nuclear programme that were 
 
 “independent, unauthorized and without the knowledge of the Government of 
 Iraq”.
 
-•  It had not followed up any offer of foreign assistance to its nuclear programme 
-•  The “high governmental committee”, which had initially been described as 
+*  It had not followed up any offer of foreign assistance to its nuclear programme 
+*  The “high governmental committee”, which had initially been described as 
 
 other than the declared foreign assistance to its centrifuge programme.
 
@@ -4746,22 +4755,22 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 UNSCOM and IAEA reports, the President issued a statement on behalf of the Council 
 on 14 May which:
 
-•  welcomed the improved access for UNSCOM and the IAEA;
-•  expressed the hope that the Government of Iraq’s agreement to fulfil its 
+*  welcomed the improved access for UNSCOM and the IAEA;
+*  expressed the hope that the Government of Iraq’s agreement to fulfil its 
 
 obligations would “reflect a new Iraqi spirit with regard to providing accurate and 
 detailed information in all areas of concern”;
 
-•  expressed concern that the reports indicated that Iraq had “not provided full 
+*  expressed concern that the reports indicated that Iraq had “not provided full 
 disclosure in a number of critical areas, in spite of repeated requests from the 
 Special Commission”;
 
-•  noted that discharge of UNSCOM and the IAEA’s mandates required full 
+*  noted that discharge of UNSCOM and the IAEA’s mandates required full 
 
 co-operation from Iraq, “including fulfilment by Iraq of its obligations to provide 
 full, final and complete declarations of all aspects of its prohibited programmes”;
 
-•  noted that the IAEA’s investigations over several years had “yielded a 
+*  noted that the IAEA’s investigations over several years had “yielded a 
 
 technically coherent picture of Iraq’s clandestine nuclear programme, although 
 Iraq has not supplied full responses to all of the questions and concerns of 
@@ -4769,7 +4778,7 @@ the IAEA”, including enacting penal laws on prohibited activities and whether
 any Government document existed recording a government-level decision to 
 abandon the nuclear programme; and
 
-•  affirmed its intention “upon receipt of a report (in October) from the Director 
+*  affirmed its intention “upon receipt of a report (in October) from the Director 
 
 General of the IAEA stating that the necessary technical and substantive 
 clarifications have been made, including provision by Iraq of the necessary 
@@ -4803,9 +4812,9 @@ that, since the MOU of 23 February:
 
 had wished to inspect and also granted unrestricted access to equipment.
 
-•  Iraq had “granted unrestricted and unconditional access” to all sites UNSCOM 
-•  The issue of access to means of transportation and to officials UNSCOM wished 
-•  Mr Butler hoped that Iraq would provide the records UNSCOM had requested.202
+*  Iraq had “granted unrestricted and unconditional access” to all sites UNSCOM 
+*  The issue of access to means of transportation and to officials UNSCOM wished 
+*  Mr Butler hoped that Iraq would provide the records UNSCOM had requested.202
 
 to interview had “not arisen”.
 
@@ -4832,7 +4841,7 @@ programmes.
 
 513.  The tasks included:
 
-•  Completion of a “material balance” for:
+*  Completion of a “material balance” for:
 
   * missile warheads;
   * “special munitions”, including 155mm mustard shells and R-400 chemical/
@@ -4859,7 +4868,7 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
 and munitions for biological weapons.
 
-•  Provision of information and documents relating to:
+*  Provision of information and documents relating to:
 
   * production, filling and deployment of special missile warheads;
   * Iraq’s declarations on VX;
@@ -4887,18 +4896,18 @@ were unimportant.”
 
 517.  Mr Aziz also stated that Iraq:
 
-•  had not achieved the capability indigenously to produce engines and gyroscopes 
+*  had not achieved the capability indigenously to produce engines and gyroscopes 
 
 for proscribed missiles and, therefore, “accounting fully for such components 
 was unnecessary”;
 
-•  would not clarify the extent of its attempts to produce VX: the issue was “closed” 
+*  would not clarify the extent of its attempts to produce VX: the issue was “closed” 
 
 and Iraq was only ready to discuss the evidence available to UNSCOM of 
 incorrect declarations;
 
-•  had already presented all the evidence available on biological weapons and no 
-•  refused to provide access to one document previously seen by the UNSCOM on 
+*  had already presented all the evidence available on biological weapons and no 
+*  refused to provide access to one document previously seen by the UNSCOM on 
 
 additional information or documentation would be provided; and
 
@@ -4978,7 +4987,7 @@ of the largest possible number of experts.210
 527.  Mr Butler responded on 24 July that he had not yet seen the Chief Inspector’s 
 report of the meetings but:
 
-•  He had “a problem with the notion of ‘gaps’ between the two sides because 
+*  He had “a problem with the notion of ‘gaps’ between the two sides because 
 it, fundamentally, misrepresents both the nature of the relationship” between 
 UNSCOM and Iraq and the terms of reference for the meetings in Baghdad. 
 The relationship was that “Iraq should declare in full and truthfully all 
@@ -4987,18 +4996,18 @@ declarations”.
 
 “very far from the fact of the inadequacy of Iraq’s past declarations”.
 
-•  Describing UNSCOM’s inability to carry out its work as “a mere ‘gap’” departed 
-•  The proposal was similar to one Mr Aziz had made in June, when Mr Butler had 
+*  Describing UNSCOM’s inability to carry out its work as “a mere ‘gap’” departed 
+*  The proposal was similar to one Mr Aziz had made in June, when Mr Butler had 
 made clear that the issue was “establishing facts, not of negotiation between two 
 positions”.
 
-•  If the team’s report was “unsatisfactory”, they would “need to analyse why”. 
+*  If the team’s report was “unsatisfactory”, they would “need to analyse why”. 
 But it was “premature … to conclude that political level discussions … would 
 correct a problem which has been long-standing, repeatedly addressed and has 
 always rested on the failure of Iraq to provide concrete and verifiable technical 
 information”.
 
-•  UNSCOM’s “firm position” continued to be that resolution of the biological 
+*  UNSCOM’s “firm position” continued to be that resolution of the biological 
 
 weapons issues could “be accomplished with the provision of further documents 
 and other verifiable information” which Iraq possessed.211
@@ -5152,7 +5161,7 @@ the IAEA.220
 
 546.  The decision also:
 
-•  called on the Security Council to apply paragraph 22 of resolution 687 “as a first 
+*  called on the Security Council to apply paragraph 22 of resolution 687 “as a first 
 
 step on the road leading to the complete and total lifting of sanctions”;
 
@@ -5167,7 +5176,7 @@ Iraqi Regional Command of the Arab Ba’ath Socialist Party’ (S/1998/718).
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  requested the Security Council to re-establish the Special Commission, 
+*  requested the Security Council to re-establish the Special Commission, 
 
 including:
 
@@ -5186,17 +5195,17 @@ on the same basis; and
 
 Vienna “to insulate it from the direct influence” of the US;
 
-•  stated that “The Security Council and all its members, particularly the Permanent 
+*  stated that “The Security Council and all its members, particularly the Permanent 
 
 Members, should observe – legally, politically and in practice – the resolutions 
 of the Council which stipulate that the sovereignty of Iraq should be respected”. 
 They should also abide by the Charter of the UN and the 23 February MOU;
 
-•  stated that the Security Council should “call to account” members who violated 
+*  stated that the Security Council should “call to account” members who violated 
 those principles, including banning “flights over the northern and southern parts 
 of Iraq by certain Permanent Members of the Council”; and
 
-•  stated that, to express “its good intentions” and its desire that “its decisions 
+*  stated that, to express “its good intentions” and its desire that “its decisions 
 
 should be correctly interpreted and not tendentiously explained as non-
 compliance”, Iraq would permit monitoring activities to continue provided that the 
@@ -5221,25 +5230,25 @@ sanctions or by spying on Iraq and threatening its national security and soverei
 
 549.  Iraq also stated that:
 
-•  The Commission continued “to fabricate false pretexts and to perpetuate its work 
+*  The Commission continued “to fabricate false pretexts and to perpetuate its work 
 
 indefinitely”.
 
 123
 
-•  The US had “committed flagrant and gross violations of Iraq’s sovereignty and 
+*  The US had “committed flagrant and gross violations of Iraq’s sovereignty and 
 territorial integrity”, including “imposing an illegal air siege” and openly declaring 
 “criminal schemes against Iraq by allocating funds to finance illegal activities 
 aimed at intervening in Iraq’s internal affairs to commit acts of sabotage and 
 terrorism”.
 
-•  Since May 1998, Iraq had been calling on the Security Council, the Secretary-
+*  Since May 1998, Iraq had been calling on the Security Council, the Secretary-
 General and the international community to “adopt a fair and firm position”.
-•  Iraq’s “serious and sincere statements” had remained “unheeded” and the 
+*  Iraq’s “serious and sincere statements” had remained “unheeded” and the 
 Special Commission had “refused to endorse officially the substantive facts 
 about Iraq’s compliance”.
 
-•  The US had “rejected” the recent proposals to the Security Council to “move the 
+*  The US had “rejected” the recent proposals to the Security Council to “move the 
 
 nuclear item from the status of disarmament to that of monitoring”.
 
@@ -5267,12 +5276,12 @@ to the policy of the United States of America.”
 programme and his meeting with Mr Butler on 3 August. The points made by Mr Aziz 
 included:
 
-•  The Special Commission teams discussing missiles had raised “trivial” 
+*  The Special Commission teams discussing missiles had raised “trivial” 
 or “marginal” additional questions, rather than focusing on the fact of the 
 destruction of special warheads and Iraq’s lack of success in producing engines 
 and gyroscopes for ballistic missiles.
 
-•  Iraq had “proved that the material balance for R400 bombs was complete”.
+*  Iraq had “proved that the material balance for R400 bombs was complete”.
 
 221 UN Security Council, 14 August 1998, ‘Letter dated 5 August 1998 from the Deputy Prime Minister of 
 Iraq addressed to the President of the Security Council’ (S/1998/718).
@@ -5281,45 +5290,45 @@ Iraq addressed to the President of the Security Council’ (S/1998/718).
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  The missing 155mm shells were less than 5 percent of the total stock, and had 
+*  The missing 155mm shells were less than 5 percent of the total stock, and had 
 been destroyed in early 1991 when a truck was set on fire. The remnants were 
 still being investigated and they should not be regarded as a serious obstacle to 
 closing the chemical file.
 
-•  The Special Commission could have found traces of VX, but there were a 
+*  The Special Commission could have found traces of VX, but there were a 
 number of possible explanations which could be investigated. If Iraq had 
 weaponised VX, there would have been “no reason why it should not declare 
 this”; concealment would have been “a silly act”.
 
-•  The Special Commission had, since 1996, “been giving a distorted and falsified 
+*  The Special Commission had, since 1996, “been giving a distorted and falsified 
 picture of the biological programme” which “deliberately ignored the fundamental 
 facts” and “raised lies and fabrications using intelligence methods in co-
 ordination with American parties”.
 
-•  The biological weapons programme had been “newly established”, had not been 
+*  The biological weapons programme had been “newly established”, had not been 
 
 completed, and “remained without a specialised top management”. Iraq had 
 been unable to import any specialised equipment for the production of biological 
 agents. Iraq had “destroyed this programme completely in 1991”.
 
-•  Since 1995, monitoring teams had interviewed 256 personnel and carried out 
+*  Since 1995, monitoring teams had interviewed 256 personnel and carried out 
 1,048 inspections at 334 sites without finding any biological weapons or agents 
 and had not found “any proof on the existence of biological activities, current 
 or previous, in sites other than those declared by Iraq which were destroyed”. 
 95 sites were still under “strict and very intrusive monitoring”.
 
-•  Iraq had “accepted the sacrifice” involved in the destruction of the Al Hakam 
+*  Iraq had “accepted the sacrifice” involved in the destruction of the Al Hakam 
 plant, including facilities for civilian purposes, “after the Special Commission 
 promised … that … was the most important step for closing the biological file”.
-•  When Iraq had given examples of the verification procedures adopted by the 
+*  When Iraq had given examples of the verification procedures adopted by the 
 US individual in charge of the biological file to a delegation led by Mr Lakhdar 
 Brahimi on 5 November 1997, they had produced “surprise and sarcasm”.
 
-•  In the technical evaluation meetings in March and July, the Commission had 
+*  In the technical evaluation meetings in March and July, the Commission had 
 pursued questions which “bore no relation to the fundamental questions of 
 disarmament”.
 
-•  In response to the “vicious circle created by the Special Commission”, Mr Aziz 
+*  In response to the “vicious circle created by the Special Commission”, Mr Aziz 
 had proposed on 23 July that he and Mr Butler should supervise the file, but his 
 proposal had been rejected.
 
@@ -5328,8 +5337,8 @@ working methods of the Special Commission many times, and some measures had
 recently been taken, including the participation of experts from Permanent Members 
 other than the US and UK, but:
 
-•  The “real situation” had “not changed”, as the US and UK were “still leading all 
-•  It was “well known” that the US and UK had “tendentious political objectives 
+*  The “real situation” had “not changed”, as the US and UK were “still leading all 
+*  It was “well known” that the US and UK had “tendentious political objectives 
 
 its activities and define all the discussions of the Special Commission”.
 
@@ -5339,17 +5348,17 @@ against Iraq”.
 
 the main task entrusted to it … has been completed”.
 
-•  The Special Commission was “not prepared to tell the truth by announcing that 
-•  That was “an illegal” and “tendentious political position” which was “not based on 
-•  The US and UK had refused to acknowledge when there was a technical basis 
+*  The Special Commission was “not prepared to tell the truth by announcing that 
+*  That was “an illegal” and “tendentious political position” which was “not based on 
+*  The US and UK had refused to acknowledge when there was a technical basis 
 
 any scientific or technical foundation”.
 
 for closing a file and had “obstructed practically any step which the Security 
 Council attempted to take in the direction of achieving justice and equity”.
 
-•  That had happened in July in relation to the nuclear file.
-•  Iraq’s warnings on 1 May, 17 July and 30 July had not been heeded.
+*  That had happened in July in relation to the nuclear file.
+*  Iraq’s warnings on 1 May, 17 July and 30 July had not been heeded.
 
 555.  Mr Annan wrote that he had been contacted by Secretary Albright and Mr Samuel 
 (Sandy) Berger, the US National Security Advisor, who insisted that Iraq’s stance was 
@@ -5409,9 +5418,9 @@ notes on:
 
 stabilisers on warhead remnants;
 
-•  the discovery of VX degradation products and degradation products of VX 
-•  the material balance of special munitions; and
-•  “a change in the accounting of the weaponization of biological warfare agents”.
+*  the discovery of VX degradation products and degradation products of VX 
+*  the material balance of special munitions; and
+*  “a change in the accounting of the weaponization of biological warfare agents”.
 563.  On 3 September, Mr Butler briefed members of the Security Council on the current 
 position, including three instances when Iraq blocked UNSCOM’s monitoring.
 
@@ -5419,9 +5428,9 @@ position, including three instances when Iraq blocked UNSCOM’s monitoring.
 564.  On 9 September, the Security Council unanimously adopted resolution 1194 
 (1998), which:
 
-•  reiterated the points in the Presidential Statement of 18 August;
-•  reaffirmed its commitment to comprehensive implementation of its resolutions, in 
-•  stressed the unacceptability of any attempts by Iraq to deny access to any site 
+*  reiterated the points in the Presidential Statement of 18 August;
+*  reaffirmed its commitment to comprehensive implementation of its resolutions, in 
+*  stressed the unacceptability of any attempts by Iraq to deny access to any site 
 
 particular resolution 687;
 
@@ -5438,7 +5447,7 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 127
 
-•  welcomed the Secretary-General’s proposal for a comprehensive review 
+*  welcomed the Secretary-General’s proposal for a comprehensive review 
 
 and expressed “its readiness to consider, in a comprehensive review, Iraq’s 
 compliance with its obligations … once Iraq has rescinded its … decision and 
@@ -5446,15 +5455,15 @@ demonstrated that it is prepared to fulfil all its obligations”.227
 
 565.  Acting under Chapter VII of the Charter, the Council:
 
-•  condemned Iraq’s decision which was a “totally unacceptable contravention of 
-•  demanded that the decision should be rescinded and that Iraq should co-operate 
+*  condemned Iraq’s decision which was a “totally unacceptable contravention of 
+*  demanded that the decision should be rescinded and that Iraq should co-operate 
 
 its obligations”;
 
 fully with its obligations and resume a dialogue with UNSCOM and the IAEA; 
 and
 
-•  decided not to conduct the review of sanctions scheduled for October and not 
+*  decided not to conduct the review of sanctions scheduled for October and not 
 to conduct any further such reviews until Iraq had rescinded its decision and 
 UNSCOM and the IAEA reported to the Council that they were “able to exercise 
 the full range of activities provided for in their mandates, including inspections”.
@@ -5474,11 +5483,11 @@ and UNSCOM”, the “standoff continued for another month”.229
 developments over the preceding six months.230
 
 569.  Mr Butler reported that the outstanding issues in relation to missile warheads were:
-•  UNSCOM was “able to account for the destruction of between 43 and 45 of the 
+*  UNSCOM was “able to account for the destruction of between 43 and 45 of the 
 45 operational special warheads declared by Iraq as having been unilaterally 
 destroyed”. That was a “major accomplishment”.
 
-•  The VX issue needed to be resolved.
+*  The VX issue needed to be resolved.
 
 227 UN Security Council resolution 1194 (1998).
 228  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
@@ -5492,45 +5501,45 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  UNSCOM had “arrived at an assessment … that Iraq’s declarations on the 
+*  UNSCOM had “arrived at an assessment … that Iraq’s declarations on the 
 unilateral destruction of the special warheads did not match all the physical 
 evidence”. Iraq was asked to discuss the issue on 3 August.
 
-•  UNSCOM and Iraq had been “able to identify jointly steps to clarify some of the 
+*  UNSCOM and Iraq had been “able to identify jointly steps to clarify some of the 
 
 problems related to Iraq’s actions of 1991 to hide special warheads”, but the 
 effort was terminated by Iraq on 30 July when it refused to provide access to 
 relevant sites or to discuss the issue any further.
 
-•  There were outstanding issues relating to the remnants of “some 50 
+*  There were outstanding issues relating to the remnants of “some 50 
 
 conventional warheads … that have not been recovered”. Some 30 of those had 
 been indigenously produced.
 
 570.  In relation to missiles, the outstanding issues were:
 
-•  Iraq’s missile force was in possession of seven indigenously produced missiles 
+*  Iraq’s missile force was in possession of seven indigenously produced missiles 
 
 in 1991. Iraq maintained that they were training missiles which had been 
 unilaterally destroyed, but no remnants of the missiles or their engines had 
 been found.
 
-•  A team of international experts had assessed in July that, by the end of 
+*  A team of international experts had assessed in July that, by the end of 
 
 1990, Iraq had the capability to assemble a limited number of engines for its 
 indigenously produced proscribed missiles and Iraq should account for the 
 key components from that programme. A “rough material balance” had been 
 developed but additional verification work was recommended.
 
-•  Iraq had refused to address proscribed liquid missile propellants.
-•  Iraq continued its development of the Al Samoud missile system which had a 
+*  Iraq had refused to address proscribed liquid missile propellants.
+*  Iraq continued its development of the Al Samoud missile system which had a 
 declared range of less than 150km, but the issue of its reuse of Volga engines 
 from surface to air missiles was “unresolved”.
 
 571.  In relation to chemical weapons, outstanding issues were:
 
-•  Iraq had provided “only preliminary information” on its investigation of the 550 
-•  Accounting for about 500 of the 1,000 bombs unilaterally destroyed was “not 
+*  Iraq had provided “only preliminary information” on its investigation of the 550 
+*  Accounting for about 500 of the 1,000 bombs unilaterally destroyed was “not 
 
 missing 155mm shells filled with mustard.
 
@@ -5541,12 +5550,12 @@ an issue.
 
 its consumption of special munitions in the 1980s.
 
-•  There were “serious discrepancies” between Iraq’s declarations and the report of 
-•  UNSCOM’s view was that Iraq was “certainly able to produce VX, and probably 
+*  There were “serious discrepancies” between Iraq’s declarations and the report of 
+*  UNSCOM’s view was that Iraq was “certainly able to produce VX, and probably 
 produced it in quantity”. There was “significant doubt” about Iraq’s claim that it 
 had not weaponised VX.
 
-•  Iraq had provided clarification of the production equipment removed from al-
+*  Iraq had provided clarification of the production equipment removed from al-
 
 Muthanna in July 1998 but field verification had been “blocked” since 5 August.
 
@@ -5554,7 +5563,7 @@ Muthanna in July 1998 but field verification had been “blocked” since 5 Augu
 
 572.  In relation to biological weapons:
 
-•  UNSCOM had been unable to verify the production and destruction warheads 
+*  UNSCOM had been unable to verify the production and destruction warheads 
 
 for the Al Hussein missile. Iraq had declared that five warheads had been 
 filled with anthrax and 16 with botulinum toxin. A week after the July meeting 
@@ -5564,23 +5573,23 @@ explanation contradicted all accounts of the unilateral destruction of special
 warheads” provided over “the previous three years by Iraqi personnel directly 
 involved in warhead filling and destruction activities”.
 
-•  No evidence existed about the number of R-400 bombs filled with biological 
+*  No evidence existed about the number of R-400 bombs filled with biological 
 agent, and Iraq had provided “no consistent explanation” for the allocation of 
 biological agents to weapons.
 
-•  Iraq had pursued the development of drop tanks for dissemination of biological 
+*  Iraq had pursued the development of drop tanks for dissemination of biological 
 
 agent “with the utmost vigour”, but the team of international experts had 
 assessed that Iraq’s account of the project could not be verified.
 
-•  Iraq had modified commercial chemical insecticide equipment to develop 
+*  Iraq had modified commercial chemical insecticide equipment to develop 
 
 aerosol generators to disseminate biological agents. A document submitted by 
 Iraq reported successful testing of such devices in August 1998. Iraq had not 
 accounted for the “final disposition” of the devices produced.
 
-•  The level of production of biological agents remained unverifiable, and it was not 
-•  The material balance of biological growth media acquired and consumed was 
+*  The level of production of biological agents remained unverifiable, and it was not 
+*  The material balance of biological growth media acquired and consumed was 
 
 possible to determine if agents had been dried to enhance storage stability.
 
@@ -5592,9 +5601,9 @@ scale”. UNSCOM’s understanding of Iraq’s programmes had been achieved “l
 through forensic methods”. The verification of Iraq’s declarations had been made “far 
 more difficult than should have been the case” as a result of Iraq’s:
 
-•  “policy and practice of concealment”;
-•  “unilateral destruction” of weapons and related materials; and
-•  “repeated denial of the existence of relevant documents on proscribed activities, 
+*  “policy and practice of concealment”;
+*  “unilateral destruction” of weapons and related materials; and
+*  “repeated denial of the existence of relevant documents on proscribed activities, 
 
 with the exception of those Iraq unilaterally chooses to provide”.
 
@@ -5612,22 +5621,22 @@ The Report of the Iraq Inquiry576.  Mr Butler concluded that:
 
 1.1  |  UK Iraq strategy 1990 to 2000
 
-•  Disarmament of Iraq’s proscribed missile and chemical weapons was “possibly 
+*  Disarmament of Iraq’s proscribed missile and chemical weapons was “possibly 
 
 near its end”, but a “satisfactory resolution” of the questions on VX would be 
 necessary.
 
-•  This was not the case for biological weapons where Iraq’s declarations were 
+*  This was not the case for biological weapons where Iraq’s declarations were 
 “neither credible nor verifiable” and it had “failed to take” the opportunity to 
 disclose its activities.
 
-•  Development of monitoring was “vital to the future”, but Iraq was permitting 
+*  Development of monitoring was “vital to the future”, but Iraq was permitting 
 
 activity “only at a less than satisfactory level”. Monitoring would be particularly 
 important if UNSCOM was unable to provide 100 per cent verification of items 
 unilaterally destroyed by Iraq.
 
-•  Full disclosure of materials and information was the “crucial ingredient for both 
+*  Full disclosure of materials and information was the “crucial ingredient for both 
 an end to the disarmament process and future monitoring”. Iraq’s demands that 
 UNSCOM should prove that Iraq continued to possess prohibited weapons and 
 associated capabilities would, if accepted, “reverse the onus of disclosure clearly 
@@ -5817,13 +5826,13 @@ Iraq’s decision to cease co-operation with UNSCOM, on 5 November.240
 
 590.  The resolution:
 
-•  noted “with alarm” Iraq’s decision to cease co-operation”;
-•  stated that the Council was determined to ensure Iraq’s “full compliance … 
+*  noted “with alarm” Iraq’s decision to cease co-operation”;
+*  stated that the Council was determined to ensure Iraq’s “full compliance … 
 
 without conditions or restrictions with its obligations under resolution 687 (1991) 
 … and other relevant resolutions”; and
 
-•  reaffirmed the Council’s “readiness to consider” Iraq’s compliance in a 
+*  reaffirmed the Council’s “readiness to consider” Iraq’s compliance in a 
 
 “comprehensive review” once Iraq had “rescinded” its decisions of 5 August 
 and 31 October and “demonstrated that it is prepared to fulfil all its obligations, 
@@ -5833,11 +5842,11 @@ including” the MOU of 23 February.241
 
 violation” of resolution 687 and other relevant resolutions;
 
-•  condemned Iraq’s decision to cease co-operation with UNSCOM “as a flagrant 
-•  demanded that Iraq rescind its decisions of 5 August and 31 October;
-•  reaffirmed its full support for UNSCOM and the IAEA and their efforts to 
-•  expressed full support for the efforts of the Secretary-General to seek full 
-•  reaffirmed its intention to act in accordance with the relevant provisions of 
+*  condemned Iraq’s decision to cease co-operation with UNSCOM “as a flagrant 
+*  demanded that Iraq rescind its decisions of 5 August and 31 October;
+*  reaffirmed its full support for UNSCOM and the IAEA and their efforts to 
+*  expressed full support for the efforts of the Secretary-General to seek full 
+*  reaffirmed its intention to act in accordance with the relevant provisions of 
 
 implementation of the 23 February MOU;
 
@@ -5847,7 +5856,7 @@ resolution 687 “on the duration of the prohibitions” in that resolution and 
 that by failing to comply with its obligations, Iraq had “delayed the moment when 
 the Council can do so”; and
 
-•  decided “in accordance with its primary responsibility under the Charter for the 
+*  decided “in accordance with its primary responsibility under the Charter for the 
 maintenance of international peace and security, to remain actively seized of 
 the matter”.
 
@@ -6074,9 +6083,9 @@ comprehensive review should be conducted.
 617.  In a press statement on 15 November, the President of the Security Council noted 
 Mr Aziz and the Iraqi Permanent Representative had informed the Council that:
 
-•  “Iraq has decided, clearly and unconditionally, to co-operate fully with the 
+*  “Iraq has decided, clearly and unconditionally, to co-operate fully with the 
 Special Commission and the International Atomic Energy Agency (IAEA)”.
-•  The decision constituted “a rescinding of the decisions of 5 August and 
+*  The decision constituted “a rescinding of the decisions of 5 August and 
 
 31 October, and that Iraq’s co-operation with the Special Commission and 
 the IAEA will allow the return of inspectors to resume all their activities on an 
@@ -6241,10 +6250,10 @@ since its return on 17 November, UNSCOM had focused on four main areas:
 
 personnel;
 
-•  requests for information through access to documents and interviews of Iraqi 
-•  monitoring inspections;
-•  inspection of capable sites; and
-•  disarmament inspections relating to proscribed weapons and activities.259
+*  requests for information through access to documents and interviews of Iraqi 
+*  monitoring inspections;
+*  inspection of capable sites; and
+*  disarmament inspections relating to proscribed weapons and activities.259
 
 639.  Mr Butler reported that UNSCOM had asked for 12 sets of documents related to 
 chemical weapons and missiles and access to the archives of Iraq’s Ministry of Defence 
@@ -6254,7 +6263,7 @@ information sought.
 
 640.  Other points included:
 
-•  UNSCOM had repeated its request for the return of the document seized at the 
+*  UNSCOM had repeated its request for the return of the document seized at the 
 
 Iraqi Air Force headquarters in July 1998, which detailed Iraq’s consumption 
 of special warheads in the 1980s. Iraq had refused, stating that it was “ready 
@@ -6275,18 +6284,18 @@ of Security Council resolution 687 (1991) addressed to the Secretary-General’ 
 
 fragments.
 
-•  Iraq had provided a report on its analysis of samples from special warhead 
-•  Iraq had claimed that VX contamination of missile fragments from special 
+*  Iraq had provided a report on its analysis of samples from special warhead 
+*  Iraq had claimed that VX contamination of missile fragments from special 
 warheads, found by a US laboratory, was the result of a deliberate act of 
 tampering with the samples.
 
-•  Iraq had refused to allow missile engine components to be removed for analysis.
-•  Iraq did not provide specific documents requested by a biological inspections 
+*  Iraq had refused to allow missile engine components to be removed for analysis.
+*  Iraq did not provide specific documents requested by a biological inspections 
 
 team and had not responded to a request for new, substantial information on its 
 biological weapons programmes.
 
-•  There had been some difficulties in interviews with students in a university 
+*  There had been some difficulties in interviews with students in a university 
 
 where declarable research on biological weapons had taken place.
 
@@ -6294,10 +6303,10 @@ where declarable research on biological weapons had taken place.
 
 Iraq during tests on indigenously produced missiles and rocket engines.
 
-•  Iraq was reconsidering its refusal since 5 August to provide data collected by 
-•  Iraq had placed unacceptable conditions on photographs during a chemical 
-•  Undeclared dual-capable items and materials subject to chemical and biological 
-•  A team had been refused access on 11 December in line with Iraq’s policy of 
+*  Iraq was reconsidering its refusal since 5 August to provide data collected by 
+*  Iraq had placed unacceptable conditions on photographs during a chemical 
+*  Undeclared dual-capable items and materials subject to chemical and biological 
+*  A team had been refused access on 11 December in line with Iraq’s policy of 
 
 monitoring had been discovered.
 
@@ -6310,13 +6319,13 @@ evidence that Iraq had taken advance actions at certain of the locations planned
 inspection”, he had “decided not to conduct the full range of inspections the team had 
 planned”. The examples given included:
 
-•  There had been some difficulties negotiating access at one site designated as 
+*  There had been some difficulties negotiating access at one site designated as 
 sensitive which resulted in Iraq’s introduction of new requirements, including a 
 formal letter of request indicating what was being sought at the site.
 
-•  At the former headquarters of the Special Security Organisation, the building 
+*  At the former headquarters of the Special Security Organisation, the building 
 had been emptied and Iraq would not disclose where the materials were held.
-•  At the management offices of the Military Industrialisation Corporation, the site 
+*  At the management offices of the Military Industrialisation Corporation, the site 
 “had been prepared to avoid any disclosure of relevant materials and the team 
 assessed Iraq had expected their arrival”.
 
@@ -6352,12 +6361,12 @@ provided full co-operation.260
 
 646.  Mr Aziz’s concerns included:
 
-•  A large inspection team to address allegations of concealment had arrived 
+*  A large inspection team to address allegations of concealment had arrived 
 without the agreed advance notification and had “carried out its work in an 
 intrusive and provocative manner, showing no respect for the procedures agreed 
 between Iraq and UNSCOM”.
 
-•  UNSCOM had not responded to Iraq’s requests to send teams to work with 
+*  UNSCOM had not responded to Iraq’s requests to send teams to work with 
 
 Iraq to investigate two areas of importance in relation to the material balance of 
 chemical weapons: “the fate of the 155mm shells with mustard” and verification 
@@ -6366,10 +6375,10 @@ of the “tail units of the R-400” which were “at the Iraqi Air Force stores
 647.  Mr Annan suggested that the Council might want to consider three possible 
 options:
 
-•  “That the experience over the period since 17 November 1998 does not provide 
+*  “That the experience over the period since 17 November 1998 does not provide 
 a sufficient basis to move forward with a comprehensive review at this time.”
-•  “That Iraq has not provided full co-operation but that it should be permitted 
-•  “That the Council may wish to proceed with a comprehensive review on the 
+*  “That Iraq has not provided full co-operation but that it should be permitted 
+*  “That the Council may wish to proceed with a comprehensive review on the 
 
 additional time to demonstrate its commitment to do so.”
 
@@ -6387,7 +6396,8 @@ addressed to the President of the Security Council’ (S/1998/1172).
 considered that Mr Butler’s report was sufficient reason for action. Mr Blair had given 
 explicit authority for the UK to participate if the US decided to go ahead with strikes.
 
-## UNSCOM and IAEA withdraw
+## UNSCOM and IAEA withdraw
+
 649.  On 16 December, a spokesman for Mr Annan briefed the press that, overnight, 
 Mr Annan had received a telephone call from Mr Burleigh, who had advised him that 
 US personnel in Iraq were being asked to leave.263 Mr Butler had also been advised 
@@ -6490,16 +6500,16 @@ sobering and profoundly disturbing”. Iraq had “abused its final chance”. T
 presented a “clear and present danger to the stability of the Persian Gulf and the safety 
 of people everywhere”. Action was necessary because:
 
-•  “… without a strong inspection system, Iraq would be free to retain and begin to 
+*  “… without a strong inspection system, Iraq would be free to retain and begin to 
 rebuild its chemical, biological and nuclear weapons programmes in months, not 
 years.”
 
-•  If Saddam Hussein “crippled the weapons inspection system and got away 
+*  If Saddam Hussein “crippled the weapons inspection system and got away 
 with it, he would conclude that the international community – led by the US” 
 had “simply lost its will”. He would “surmise that he has free reign to rebuild his 
 arsenal of mass destruction”.
 
-•  “Third, in halting … air strikes in November” Saddam Hussein had been given “a 
+*  “Third, in halting … air strikes in November” Saddam Hussein had been given “a 
 chance, not a license”. If the US turned its back on his defiance, “the credibility 
 of US power as a check against Saddam” would be “destroyed”. That would 
 “fatally undercut the fear of force” that stopped Saddam “from acting to gain 
@@ -6555,12 +6565,12 @@ programmes and its ability to threaten its neighbours”.272
 
 669.  Mr Burleigh stated that:
 
-•  The action was a “necessary and proportionate response to the continued 
+*  The action was a “necessary and proportionate response to the continued 
 
 refusal of the Iraqi Government to comply with the resolutions of the 
 Security Council”.
 
-•  It had been “undertaken only when it became evident that diplomacy had been 
+*  It had been “undertaken only when it became evident that diplomacy had been 
 exhausted”. The coalition had “acted out of necessity” and the Government of 
 Iraq bore “full responsibility” for the consequences of the military action. The US 
 had not acted “precipitately”, but had worked “with its partners in the Security 
@@ -6568,14 +6578,14 @@ Council over the past months in a sincere and sustained effort to bring about
 a peaceful resolution of the confrontation created by Iraq”. “For reasons best 
 known to Saddam Hussein, Iraq chose to reject that effort.”
 
-•  Iraq had “repeatedly taken actions” which constituted “flagrant material 
+*  Iraq had “repeatedly taken actions” which constituted “flagrant material 
 breaches” of the provisions in relevant Security Council resolutions: “On 
 a number of occasions, the Council has affirmed that similar Iraqi actions 
 constituted such breaches, as well as a threat to international peace and 
 security.” The US view was that “the Council need not state these conclusions 
 on each occasion”.
 
-•  Iraq had “once again, acted in flagrant and material breach of Security Council 
+*  Iraq had “once again, acted in flagrant and material breach of Security Council 
 
 resolution 687 (1991)” by “refusing to make available documents and information 
 requested by UNSCOM … by imposing new restrictions on the weapons 
@@ -6590,12 +6600,12 @@ AI of the United States Mission to the United Nations addressed to the President
 inspectors and by repeatedly denying access to facilities which UNSCOM 
 wished to inspect”.
 
-•  The coalition was exercising “the authority given by the Security Council” in 
+*  The coalition was exercising “the authority given by the Security Council” in 
 resolution 678 (1990) “for Member States to employ all necessary means 
 to secure Iraqi compliance with the Council’s resolutions and to restore 
 international peace and security in the area”.
 
-•  The resort to military force was “necessitated” by Iraq’s “policy of unremitting 
+*  The resort to military force was “necessitated” by Iraq’s “policy of unremitting 
 
 defiance and non-compliance”.
 
@@ -6628,7 +6638,7 @@ the way completely for the military aggression”.
 chemical weapons against Iran and its own civilians and its behaviour since 1991, 
 including:
 
-•  “never” giving UNSCOM the co-operation it needed to complete its tasks;
+*  “never” giving UNSCOM the co-operation it needed to complete its tasks;
 
 273 UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the 
 United Kingdom of Great Britain and Northern Ireland to the United Nations addressed to the President 
@@ -6642,10 +6652,10 @@ of the Security Council’ (S/1998/1182).
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  concealing the “evidence of its past and current programmes”;
-•  engaging in a “policy of harassment and deceit”;
-•  blocking inspections “whenever it feared that anything incriminating would be 
-•  failing to produce documents.
+*  concealing the “evidence of its past and current programmes”;
+*  engaging in a “policy of harassment and deceit”;
+*  blocking inspections “whenever it feared that anything incriminating would be 
+*  failing to produce documents.
 
 found”; and
 
@@ -6780,9 +6790,9 @@ would be “seriously impaired”.
 
 serious human consequences that they may have”;
 
-•  deplored “the chain of events that led to American military strikes … and the 
-•  regretted that Iraqi leaders had not been “able to demonstrate the spirit of full 
-•  thanked Mr Annan and supported his “tireless and persistent actions to ensure 
+*  deplored “the chain of events that led to American military strikes … and the 
+*  regretted that Iraqi leaders had not been “able to demonstrate the spirit of full 
+*  thanked Mr Annan and supported his “tireless and persistent actions to ensure 
 
 co-operation” called for by the February MOU; and
 
@@ -6812,30 +6822,30 @@ objectives …”
 
 698.  Other points made by Mr Blair included:
 
-•  The inspectors had been “constantly harassed, threatened, deceived and 
+*  The inspectors had been “constantly harassed, threatened, deceived and 
 
 lied to. A special and elaborate mechanism to conceal Iraqi capability was out 
 in place involving organisations close to Saddam, in particular his Special 
 Republican Guard.”
 
-•  UNSCOM had achieved a huge amount, but “too much” remained “unaccounted 
+*  UNSCOM had achieved a huge amount, but “too much” remained “unaccounted 
 for”, and Iraq had “consistently sought to frustrate attempts to look at the records 
 and destroy the remaining capability”.
 
 “documented massive and extremely grave violations of human rights”.
 
-•  A report by the UN Special Rapporteur on Human Rights in October 1998 had 
-•  Saddam Hussein’s obstruction had begun “in real earnest” after “the full extent 
+*  A report by the UN Special Rapporteur on Human Rights in October 1998 had 
+*  Saddam Hussein’s obstruction had begun “in real earnest” after “the full extent 
 of the weapons programme was uncovered in 1996 and early 1997”. It included 
 casting doubt on the independence of the inspectors and seeking to exclude US 
 and UK nationals.
 
-•  Saddam Hussein had been given a “last chance” in mid-November, and warned 
+*  Saddam Hussein had been given a “last chance” in mid-November, and warned 
 that, if he broke his word and obstructed the work of the inspectors, “there would 
 be no further warnings or diplomatic arguments … we would strike”.
 
-•  Saddam Hussein was “a man to whom a last chance to do right is just a further 
-•  Saddam Hussein’s attitude was “as much deliberate obstruction as he thought 
+*  Saddam Hussein was “a man to whom a last chance to do right is just a further 
+*  Saddam Hussein’s attitude was “as much deliberate obstruction as he thought 
 
 opportunity to do wrong. He is blind to reason.”
 
@@ -6849,7 +6859,7 @@ international community into lifting sanctions”.
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  There had been “a stark choice” between letting “the process continue further, 
+*  There had been “a stark choice” between letting “the process continue further, 
 with UNSCOM more and more emasculated” or, “having tried every possible 
 diplomatic avenue and shown endless patience”, tackling Saddam Hussein’s 
 “remaining capability through direct action”. In Mr Blair’s view, there was “only 
@@ -6941,7 +6951,7 @@ everything … but what we can do reasonably we should do.”
 
 712.  In relation to Iraq, Mr Blair called for:
 
-•  “… a future strategy that is based on containment and stability for the region. 
+*  “… a future strategy that is based on containment and stability for the region. 
 
 First and foremost, we must maintain a threat of force which Saddam now 
 
@@ -6955,9 +6965,9 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 knows to be credible … ready to strike … if he again poses a threat to his 
 neighbours or develops weapons of mass destruction”;
 
-•  radical improvement of sanctions-enforcement;
-•  “… an intensive diplomatic process … to forge a new strategy for stability in 
-•  “… ways in which an effective inspections and monitoring regime … can be 
+*  radical improvement of sanctions-enforcement;
+*  “… an intensive diplomatic process … to forge a new strategy for stability in 
+*  “… ways in which an effective inspections and monitoring regime … can be 
 
 relations between the international community and Iraq”; and
 
@@ -6976,12 +6986,12 @@ weapons of mass destruction programmes;
 
 to control military and internal security forces;
 
-•  30 sites which the UK government described as being involved in Iraq’s 
-•  20 command, control and communications targets, which Saddam Hussein used 
-•  10 Republican Guard targets;
-•  27 air defence targets;
-•  six airfields, including those associated with helicopter forces used for internal 
-•  an oil refinery near Basra associated with sanctions breaking.281
+*  30 sites which the UK government described as being involved in Iraq’s 
+*  20 command, control and communications targets, which Saddam Hussein used 
+*  10 Republican Guard targets;
+*  27 air defence targets;
+*  six airfields, including those associated with helicopter forces used for internal 
+*  an oil refinery near Basra associated with sanctions breaking.281
 
 repression; and
 
@@ -6992,7 +7002,7 @@ including the final assembly and production lines of the al-Samoud”.282
 717.  In an Assessment in May 2001, the JIC recorded that Operation Desert Fox had 
 targeted:
 
-“•  WMD related industrial facilities, including those connected with ballistic missile 
+“*  WMD related industrial facilities, including those connected with ballistic missile 
 
 production and a castor oil plant that could be used to support the production 
 of BW;
@@ -7009,15 +7019,15 @@ page 65.
 
 157
 
-•  Airfield facilities housing the L-29 remotely piloted aircraft;
-•  Sites used by regime security organisations also involved in WMD.” 283
+*  Airfield facilities housing the L-29 remotely piloted aircraft;
+*  Sites used by regime security organisations also involved in WMD.” 283
 718.  The Assessment added: “Other WMD-related facilities were not targeted.”
 
 719.  In February 1999, the MOD assessed that the effect of Operation Desert Fox 
 on Iraq’s military programmes had been:
 
-•  to set back the ballistic missile programme by between one and two years; and
-•  to disrupt for several months WMD related work of the Iraqi Ministry of Industry 
+*  to set back the ballistic missile programme by between one and two years; and
+*  to disrupt for several months WMD related work of the Iraqi Ministry of Industry 
 
 and Military Industrialisation Headquarters in Baghdad.284
 
@@ -7042,12 +7052,12 @@ ballistic missiles being developed could threaten British forces deployed overse
 
 723.  The UK’s policy rested “on four inter-related pillars”:
 
-•  Arms control. Since the First World War, the UK had been at the forefront of 
+*  Arms control. Since the First World War, the UK had been at the forefront of 
 international efforts to control and eliminate biological and chemical weapons 
 through arms control agreements.
 
-•  Preventing supply. Export controls at national and international levels were 
-•  Deterring use. Potential aggressors should be assured that: the use of biological 
+*  Preventing supply. Export controls at national and international levels were 
+*  Deterring use. Potential aggressors should be assured that: the use of biological 
 
 “effective in preventing a significant number of undesirable transfers”.
 
@@ -7066,7 +7076,7 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 and those “responsible for any breach of international law relating to the use of 
 such weapons” would be “held personally accountable”.
 
-•  Defending against use. Possession of an effective range of defensive 
+*  Defending against use. Possession of an effective range of defensive 
 
 capabilities was required to enhance the other three pillars “by helping to make 
 clear to a potential aggressor that the threatened, or actual, use of biological 
@@ -7075,9 +7085,9 @@ outcome of a conflict”.
 
 724.  The paper stated that the UK’s military posture comprised three elements:
 
-•  the “ability to remove or reduce the threat by taking direct action”;
-•  measures to minimise vulnerability to the weapons; and
-•  capabilities, training and equipment which protected British forces and allowed 
+*  the “ability to remove or reduce the threat by taking direct action”;
+*  measures to minimise vulnerability to the weapons; and
+*  capabilities, training and equipment which protected British forces and allowed 
 
 them to manage battlefield risks.
 
@@ -7121,16 +7131,16 @@ large-scale casualties.
 
 within months;
 
-•  Iraq would be capable of regenerating a chemical weapons capability 
-•  Iraq had the expertise and equipment to regenerate an offensive biological 
-•  work on 650km range missiles which could hit important targets in the 
+*  Iraq would be capable of regenerating a chemical weapons capability 
+*  Iraq had the expertise and equipment to regenerate an offensive biological 
+*  work on 650km range missiles which could hit important targets in the 
 
 weapons capability within weeks;
 
 Middle East might have begun. It could have been completed within a year, 
 and biological weapons produced in the same timeframe;
 
-•  if Iraq could procure the necessary machinery and nuclear materials, it 
+*  if Iraq could procure the necessary machinery and nuclear materials, it 
 
 could build a crude air delivered nuclear device in about five years.”
 
@@ -7158,10 +7168,10 @@ They had:
 
 biological and chemical agents”;
 
-•  “damaged or destroyed” 87 percent of the 100 targets attacked;
-•  “severely damaged” the base for the L-29 trainer “which could be used to deliver 
-•  “significantly degraded” some key facilities associated with Iraq’s ballistic missile 
-•  “seriously weakened” Iraq’s “ability to deliver biological or chemical weapons by 
+*  “damaged or destroyed” 87 percent of the 100 targets attacked;
+*  “severely damaged” the base for the L-29 trainer “which could be used to deliver 
+*  “significantly degraded” some key facilities associated with Iraq’s ballistic missile 
+*  “seriously weakened” Iraq’s “ability to deliver biological or chemical weapons by 
 
 programme, “setting this back one to two years”;
 
@@ -7171,8 +7181,8 @@ ballistic missile”;
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  destroyed some key buildings of the Iraqi Directorate of General Security, which 
-•  “set back” Iraq’s ability to regenerate its biological and chemical capability.
+*  destroyed some key buildings of the Iraqi Directorate of General Security, which 
+*  “set back” Iraq’s ability to regenerate its biological and chemical capability.
 
 were believed to contain “key equipment and documents”; and
 
@@ -7430,8 +7440,8 @@ operations to rescue any downed aircrew. Those are addressed in Section 1.2.
 758.  The Butler Report stated that a JIC Assessment on 7 January 1999 had reached 
 “somewhat firmer judgements than in 1997” that:
 
-•  “Following the 1991 Gulf War Iraq concealed BW [biological warfare] production 
-•  “… Iraq has sufficient expertise, equipment, and materials to produce BW 
+*  “Following the 1991 Gulf War Iraq concealed BW [biological warfare] production 
+*  “… Iraq has sufficient expertise, equipment, and materials to produce BW 
 
 equipment, stocks of agents and perhaps even BW weapons …”
 
@@ -7532,12 +7542,12 @@ missile engines and guidance systems.
 771.  The Commission stated that actions by Iraq “in three main respects” had “had a 
 significant negative impact upon the Commission’s work”. Those were:
 
-•  “Iraq’s disclosure statements have never been complete”.
-•  “… contrary to the requirement that destruction be conducted under international 
+*  “Iraq’s disclosure statements have never been complete”.
+*  “… contrary to the requirement that destruction be conducted under international 
 supervision, Iraq undertook extensive unilateral and secret destruction of large 
 quantities of proscribed weapons and items”.
 
-•  “… a practice of concealment of proscribed items … and a cover up of its 
+*  “… a practice of concealment of proscribed items … and a cover up of its 
 
 activities in contravention of Council resolutions”.
 
@@ -7549,15 +7559,15 @@ resolution 687 (1991).302
 773.  In a “brief summary” of its “current understanding of the evolution of these 
 concealment policies and practices”, the report stated:
 
-•  The Iraq Presidency had “collected reports on weapons remaining with Iraq’s 
-•  A “decision was taken by a high-level committee”, of which Mr Aziz was a 
+*  The Iraq Presidency had “collected reports on weapons remaining with Iraq’s 
+*  A “decision was taken by a high-level committee”, of which Mr Aziz was a 
 
 Armed Forces” in spring 1991.
 
 member, to provide UNSCOM with “only a portion of its proscribed weapons, 
 their components and production capabilities and stocks”.
 
-•  UNSCOM “deduced” that Iraq’s policy was based on:
+*  UNSCOM “deduced” that Iraq’s policy was based on:
 
   * providing “a portion of their extant weapon stocks, with an emphasis on 
 
@@ -7595,35 +7605,35 @@ missile engines”; and
 
 programme” and retaining “all production capabilities”.
 
-•  After an incident at Abu Ghraib in June 1991, when IAEA inspectors had 
+*  After an incident at Abu Ghraib in June 1991, when IAEA inspectors had 
 obtained photographic evidence of retained nuclear weapons production 
 components, Iraq had decided “in late June 1991 to eliminate some of these 
 retained proscribed materials, on its own, and in secret and in such a way that 
 precise knowledge about what and how much had been destroyed would not 
 be achievable”.
 
-•  Iraq did not admit its programme of unilateral destruction until March 1992, when 
+*  Iraq did not admit its programme of unilateral destruction until March 1992, when 
 
 UNSCOM had “indicated it had evidence that Iraq retained weapons after its 
 supervised destruction”.
 
-•  Iraq stated that “The unilateral destruction was carried out entirely unrecorded. 
+*  Iraq stated that “The unilateral destruction was carried out entirely unrecorded. 
 
 No written and no visual records were kept, as it was not foreseen that Iraq 
 needed to prove the destruction to anybody.”
 
 efforts and was forced to re-examine the 1991-1992 period”.
 
-•  In 1992, UNSCOM had not recognised that the programme “was a determined 
+*  In 1992, UNSCOM had not recognised that the programme “was a determined 
 measure taken to conceal evidence which would reveal retained capabilities”.
-•  It was only after 1995 that UNSCOM had become aware of “concerted deception 
-•  Investigations, including “extensive excavation efforts with Iraq”, “extensive 
+*  It was only after 1995 that UNSCOM had become aware of “concerted deception 
+*  Investigations, including “extensive excavation efforts with Iraq”, “extensive 
 interviews with Iraqi participants in the destruction”, and analysis of overhead 
 imagery, had produced “mixed” results. There was “some evidence supporting 
 Iraqi declarations” but other data raised “serious concerns about the true fate of 
 proscribed weapons and items”.
 
-•  Questions arose about the reasons for Iraq’s actions including the following:
+*  Questions arose about the reasons for Iraq’s actions including the following:
 
   * Iraq made an admission in August 1997 that missile launchers had been 
 
@@ -7660,7 +7670,7 @@ documents; and there were “clearly defined gaps” in the records handed
 over by Iraq in relation to WMD production techniques, the military and the 
 Ministry of Defence.
 
-•  Iraq’s deception and concealment activities involved a number of Iraqi 
+*  Iraq’s deception and concealment activities involved a number of Iraqi 
 
 organisations:
 
@@ -7678,15 +7688,15 @@ equipment for long-range missiles was discovered in late 1995.
 
 “appeared” to provide “overall direction” for concealment activities.
 
-•  Iraq claimed all concealment activities had been terminated in 1995.
-•  UNSCOM had used interviews and inspections in an attempt to elicit “a true 
+*  Iraq claimed all concealment activities had been terminated in 1995.
+*  UNSCOM had used interviews and inspections in an attempt to elicit “a true 
 picture of concealment actions and confirmation it had or would be ended” in 
 1996-1998, but “missing files, cleansed rooms, purged computers and other 
 techniques were encountered on a regular basis at sites under inspection”. 
 Convoy movements in response to inspection activity “provided still more 
 evidence that concealment was ongoing”.
 
-•  UNSCOM had “recently” received information “from multiple sources” identifying 
+*  UNSCOM had “recently” received information “from multiple sources” identifying 
 organisations which “direct and implement the concealment effort in Iraq”, which 
 agreed that:
 
@@ -7716,14 +7726,14 @@ Iraqi work on plague as a BW agent.303
 776.  In late January 1999, the Security Council established three panels chaired by 
 Mr Amorim, who was the President of the Security Council at that time:
 
-•  a panel on disarmament and current and future ongoing monitoring and 
+*  a panel on disarmament and current and future ongoing monitoring and 
 
 verification issues which would “assess all the existing and relevant 
 information available … relating to the state of disarmament in Iraq”, and make 
 recommendations to re-establish an effective regime;
 
-•  a panel on humanitarian issues to “assess the current humanitarian situation in 
-•  a panel on prisoners of war and Kuwaiti property which would “make an 
+*  a panel on humanitarian issues to “assess the current humanitarian situation in 
+*  a panel on prisoners of war and Kuwaiti property which would “make an 
 
 Iraq and make recommendations” for improvements; and
 
@@ -7760,7 +7770,7 @@ addressed to the President of the Security Council’ (S/1999/356).
 
 171
 
-•  restructuring the Commission as a collegiate body which could provide the 
+*  restructuring the Commission as a collegiate body which could provide the 
 
 Executive Chairman with independent advice, guidance and general oversight 
 as agreed by the Security Council;
@@ -7769,10 +7779,10 @@ the UN Charter;
 
 understanding national sensitivities”;
 
-•  recruiting staff as international civil servants in accordance with the provisions of 
-•  training programmes, including “Particular emphasis … on the importance of 
-•  ensuring that the Commission’s relationship with intelligence providers should be 
-•  ensuring that public comment was “limited and restricted to the factual”, leaving 
+*  recruiting staff as international civil servants in accordance with the provisions of 
+*  training programmes, including “Particular emphasis … on the importance of 
+*  ensuring that the Commission’s relationship with intelligence providers should be 
+*  ensuring that public comment was “limited and restricted to the factual”, leaving 
 “political evaluations or comments that carry obvious political implications” to the 
 Security Council.
 
@@ -8076,24 +8086,24 @@ for considering the suspension and lifting of sanctions.
 
 815.  The provisions on disarmament included that the Security Council:
 
-•  decided to replace UNSCOM with the United Nations Monitoring, Verification 
+*  decided to replace UNSCOM with the United Nations Monitoring, Verification 
 and Inspection Commission (UNMOVIC), which would operate as the Amorim 
 panel recommended, to provide “a reinforced system of ongoing monitoring and 
 verification, which will implement the plan approved by the Council in resolution 
 715 (1991) and address unresolved disarmament issues”;
 
-•  reaffirmed the role of the IAEA;
-•  reaffimed the provisions of relevant resolutions requiring Iraq’s compliance and 
+*  reaffirmed the role of the IAEA;
+*  reaffimed the provisions of relevant resolutions requiring Iraq’s compliance and 
 affirmed that Iraq’s obligations to co-operate with the Special Commission would 
 apply in respect of UNMOVIC;
 
-•  decided “in particular” that Iraq should “allow UNMOVIC teams immediate, 
+*  decided “in particular” that Iraq should “allow UNMOVIC teams immediate, 
 
 unconditional and unrestricted access” to all sites or facilities it wished to inspect 
 and to all individuals under the authority of the Iraqi Government it wished to 
 interview;
 
-•  requested the Secretary-General to appoint an Executive Chairman and, in 
+*  requested the Secretary-General to appoint an Executive Chairman and, in 
 consultation with him and Council members, to appoint “suitably qualified 
 experts as a College of Commissioners for UNMOVIC” which would “meet 
 regularly to review the implementation” of the resolution and other relevant 
@@ -8107,8 +8117,8 @@ the Council through the Secretary-General”;
 
 The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
-•  requested the Executive Chairman to put forward proposals for the organisation 
-•  decided that UNMOVIC and the IAEA would, “not later than 60 days after 
+*  requested the Executive Chairman to put forward proposals for the organisation 
+*  decided that UNMOVIC and the IAEA would, “not later than 60 days after 
 
 of UNMOVIC within 45 days of his appointment;
 
@@ -8120,12 +8130,12 @@ Iraq pursuant to its obligations”;
 
 task shall be clearly defined and precise”;
 
-•  further decided that what was “required of Iraq for the implementation of each 
-•  requested the Executive Chairman of UNMOVIC and the Director General of the 
+*  further decided that what was “required of Iraq for the implementation of each 
+*  requested the Executive Chairman of UNMOVIC and the Director General of the 
 IAEA were also to review and update the list of items and technology controlled 
 by resolution 1051 (1996); and
 
-•  requested the Executive Chairman of UNMOVIC to “report immediately when 
+*  requested the Executive Chairman of UNMOVIC to “report immediately when 
 
 the reinforced system of ongoing monitoring and verification [OMV] is fully 
 operational in Iraq”.
@@ -8137,23 +8147,23 @@ every four months on Iraq’s compliance.
 
 817.  The provisions on humanitarian issues included:
 
-•  abolishing the ceiling on the export of Iraq’s petroleum and petroleum products 
+*  abolishing the ceiling on the export of Iraq’s petroleum and petroleum products 
 by authorising States to permit the import of “any volume”, notwithstanding the 
 provisions of resolution 661 (1990);
 
-•  deciding that only items subject to the provisions of resolution 1051 (1996) 
+*  deciding that only items subject to the provisions of resolution 1051 (1996) 
 would need to be submitted for approval to the Committee established by 
 resolution 661 (1990), and requesting that Committee to appoint a group of 
 experts which would be mandated speedily to approve “contracts for the parts 
 and equipments necessary to enable Iraq to increase its exports of petroleum 
 and petroleum products”;
 
-•  requesting the Secretary-General to maximise the benefits of the arrangement 
+*  requesting the Secretary-General to maximise the benefits of the arrangement 
 
 set out in resolution 986 (1995) and to ensure that all supplies under the 
 humanitarian programme were utilised as authorised;
 
-•  calling on the Government of Iraq to:
+*  calling on the Government of Iraq to:
 
   * “take all steps to ensure the timely and equitable distribution of 
 
@@ -8171,7 +8181,7 @@ discrimination”;
 
 assistance”; and
 
-•  requesting the Secretary-General to establish a group of experts, to report 
+*  requesting the Secretary-General to establish a group of experts, to report 
 
 within 100 days of the adoption of the resolution, “on Iraq’s existing petroleum 
 production and export capacity and to make recommendations … on alternatives 
@@ -8210,7 +8220,7 @@ improvements in the humanitarian programme”, and the measures related to speed
 up action on missing persons and Kuwaiti property. He also welcomed the corrections 
 to “harmful provisions” in previous drafts of the resolution, including:
 
-•  removing the “discredited argument about full co-operation”; Russia had 
+*  removing the “discredited argument about full co-operation”; Russia had 
 
 “always stressed that the wording ‘full co-operation’” was “extremely dangerous”, 
 and “Nobody has forgotten that it was under the pretext of an absence of full 
@@ -8225,18 +8235,18 @@ co-operation from Iraq that the former Special Commission provoked large-scale
 strikes by the United States and Great Britain against Iraq in December last 
 year, circumventing the Security Council”;
 
-•  introducing a “clarification … to the effect that progress on the remaining 
+*  introducing a “clarification … to the effect that progress on the remaining 
 disarmament tasks – not their virtual completion – would be grounds for 
 assessing the conditions necessary to the suspension of sanctions”; vague 
 wording in an earlier draft would have “provided certain members of the Council” 
 with “an opportunity to … require virtually full completion of the key disarmament 
 tasks … and then, on that pretext, to postpone suspension endlessly”;
 
-•  removing wording about “control of the financial aspects of the suspension, 
+*  removing wording about “control of the financial aspects of the suspension, 
 which essentially predetermined the continuation of the sanctions regime in 
 another guise”; and
 
-•  spelling out more clearly the reference to Chapter VII “so as not to provide any 
+*  spelling out more clearly the reference to Chapter VII “so as not to provide any 
 
 legal grounds for unilateral actions of force against Iraq contrary to positions 
 held in the Security Council”.
@@ -8282,17 +8292,17 @@ sanctions;
 the vague language “full of conditionalities” in respect of the triggering of 
 suspensions;
 
-•  the omission of financial modalities;
-• 
-•  the absence of a definite benchmark or timeframe for the final lifting of 
-•  the indefinite continuation of the sanctions which violated “the very spirit and 
-•  the improvements in arrangements for humanitarian programmes which were 
+*  the omission of financial modalities;
+* 
+*  the absence of a definite benchmark or timeframe for the final lifting of 
+*  the indefinite continuation of the sanctions which violated “the very spirit and 
+*  the improvements in arrangements for humanitarian programmes which were 
 “selective” and would “only lead to incremental improvements and address a 
 small fraction of the needs of the Iraqi people”; and
 
 purposes” of the UN Charter;
 
-•  Malaysia’s proposal that the Council should give a hearing to Iraq’s views, on 
+*  Malaysia’s proposal that the Council should give a hearing to Iraq’s views, on 
 
 the basis that “engaging Iraq, rather than isolating and demonizing it”.
 
@@ -8307,15 +8317,15 @@ in its implementation, which must be avoided.”
 827.  Mr Qin Huasun stated that three core issues would have to be addressed 
 in formulating new policies on Iraq:
 
-•  An “objective, impartial, transparent and accountable” inspection commission 
+*  An “objective, impartial, transparent and accountable” inspection commission 
 should replace UNSCOM which “under the leadership of its previous Executive 
 Chairman … continuously concealed information from the Council, deceived 
 and misled the Council and even went so far as to act presumptuously without 
 authorisation by the Council, thus playing a dishonourable role in triggering 
 the crisis”.
 
-•  The remaining disarmament issues should be “defined clearly and precisely and 
-•  There was “an urgent need to relieve the … tremendous, inhumane suffering” 
+*  The remaining disarmament issues should be “defined clearly and precisely and 
+*  There was “an urgent need to relieve the … tremendous, inhumane suffering” 
 
 resolved gradually and effectively”.
 

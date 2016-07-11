@@ -45,10 +45,10 @@ go to War in Iraq on 3 July 2003.
 
 of Mass Destruction – Intelligence and Assessments on 10 September 2003. 
 
-•  The House of Commons Foreign Affairs Committee published The Decision to 
-•  The Intelligence and Security Committee of Parliament published Iraqi Weapons 
-•  Lord Hutton published his Report of the Inquiry into the Circumstances 
-•  A Committee of Privy Counsellors, chaired by Lord Butler of Brockwell, 
+*  The House of Commons Foreign Affairs Committee published The Decision to 
+*  The Intelligence and Security Committee of Parliament published Iraqi Weapons 
+*  Lord Hutton published his Report of the Inquiry into the Circumstances 
+*  A Committee of Privy Counsellors, chaired by Lord Butler of Brockwell, 
 published its Review of Intelligence on Weapons of Mass Destruction on 
 14 July 2004. Sir John Chilcot was a member of Lord Butler’s Committee. 
 
@@ -60,7 +60,7 @@ Surrounding the Death of Dr David Kelly CMG on 28 January 2004.
 
 The Report of the Iraq InquiryIntroduction
 
-•  The Baha Mousa Inquiry, chaired by Sir William Gage, was established in May 
+*  The Baha Mousa Inquiry, chaired by Sir William Gage, was established in May 
 
 2008 and published its conclusions on 8 September 2011.2 
 
@@ -221,19 +221,19 @@ Inquiry’s Report.
 they lie outside the scope of the Inquiry or are subject to continuing investigation 
 elsewhere. They include: 
 
-•  Responsibility for the events of 11 September 2001.
-•  The UK’s role in Afghanistan, except where decisions on Afghanistan had an 
+*  Responsibility for the events of 11 September 2001.
+*  The UK’s role in Afghanistan, except where decisions on Afghanistan had an 
 impact on options available in Iraq, or where the Government sought to apply 
 lessons from Afghanistan in Iraq.
 
 statutory powers and is not qualified to decide on Coronial matters.
 
-•  The circumstances surrounding the death of Dr David Kelly. The Inquiry has no 
-•  The circumstances surrounding the deaths of individual Service Personnel.
-•  The effect of the sanctions regime on the civilian population of Iraq, except 
+*  The circumstances surrounding the death of Dr David Kelly. The Inquiry has no 
+*  The circumstances surrounding the deaths of individual Service Personnel.
+*  The effect of the sanctions regime on the civilian population of Iraq, except 
 where it had an impact on UK policy on Iraq in the period before the invasion.
-•  The compulsory return of asylum seekers from the UK to Iraq is touched on,  
-•  The details of the Government’s operational response to the kidnapping of UK 
+*  The compulsory return of asylum seekers from the UK to Iraq is touched on,  
+*  The details of the Government’s operational response to the kidnapping of UK 
 
 but not examined in detail. 
 
@@ -330,10 +330,10 @@ is available on the Inquiry’s website.
 between which the Committee received and assessed other sources of evidence.  
 The rounds were:
 
-•  13 November 2009 to 8 February 2010;
-•  5 March 2010 to 8 March 2010;
-•  29 June 2010 to 30 July 2010; and
-•  18 January 2011 to 4 February 2011.
+*  13 November 2009 to 8 February 2010;
+*  5 March 2010 to 8 March 2010;
+*  29 June 2010 to 30 July 2010; and
+*  18 January 2011 to 4 February 2011.
 
 42.  In his opening statement on 13 November 2009, Sir John Chilcot explained that the 
 first five weeks of hearings would be used to establish, from those who were directly 
@@ -427,14 +427,14 @@ to this Inquiry, and which differs from the criteria set by the Freedom of Infor
 55.  Throughout its duration, the Inquiry has sought the Government’s permission to 
 publish material under the terms of the Protocol. It has done so by:
 
-•  Asking for the declassification of whole documents where they are considered 
+*  Asking for the declassification of whole documents where they are considered 
 
 to be particularly significant. Around 1,800 of these documents, including 
 any redactions required by the Government, appear on the Inquiry’s website 
 alongside this Report. Redactions appear as blank white space, not as black 
 lines.13 
 
-•  Asking for agreement to disclose a limited amount of material from documents, 
+*  Asking for agreement to disclose a limited amount of material from documents, 
 
 either in the form of a directly quoted extract, a summary of the document’s 
 contents (known as a “gist”) or a mixture of the two. The source for a quote or 
@@ -451,7 +451,7 @@ raise difficult issues of principle for the Government.
 58.  This Report therefore contains, exceptionally, material of a kind which would 
 normally be regarded as highly sensitive and confidential, including:
 
-•  extracts from Cabinet minutes;
+*  extracts from Cabinet minutes;
 
 13 In JIC Assessments, which have been retyped by the Inquiry at the Government’s request, redactions 
 appear as “[…]”.
@@ -460,8 +460,8 @@ appear as “[…]”.
 
 The Report of the Iraq InquiryIntroduction
 
-•  extracts from, or summaries of, exchanges between former Prime Ministers and 
-•  material drawn from or otherwise relating to very sensitive security and 
+*  extracts from, or summaries of, exchanges between former Prime Ministers and 
+*  material drawn from or otherwise relating to very sensitive security and 
 
 the former US President; and
 
@@ -476,10 +476,10 @@ of this material, the Government has had regard to:
 
 entirely independent of government); 
 
-•  the exceptional nature of the Inquiry (a once in a generation Public Inquiry that is 
-•  the exceptional public interest in the matters which the Inquiry was established 
-•  the importance of the Inquiry being able to consider these matters in the round 
-•  the consequent justification of the inclusion of such material in the Report to the 
+*  the exceptional nature of the Inquiry (a once in a generation Public Inquiry that is 
+*  the exceptional public interest in the matters which the Inquiry was established 
+*  the importance of the Inquiry being able to consider these matters in the round 
+*  the consequent justification of the inclusion of such material in the Report to the 
 
 and to give a proper and sufficient account of them in its Report; and
 
@@ -516,11 +516,11 @@ the Inquiry considered that five were of such significance that the text recordi
 discussion of Iraq should be published in its entirety. Those extracts appear on  
 the Inquiry’s website and relate to Cabinet meetings held on:
 
-•  7 March 2002;
-•  23 September 2002;
-•  16 January 2003;
-•  13 March 2003; and
-•  17 March 2003. 
+*  7 March 2002;
+*  23 September 2002;
+*  16 January 2003;
+*  13 March 2003; and
+*  17 March 2003. 
 
 64.  The Inquiry has also reviewed extracts from the notebooks of the Cabinet Secretary 
 and Cabinet Secretariat relating to Cabinet discussions of Iraq between 2001 and 
@@ -672,15 +672,15 @@ produce its account.
 
 86.  That material particularly includes: 
 
-•  diaries, memoirs, books and articles published by key participants; 
-•  books and articles published by academics, experts and commentators; 
-•  newspaper articles and reports, and transcripts of speeches and interviews; 
-•  records of Parliamentary proceedings and reports by Parliamentary Committees;
-•  documents published by UK government departments, including annual reports;
-•  records of discussions in the UN Security Council and reports to the Security 
-•  documents published by UN agencies, international institutions and international 
-•  reports produced by and for the US Congress, and US Government departments 
-•  evidence offered to previous Inquiries and their analysis and conclusions. 
+*  diaries, memoirs, books and articles published by key participants; 
+*  books and articles published by academics, experts and commentators; 
+*  newspaper articles and reports, and transcripts of speeches and interviews; 
+*  records of Parliamentary proceedings and reports by Parliamentary Committees;
+*  documents published by UK government departments, including annual reports;
+*  records of discussions in the UN Security Council and reports to the Security 
+*  documents published by UN agencies, international institutions and international 
+*  reports produced by and for the US Congress, and US Government departments 
+*  evidence offered to previous Inquiries and their analysis and conclusions. 
 
 non-governmental organisations; 
 
@@ -720,24 +720,24 @@ who took the time to write.
 were published in 2009. After considering which other submissions to publish, the 
 Inquiry decided:
 
-•  not to publish those submissions that offered suggested questions for, or 
+*  not to publish those submissions that offered suggested questions for, or 
 
 analysis of, evidence hearings, although they were of value whilst hearings were 
 taking place;
 
 of Reference;
 
-•  not to publish submissions offering suggestions on the conduct of the Inquiry;
-•  not to publish submissions concerning matters outside the Inquiry’s Terms 
-•  not to publish details of personal experiences that were shared on a 
-•  not to re-publish information already in the public domain, for example 
+*  not to publish submissions offering suggestions on the conduct of the Inquiry;
+*  not to publish submissions concerning matters outside the Inquiry’s Terms 
+*  not to publish details of personal experiences that were shared on a 
+*  not to re-publish information already in the public domain, for example 
 
 private basis;
 
 newspaper articles or published reports, although the Inquiry was grateful for 
 the many articles, books and papers it received; and
 
-•  not to publish anything it deemed offensive or incomprehensible. 
+*  not to publish anything it deemed offensive or incomprehensible. 
 
 93.  The submissions published on the Inquiry’s website alongside this Report are 
 therefore those which provide evidence to the Inquiry. In many cases they are from 
@@ -768,12 +768,12 @@ issues of law relating to the UK’s position, including:
 
 Council resolution 1441 (2002);
 
-•  the legal effect of operative paragraphs (OPs) 1, 4, 11 and 12 of UN Security 
-•  the significance of the word “consider” in OP12;
-•  whether by virtue of resolutions 678 (1990), 687 (1991) and 1441 the elements 
-•  the interpretation and effect of the statements made by the Permanent Members 
-•  the correct approach to the interpretation of Security Council resolutions; and
-•  Lord Goldsmith’s evidence that the precedent was that a reasonable case was a 
+*  the legal effect of operative paragraphs (OPs) 1, 4, 11 and 12 of UN Security 
+*  the significance of the word “consider” in OP12;
+*  whether by virtue of resolutions 678 (1990), 687 (1991) and 1441 the elements 
+*  the interpretation and effect of the statements made by the Permanent Members 
+*  the correct approach to the interpretation of Security Council resolutions; and
+*  Lord Goldsmith’s evidence that the precedent was that a reasonable case was a 
 
 of the Security Council following the unanimous vote on resolution 1441;
 
@@ -797,7 +797,8 @@ be resolved by a properly constituted and internationally recognised Court which
 considered the issue with the benefit of submissions from Counsel representing all those 
 parties with an interest in or affected by the issue.
 
-## The actions of other governments
+## The actions of other governments
+
 101.  This Inquiry was asked to consider the actions of the UK Government, not those 
 of its allies. The existence of a Coalition of states working in Iraq, however, means that 
 this report inevitably considers the decisions and actions of other countries where they 
