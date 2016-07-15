@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: getinvolved
 title: Get Involved
 edit: true
 ---
