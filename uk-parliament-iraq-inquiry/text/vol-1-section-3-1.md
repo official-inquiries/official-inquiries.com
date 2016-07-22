@@ -59,8 +59,6 @@ developing WMD or threatening its neighbours and international peace and securit
 
 312
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
-
 6.  The policy had a number of dimensions. Its key components were: 
 
 or programmes to develop such capabilities; 
@@ -121,14 +119,14 @@ to us throughout that Saddam Hussein only understands and respects force …
 “… As Kofi Annan said in Baghdad: ‘You can achieve much by diplomacy, but you 
 can achieve a lot more when diplomacy is backed by firmness and force.’
 
-“I would put it this way: with Saddam, diplomacy plus force equals success.”1
+“I would put it this way: with Saddam, diplomacy plus force equals success.”[^1]
 
 12.  Mr Blair concluded:
 
 “Saddam Hussein has spent seven years playing for time, but has been thwarted 
 by the resolve of the international community. It is now clearer than ever that his 
 games have to stop once and for all. If they do not, the consequences should be 
-clear to all.”2
+clear to all.”[^2]
 
 13.  Regime change became the officially-stated objective of US policy after the passage 
 of the Iraq Liberation Act in October 1998.
@@ -140,30 +138,30 @@ in Operation Desert Fox. Its objective was described by Mr Blair as:
 “… to degrade the ability of Saddam Hussein to build and use weapons of mass 
 destruction, including command and control and delivery systems, and to diminish 
 the threat that Saddam Hussein poses to his neighbours by weakening his military 
-capability.”3 
+capability.”[^3] 
 
 15.  The impact of Operation Desert Fox is addressed in Section 4.1 
 
 16.  In a press conference on 20 December 1998, Mr Blair explicitly ruled out a “land 
 war in Iraq with literally hundreds of thousands of allied troops engaged” and called for 
 a future strategy based on containment and stability for the region including a credible 
-threat of force if Saddam posed a threat to the neighbourhood or developed WMD.4
+threat of force if Saddam posed a threat to the neighbourhood or developed WMD.[^4]
 
 17.  By that stage, the Security Council was deeply divided on policy towards Iraq and 
 the other three Permanent Members of the Security Council did not support the US and 
 UK use of force.
 
-1 House of Commons, Official Report, 24 February 1998, columns 174-175.
-2 House of Commons, Official Report, 24 February 1998, column 176.
-3 House of Commons Official Report, 17 December 1998, volume 322, columns 1097-1102.
-4 Press conference, 20 December 1998 (as reported in Le Monde diplomatique).
+[^1]: House of Commons, Official Report, 24 February 1998, columns 174-175.
+[^2]: House of Commons, Official Report, 24 February 1998, column 176.
+[^3]: House of Commons Official Report, 17 December 1998, volume 322, columns 1097-1102.
+[^4]: Press conference, 20 December 1998 (as reported in Le Monde diplomatique).
 
 314
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 18.  A report on disarmament describing the work of UNSCOM since 1991 was sent 
-to the Security Council on 25 January 1999.5 That set out in three detailed annexes 
+to the Security Council on 2[^5] January 1999.[^5] That set out in three detailed annexes 
 “material balances”, for proscribed missiles, chemical and biological weapons, for which 
 UNSCOM had been unable to account. Those were subsequently used by the UK as 
 the basis for its estimates of the material Iraq might still retain. 
@@ -172,7 +170,7 @@ Mr Blair’s speech in Chicago, April 1999
 
 In his speech to the Economic Club in Chicago of 22 April 1999 Mr Blair identified Saddam 
 Hussein and Mr Slobodan Milošević, the President of the Federal Republic of Yugoslavia, 
-as the cause of “many of our problems”.6 
+as the cause of “many of our problems”.[^6] 
 That speech set out Mr Blair’s thinking on a doctrine of the international community, 
 including five principles for international intervention:
 
@@ -195,17 +193,15 @@ performances with large numbers.
 
 Mr Blair told the Inquiry that the speech had been intended to set out the consequences 
 of an interdependent world where countries would not be able to divorce their national 
-interests from the impacts of security problems in other parts of the world.7 
+interests from the impacts of security problems in other parts of the world.[^7] 
 Ideas for the speech, which Sir Lawrence Freedman submitted in response to a request 
 from Mr Jonathan Powell, Mr Blair’s Chief of Staff, were set out in the attachment to 
 Sir Lawrence’s letter to Sir John Chilcot on 18 January 2010. The letter was published 
 on the Inquiry’s website.
 
-5 UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94).
-6 Speech, 23 April 1999, Doctrine of the International Community.
-7 Public hearing, 29 January 2010, pages 26-27. 
+[^5]: UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
+[^6]: Speech, 23 April 1999, Doctrine of the International Community.
+[^7]: Public hearing, 29 January 2010, pages 26-27. 
 
 315
 
@@ -216,7 +212,7 @@ were defined as:
 “… in the short term, to reduce the threat Saddam [Hussein] poses to the region 
 including by eliminating his weapons of mass destruction (WMD) programmes; and, 
 in the longer term, to reintegrate a territorially intact Iraq as a law-abiding member of 
-the international community.”8 
+the international community.”[^8] 
 
 20.  The policy of containment was seen as the “only viable way” to pursue those 
 objectives. A “policy of trying to topple Saddam would command no useful international 
@@ -224,7 +220,7 @@ support”. Iraq was unlikely to accept the package immediately but “might be 
 to acquiesce eventually”.
 
 21.  After prolonged discussion about the way ahead, the UN Security Council adopted 
-resolution 1284 in December 1999, although France, Russia and China abstained.9 
+resolution 1284 in December 1999, although France, Russia and China abstained.[^9] 
 
 22.  The resolution established:
 
@@ -234,7 +230,7 @@ resolution 1284 in December 1999, although France, Russia and China abstained.9
 *  a timetable to identify and agree a work programme; and
 *  the principle that if the inspectors reported co-operation in key areas, that would 
 
-lead to the suspension of economic sanctions.10 
+lead to the suspension of economic sanctions.[^10] 
 
 23.  Iraq refused to accept the provisions of resolution 1284, including the re-admission 
 of weapons inspectors. Concerns about Iraq’s activities in the absence of inspectors 
@@ -256,15 +252,13 @@ leader”.
 
 establish control of the northern towns of Mosul and Kirkuk. But they would 
 
-8 Joint Memorandum by the Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
-State for Defence, 17 May 1999, ‘Iraq: Future Strategy’. 
-9 UN Security Council Press Release, 17 December 1999, Security Council Establishes New Monitoring 
-Commission For Iraq Adopting Resolution 1284 (1999) By Vote of 11-0-4 (SC/6775). 
-10 UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
+[^8]: Joint Memorandum by the Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
+[^9]: UN Security Council Press Release, 17 December 1999, Security Council Establishes New Monitoring 
+[^10]: UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
 
 316
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 settle for consolidation of their autonomy rather than secession. The Shia would 
 attack regime targets in the South, but they do not seek independence … Iraq’s 
@@ -279,15 +273,15 @@ weapons of mass destruction.”
 *  “Pressure would build internationally to end Iraq’s pariah status and isolation. 
 The level of pressure would reflect the extent to which the regime appeared 
 to moderate its behaviour. But Iraq’s political rehabilitation could be rapid, 
-overwhelming any voices of caution from London, Washington or elsewhere.”11
+overwhelming any voices of caution from London, Washington or elsewhere.”[^11]
 
 26.  There were concerns over both the continued legal basis for operations in NFZs and 
-the conduct of individual operations.12 
+the conduct of individual operations.[^12] 
 
 27.  A further Assessment on 1 November judged that Saddam Hussein felt “little 
 pressure to negotiate over … resolution 1284 because the proceeds of oil smuggling 
 and illicit trade have increased significantly this year, and more countries are increasing 
-diplomatic contacts and trade with Iraq”.13 
+diplomatic contacts and trade with Iraq”.[^13] 
 
 28.  The JIC also judged:
 
@@ -311,19 +305,19 @@ He is also likely to demand that the US should abandon its stated aim to topple 
 Iraqi regime.” 
 
 29.  In November 2000, Mr Blair’s “preferred option” was described as the 
-implementation of 1284, enabling inspectors to return and sanctions to be suspended.14
+implementation of 1284, enabling inspectors to return and sanctions to be suspended.[^14]
 
-11 JIC Assessment, 11 October 2000, ‘Iraq After Saddam’. 
-12 Letter Goulty to McKane, 20 October 2000, ‘Iraq’.
-13 JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co-operation with UNSCR 1284’.
-14 Letter Sawers to Cowper-Coles, 27 November 2000, ‘Iraq’.
+[^11]: JIC Assessment, 11 October 2000, ‘Iraq After Saddam’. 
+[^12]: Letter Goulty to McKane, 20 October 2000, ‘Iraq’.
+[^13]: JIC Assessment, 1 November 2000, ‘Iraq: Prospects for Co-operation with UNSCR 1284’.
+[^14]: Letter Sawers to Cowper-Coles, 27 November 2000, ‘Iraq’.
 
 317
 
 30.  In December 2000, the British Embassy in Washington reported growing pressure 
 to change course from containment to military action to oust Saddam Hussein, 
 but no decision to change policy or to begin military planning had been taken by 
-President Clinton.15 
+President Clinton.[^15] 
 
 31.  The Key Judgements of a JIC Assessment in February 2001 included:
 
@@ -346,7 +340,7 @@ Turkey and Syria”.
 *  “Most countries” believed that economic sanctions were “ineffective, 
 
 counterproductive and should now be lifted. Without active enforcement, the 
-economic sanctions regime” would “continue to erode”.16 
+economic sanctions regime” would “continue to erode”.[^16] 
 
 32.  The Assessment also stated:
 
@@ -367,23 +361,23 @@ six months”.
 
 33.  There were differences of view within the UK Government about the benefits 
 of in-country inspections, based on a concern that they could hand the initiative to 
-Saddam Hussein without offering any substantive gains.17 
+Saddam Hussein without offering any substantive gains.[^17] 
 
 34.  The stated position of the UK Government in February 2001 was that containment 
-had been broadly successful.18 
+had been broadly successful.[^18] 
 
-15 Letter Barrow to Sawers, 15 December 2000, ‘Iraq’. 
-16 JIC Assessment, 14 February 2001, ‘Iraq: Economic Sanctions Eroding’. 
-17 Minute McKane to Sawers, 15 February 2001 attaching Note, ‘Iraq’. 
-18 House of Commons, Official Report, 26 February 2001, column 620.
+[^15]: Letter Barrow to Sawers, 15 December 2000, ‘Iraq’. 
+[^16]: JIC Assessment, 14 February 2001, ‘Iraq: Economic Sanctions Eroding’. 
+[^17]: Minute McKane to Sawers, 15 February 2001 attaching Note, ‘Iraq’. 
+[^18]: House of Commons, Official Report, 26 February 2001, column 620.
 
 318
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 35.  When Mr Blair met President Bush at Camp David in late February 2001, the 
 US and UK agreed on the need for a policy which was more widely supported in the 
-Middle East region.19 Mr Blair had concluded that public presentation needed to be 
+Middle East region.[^19] Mr Blair had concluded that public presentation needed to be 
 improved. He suggested that the approach should be presented as a “deal” comprising 
 four elements:
 
@@ -394,7 +388,7 @@ four elements:
 
 36.  The UK’s thinking was set out in a paper proposing a new policy framework, 
 circulated by Mr John Sawers, Mr Blair’s Private Secretary for Foreign Affairs, on 
-7 March 2001.20 That comprised:
+7 March 2001.[^20] That comprised:
 
 *  The pursuit of a new sanctions regime to improve international support and 
 
@@ -423,12 +417,11 @@ impossible for Iraq to meet the criteria for rejoining the international communi
 fundamental change”.
 
 38.  Mr Blair told the Inquiry that one of the key elements of the policy was to seal Iraq’s 
-borders to make the sanctions regime more effective.21
+borders to make the sanctions regime more effective.[^21]
 
-19 Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Talks with President Bush, 
-Camp David, 23 February 2001’.
-20 Letter Sawers to Cowper-Coles, 7 March 2001, ‘Iraq: New Policy Framework’.
-21 Public hearing, 29 January 2010, page 15.
+[^19]: Letter Sawers to Cowper-Coles, 24 February 2001, ‘Prime Minister’s Talks with President Bush, 
+[^20]: Letter Sawers to Cowper-Coles, 7 March 2001, ‘Iraq: New Policy Framework’.
+[^21]: Public hearing, 29 January 2010, page 15.
 
 319
 
@@ -447,15 +440,15 @@ point but French support was “tepid”.
 
 *  Russia had set out its arguments about the defects of the UK draft but the FCO 
 
-formed “the impression that the problems … were not insuperable”.22 
+formed “the impression that the problems … were not insuperable”.[^22] 
 
 40.  In the context of questions about the attitude towards Iraq in September 2001, 
 Mr Blair emphasised that the nature of the Iraqi regime had made a difference to the 
 nature of the WMD threat and that Saddam Hussein’s “profoundly wicked” mindset 
-“definitely impacted on our thinking”.23
+“definitely impacted on our thinking”.[^23]
 
 41.  Mr Blair told the Inquiry that, until 11 September 2001, the UK had a policy of 
-containment, but sanctions were eroding.24 The policy was “partially successful”, 
+containment, but sanctions were eroding.[^24] The policy was “partially successful”, 
 but it did not mean that Saddam Hussein was “not still developing his [prohibited] 
 programmes”. 
 
@@ -466,7 +459,7 @@ programmes”.
 the World Trade Centre in New York and the Pentagon in Washington. A fourth hijacked 
 aircraft crashed in Pennsylvania. The attacks were unprecedented and resulted in 
 the largest ever loss of life from an enemy attack on the territory of the United States. 
-Nearly 3,000 people died, including 67 British citizens.25
+Nearly 3,000 people died, including 67 British citizens.[^25]
 
 43.  The UK’s response to the attacks was to offer support to the US, including 
 constructing an agenda for action against international terrorism and co-opting 
@@ -477,17 +470,17 @@ before further catastrophes, including a suggestion that the Taliban regime
 in Afghanistan should be presented with a demand to yield Usama Bin Laden 
 and close the Al Qaida camps.
 
-22 Minute McKane to Manning, 18 September 2001, ‘Iraq Stocktake’. 
-23 Public hearing, 29 January 2010, page 66.
-24 Public hearing, 21 January 2011, page 8.
-25  The Guardian, 18 August 2002, 9/11 in numbers.
+[^22]: Minute McKane to Manning, 18 September 2001, ‘Iraq Stocktake’. 
+[^23]: Public hearing, 29 January 2010, page 66.
+[^24]: Public hearing, 21 January 2011, page 8.
+[^25]:  The Guardian, 18 August 2002, 9/11 in numbers.
 
 320
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 45.  In his statement following the attacks, Mr Blair stated that the democracies of the 
-world must come together to defeat and eradicate mass terrorism.26 It was:
+world must come together to defeat and eradicate mass terrorism.[^26] It was:
 
 “… not a battle between the United States of America and terrorism, but between 
 the free and democratic world and terrorism. We, therefore, here in Britain stand 
@@ -497,7 +490,7 @@ like them, will not rest until this evil is driven from our world.”
 46.  Describing the events of 11 September 2001, Mr Alastair Campbell, Mr Blair’s 
 Director of Communications and Strategy, recorded that after the discussion in the 
 Cabinet Office Briefing Rooms (COBR), Mr Blair held a smaller meeting in No.10 with Mr 
-Jack Straw, the Foreign Secretary, and Mr Geoff Hoon, the Defence Secretary.27 During 
+Jack Straw, the Foreign Secretary, and Mr Geoff Hoon, the Defence Secretary.[^27] During 
 the meeting Mr Blair asked them to work up “an international agenda which went beyond 
 the US just hitting Afghanistan”; and stated that he intended to advise President Bush to 
 issue an ultimatum to the Taliban to hand over Usama Bin Laden (UBL).
@@ -506,7 +499,7 @@ issue an ultimatum to the Taliban to hand over Usama Bin Laden (UBL).
 
 *  bring to justice those responsible;
 *  construct an agenda for action against international terrorism; and
-*  co-opt the world’s leading countries in support of action.28
+*  co-opt the world’s leading countries in support of action.[^28]
 
 48.  Mr Blair wrote that action on the second and third goals should take place as soon 
 as possible.
@@ -529,10 +522,9 @@ perhaps even worse catastrophe occurs. And I believe this is a real possibility.
 51.  Mr Blair added: “It would also help in the Islamic world if we could find a way to 
 revive the Middle East Peace Process.”
 
-26 The National Archives, 11 September 2001, September 11 attacks: Prime Minister’s statement.
-27 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012.
-28 Note Blair [to Bush], 12 September 2001, ‘Note for the President’.
+[^26]: The National Archives, 11 September 2001, September 11 attacks: Prime Minister’s statement.
+[^27]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^28]: Note Blair [to Bush], 12 September 2001, ‘Note for the President’.
 
 321
 
@@ -548,7 +540,7 @@ senior officials within the MOD.
 “… had a habit of writing notes, both internally and to President Clinton and to 
 President Bush, on all sorts of subjects, because he found it better to put something 
 in writing rather than simply talk about it orally and get it much more concretely and 
-… in focused terms.”29 
+… in focused terms.”[^29] 
 
 55.  The UN Security Council adopted resolution 1368 on 12 September which stated 
 that the Security Council had:
@@ -557,7 +549,7 @@ that the Security Council had:
 caused by terrorist acts,
 
 “Recognising the inherent right of individual or collective self-defence in accordance 
-with the Charter”.30
+with the Charter”.[^30]
 
 56.  Condemning the attacks “as a threat to international peace and security” the 
 Security Council called on:
@@ -579,15 +571,15 @@ and expressed:
 11 September 2001, and to combat all forms of terrorism, in accordance with its 
 responsibilities under the Charter of the United Nations”. 
 
-29 Public hearing, 18 January 2010, page 38.
-30 UN Security Council resolution 1368 (2001).
+[^29]: Public hearing, 18 January 2010, page 38.
+[^30]: UN Security Council resolution 1368 (2001).
 
 322
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 57.  In his statement to the House of Commons on 14 September, Mr Blair said that the 
-events of 11 September had been a warning and that “we should act on the warning”.31 
+events of 11 September had been a warning and that “we should act on the warning”.[^31] 
 Terrorists would:
 
 “… if they could, go further and use chemical, biological and or even nuclear 
@@ -609,7 +601,7 @@ Sudan, Iraq, Iran, Syria and Afghanistan, Mr Blair replied that Mr Marsden and o
 “… should not pay too much attention to some of the wilder pieces of speculation 
 that inevitably are made at a time like this. It is important to recognise that the way 
 in which the United States of America has proceeded so far is exactly right: in a calm 
-and considered way, and in close consultation with allies such as ourselves.”32
+and considered way, and in close consultation with allies such as ourselves.”[^32]
 
 60.  Mr Blair added that it was: 
 
@@ -621,7 +613,7 @@ bringing them to justice.”
 a number of speakers, including Mr Tam Dalyell (Labour), who argued that a generation 
 in Iraq and elsewhere in the Middle East was “growing up absolutely to loathe the United 
 States and Britain” and urged the Government to look again at “10 years of bombing of 
-Iraq and sanctions”.33
+Iraq and sanctions”.[^33]
 
 62.  Asked when he had taken the decision that “we should be prepared to join the 
 Americans in using force and that we should be prepared to use force ourselves” against 
@@ -631,9 +623,9 @@ Iraq, Mr Blair told the Inquiry:
 is going to take on a different meaning now. Of course the Americans had already 
 a policy of regime change. That was a policy in fact articulated by President Clinton, 
 
-31 House of Commons, Official Report, 14 September 2001, columns 606-607.
-32 House of Commons, Official Report, 14 September 2001, column 616.
-33 House of Commons, Official Report, 14 September 2001, column 632.
+[^31]: House of Commons, Official Report, 14 September 2001, columns 606-607.
+[^32]: House of Commons, Official Report, 14 September 2001, column 616.
+[^33]: House of Commons, Official Report, 14 September 2001, column 632.
 
 323
 
@@ -642,7 +634,7 @@ So it was obviously going to be on the agenda. I was always going to make it cle
 and did make it clear we would be shoulder to shoulder with America in dealing with 
 these threats after September 11th. So how we were to deal with that would be an 
 open question. That we were going to deal with it I think was pretty clear from that 
-moment on.”34
+moment on.”[^34]
 
 63.  Following the attacks, President Bush determined that the Taliban regime 
 in Afghanistan, which was harbouring Al Qaida, should be the priority for the 
@@ -654,13 +646,13 @@ US interests.
 
 65.  On 15 September the British Embassy Washington reported to London that the 
 US now looked at the world through a new prism: US policy towards Iraq would harden, 
-especially if any evidence emerged which linked Saddam Hussein to the terrorists.35 
+especially if any evidence emerged which linked Saddam Hussein to the terrorists.[^35] 
 The “regime-change hawks” in Washington were arguing that a coalition put together 
 for one purpose [against international terrorism] could be used to clear up other problems 
 in the region.
 
 66.  President Bush convened a meeting of his national security team at Camp David 
-on 15 September.36 The team included Vice President Dick Cheney, Mr Colin Powell 
+on 15 September.[^36] The team included Vice President Dick Cheney, Mr Colin Powell 
 (US Secretary of State), Mr Donald Rumsfeld (US Secretary of Defense),  
 Mr George Tenet (Director of Central Intelligence), Dr Condoleezza Rice (US National 
 Security Advisor) and Mr Paul Wolfowitz (Deputy Secretary of Defense).
@@ -677,18 +669,16 @@ about Iran.
 Myers, the Vice-Chairman of the Joint Chiefs of Staff, that the US response 
 should consider a wide range of options and possibilities; and said that his 
 instinct was to hit Saddam Hussein at the same time – not only Usama Bin 
-Laden.37 
+Laden.[^37] 
 
-34 Public hearing, 21 January 2011, page 7.
-35 Telegram 1056 Washington to FCO London, 15 September 2001, ‘US Terrorist Attacks: Wider Foreign 
-Policy Implications’. 
-36 Bush GW. Decision Points. Virgin Books, 2010. 
-37 Final Report of the National Commission on Terrorist Attacks Upon the United States.  
-The 9/11 Commission Report. Norton.
+[^34]: Public hearing, 21 January 2011, page 7.
+[^35]: Telegram 1056 Washington to FCO London, 15 September 2001, ‘US Terrorist Attacks: Wider Foreign 
+[^36]: Bush GW. Decision Points. Virgin Books, 2010. 
+[^37]: Final Report of the National Commission on Terrorist Attacks Upon the United States.  
 
 324
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 68.  Dr Rice told the Commission that the US Administration had been concerned that 
 Iraq would take advantage of the 9/11 attacks. She recalled that, in the first Camp David 
@@ -717,31 +707,31 @@ commitment to antiterrorism.”
 *  Vice President Cheney had “understood the threat of Saddam Hussein and 
 
 believed we had to address it. But now is not a good time to do it … We would 
-lose our momentum.”38
+lose our momentum.”[^38]
 
 72.  Mr Tenet wrote: 
 
 “When an informal vote was taken on whether to include Iraq in our immediate 
 response plans, the principals voted four to zero against it, with Don Rumsfeld 
-abstaining.”39
+abstaining.”[^39]
 
 73.  According to his memoir, President Bush took the decision on 16 September that: 
 
 “Unless I received definitive evidence tying Saddam Hussein to the 9/11 plot, I would 
 work to resolve the Iraq problem diplomatically. I hoped unified pressure by the world 
 might compel Saddam to meet his international obligations. The best way to show 
-him we were serious was to succeed in Afghanistan.”40 
+him we were serious was to succeed in Afghanistan.”[^40] 
 
-38 Bush GW. Decision Points. Virgin Books, 2010. 
-39 Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
-40 Bush GW. Decision Points. Virgin Books, 2010.
+[^38]: Bush GW. Decision Points. Virgin Books, 2010. 
+[^39]: Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
+[^40]: Bush GW. Decision Points. Virgin Books, 2010.
 
 325
 
 74.  Dr Rice told the 9/11 Commission that President Bush had called her that day to 
 say the focus would be on Afghanistan, although he still wanted plans for Iraq should 
 the country take some action or the US Administration eventually determine that it had 
-been involved in the 9/11 attacks.41
+been involved in the 9/11 attacks.[^41]
 
 75.  The 9/11 Commission reported that there was some further discussion of Phase 2 
 of the war on terrorism, at a meeting in Washington of the National Security Council on 
@@ -776,20 +766,19 @@ was identified with the US.
 
 80.  Following a request from Mr Blair, for a reassessment of the nature and scale of the 
 threat posed to the UK by terrorism and the contingency plans for dealing with it, the JIC 
-considered whether the scale and nature of the terrorist threat to the UK had changed.42
+considered whether the scale and nature of the terrorist threat to the UK had changed.[^42]
 
-41 Final Report of the National Commission on Terrorist Attacks Upon the United States.  
-The 9/11 Commission Report. Norton. Page 335.
-42 Minutes, 14 September 2001, JIC meeting.
+[^41]: Final Report of the National Commission on Terrorist Attacks Upon the United States.  
+[^42]: Minutes, 14 September 2001, JIC meeting.
 
 326
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 81.  The Assessment, issued on 18 September, considered whether the attacks of 
 11 September changed the nature and scale of the terrorist threat to the UK, and 
 its potential vulnerability to major terrorist attack, and “the current and immediately 
-foreseeable threat in terms of the intention and capability of known terrorist groups”.43 
+foreseeable threat in terms of the intention and capability of known terrorist groups”.[^43] 
 The Assessment assumed that there would be “a continuation of the current political 
 circumstances in which the UK is closely identified with the US”. 
 
@@ -823,7 +812,7 @@ whether we could build up the case against Iraq or other countries” before act
 
 85.  Mr Blair attended a memorial service for British victims of the 9/11 attacks on 
 the World Trade Centre in New York on 20 September, and subsequently travelled to 
-Washington to meet President Bush.44 
+Washington to meet President Bush.[^44] 
 
 86.  In relation to suggestions then circulating in the US that Iraq was behind the 9/11 
 attacks, the record states that Mr Blair told President Bush there was no doubt that 
@@ -832,15 +821,13 @@ Saddam Hussein was evil:
 “But before any action was taken against him, we would need to be very sure indeed 
 that there was compelling evidence. It would be best to deal with Afghanistan initially 
 
-43 JIC Assessment, 18 September 2001, ‘UK Vulnerability to Major Terrorist Attack’. As a Director in the 
-Treasury Public Services Directorate responsible for the Defence, Diplomacy and Intelligence Team, 
-Ms Margaret Aldred, the Secretary to the Inquiry, was present at the discussion.
-44  BBC News, 21 September 2001, Blair pledges solidarity with the US.
+[^43]: JIC Assessment, 18 September 2001, ‘UK Vulnerability to Major Terrorist Attack’. As a Director in the 
+[^44]:  BBC News, 21 September 2001, Blair pledges solidarity with the US.
 
 327
 
 and then take our time to see whether we could build up the case against Iraq or 
-other countries.”45
+other countries.”[^45]
 
 87.  Mr Blair added that there was very wide international support for a careful and 
 considered US approach. It was sometimes frustrating to work with a coalition, but 
@@ -851,21 +838,21 @@ President Bush and Mr Blair, the 9/11 Commission wrote:
 
 “When Blair asked about Iraq, the President replied that Iraq was not the immediate 
 problem. Some members of his administration, he commented, had expressed a 
-different view, but he was the one responsible for making the decisions.”46
+different view, but he was the one responsible for making the decisions.”[^46]
 
 89.  Mr Campbell wrote in his diaries that President Bush had said the focus was on 
 Usama Bin Laden and the Taliban: “But he also talked about how they could go after 
-Saddam’s oilfields.”47
+Saddam’s oilfields.”[^47]
 
 90.  Mr Jonathan Powell, Mr Blair’s Chief of Staff, told the Inquiry that President Bush 
-had agreed: “the focus would be on Afghanistan and Al Qaida”.48
+had agreed: “the focus would be on Afghanistan and Al Qaida”.[^48]
 
 91.  Sir Christopher Meyer, British Ambassador to the United States from 2001 to 
 February 2003, told the Inquiry that Mr Blair had sent a message to President Bush:
 
 “… setting out his views on what needed to be done and he argued very strongly for 
 a laser-like focus on Al Qaida and Afghanistan. By the time he got to Washington … 
-the door was already open. He didn’t have to argue the case.”49 
+the door was already open. He didn’t have to argue the case.”[^49] 
 
 92.  In a speech to Congress, President Bush set out the US determination to fight 
 a war against terrorism by every means at its disposal.
@@ -875,22 +862,19 @@ leaders of Al Qaida and close its training camps.
 
 94.  Addressing the US Congress on 20 September, President Bush stated that the US 
 had “no truer friend than Great Britain” and thanked Mr Blair for crossing the “ocean to 
-show his unity of purpose”.50 
+show his unity of purpose”.[^50] 
 
-45 Letter Manning to McDonald, 20 September 2001, ‘Prime Minister’s Visit to Washington on 
+[^45]: Letter Manning to McDonald, 20 September 2001, ‘Prime Minister’s Visit to Washington on 
 20 September: Dinner with President Bush’.
-46 Final Report of the National Commission on Terrorist Attacks Upon the United States.  
-The 9/11 Commission Report. Norton. Page 336.
-47 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012.
-48 Public hearing, 18 January 2010, page 16.
-49 Public hearing, 26 November 2009, page 22.
-50 The White House, 20 September 2001, Address to a Joint Session of Congress and the American 
-People.
+[^46]: Final Report of the National Commission on Terrorist Attacks Upon the United States.  
+[^47]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^48]: Public hearing, 18 January 2010, page 16.
+[^49]: Public hearing, 26 November 2009, page 22.
+[^50]: The White House, 20 September 2001, Address to a Joint Session of Congress and the American 
 
 328
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 95.  President Bush stated that the evidence for responsibility for the attacks on 
 11 September pointed to “a collection of loosely affiliated terrorist organizations” known 
@@ -937,14 +921,14 @@ which the US Administration and the UK Government viewed policy towards Iraq.
 
 99.  Secretary Rumsfeld recorded that President Bush had first asked him to “look at 
 the shape of our military plans on Iraq” on 26 September; and had said that the options 
-should be “creative”.51 
+should be “creative”.[^51] 
 
-51 Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011.
+[^51]: Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011.
 
 329
 
 100.  Secretary Rumsfeld ordered a review of existing US war plans for Iraq on 
-29 September.52 
+29 September.[^52] 
 
 101.  Subsequent accounts by key members of the US Administration set out how they 
 considered the context for US policy on Iraq had changed following the attacks.
@@ -954,13 +938,13 @@ considered the context for US policy on Iraq had changed following the attacks.
 
 “After September the 11th, the doctrine of containment just doesn’t hold any water 
 … My vision shifted dramatically after September the 11th, because I now realize 
-the stakes. I realize the world has changed.”53 
+the stakes. I realize the world has changed.”[^53] 
 
 103.  In his memoir President Bush wrote that the “lack of a serious response” to 
 previous Al Qaida attacks had been interpreted: 
 
 “… as a sign of weakness and an invitation to attempt more brazen attacks … 
-After 9/11, I was determined to change that impression.”54 
+After 9/11, I was determined to change that impression.”[^54] 
 
 104.  Describing the impact of the attacks on his view on Iraq, President Bush wrote:
 
@@ -981,21 +965,21 @@ of 9/11 was that if we waited for a danger to fully materialize, we would have w
 too long. I reached a decision: We would confront the threat from Iraq, one way  
 or another.”
 
-52 Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism. HarperCollins, 
+[^52]: Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism. HarperCollins, 
 2008; Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing 
 Office, 2009. 
-53 The White House, 31 January 2003, Remarks by the President and British Prime Minister Tony Blair. 
-54 Bush GW. Decision Points. Virgin Books, 2010. 
+[^53]: The White House, 31 January 2003, Remarks by the President and British Prime Minister Tony Blair. 
+[^54]: Bush GW. Decision Points. Virgin Books, 2010. 
 
 330
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 105.  Dr Rice wrote that after 9/11:
 
 “No security issue ever looked quite the same again, and every day our 
 overwhelming preoccupation was to avoid another attack … Our entire concept 
-of what constituted security had been shaken.”55
+of what constituted security had been shaken.”[^55]
 
 106.  Mr Tenet wrote: 
 
@@ -1010,33 +994,33 @@ our ability to deal with him would take on an entirely different cast.
 
 “… it seemed a given that the United States had not done enough to stop Al Qaida … 
 and had paid an enormous price. Therefore … we could not allow ourselves to be 
-in a similar situation in Iraq.”56
+in a similar situation in Iraq.”[^56]
 
 107.  Sir Peter Ricketts, Chairman of the JIC until September 2001 and subsequently 
 FCO Political Director until July 2003, told the Inquiry that “through to 9/11, the dominant 
 player [on Iraq policy in Washington] was the State Department”; but after 9/11 the 
-dominant force changed.57 
+dominant force changed.[^57] 
 
 108.  Sir David Manning, Mr Blair’s Foreign Policy Adviser and Head of the Cabinet 
 Office Overseas and Defence Secretariat (OD Sec), told the Inquiry that “Indefinite 
 containment … looked increasingly implausible”. After 9/11 the mood in Washington 
-had “changed dramatically” and “tolerance for containment had changed”.58 
+had “changed dramatically” and “tolerance for containment had changed”.[^58] 
 
 109.  Mr Powell told the Inquiry that the US saw 9/11 as a “Pearl Harbour of the 21st 
 Century”; they were being attacked at home and that made them “much more willing to 
-be pre-emptive”.59 
+be pre-emptive”.[^59] 
 
 110.  Mr Straw told the Inquiry that 9/11 changed everything and that in his view “people 
-in Europe still don’t quite comprehend the degree”.60 Mr Straw added that the attacks 
+in Europe still don’t quite comprehend the degree”.[^60] Mr Straw added that the attacks 
 led to a consensus across the world that a policy of tolerating failing or failed states was 
 unacceptable. The perception of risk changed.
 
-55 Rice C. No Higher Honour. Simon & Schuster, 2011.
-56 Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
-57 Public hearing, 24 November 2009, page 24.
-58 Public hearing, 30 November 2009, pages 28-29. 
-59 Public hearing, 18 January 2010, page 15.
-60 Public hearing, 21 January 2010, pages 6-7.
+[^55]: Rice C. No Higher Honour. Simon & Schuster, 2011.
+[^56]: Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
+[^57]: Public hearing, 24 November 2009, page 24.
+[^58]: Public hearing, 30 November 2009, pages 28-29. 
+[^59]: Public hearing, 18 January 2010, page 15.
+[^60]: Public hearing, 21 January 2010, pages 6-7.
 
 331
 
@@ -1045,16 +1029,16 @@ unacceptable. The perception of risk changed.
 “… I think I would fairly describe our policy … as doing our best, hoping for the best, 
 but with a different calculus of risk assessment … up to September 11, we thought 
 there was a risk but we thought it was worth trying to contain it. The crucial thing 
-after September 11 is that the calculus of risk changed.”61 
+after September 11 is that the calculus of risk changed.”[^61] 
 
 112.  Mr Blair added: “after September 11, our view, the American view, changed 
-dramatically”.62
+dramatically”.[^62]
 
 113.  Mr Blair stated that his:
 
 “… primary consideration … was to send an absolutely powerful, clear and 
 unremitting message that … if you were a regime engaged in WMD, you had 
-to stop.”63 
+to stop.”[^63] 
 
 114.  In the UK, pursuit of agreement in the Security Council for improvements 
 in the sanctions regime for Iraq was seen as key to both sustaining the policy 
@@ -1082,16 +1066,16 @@ position is not being challenged …
 “… there was no intelligence of an Iraqi link to the terrorist attacks in the US last 
 week. But the Iraqis were nervous of being blamed for the attack. There were 
 indications of the dispersal of Iraqi military assets. Saddam Hussein had urged 
-the US to exercise restraint.”64
+the US to exercise restraint.”[^64]
 
-61 Public hearing, 29 January 2010, page 7.
-62 Public hearing, 29 January 2010, page 9.
-63 Public hearing, 29 January 2010, page 24.
-64 Minute McKane to Manning, 18 September 2001, ‘Iraq Stocktake’. 
+[^61]: Public hearing, 29 January 2010, page 7.
+[^62]: Public hearing, 29 January 2010, page 9.
+[^63]: Public hearing, 29 January 2010, page 24.
+[^64]: Minute McKane to Manning, 18 September 2001, ‘Iraq Stocktake’. 
 
 332
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 118.  Mr McKane added that there had been diplomatic activity over the summer to 
 explore options. In relation to the end of November deadline for the renewal of the 
@@ -1127,23 +1111,23 @@ neighbouring states or the international community as a whole … This would not
 easy to sell … but the alternative is a weakening of containment through growing 
 sanctions busting and the withering away of existing controls on Iraq. This would 
 leave us with little to fall back on, other than excessive reliance on military force, 
-which in turn would undermine our ability to maintain a coalition against terrorism.”65
+which in turn would undermine our ability to maintain a coalition against terrorism.”[^65]
 
 121.  Mr Alan Goulty, FCO Director Middle East and North Africa, commented:
 
 “If this approach is to be tried we should tackle the Americans soon. The key 
 argument is that progress on Iraq will help coalition-building. But that will be hard 
-to sell to the Washington hawks, especially in the Pentagon.”66
+to sell to the Washington hawks, especially in the Pentagon.”[^66]
 
-65 Minute Patey to Goulty and PS [FCO], 20 September 2001, ‘Iraq: Way Forward’. 
-66 Manuscript comment Goulty, 20 September 2001, on Minute Patey to Goulty and PS [FCO],  
+[^65]: Minute Patey to Goulty and PS [FCO], 20 September 2001, ‘Iraq: Way Forward’. 
+[^66]: Manuscript comment Goulty, 20 September 2001, on Minute Patey to Goulty and PS [FCO],  
 20 September 2001, ‘Iraq: Way Forward’. 
 
 333
 
 122.  Mr Straw’s Private Office responded that he agreed with the proposed way forward 
 set out in Mr Patey’s advice, subject to any views which Sir David Manning might have 
-and the need for it to be worked through with senior members of the US Administration.67 
+and the need for it to be worked through with senior members of the US Administration.[^67] 
 
 123.  Sir David and Mr McKane were sent copies of the exchange.
 
@@ -1169,7 +1153,7 @@ Yet, the truth is that a single attack involving a nuclear or biological weapon 
 have killed millions … The greatest danger arises from a non-State group – or 
 even an individual – acquiring and using a nuclear, biological, or chemical weapon. 
 Such a weapon could be delivered without the need for any missile or any other 
-sophisticated delivery system.”68 
+sophisticated delivery system.”[^68] 
 
 127.  Mr Blair set out his vision for the world after the events of 9/11 in his speech to the 
 Labour Party Conference on 2 October 2001: 
@@ -1177,21 +1161,20 @@ Labour Party Conference on 2 October 2001:
 “It [9/11] was a tragedy. An act of evil. From this nation, goes our deepest sympathy 
 and prayers for the victims and our profound solidarity with the American people.
 
-“We were with you at the first, we will stay with you to the last.”69
+“We were with you at the first, we will stay with you to the last.”[^69]
 
 128.  Of the relatives of those who died, Mr Blair said:
 
 “They don’t want revenge. They want something better in memory of their  
 loved ones.
 
-67 Minute Davies to Patey, 24 September 2001, ‘Iraq: Way Forward’.
-68 UN Press Release, 1 October 2001, Secretary-General, Addressing Assembly on Terrorism,  
-Calls for ‘Immediate Far-Reaching Changes’ in UN Response to Terror.
-69  The Guardian, 2 October 2001, Full text: Tony Blair’s speech (Parts one and two).
+[^67]: Minute Davies to Patey, 24 September 2001, ‘Iraq: Way Forward’.
+[^68]: UN Press Release, 1 October 2001, Secretary-General, Addressing Assembly on Terrorism,  
+[^69]:  The Guardian, 2 October 2001, Full text: Tony Blair’s speech (Parts one and two).
 
 334
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 “I believe their memorial can and should be greater than simply the punishment 
 of the guilty. It is that out of the shadow of this evil, should emerge lasting good: 
@@ -1256,17 +1239,17 @@ expressed his sympathy for, support for the United States of America in its hour
 of need with unparalleled eloquence.
 
 “That speech, and that particular phrase … resonated enormously around the 
-United States.”70
+United States.”[^70]
 
 132.  Military action in Afghanistan began on 7 October. 
 
 133.  A UK Government document on the responsibility for the attacks on the US on 
-11 September was issued by No.10 on 4 October.71 
+11 September was issued by No.10 on 4 October.[^71] 
 
 The October 2001 “dossier” 
 
 On 4 October 2001, No.10 issued a document setting out its conclusions on responsibility 
-for the attacks in the US on 11 September.72 
+for the attacks in the US on 11 September.[^72] 
 The document made clear that it was, in part, based on intelligence and stated:
 
 “The details of some aspects cannot be given, but the facts are clear from the 
@@ -1286,15 +1269,15 @@ atrocities;
 
 “the United Kingdom, and United Kingdom nationals are potential targets; and
 
-70 Public hearing, 26 November 2009, pages 22-23.
-71 Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States,  
+[^70]: Public hearing, 26 November 2009, pages 22-23.
+[^71]: Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States,  
 11 September 2001’.
-72 Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States,  
+[^72]: Paper No.10, 4 October 2001, ‘Responsibility for the Terrorist Atrocities in the United States,  
 11 September 2001’.
 
 336
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 “Usama Bin Laden and Al Qaida were able to commit these atrocities because of 
 their close alliance with the Taliban regime [in Afghanistan], which allowed them 
@@ -1321,9 +1304,9 @@ religious duty”.
 
 134.  Mr Tim Dowse, Head of the FCO Non-Proliferation Department from January 2001 
 to November 2003, told the Inquiry that the issue of the dossier was “regarded as a 
-rather successful action”.73
+rather successful action”.[^73]
 
-135.  The air campaign against the Taliban in Afghanistan began on 7 October.74
+135.  The air campaign against the Taliban in Afghanistan began on 7 October.[^74]
 
 136.  Concern that continuing speculation about further American military action 
 against other states was undermining support for the campaign against Al Qaida 
@@ -1333,7 +1316,7 @@ next steps until they knew what that might mean.
 
 137.  Following discussions with leaders in the Middle East, Mr Blair wrote to 
 President Bush on 11 October about the military operation in Afghanistan and the 
-pressures generated by the “War against Terrorism”.75 Mr Blair described “extending 
+pressures generated by the “War against Terrorism”.[^75] Mr Blair described “extending 
 the war zone” and the Middle East Peace Process (MEPP) as the “top flashpoints”. 
 
 138.  Mr Blair wrote that it was time to move to the “next stage of the military operation 
@@ -1346,9 +1329,9 @@ up with the current operation” in Afghanistan. The uncertainty caused by refer
 a “Phase 2” in the war on terrorism “seeming to extend to Iraq, Syria etc” was “really 
 hurting … because it seems to confirm the UBL propaganda that this is West vs Arab”. 
 
-73 Public hearing, 25 November 2009 [morning], page 52.
-74 The White House, 7 October 2001, Presidential Address to the Nation.
-75 Letter Blair to Bush, 11 October 2001, [untitled].
+[^73]: Public hearing, 25 November 2009 [morning], page 52.
+[^74]: The White House, 7 October 2001, Presidential Address to the Nation.
+[^75]: Letter Blair to Bush, 11 October 2001, [untitled].
 
 337
 
@@ -1375,44 +1358,43 @@ and suggested that he and President Bush should “talk soon”.
 
 143.  In a telephone conversation on 17 October, mainly about Afghanistan, Mr Blair and 
 President Bush discussed the recent anthrax attacks on the US and whether the source 
-of the material might be Iraq.76
+of the material might be Iraq.[^76]
 
 144.  In his memoir, President Bush wrote that “One of the best intelligence services 
-in Europe” had told the US it suspected Iraq.77
+in Europe” had told the US it suspected Iraq.[^77]
 
 145.  On 19 October, US Special Forces landed in Afghanistan to link up with the CIA 
-and Northern Alliance.78
+and Northern Alliance.[^78]
 
 146.  Lord Wilson of Dinton, Cabinet Secretary from 1998 to September 2002, told the 
 Inquiry that he thought Mr Blair had:
 
 “… played … an important part in dissuading them [the US] from any thoughts  
 that 9/11 was connected with Iraq and dissuading them from taking any action 
-against Iraq”.79 
+against Iraq”.[^79] 
 
 147.  Lord Wilson stated that international terrorism and the military action in Afghanistan 
-was the major focus of the UK government at that time.80 
+was the major focus of the UK government at that time.[^80] 
 
 148.  By mid-October, discussions on a revised economic sanctions regime for 
 Iraq had made little progress. Russia was seen as the main obstacle to agreement. 
 
-76 Letter Wechsberg to McDonald, 17 October 2001, ‘Prime Minister’s Telephone Conversation with 
-President Bush: 17 October’.
-77 Bush GW. Decision Points. Virgin Books, 2010.
-78 Bush GW. Decision Points. Virgin Books, 2010.
-79 Public hearing, 25 January 2011, page 13.
-80 Public hearing, 25 January 2011, page 28.
+[^76]: Letter Wechsberg to McDonald, 17 October 2001, ‘Prime Minister’s Telephone Conversation with 
+[^77]: Bush GW. Decision Points. Virgin Books, 2010.
+[^78]: Bush GW. Decision Points. Virgin Books, 2010.
+[^79]: Public hearing, 25 January 2011, page 13.
+[^80]: Public hearing, 25 January 2011, page 28.
 
 338
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 149.  Following a visit by Mr Blair to Moscow, where there was no movement in the 
 Russian position, Mr Simon McDonald, Mr Straw’s Principal Private Secretary, wrote 
 to Sir David Manning on 11 October stating: 
 
 “The present position is not sustainable. Sanctions are eroding. Iraqi WMD 
-programmes are continuing. The Security Council is divided.”81 
+programmes are continuing. The Security Council is divided.”[^81] 
 
 150.  Mr McDonald recorded that another, simple Oil-for-Food rollover resolution would 
 be seen as a victory for Saddam Hussein at the US and the UK’s expense.
@@ -1425,10 +1407,10 @@ which would fracture the coalition.”
 151.  Sir David Manning discussed the UK’s draft resolution, and the need for US help 
 to persuade Russia to support it, with Dr Rice on 12 October. He reported that it was 
 unlikely to be a priority for President Bush in his discussions with President Vladimir 
-Putin, the President of Russia.82
+Putin, the President of Russia.[^82]
 
 152.  Sir David and Dr Rice also discussed differences between the UK and the US 
-about the scale of any response if a UK or US pilot was shot down in the No-Fly Zones.83 
+about the scale of any response if a UK or US pilot was shot down in the No-Fly Zones.[^83] 
 
 Operations in the No-Fly Zones
 
@@ -1439,7 +1421,7 @@ largely at the request of Mr Robin Cook, the previous Foreign Secretary, and Lor
 Williams of Mostyn, the Attorney General, and his successor Lord Goldsmith. Those 
 reviews and the outcomes are considered in Section 1.2. 
 Mr McKane responded to a letter of 24 August from Mr David Brummell, the Legal 
-Secretary to the Law Officers, on 16 October.84 Mr McKane stated that, if the UK pulled 
+Secretary to the Law Officers, on 16 October.[^84] Mr McKane stated that, if the UK pulled 
 out of the southern No-Fly Zone it would have to be explained; and that “could only be 
 politically sustainable if couched on the basis that the Zone was no longer required, 
 presumably because we judged that Saddam’s behaviour and intent had shifted in a 
@@ -1449,10 +1431,10 @@ the southern Zone; Turkey would be “unlikely, in a minority of one, to continu
 coalition patrols. Regular patrols of the northern Zone were “necessary” if lives were to 
 be saved.
 
-81 Letter McDonald to Manning, 11 October 2001, ‘Iraq: Next Steps’. 
-82 Letter Manning to McDonald, 12 October 2001, ‘Iraq: Next Steps’. 
-83 Letter Manning to McDonald, 12 October 2001, ‘Iraq: Desert Badger’. 
-84 Letter McKane to Brummell, 16 October 2001, ‘Iraq: No Fly Zones’. 
+[^81]: Letter McDonald to Manning, 11 October 2001, ‘Iraq: Next Steps’. 
+[^82]: Letter Manning to McDonald, 12 October 2001, ‘Iraq: Next Steps’. 
+[^83]: Letter Manning to McDonald, 12 October 2001, ‘Iraq: Desert Badger’. 
+[^84]: Letter McKane to Brummell, 16 October 2001, ‘Iraq: No Fly Zones’. 
 
 339
 
@@ -1463,14 +1445,14 @@ Mr McKane informed Sir David Manning that the MOD had been asked what would
 have to be done to ensure that Kuwait could be defended effectively if patrolling over the 
 southern NFZ stopped. He suggested that “once the immediate crisis is over” the issue 
 should be considered again; stopping patrolling in the Zones could “remove a major 
-source of discomfort from our relations with the Arab world”.85 
+source of discomfort from our relations with the Arab world”.[^85] 
 At the Cabinet Office meeting on 30 October, the MOD reported that the US had “returned 
 to normal operations over Iraq” but there were “fewer coalition patrols over a more 
-restricted area (largely south and west of the Euphrates)”.86 Contingency plans in the 
+restricted area (largely south and west of the Euphrates)”.[^86] Contingency plans in the 
 event that a coalition aircraft was shot down were being discussed with the US. 
 In January 2002, Mr McKane reported that there had been no Iraqi violation of the 
 southern No-Fly Zone since 11 September 2001, and that the last Allied bombing of 
-an Iraq air defence target had taken place on 27 November 2001.87 The MOD was 
+an Iraq air defence target had taken place on 27 November 2001.[^87] The MOD was 
 “concerned about the risks to RAF aircrew” and considering whether “It might be 
 necessary to attack air defence targets north of the 33rd parallel … in order to make it 
 safe for such patrols to be resumed.”
@@ -1489,22 +1471,21 @@ containment.
 155.  A paper written within the FCO on 24 October stated that the US was deliberately 
 keeping open the option of coercive military action and US military Commanders in Chief 
 had been “instructed … to work up contingency plans for dealing with terrorist targets 
-within their area of responsibility”.88 The MOD was “trying to discover some of the detail”. 
+within their area of responsibility”.[^88] The MOD was “trying to discover some of the detail”. 
 
 156.  In relation to Iraq, the FCO paper stated that it was:
 
 “The prime candidate for military action among US hawks and the only realistic 
 target for coercive/punitive/regime-change military action (as opposed to targeted 
 
-85 Minute McKane to Manning, 17 October 2001, ‘Iraq: No Fly Zones’. 
-86 Minute McKane to Manning, 31 October 2001, ‘Iraq’. 
-87 Minute McKane to Manning, 15 January 2002, ‘Iraq’. 
-88 Minute Bloomfield to Wright, 24 October 2001, ‘Terrorist and State Sponsors: Possible US Strategies’ 
-attaching Paper, ‘Terrorist and State Sponsors: Possible US Strategies’. 
+[^85]: Minute McKane to Manning, 17 October 2001, ‘Iraq: No Fly Zones’. 
+[^86]: Minute McKane to Manning, 31 October 2001, ‘Iraq’. 
+[^87]: Minute McKane to Manning, 15 January 2002, ‘Iraq’. 
+[^88]: Minute Bloomfield to Wright, 24 October 2001, ‘Terrorist and State Sponsors: Possible US Strategies’ 
 
 340
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 strikes). But such action would carry significant downsides in terms of alienating 
 world opinion.”
@@ -1520,7 +1501,7 @@ ramifications of such actions.”
 158.  Sir Jeremy Greenstock, UK Permanent Representative to the UN in New York, 
 wrote to Sir David Manning on 29 October warning that the UK’s draft resolution 
 adapting the sanctions regime “looks unachievable this autumn, largely because of 
-Russian obduracy and US unwillingness to exert sufficient pressure to move them”.89
+Russian obduracy and US unwillingness to exert sufficient pressure to move them”.[^89]
 
 159.  Sir Jeremy added: 
 
@@ -1553,7 +1534,7 @@ did “not want a repeat of the UNSCOM problem, with Saddam calling the shots”
 
 the clarification of resolution 1284 (1999). 
 
-89 Letter Greenstock to Manning, 29 October 2001, ‘Iraq: Cabinet Office Meeting, 30 October’.
+[^89]: Letter Greenstock to Manning, 29 October 2001, ‘Iraq: Cabinet Office Meeting, 30 October’.
 
 341
 
@@ -1563,7 +1544,7 @@ asset” and that the US should be persuaded it was “worth paying a price for�
 military action against Iraq in the current circumstances. If the Americans do 
 not buy into the strategy outlined above, then together we will have to think of 
 another one. We cannot do nothing and allow war against Iraq to become the 
-only option by default.”90 
+only option by default.”[^90] 
 
 161.  The objectives should be:
 
@@ -1592,11 +1573,11 @@ possible further terrorist attacks, we began to see that there was not much ener
 being expended in Washington on outreach, consultation and good relationships. 
 Even before I heard of any serious action being taken to prepare for a possible 
 attack on Iraq, I was coming to the conclusion that the United States was missing 
-an opportunity …”91
+an opportunity …”[^91]
 
 165.  FCO junior officials prepared a draft paper, ‘Iraq: Fallback option’ for a meeting 
 on Iraq to be chaired by the Cabinet Office on 30 October, setting out the background 
-to the differing positions of Iraq and of the P5 members of the Security Council.92 
+to the differing positions of Iraq and of the P5 members of the Security Council.[^92] 
 Those included: 
 
 *  Iraq’s claims that resolution 1284 (1999) was so ambiguous that the US could 
@@ -1604,13 +1585,13 @@ Those included:
 easily deny that co-operation had been adequate to trigger suspension of 
 sanctions; 
 
-90 Letter Greenstock to Manning, 29 October 2001, ‘Iraq: Cabinet Office Meeting, 30 October’. 
-91 Statement, November 2009, page 5.
-92 Email Tanfield to Saunders, 30 October 2001, ‘Iraq: Fallback Option’. 
+[^90]: Letter Greenstock to Manning, 29 October 2001, ‘Iraq: Cabinet Office Meeting, 30 October’. 
+[^91]: Statement, November 2009, page 5.
+[^92]: Email Tanfield to Saunders, 30 October 2001, ‘Iraq: Fallback Option’. 
 
 342
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 inspectors to return:
 
@@ -1636,7 +1617,7 @@ a P5 statement of commitment to engage in serious discussion on how to tackle Ir
 WMD, within existing SCRs [Security Council resolutions] but including the clarification 
 of ambiguities in SCR 1284”.
 
-167.  The Cabinet Office meeting on 30 October discussed the wider approach to Iraq.93
+167.  The Cabinet Office meeting on 30 October discussed the wider approach to Iraq.[^93]
 
 168.  Mr McKane reported to Sir David Manning that there was little change to Saddam 
 Hussein’s position:
@@ -1661,28 +1642,28 @@ seek a P5 statement “of commitment to engage in serious discussion on Iraqi WM
 including clarification of UNSCR 1284”. If that was not possible, a simple rollover 
 resolution would be a setback: “But it would sustain containment, just.”
 
-93 Minute McKane to Manning, 31 October 2001, ‘Iraq’.
+[^93]: Minute McKane to Manning, 31 October 2001, ‘Iraq’.
 
 343
 
 170.  Sir David Manning continued to pursue the UK proposals for “smarter sanctions” 
-in his contacts with Russia.94 
+in his contacts with Russia.[^94] 
 
 171.  Sir Jeremy Greenstock told the Inquiry that although the focus on Afghanistan 
 and terrorism “overshadowed discussions on Iraq … there were intensive efforts … 
 to re-establish P5, and especially Russian support, for a revised Goods Review List 
-resolution”.95 That included three meetings between the Mr Straw and Mr Igor Ivanov, 
+resolution”.[^95] That included three meetings between the Mr Straw and Mr Igor Ivanov, 
 the Russian Foreign Minister, and discussion on the telephone between Mr Blair and 
 President Putin. 
 
 172.  Mr Patey told the Inquiry that there had been British efforts “to sweeten the deal 
-for the Russians”.96
+for the Russians”.[^96]
 
 173.  Mr Blair met President Bush on 7 November, primarily to discuss 
 Afghanistan.
 
 174.  Sir Christopher Meyer sent Mr Straw a letter, ‘America after 11 September’, on 
-5 November.97 That drew attention to President Bush’s anxiety about the anthrax attacks. 
+5 November.[^97] That drew attention to President Bush’s anxiety about the anthrax attacks. 
 
 175.  Commenting on the balance between multilateralism and unilateralism, 
 Sir Christopher wrote that the US had a historic preference for “informal alliances 
@@ -1706,27 +1687,27 @@ affection for Britain from the single minded pursuit of national interest. It is
 we have to close …”
 
 178.  Mr Blair visited Washington on 7 November for talks with President Bush, primarily 
-about Afghanistan.98 
+about Afghanistan.[^98] 
 
-94 Minute McKane to Manning, 2 November 2001, ‘Iraq’. 
-95 Statement, November 2009, page 5.
-96 Public hearing, 24 November 2009, page 46.
-97 Letter Meyer to Straw, 5 November 2001, ‘America after 11 September’. 
-98 Letter Manning to Rice, 8 November 2001, [untitled].
+[^94]: Minute McKane to Manning, 2 November 2001, ‘Iraq’. 
+[^95]: Statement, November 2009, page 5.
+[^96]: Public hearing, 24 November 2009, page 46.
+[^97]: Letter Meyer to Straw, 5 November 2001, ‘America after 11 September’. 
+[^98]: Letter Manning to Rice, 8 November 2001, [untitled].
 
 344
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 179.  Mr Blair gave President Bush a Note during their private meeting, which, under a 
 section on ‘International Initiatives’, referred to the need for a new UN resolution on Iraq 
-and a wider ‘WMD Agreement’.99 
+and a wider ‘WMD Agreement’.[^99] 
 
-180.  The record of the meetings contains no information about discussions of Iraq.100 
+180.  The record of the meetings contains no information about discussions of Iraq.[^100] 
 
 181.  The Government has confirmed that a telephone conversation between Mr Blair 
 and President Bush on 12 November did take place but it has been unable to find 
-a record of the conversation.101 Other papers indicate that the conversation focused 
+a record of the conversation.[^101] Other papers indicate that the conversation focused 
 primarily on Afghanistan.
 
 182.  In mid-November Mr Powell suggested that, after Afghanistan, the UK should 
@@ -1753,7 +1734,7 @@ an attractive – and effective – alternative strategy.
 
 “I think the first thing is to persuade the Americans that rather than repeating what 
 we have done in Afghanistan elsewhere we need to use the leverage that our 
-success in Afghanistan provides to achieve our aims elsewhere.”102 
+success in Afghanistan provides to achieve our aims elsewhere.”[^102] 
 
 186.  On Iraq specifically, Mr Powell wrote:
 
@@ -1762,10 +1743,10 @@ Security Council resolution re-inserting arms inspectors and changing sanctions 
 likely to cut any ice with the Americans let alone the Russians and French … I think 
 we need a completely fresh look at our policy starting from our objectives.” 
 
-99 Note [Blair], [7 November 2001], ‘Note’, attached to Letter Manning to Rice, 8 November 2001, [untitled].
-100 Letter Manning to McDonald, 8 November 2001, ‘Prime Minister’s visit to Washington – 7 November’. 
-101 Email Cabinet Office [junior official] to Iraq Inquiry, 30 June 2014, [untitled]. 
-102 Minute Powell to Prime Minister, 15 November 2001, ‘The War: What Comes Next?’ 
+[^99]: Note [Blair], [7 November 2001], ‘Note’, attached to Letter Manning to Rice, 8 November 2001, [untitled].
+[^100]: Letter Manning to McDonald, 8 November 2001, ‘Prime Minister’s visit to Washington – 7 November’. 
+[^101]: Email Cabinet Office [junior official] to Iraq Inquiry, 30 June 2014, [untitled]. 
+[^102]: Minute Powell to Prime Minister, 15 November 2001, ‘The War: What Comes Next?’ 
 
 345
 
@@ -1798,7 +1779,7 @@ the MEPP seriously.”
 forward before the Pentagon tries to take him off on another tangent”. 
 
 191.  Mr Blair replied: “I agree with this entirely and I should prepare a note for GWB 
-[President Bush] next week.”103
+[President Bush] next week.”[^103]
 
 ## Resolution 1382
 192.  By late-November it was clear that agreement could not be reached on the 
@@ -1810,15 +1791,14 @@ UK had originally sought.
 194.  Mr McKane wrote to Sir David Manning on 23 November, advising: 
 
 “The UK draft does not now appear to have any realistic chance of being accepted 
-by the Security Council.”104 
+by the Security Council.”[^104] 
 
-103 Manuscript comment Blair on Minute Powell to Prime Minister, 15 November 2001, ‘The War: What 
-Comes Next?’ 
-104 Minute McKane to Manning, 23 November 2001, ‘Iraq’. 
+[^103]: Manuscript comment Blair on Minute Powell to Prime Minister, 15 November 2001, ‘The War: What 
+[^104]: Minute McKane to Manning, 23 November 2001, ‘Iraq’. 
 
 346
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 195.  Mr McKane identified two options:
 
@@ -1837,7 +1817,7 @@ rollover.
 197.  On 29 November, the Security Council unanimously adopted resolution 1382 
 extending the existing regime for 180 days and proposing a Goods Review List. 
 The procedures for operating the List would be adopted “subject to any refinements … 
-agreed by the Council”, for implementation on 30 May 2002.105 
+agreed by the Council”, for implementation on 30 May 2002.[^105] 
 
 198.  The resolution also reaffirmed the Security Council’s “commitment to a 
 comprehensive settlement on the basis of the relevant resolutions … including any 
@@ -1853,7 +1833,7 @@ he would like to send to Iraq. He responded that his message was:
 “… if you harbour a terrorist, you’re a terrorist … If you develop weapons of mass 
 destruction that you want to terrorize the world, you’ll be held accountable … And I 
 also have said … we’re going to make sure that we accomplish each mission that 
-we tackle. First things first.”106 
+we tackle. First things first.”[^106] 
 
 201.  Asked whether agreement to allow weapons inspectors back into Iraq was an 
 “unconditional demand”, President Bush stated that Saddam Hussein needed to let 
@@ -1866,9 +1846,8 @@ of mass destruction.
 203.  Asked to confirm previous remarks that Afghanistan was “just the beginning”, 
 President Bush replied that he could not make it clearer that, if nations developed 
 
-105 UN Security Council, ‘4431st Meeting 29 November 2001’, (S/RES/1382(2001)).
-106 The White House, 26 November 2001, The President Welcomes Aid Workers Rescued from 
-Afghanistan.
+[^105]: UN Security Council, ‘4431st Meeting 29 November 2001’, (S/RES/1382(2001)).
+[^106]: The White House, 26 November 2001, The President Welcomes Aid Workers Rescued from 
 
 347
 
@@ -1892,7 +1871,7 @@ getting into the hands of nations that will use them.
 weapons of mass destruction in his definition of terrorist aiding states, Mr Ari Fleischer, 
 President Bush’s Press Secretary, suggested that referred to “the obvious and 
 well-known fact that Iraq and North Korea” were already listed by the US State 
-Department as state sponsors of terrorism.107 
+Department as state sponsors of terrorism.[^107] 
 
 206.  Mr Fleischer subsequently referred to concerns that Al Qaida or another terrorist 
 organisation would seek to acquire nuclear weapons from Iraq or North Korea. That 
@@ -1904,7 +1883,7 @@ military action against Iraq immediately increased.
 
 208.  The British Embassy Washington commented that although the White House 
 spokesman had described President Bush’s remarks as a re-iteration of existing policy, 
-they would fuel media speculation about a shift towards military moves towards Iraq.108 
+they would fuel media speculation about a shift towards military moves towards Iraq.[^108] 
 In its public posture the US was keeping all options open. 
 
 209.  In the Embassy’s view, a debate behind closed doors indicated unresolved 
@@ -1914,15 +1893,15 @@ of planning for regime change.
 
 210.  Asked about the meaning of President Bush’s comments, Secretary Powell stated 
 that the President had not said what he meant and he was “not going to prejudge what 
-it might mean”.109 The only way to make sure Iraq was complying with the agreements 
+it might mean”.[^109] The only way to make sure Iraq was complying with the agreements 
 
-107 The White House, 26 November 2001, Press Briefing by Ari Fleischer.
-108 Telegram 1589 Washington to FCO London, 26 November 2001, ‘Iraq: US Policy on Regime Change’. 
-109  CNN, 26 November 2001, CNN Larry King Live – Interview with Colin Powell.
+[^107]: The White House, 26 November 2001, Press Briefing by Ari Fleischer.
+[^108]: Telegram 1589 Washington to FCO London, 26 November 2001, ‘Iraq: US Policy on Regime Change’. 
+[^109]:  CNN, 26 November 2001, CNN Larry King Live – Interview with Colin Powell.
 
 348
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 “to give up all weapons of mass destruction activity” was to let the inspectors back in 
 and allow them to do their work.
@@ -1944,7 +1923,7 @@ serious threat to the region or to the world.”
 
 214.  In the context of President Bush’s remarks on 26 November, the British Embassy 
 Washington reported that US officials in Washington and New York were discussing 
-the draft resolution with Russian officials.110 
+the draft resolution with Russian officials.[^110] 
 
 215.  Mr Ben Bradshaw, the Parliamentary Under Secretary of State for Foreign and 
 Commonwealth Affairs, told the House of Commons on 27 November that he did not 
@@ -1953,35 +1932,35 @@ think it was “helpful to speculate about the expansion of the current military
 
 “People should not speculate about expanding the … campaign beyond Bin Laden 
 and al-Qaeda … There is no evidence of any other state involvement … We have 
-always made it clear that the military campaign is limited and specific.”111 
+always made it clear that the military campaign is limited and specific.”[^111] 
 
 216.  Asked specifically about Iraq and President Bush’s remarks, Mr Bradshaw replied 
 that Iraq “could very easily solve the problem by adhering to the demands” made by 
 the UN. He reiterated that the military campaign was directed specifically at those 
-responsible for “the mass murder of 11 September”.112
+responsible for “the mass murder of 11 September”.[^112]
 
 217.  In an interview in October, Mr Tariq Aziz, Iraq’s Deputy Prime Minister, stated that 
-Iraq would not allow weapons inspectors to return asking: “Why should they return?”.113
+Iraq would not allow weapons inspectors to return asking: “Why should they return?”.[^113]
 
 218.  Responding to a question on whether in the light of Iraq’s rejection of the call to 
 admit weapons inspectors there was a need to increase the pressure on Iraq and the 
 next steps, Mr Fleischer stated on 27 November that the focus remained on the first 
 
-110 Telegram 1589 Washington to FCO London, 26 November 2001, ‘Iraq: US Policy on Regime Change’. 
-111 House of Commons, Official Report, 27 November 2001, column 820.
-112 House of Commons, Official Report, 27 November 2001, columns 820-821.
-113  The Telegraph, 28 October 2001, Attack on Iraq ‘will be grave mistake’, warns Aziz. 
+[^110]: Telegram 1589 Washington to FCO London, 26 November 2001, ‘Iraq: US Policy on Regime Change’. 
+[^111]: House of Commons, Official Report, 27 November 2001, column 820.
+[^112]: House of Commons, Official Report, 27 November 2001, columns 820-821.
+[^113]:  The Telegraph, 28 October 2001, Attack on Iraq ‘will be grave mistake’, warns Aziz. 
 
 349
 
-phase of the war on terrorism.114 He emphasised the US support for the discussion in 
+phase of the war on terrorism.[^114] He emphasised the US support for the discussion in 
 the Security Council on more effective and narrowly defined sanctions.
 
 219.  Following discussions with senior US Senators, primarily about developments 
 in Afghanistan, the British Embassy Washington reported on 29 November that  
 Mr John Prescott, the Deputy Prime Minister, had been told there was “an overwhelming 
 majority (80 votes) in the Senate in favour of taking out Saddam Hussein, as a piece 
-of unfinished business”.115 
+of unfinished business”.[^115] 
 
 220.  One Senator suggested that the military had a “very detailed plan”, which he 
 described as constituting precision bombing and Special Forces’ support for internal 
@@ -2006,7 +1985,7 @@ square with what we understand of military thinking”.
 
 224.  On 1 December, the British Embassy Washington reported that public speculation 
 about action against Iraq was moving faster than Administration thinking; and that the 
-momentum in the debate had shifted in the direction of the hawks.116 A Washington Post 
+momentum in the debate had shifted in the direction of the hawks.[^116] A Washington Post 
 poll of 27 November had found that 78 percent of Americans favoured “having US forces 
 take military action against Iraq to force Saddam Hussein from power”.
 
@@ -2016,19 +1995,17 @@ and a clearer identification of WMD with the terrorist threat. The increased emp
 on weapons inspectors had been seen by some as a step towards military action – 
 “a Taliban-like deadline”; others might see it as an alternative to unilateral action.
 
-114 The White House, 27 November 2001, Press Briefing.
-115 Telegram 1616 Washington to FCO London, 29 November 2001, ‘Deputy Prime Minister’s visit to 
-Washington: Afghanistan and Iraq’. 
-116 Telegram 1631 Washington to FCO London, 1 December 2001, ‘The Wider War against Terrorism: 
-Iraq’. 
+[^114]: The White House, 27 November 2001, Press Briefing.
+[^115]: Telegram 1616 Washington to FCO London, 29 November 2001, ‘Deputy Prime Minister’s visit to 
+[^116]: Telegram 1631 Washington to FCO London, 1 December 2001, ‘The Wider War against Terrorism: 
 
 350
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 226.  In comments during an interview on CBS on 2 December, Secretary Powell stated 
 explicitly that President Bush had not taken any decisions on what the next phase of 
-the campaign against terrorism would be.117 Moreover, none of the President’s advisers, 
+the campaign against terrorism would be.[^117] Moreover, none of the President’s advisers, 
 either individually or collectively, had yet made “recommendations … as to what we 
 should do in the next phase” of the war on terror. 
 
@@ -2058,7 +2035,7 @@ weapons of mass destruction.”
 
 230.  In a separate interview on CNN, Secretary Powell stated that there was “no reason 
 to believe” that Iraq had not continued its pursuit of weapons of mass destruction or 
-that it had “abandoned their intent and desire to obtain such systems”.118 He observed 
+that it had “abandoned their intent and desire to obtain such systems”.[^118] He observed 
 that there were different kinds of weapons of mass destruction. The one which was of 
 “the greatest concern” to him was “what might be happening with respect to biological 
 weapons because it is much harder to detect that kind of activity”. 
@@ -2068,9 +2045,8 @@ authority to act in a way he believes is appropriate”. The US had a policy, se
 UN policy, that “regime change would be good for the Iraqi people, good for the region”. 
 The US was “trying to find ways to make the Iraqi opposition more effective in this regard”.
 
-117 US State Department, 2 December 2001, Interview on CBS’ Face the Nation – Secretary Colin 
-L. Powell.
-118 US State Department, 2 December 2001, Interview on CNN’s Late Edition – Secretary Colin L. Powell.
+[^117]: US State Department, 2 December 2001, Interview on CBS’ Face the Nation – Secretary Colin 
+[^118]: US State Department, 2 December 2001, Interview on CNN’s Late Edition – Secretary Colin L. Powell.
 
 351
 
@@ -2085,7 +2061,7 @@ The Iraqi opposition did “not yet rise to that level”.
 advice on the military plans for Iraq in late November.
 
 234.  General Franks recorded that he was asked on 27 November to give 
-Secretary Rumsfeld a “Commander’s Concept”.119 
+Secretary Rumsfeld a “Commander’s Concept”.[^119] 
 
 235.  General Franks confirmed with Secretary Rumsfeld on 4 December that the 
 assumed objective, dependent on the President’s ultimate decision, would be to 
@@ -2093,13 +2069,13 @@ assumed objective, dependent on the President’s ultimate decision, would be to
 
 236.  President Bush wrote in his memoir that he had asked Secretary Rumsfeld 
 to review the existing battle plans for Iraq in November 2001, adding: “We needed to 
-develop the coercive half of coercive diplomacy.”120 
+develop the coercive half of coercive diplomacy.”[^120] 
 
 237.  Secretary Rumsfeld wrote that when asked about involving the CIA in the planning, 
 President Bush had said that: 
 
 “… he didn’t want me to communicate with people outside DoD for the time being, 
-and that he would personally talk to Tenet and others at the right moment.”121 
+and that he would personally talk to Tenet and others at the right moment.”[^121] 
 
 238.  Asked at what point the most senior levels of the US Administration had settled 
 on the forcible removal of Saddam Hussein’s regime as their primary objective, 
@@ -2116,28 +2092,28 @@ before the end of 2001.
 *  The President himself had been “reinvigorated and found a real purpose 
 
 for his Presidency … which had not been evident before 9/11 … Everything 
-changed after 9/11.”122 
+changed after 9/11.”[^122] 
 
-119 Franks T & McConnell M. American Soldier. HarperCollins, 2004. 
-120 Bush GW. Decision Points. Virgin Books, 2010. 
-121 Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011. 
-122 Public hearing, 26 November 2009, pages 34-35.
+[^119]: Franks T & McConnell M. American Soldier. HarperCollins, 2004. 
+[^120]: Bush GW. Decision Points. Virgin Books, 2010. 
+[^121]: Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011. 
+[^122]: Public hearing, 26 November 2009, pages 34-35.
 
 352
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 239.  Sir David Manning told the Inquiry that he knew from his conversations with 
 Dr Rice that the “top players” in the US seemed to have been touched personally 
 by the attacks and that they were “puzzled and deeply disturbed by the appearance 
 of the anthrax that seemed to have been targeted against key members of the 
-Administration”.123
+Administration”.[^123]
 
 240.  Mr Jonathan Powell told the Inquiry that after 9/11:
 
 “… American policy shifted relatively gradually … By the time you get to December 
 [2001], you have speeches being made in the Senate calling for action on Iraq. 
-We started sensing that something was happening.”124 
+We started sensing that something was happening.”[^124] 
 
 ## JIC Assessment, 28 November 2001: 'Iraq after September 11 - The Terrorist Threat'
 241.  The JIC assessed on 28 November that Iraq had no responsibility for, 
@@ -2157,17 +2133,17 @@ intent”. If the regime was under serious and imminent threat of collapse, WMD
 terrorism was possible but, in other circumstances, the threat would be “slight”.
 
 245.  At the request of the FCO the JIC assessed Iraq’s support for terrorism on 
-28 November.125 
+28 November.[^125] 
 
 246.  The minutes of the JIC record that the Assessment was “significant” and “it would 
 be important to get its judgements and nuances right, given the importance of the policy 
 debate that was going on with and within the US about what might or might not be done 
-next in the campaign against terrorism”.126 
+next in the campaign against terrorism”.[^126] 
 
-123 Public hearing, 30 November 2009, pages 7-8.
-124 Public hearing, 18 January 2010, page 17.
-125 JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’. 
-126 Minutes, 28 November 2001, JIC meeting. 
+[^123]: Public hearing, 30 November 2009, pages 7-8.
+[^124]: Public hearing, 18 January 2010, page 17.
+[^125]: JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’. 
+[^126]: Minutes, 28 November 2001, JIC meeting. 
 
 353
 
@@ -2199,7 +2175,7 @@ major US attack which threatened his hold on power; and
 
  * “WMD terrorism, if his regime was under serious and imminent threat of 
 collapse. In other circumstances the threat of WMD terrorism is slight, 
-because of the risk of US retaliation.”127 
+because of the risk of US retaliation.”[^127] 
 
 248.  Iraq had “provided finance, logistics and training to a range of secular terrorists and 
 groups” in the 1970s and 1980s, and had “encouraged and sponsored terrorist groups 
@@ -2221,11 +2197,11 @@ discussions on toxic materials in late 1988:
 
 “With common enemies … there was clearly scope for collaboration. 
 
-127 JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’. 
+[^127]: JIC Assessment, 28 November 2001, ‘Iraq after September 11 – The Terrorist Threat’. 
 
 354
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 “But there is no evidence that these contacts led to practical co-operation; we judge 
 it unlikely because of mutual mistrust … There is no evidence UBL’s organisation 
@@ -2288,51 +2264,49 @@ imminent threat of collapse.”
 
 255.  Mr Jonathan Powell drew the report of 26 November from the British Embassy 
 Washington to Mr Blair’s attention, commenting: “This is what I was talking about. 
-We ought to have a brainstorming session.”128 
+We ought to have a brainstorming session.”[^128] 
 
-256.  Mr Blair responded: “Get our own strategy ready.”129
+256.  Mr Blair responded: “Get our own strategy ready.”[^129]
 
 257.  Sir Richard Dearlove, the Chief of the Secret Intelligence Service (SIS), wrote 
 to Sir David Manning on 27 November, alerting him to a likely discussion about 
-“Phase 2” of the “War against Terrorism” between US Principals130 the following week. 
+“Phase 2” of the “War against Terrorism” between US Principals[^130] the following week. 
 He suggested:
 
 “The end of this week would therefore be a very good moment for us to feed our 
-thinking into the Washington machine at a variety of levels …”131
+thinking into the Washington machine at a variety of levels …”[^131]
 
 258.  Copies of the letter were sent to the Private Offices of Mr Straw and Mr Hoon 
 and to Sir Richard Wilson, Admiral Michael Boyce (Chief of the Defence Staff) and 
 Sir John Kerr (FCO Permanent Under Secretary).
 
 259.  On 27 November, Sir David Manning wrote to Mr McKane: “You will now reconvene 
-the group to look at Iraq again as a “Phase 2” issue.”132 
+the group to look at Iraq again as a “Phase 2” issue.”[^132] 
 
 260.  In the context of a discussion about Afghanistan on 28 November, Sir David 
 Manning asked Dr Rice about progress in US thinking. His comment, that the UK was 
 “giving a great deal of thought to Phase 2 issues and would want to share our ideas”, 
-was welcomed.133
+was welcomed.[^133]
 
 261.  Mr Powell produced a second note for Mr Blair advocating a strategy for 
 regime change based on a demand for the return of inspectors and the use of 
 military force to support an internal uprising, with public lines explaining why Iraq 
 was a threat. 
 
-128 Manuscript comment Powell to PM on Telegram 1589 Washington to FCO London, 26 November 2001, 
-‘Iraq: US Policy on Regime Change’. 
-129 Manuscript comment Blair on Telegram 1589 Washington to FCO London, 26 November 2001, 
-‘Iraq: US Policy on Regime Change’. 
-130 A Committee of the US National Security Council – see Box in Section 1.2. 
-131 Letter C to Manning, 27 November 2001, ‘Phase II of the War against terrorism’. 
-132 Manuscript comment Manning to McKane, 27 November 2001 on Minute Manning to McKane,  
+[^128]: Manuscript comment Powell to PM on Telegram 1589 Washington to FCO London, 26 November 2001, 
+[^129]: Manuscript comment Blair on Telegram 1589 Washington to FCO London, 26 November 2001, 
+[^130]: A Committee of the US National Security Council – see Box in Section 1.2. 
+[^131]: Letter C to Manning, 27 November 2001, ‘Phase II of the War against terrorism’. 
+[^132]: Manuscript comment Manning to McKane, 27 November 2001 on Minute Manning to McKane,  
 23 November 2001, ‘Iraq’. 
-133 Letter Manning to McDonald, 28 November 2001, ‘Conversation with Condi Rice’.
+[^133]: Letter Manning to McDonald, 28 November 2001, ‘Conversation with Condi Rice’.
 
 356
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 262.  At the end of November, Mr Powell produced a second note for Mr Blair, ‘Iraq: 
-Change of Heart or Change of Regime’, which elaborated the points in his earlier note.134 
+Change of Heart or Change of Regime’, which elaborated the points in his earlier note.[^134] 
 
 263.  Mr Powell identified the “Objectives” as:
 
@@ -2377,7 +2351,7 @@ community”.
 
 … or we will be accused – correctly – of double standards.”
 
-134 Note Powell, [undated], ‘Iraq: Change of Heart or Change of Regime’.
+[^134]: Note Powell, [undated], ‘Iraq: Change of Heart or Change of Regime’.
 
 357
 
@@ -2401,7 +2375,7 @@ by and watch genocide.”
 “… we didn’t really have a serious discussion of proposals at that stage, or we 
 weren’t clear, and I jotted down some ideas on a piece of paper which I would rather 
 forget at the moment, about encouraging people in Iraq to resist, Shi’ites, Sunnis 
-and military leaders.”135
+and military leaders.”[^135]
 
 269.  Asked whether that was an Afghanistan sort of model, Mr Powell replied:
 
@@ -2414,7 +2388,7 @@ UK had been thinking about the next steps in countering international terrorism.
 
 271.  A FCO minute written in mid-November explained that a counter-terrorism strategy 
 had been developed following extensive inter-departmental discussion, which identified 
-the objectives needed “to defeat UBL and his networks”.136 It had “evolved from an 
+the objectives needed “to defeat UBL and his networks”.[^136] It had “evolved from an 
 initial MOD desire to fit the current military action in Afghanistan into a wider strategy”. 
 The intention was to draw up “country strategies” to guide efforts in the months ahead.
 
@@ -2424,16 +2398,16 @@ merit particular attention”.
 273.  Following President Bush’s remarks to the press on 26 November 2001, 
 the FCO considered the legality of military action against Iraq in November 2001.
 
-135 Public hearing, 18 January 2010, page 30.
-136 Minute Bloomfield to PS [FCO], 13 November 2001, ‘Counter-Terrorism Strategy: Phase Two’.
+[^135]: Public hearing, 18 January 2010, page 30.
+[^136]: Minute Bloomfield to PS [FCO], 13 November 2001, ‘Counter-Terrorism Strategy: Phase Two’.
 
 358
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 274.  Mr John Grainger, an FCO Legal Counsellor in the Middle East Department, wrote 
 a minute on 27 November, which briefly set out the history of the use of force against 
-Iraq and the legal basis for it.137 He emphasised that there had not been any significant 
+Iraq and the legal basis for it.[^137] He emphasised that there had not been any significant 
 decision by the Security Council since 1998 and that caution should be exercised about 
 relying upon that decision after the expiry of such a long time. Mr Grainger advised that 
 the UK should take a cautious line in relation to the latest US statements.
@@ -2441,7 +2415,7 @@ the UK should take a cautious line in relation to the latest US statements.
 275.  Sir Michael Wood, the FCO Legal Adviser from 1999 to 2006, told the Inquiry 
 that the legality of the use of military force against Iraq had been raised as early as 
 November 2001 “when President Bush made some kind of statement, which made 
-it look as though force might be used. So we set out the position immediately.”138 
+it look as though force might be used. So we set out the position immediately.”[^138] 
 
 276.  In response to a request from Mr Blair for advice on the options for dealing 
 with Iraq, the FCO proposed “ratcheting up” the policy of containment, including 
@@ -2461,7 +2435,7 @@ the caveats which the JIC had attached to its Assessments.
 280.  Mr McDonald wrote to No.10 on 3 December:
 
 “In advance of David Manning’s trip to Washington on Wednesday the Prime 
-Minister has asked for a note on the options for dealing with Iraq.”139 
+Minister has asked for a note on the options for dealing with Iraq.”[^139] 
 
 281.  The letter began:
 
@@ -2475,9 +2449,9 @@ taken in Washington: we need to influence the debate.”
 
 “… no anti-terrorist grounds for Stage 2 military action against Iraq …”
 
-137 Minute Grainger to Tanfield, 27 November 2001, ‘Iraq: Comments by President Bush on WMD’.
-138 Public hearing, 26 January 2010, pages 14-15.
-139 Letter McDonald to Tatham, 3 December 2001, ‘Iraq: Options’.
+[^137]: Minute Grainger to Tanfield, 27 November 2001, ‘Iraq: Comments by President Bush on WMD’.
+[^138]: Public hearing, 26 January 2010, pages 14-15.
+[^139]: Letter McDonald to Tatham, 3 December 2001, ‘Iraq: Options’.
 
 359
 
@@ -2536,7 +2510,7 @@ what we meant by reconstitution of WMD and threats to neighbours.
 
 360
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 “We could also make more explicit guarantees for Kurdish autonomy now and in any 
 future Iraq. 
@@ -2592,7 +2566,7 @@ short term”.
 
 *  A third paper which offered “some thoughts on the risks and costs of US attacks 
 
-on Iraq”.140 
+on Iraq”.[^140] 
 
 295.  In the first paper, SIS4 set out the issues that would bear on planning for regime 
 change in Iraq, including:
@@ -2638,24 +2612,23 @@ for Saddam”.
 Iraqi influence due to the failure of MEPP”.
 
 297.  SIS4 told the Inquiry he had been asked to produce the paper that afternoon and 
-deliver it to No.10.141 
+deliver it to No.10.[^141] 
 
-140 Letter PS/C to Manning, 3 December 2001, ‘Iraq’ attaching Paper ‘Iraq’; Paper ‘Iraq: Further Thoughts’ 
-and Paper ‘US Attacks on Iraq: The Risks and Costs’. 
-141 Private hearing, Part 1, page 7.
+[^140]: Letter PS/C to Manning, 3 December 2001, ‘Iraq’ attaching Paper ‘Iraq’; Paper ‘Iraq: Further Thoughts’ 
+[^141]: Private hearing, Part 1, page 7.
 
 362
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 298.  SIS4 stated that Sir David Manning had asked for:
 
 “A quick paper … of key issues that we need to bear in mind to keep our balance 
 and our perspective in considering Iraq as a rapidly expanding threat … A sort of 
-sedative paper …”142
+sedative paper …”[^142]
 
 299.  SIS4 stated that the first paper was trying to bring out the hazards about the 
-experience to date with Iraq if direct action were taken.143
+experience to date with Iraq if direct action were taken.[^143]
 
 300.  SIS4 stated that he had been concerned about:
 
@@ -2667,42 +2640,42 @@ evading it. It had been successful in seeing us off with propaganda since the en
 of the first Gulf War … 
 
 “… that power and vitality of Iraq were, in my view, a real threat to the stability of 
-the region.”144 
+the region.”[^144] 
 
 301.  Citing the impact of Iraqi chemical attacks on Iranian troops in the Iran-Iraq War, 
 SIS4 added that “Iraq’s potential, its capability in the WMD field, was very dramatic”: 
 
 “So the idea of putting an end to this problem was not something I would advocate, 
-but I would see the force of the desire to do it to be decisive.”145
+but I would see the force of the desire to do it to be decisive.”[^145]
 
 302.  Sir Richard Dearlove could not “recall the exact details” that led to the request 
 for SIS advice, but he recalled “the circumstances”, which he described as “a sort of 
 dearth of expertise in the Foreign Office at that sort of level of sophistication, and I’m 
 pretty sure that this initiative comes out of me, David [Manning] and [SIS4] talking 
-amongst each other”.146 
+amongst each other”.[^146] 
 
 303.  Sir Richard described the papers as “catalysts” to stimulate thinking; and 
 emphasised that they had “no status as official papers at all”.
 
 304.  Sir David Manning was unable to recall the circumstances in which he had 
 requested advice from SIS4 on 30 November, although he postulated that it was 
-a reflection of SIS4’s expertise.147 
+a reflection of SIS4’s expertise.[^147] 
 
 305.  Sir David pointed out that the discussion of regime change at that stage was about 
 fomenting regime change within Iraq, not about an invasion.
 
-142 Private hearing, Part 1, page 6.
-143 Private hearing, Part 1, page 6.
-144 Private hearing, Part 1, page 12.
-145 Private hearing, Part 1, page 13.
-146 Private hearing, 16 June 2010, pages 9-11.
-147 Private hearing, 24 June 2010, pages 9-16.
+[^142]: Private hearing, Part 1, page 6.
+[^143]: Private hearing, Part 1, page 6.
+[^144]: Private hearing, Part 1, page 12.
+[^145]: Private hearing, Part 1, page 13.
+[^146]: Private hearing, 16 June 2010, pages 9-11.
+[^147]: Private hearing, 24 June 2010, pages 9-16.
 
 363
 
 306.  Although the covering letter from Sir Richard Dearlove’s Private Office described 
 the second paper as “an expansion” of the first, the paper drew on SIS4’s discussion 
-with Sir David Manning about a “possible way ahead”.148 
+with Sir David Manning about a “possible way ahead”.[^148] 
 
 307.  Addressing the question “Why Move?”, SIS4 wrote:
 
@@ -2745,18 +2718,18 @@ is an element in driving for action in Iraq. In turn, this should open prospects
 Arab-Israeli talks, and, beyond, regional work to reduce the WMD inventories which 
 threaten Europe as well.”
 
-148 Letter PS/C to Manning, 3 December 2001, ‘Iraq’ attaching Paper, ‘Iraq: Further Thoughts’. 
+[^148]: Letter PS/C to Manning, 3 December 2001, ‘Iraq’ attaching Paper, ‘Iraq: Further Thoughts’. 
 
 364
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 311.  SIS4 confirmed that the second paper he had produced was:
 
 “… about managing the paradox of working hard for regime change, communicating 
 in secret, and being able to communicate to the world and to the Iraqi population in 
 the hope maybe of precipitating local Iraqi help, without compromising that core and 
-secret effort.”149 
+secret effort.”[^149] 
 
 312.  Asked about his view that it would be important not to parachute a regime in from 
 the external opposition, and that: “The new government would need to be broadly based 
@@ -2771,14 +2744,14 @@ adversarial, party political, representational political system to Iraq.
 
 “… The idea that Iraqi Shias could be fitted out with Republican, Democrat, Lib Dem 
 identities, organisations and run the difficult place which is Iraq, a place which has 
-never had stable political geography, wouldn’t have occurred to me in 2001.”150 
+never had stable political geography, wouldn’t have occurred to me in 2001.”[^150] 
 
 313.  Asked about the second paper, a “new route map”, which stated that the 
 Government Law Officers were going to have to provide assurances of legality, and that 
 there had been a serious problem there, SIS4 replied: 
 
 “… I can’t honestly tell you what particular thought was in my mind there. I’m not 
-aware of any discussions of the legality …”151 
+aware of any discussions of the legality …”[^151] 
 
 314.  The third paper was a companion piece to the second, providing an expanded 
 analysis of the risks and costs of US attacks on Iraq in four categories:
@@ -2800,21 +2773,21 @@ reduction of support for operation of the No-Fly Zones.
 *  “Iraq Internal” – including the division of Iraq and the possibility that Saddam 
 Hussein might respond to a perceived existential threat by attacking Israel with 
 
-149 Private hearing, Part 1, page 14.
-150 Private hearing, Part 1, pages 23-24.
-151 Private hearing, Part 1, pages 26-27.
+[^149]: Private hearing, Part 1, page 14.
+[^150]: Private hearing, Part 1, pages 23-24.
+[^151]: Private hearing, Part 1, pages 26-27.
 
 365
 
 any remaining SCUD-type missiles with chemical or biological warheads, “The 
 Samson Scenario”; or mount conventional attacks on Israel or unconventional 
-attacks on Israel or UK/US military assets.152
+attacks on Israel or UK/US military assets.[^152]
 
 315.  SIS4 also stated that the outcomes of a bombing campaign would be “both 
 uncertain and hard to control”.
 
 316.  Mr Blair told the Inquiry that the first paper he had received was the FCO advice  
-on options.153 While it “concluded there were no anti-terrorist grounds” for military  
+on options.[^153] While it “concluded there were no anti-terrorist grounds” for military  
 action against Iraq, that was because “we saw no link between Iraq and Al Qaida”.  
 It did not “deal with the point, however, that post September 11th WMD” had taken  
 on “a different significance”. Mr Blair also referred to the details of Iraq’s capabilities and 
@@ -2823,7 +2796,7 @@ its concealment activities as “not exactly … reassuring”.
 317.  Addressing the papers provided by SIS4, Mr Blair stated that one had pointed 
 out that getting regime change would be “very, very difficult … so watch out”, and 
 another had argued: “On the other hand, leaving him [Saddam] there is also very, very 
-difficult.”154 Those two views remained. 
+difficult.”[^154] Those two views remained. 
 
 318.  Mr Blair added that he thought that one of the papers said “by implication you 
 cannot stop the WMD programme unless you actually remove Saddam”. 
@@ -2835,7 +2808,7 @@ the JIC Assessment of 27 February 2002 and the CO Options Paper of 8 March
 
 320.  On 5 December, Mr McDonald wrote to Sir Richard Dearlove’s Private Office 
 recording that Mr Straw had seen two SIS papers and thought they were “very 
-perceptive” and he hoped that the Prime Minister would read them.155
+perceptive” and he hoped that the Prime Minister would read them.[^155]
 
 321.  Asked whether Mr Straw’s comments constituted support for his proposals,  
 SIS4 replied:
@@ -2848,20 +2821,20 @@ that. I have a vivid memory of people being very concerned that all this stuff m
 about to happen, and what do we think about it. What do we think of the arguments? 
 … What are the dangers? … But clearly we would need to be in a position to discuss 
 
-152 Paper, ‘US Attacks on Iraq: The Risks and Costs’ attached to Letter PS/C to Manning, 3 December 
+[^152]: Paper, ‘US Attacks on Iraq: The Risks and Costs’ attached to Letter PS/C to Manning, 3 December 
 2001, ‘Iraq’.
-153 Public hearing, 21 January 2011, pages 32-33.
-154 Public hearing, 21 January 2011, pages 33-34.
-155 Letter McDonald to [PS/C], 5 December 2001, ‘Iraq’. 
+[^153]: Public hearing, 21 January 2011, pages 32-33.
+[^154]: Public hearing, 21 January 2011, pages 33-34.
+[^155]: Letter McDonald to [PS/C], 5 December 2001, ‘Iraq’. 
 
 366
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 it with the Americans. They were likely to bring it to us. I think there’s a distinction 
-there.”156 
+there.”[^156] 
 
-322.  Mr Straw confirmed that he had seen the second and third papers sent to No.10.157 
+322.  Mr Straw confirmed that he had seen the second and third papers sent to No.10.[^157] 
 Mr Straw wrote that his comments were based on the two papers taken together and 
 that from his perspective SIS4’s reference to the need for assurances of legality were:
 
@@ -2884,7 +2857,7 @@ Saddam Hussein, but an extremely clever plan would be needed.
 Sir Richard Dearlove later that week would be an opportunity to share thinking 
 on the next phase. 
 
-327.  Mr Blair spoke to President Bush by telephone on 3 December.158 
+327.  Mr Blair spoke to President Bush by telephone on 3 December.[^158] 
 
 328.  The conversation was primarily about the position in Afghanistan, including the 
 prospects for the Bonn Conference to generate a request for an international security 
@@ -2902,9 +2875,9 @@ Saddam Hussein were overthrown, Mr Blair said that:
 be excellent to get rid of Saddam. But there needed to be a clever strategy for  
 doing this.”
 
-156 Private hearing, Part 1, page 15.
-157 Statement, 16 March 2011, page 1.
-158 Letter Tatham to McDonald, 3 December 2001, ‘Telephone Conversation with President Bush’. 
+[^156]: Private hearing, Part 1, page 15.
+[^157]: Statement, 16 March 2011, page 1.
+[^158]: Letter Tatham to McDonald, 3 December 2001, ‘Telephone Conversation with President Bush’. 
 
 367
 
@@ -2935,10 +2908,10 @@ time which would permit military action to be taken “if necessary, without los
 international support”. 
 
 336.  Mr Blair sent President Bush a paper ‘The War against Terrorism: The Second 
-Phase’ on 4 December.159
+Phase’ on 4 December.[^159]
 
 337.  The paper comprised an overview of the possible approaches to potential terrorist 
-threats in seven countries160 and a ‘Strategy for Confronting Islamic Extremism’ in 
+threats in seven countries[^160] and a ‘Strategy for Confronting Islamic Extremism’ in 
 moderate Muslim states.
 
 338.  In relation to Iraq, the key points were:
@@ -2954,12 +2927,12 @@ tactics against Iraqi dissidents.
 *  Although “people want to be rid of Saddam”, international opinion “outside the  
 US/UK” would “at present” be “reluctant” to support immediate military action.
 
-159 Paper Blair [to Bush], 4 December 2001, ‘The War Against Terrorism: The Second Phase’. 
-160 Indonesia, Iran, Iraq, Philippines, Somalia, Syria and Yemen.
+[^159]: Paper Blair [to Bush], 4 December 2001, ‘The War Against Terrorism: The Second Phase’. 
+[^160]: Indonesia, Iran, Iraq, Philippines, Somalia, Syria and Yemen.
 
 368
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 339.  Mr Blair suggested that a “strategy for regime change that builds over time” was 
 needed: “until we get to the point where military action could be taken if necessary” 
@@ -3058,14 +3031,14 @@ menace presented by Saddam”.
 
 351.  Following talks in Washington, at which Sir Richard Dearlove had also been 
 present, Sir David Manning reported that he had taken Dr Rice through Mr Blair’s paper, 
-including the “vital need” for progress on the MEPP.161 The US response had been 
+including the “vital need” for progress on the MEPP.[^161] The US response had been 
 “encouraging”, except on the MEPP. 
 
-161 Minute Manning to Prime Minister, 6 December 2001, ‘Meeting with Condi Rice: Iraq and Phase 2’. 
+[^161]: Minute Manning to Prime Minister, 6 December 2001, ‘Meeting with Condi Rice: Iraq and Phase 2’. 
 
 370
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 352.  On Iraq, Sir David reported that the US was conducting a full review of the options. 
 The US had been reviewing the possibilities before 9/11, but the attacks had given the 
@@ -3097,11 +3070,11 @@ a US/UK group to “take the Iraq issue forward together”. At the request of t
 the discussions would need to be “extremely tightly held, involving only No.10/SIS/
 Cabinet Office”. 
 
-356.  Mr Blair wrote on the minute: “I agree with all this as discussed.”162
+356.  Mr Blair wrote on the minute: “I agree with all this as discussed.”[^162]
 
 357.  After his return to London, Sir David Manning sent a copy of the paper he had 
 taken to Washington to the Private Secretaries to Mr Straw and Mr Hoon, Sir Richard 
-Wilson, Mr Scarlett, Sir Richard Dearlove, Mr Powell and Sir Christopher Meyer.163 
+Wilson, Mr Scarlett, Sir Richard Dearlove, Mr Powell and Sir Christopher Meyer.[^163] 
 
 358.  There was no mention in that letter of Sir David’s visit to Washington or the 
 substance of the discussions. 
@@ -3109,28 +3082,27 @@ substance of the discussions.
 359.  Sir David’s report of the discussions for Mr Blair was not sent to anyone outside 
 No.10.
 
-162 Manuscript comment Blair on Minute Manning to Prime Minister, 6 December 2001, ‘Meeting with 
-Condi Rice: Iraq and Phase 2’. 
-163 Letter Manning to McDonald, 7 December 2001, ‘The War Against Terrorism: The Second Phase’. 
+[^162]: Manuscript comment Blair on Minute Manning to Prime Minister, 6 December 2001, ‘Meeting with 
+[^163]: Letter Manning to McDonald, 7 December 2001, ‘The War Against Terrorism: The Second Phase’. 
 
 371
 
 360.  Mr Jonathan Powell told the Inquiry that when Sir David Manning returned from 
 Washington, he had reported that Dr Rice had assured him that the Administration had 
-“no immediate plans for action in Iraq”.164 
+“no immediate plans for action in Iraq”.[^164] 
 
 361.  In a minute on 10 December, the FCO Counter-Terrorism Policy Department 
 (CTPD) stated:
 
 “We have dropped plans to produce a paper on … Iraq, as our objectives there are 
-better pursued in different ways.”165
+better pursued in different ways.”[^165]
 
 362.  In a meeting with Secretary Powell in London on 11 December, Mr Blair repeated 
 his view that “we needed a clever strategy to deal with Saddam”; and identified the 
-important consequences of success in Afghanistan.166
+important consequences of success in Afghanistan.[^166]
 
 363.  Mr Blair and President Bush spoke on 11 December but there is no mention of Iraq 
-or Phase 2 of the war on terrorism in the record of the discussion.167
+or Phase 2 of the war on terrorism in the record of the discussion.[^167]
 
 364.  Asked what he had said to President Bush, Mr Blair replied: 
 
@@ -3144,7 +3116,7 @@ and we are going to be with America in doing that.
 
 “We then I think from memory had a discussion about all sorts of different aspects 
 of that and how it might be done … I was in no doubt it would be beneficial for the 
-world to get rid of Saddam Hussein and to get rid of his regime.”168 
+world to get rid of Saddam Hussein and to get rid of his regime.”[^168] 
 
 365.  Mr Blair added:
 
@@ -3159,21 +3131,19 @@ power.
 
 end of the first Gulf Conflict.
 
-164 Public hearing, 18 January 2010, page 17.
-165 Minute Bloomfield to Prentice, 10 December 2001, ‘Counter-Terrorism: Phase Two: Country CT 
-Strategies’. 
-166 Letter Manning to McDonald, 11 December 2001, ‘Call by Colin Powell on the Prime Minister:  
-War on Terrorism’. 
-167 Email Cabinet Office [junior official] to Hammond, 23 June 2014, ‘BB8 issues’. 
-168 Public hearing, 21 January 2011, pages 34-35.
+[^164]: Public hearing, 18 January 2010, page 17.
+[^165]: Minute Bloomfield to Prentice, 10 December 2001, ‘Counter-Terrorism: Phase Two: Country CT 
+[^166]: Letter Manning to McDonald, 11 December 2001, ‘Call by Colin Powell on the Prime Minister:  
+[^167]: Email Cabinet Office [junior official] to Hammond, 23 June 2014, ‘BB8 issues’. 
+[^168]: Public hearing, 21 January 2011, pages 34-35.
 
 372
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 *  Iraq’s potential to produce WMD at very short notice. Nuclear would be 
 
-slightly different … but Iraq’s potential, its capability was very dramatic.”169
+slightly different … but Iraq’s potential, its capability was very dramatic.”[^169]
 
 366.  Asked whether Iraq should have been encompassed in Phase 2, Mr Blair replied:
 
@@ -3181,7 +3151,7 @@ slightly different … but Iraq’s potential, its capability was very dramatic.
 
 “My view was that this was all part of one issue in the end, and that you had to deal 
 with each and every individual part … that you couldn’t … say: ‘… we will deal with 
-it sequentially …’ That was not my view.”170
+it sequentially …’ That was not my view.”[^170]
 
 367.  Asked whether he had agreed with the advice in the FCO letter of 3 December, 
 to ratchet up containment and steering away from the idea of supporting uprisings, 
@@ -3189,7 +3159,7 @@ let alone military intervention for the purposes of regime change, Mr Blair repl
 
 “… they were not quite saying that. What they were saying was, ‘… there is a policy 
 of containment.’… They go on to say: ‘However, it’s not actually stopped him doing 
-what he is doing’.”171 
+what he is doing’.”[^171] 
 
 368.  Asked if, in the context of the paper he had sent to President Bush, he was actively 
 looking at a strategy that would build up in stages to military action against Iraq to deal 
@@ -3199,11 +3169,11 @@ with Saddam Hussein, Mr Blair replied:
 
 “… It was very obvious you had to deal with the issue. There were two ways of 
 dealing with it: change of heart or change of regime. That was more or less as it 
-remained throughout.”172 
+remained throughout.”[^172] 
 
 369.  Asked if the initiative had been followed up, Mr Blair referred to “a sort of build-up”, 
 including an Assessment from the JIC, leading to his meeting with President Bush in 
-Crawford in April.173 That had evolved at “quite a fast pace … down a track towards 
+Crawford in April.[^173] That had evolved at “quite a fast pace … down a track towards 
 regime change”. 
 
 370.  Mr Blair added that it was “absolutely clear from the outset” after 9/11 that 
@@ -3214,18 +3184,18 @@ a somewhat different track”, initially an ultimatum and then through the UN.
 371.  The development of thinking in preparation for Mr Blair’s meeting with President 
 Bush at Crawford in early April 2002 is addressed in Section 3.2. 
 
-169 Public hearing, 21 January 2011, pages 35-36.
-170 Public hearing, 21 January 2011, pages 37-38.
-171 Public hearing, 21 January 2011, pages 38-39.
-172 Public hearing, 21 January 2011, pages 40-41.
-173 Public hearing, 21 January 2011, pages 41-42.
+[^169]: Public hearing, 21 January 2011, pages 35-36.
+[^170]: Public hearing, 21 January 2011, pages 37-38.
+[^171]: Public hearing, 21 January 2011, pages 38-39.
+[^172]: Public hearing, 21 January 2011, pages 40-41.
+[^173]: Public hearing, 21 January 2011, pages 41-42.
 
 373
 
 372.  Reporting a discussion with Mr Peter Mandelson on 4 December, who wanted 
 background information on Iraq for use in speaking engagements on Middle East 
 issues, Mr McKane recorded that Mr Mandelson had been “particularly interested in 
-the prospects for effective action to unseat Saddam Hussein”.174 Mr McKane reported 
+the prospects for effective action to unseat Saddam Hussein”.[^174] Mr McKane reported 
 that he had “pointed out the legal position, and also the difficulties in finding an effective 
 strategy, whether military or otherwise, to deal effectively with Iraq”. 
 
@@ -3239,7 +3209,7 @@ inspectors.
 
 375.  On 5 December, in a debate in Parliament on the Middle East, following terrorist 
 attacks in Israel, Mr Dalyell asked whether the Government was “doing everything 
-possible to deter certain Americans from the folly of attacking Iraq”.175 Mr Straw 
+possible to deter certain Americans from the folly of attacking Iraq”.[^175] Mr Straw 
 responded:
 
 “… The key to Iraq coming back into the civilised world is for Iraq to implement 
@@ -3255,7 +3225,7 @@ return to Iraq, Mr Straw told the Foreign Affairs Committee on 5 December:
 Iraq poses a very severe threat in terms of its development and possible use of 
 weapons of mass destruction, of that there can be no doubt. Therefore restraining 
 the development of those weapons … is essential, and to do that we require proper 
-inspection.”176
+inspection.”[^176]
 
 377.  Mr Straw added that the UK had “been in the lead in the United Nations on seeking 
 … a more effective replacement, of … resolution 1284”. The new sanctions regime might 
@@ -3264,13 +3234,13 @@ civilian use for humanitarian and other purposes, and “more effectively interd
 which is either for military use for weapons of mass destruction, certain conventional 
 weapons, or of dual use”.
 
-174 Minute McKane to Manning, 4 December 2001, ‘Iraq: Peter Mandelson’. 
-175 House of Commons, Official Report, 5 December 2001, columns 338-339.
-176 Select Committee on Foreign Affairs, 5 December 2001, Minutes of Evidence, Qs 47-52. 
+[^174]: Minute McKane to Manning, 4 December 2001, ‘Iraq: Peter Mandelson’. 
+[^175]: House of Commons, Official Report, 5 December 2001, columns 338-339.
+[^176]: Select Committee on Foreign Affairs, 5 December 2001, Minutes of Evidence, Qs 47-52. 
 
 374
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 378.  Asked whether Iraq could be persuaded to permit the return of inspectors “without 
 an intensification of military action”, Mr Straw replied:
@@ -3315,7 +3285,7 @@ be taken.”
 MOD’s initial response to international terrorism
 
 In a speech at King’s College on 5 December, Mr Hoon set out “preliminary thoughts” 
-on the work commissioned by the MOD following the attacks on 11 September.177 
+on the work commissioned by the MOD following the attacks on 11 September.[^177] 
 Mr Hoon set out five approaches the Armed Forces might take in countering the threat 
 outside the UK:
 
@@ -3357,7 +3327,7 @@ regimes such as the Taliban” which supported and protected terrorists.
 President Bush by Senators McCain, Lieberman, Holmes and Lott, amongst others, 
 arguing that “as we work to clean up Afghanistan and destroy Al Qaida, it is imperative 
 that we plan to eliminate the threat from Iraq”, suggesting that the US “must directly 
-confront Saddam, sooner rather than later”.178
+confront Saddam, sooner rather than later”.[^178]
 
 382.  The letter stated: 
 
@@ -3368,19 +3338,19 @@ opposition. No one group is excluded, no one group is favoured … All indicatio
 that in the interest of our own national security, Saddam Hussein must be removed 
 from power.” 
 
-177 Speech, 5 December 2001. 
-178 Email Hall to various, 6 December 2001, ‘Letter to the President on Iraq’. 
+[^177]: Speech, 5 December 2001. 
+[^178]: Email Hall to various, 6 December 2001, ‘Letter to the President on Iraq’. 
 
 376
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 383.  Mr Kevin Tebbit, the MOD Permanent Under Secretary, visited Washington from 
 5 to 7 December 2001 where his meetings with a range of contacts included discussions 
-on Afghanistan and the next stage of the war against terrorism.179 
+on Afghanistan and the next stage of the war against terrorism.[^179] 
 
 384.  Reporting to Mr Hoon on the visit, Mr Tebbit stated that Washington saw itself as 
-being on a “war footing” and “the focus on international terrorism remains intense”.180 
+being on a “war footing” and “the focus on international terrorism remains intense”.[^180] 
 That focus influenced “the US attitude and approach to the rest of the agenda”. In his 
 view that meant: 
 
@@ -3408,38 +3378,37 @@ Manning.
 close to the Pentagon to persuade him that the Iraqi National Congress could be a 
 force to be reckoned with sufficient to cause an Iraqi response and enable the US to 
 take supportive military action. Mr Tebbit commissioned an analysis of that thesis which 
-he expected would “show it to be flawed”.181 
+he expected would “show it to be flawed”.[^181] 
 
 387.  Sir Kevin Tebbit told the Inquiry that the desire in the US State Department was 
 to move down the UN track, but the mood in Secretary Rumsfeld’s Office was “much 
-tougher”.182 Mr Richard Perle, Chairman of the Defence Advisory Board, whom Sir Kevin 
+tougher”.[^182] Mr Richard Perle, Chairman of the Defence Advisory Board, whom Sir Kevin 
 regarded as one of the “most influential figures” on Secretary Rumsfeld’s thinking, was 
-“very clearly talking of trying to encourage a sort of Northern Alliance of Iraq”.183 
+“very clearly talking of trying to encourage a sort of Northern Alliance of Iraq”.[^183] 
 
-179 Telegram 1684 Washington to FCO London, 8 December 2001, ‘Tebbit’s Visit to Washington: 
-Wider War Against Terrorism’. 
-180 Minute Tebbit to Secretary of State [MOD], 10 December 2001, ‘Visit to Washington 5-7 December’. 
-181 Minute Wilson to PS/CDI, 13 December 2001, ‘Iraq: Is there a “Northern Alliance”?’
-182 Private hearing, 6 May 2010, page 4. 
-183 Private hearing, 6 May 2010, page 4. 
+[^179]: Telegram 1684 Washington to FCO London, 8 December 2001, ‘Tebbit’s Visit to Washington: 
+[^180]: Minute Tebbit to Secretary of State [MOD], 10 December 2001, ‘Visit to Washington 5-7 December’. 
+[^181]: Minute Wilson to PS/CDI, 13 December 2001, ‘Iraq: Is there a “Northern Alliance”?’
+[^182]: Private hearing, 6 May 2010, page 4. 
+[^183]: Private hearing, 6 May 2010, page 4. 
 
 377
 
 388.  Sir Kevin confirmed he considered Mr Perle’s thinking to be “flawed” and that the 
-UK had not been challenging it sufficiently strongly.184
+UK had not been challenging it sufficiently strongly.[^184]
 
 389.  The MOD subsequently concluded that there was “no Northern Alliance equivalent 
-… who could take advantage of precision bombing” in Iraq.185 
+… who could take advantage of precision bombing” in Iraq.[^185] 
 
 390.  On 7 December, Kandahar fell to anti-Taliban forces led by Mr Hamid Karzai, 
-supported by US Marines.186
+supported by US Marines.[^186]
 
 391.  Sir Richard Dearlove advised No.10 at the end of December that it would be 
 very much in the Government’s interest to work with the US and that the outcome 
 of US thinking would be of “enormous significance” to the national interest.
 
 392.  Following the discussion in Washington on 5 December, Sir Richard Dearlove 
-asked SIS4 and SIS7 to hold follow up talks on Iraq.187 He reported the outcome of the 
+asked SIS4 and SIS7 to hold follow up talks on Iraq.[^187] He reported the outcome of the 
 talks to Sir David Manning on 27 December, with details of the discussions between 
 SIS and the Central Intelligence Agency (CIA).
 
@@ -3468,17 +3437,17 @@ aware that President Bush had specifically commissioned General Franks to look
 at military options for removing Saddam Hussein; and that that would include 
 options for a conventional land invasion. 
 
-184 Private hearing, 6 May 2010, page 5.
-185 Minute Cholerton to APS/Secretary of State [MOD], 24 January 2002, ‘Iraq: No Fly Zones’.
-186 Bush GW. Decision Points. Virgin Books, 2010.
-187 Letter Dearlove to Manning, 27 December 2001, ‘Iraq Policy’.
+[^184]: Private hearing, 6 May 2010, page 5.
+[^185]: Minute Cholerton to APS/Secretary of State [MOD], 24 January 2002, ‘Iraq: No Fly Zones’.
+[^186]: Bush GW. Decision Points. Virgin Books, 2010.
+[^187]: Letter Dearlove to Manning, 27 December 2001, ‘Iraq Policy’.
 
 378
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 398.  General Franks visited Crawford on 28 December 2001 to brief President Bush on 
-Iraq.188 Other members of the national security team were linked by video to the briefing. 
+Iraq.[^188] Other members of the national security team were linked by video to the briefing. 
 General Franks informed President Bush that the plan on the shelf required a six month 
 build up and 400,000 troops; he was looking at whether as a result of lessons from 
 Afghanistan fewer conventional ground forces would be needed. He had “envisioned a 
@@ -3486,48 +3455,48 @@ fast invasion from Kuwait in the south, Saudi Arabia and Jordan in the west, and
 in the north”. 
 
 399.  Secretary Rumsfeld recorded that General Franks’ plan called for “an invasion 
-force of 145,000 … which would be increased to 275,000 if and as needed”.189 
+force of 145,000 … which would be increased to 275,000 if and as needed”.[^189] 
 
 400.  The report from the US Special Inspector General for Iraq Reconstruction, 
 Hard Lessons, stated that the concept of operations briefed to President Bush had 
 been devised in four video conferences between Thanksgiving (22 November 2001) 
 and late December 2001. It focused chiefly on the combat phase and “anticipated 
 a rapid post war handoff to a provisional Iraqi government and a minimal continuing 
-military footprint”.190
+military footprint”.[^190]
 
 401.  President Bush wrote that after the 28 December briefing he had “asked the team 
 to keep working on the plan”, while observing that:
 
 “… we should remain optimistic that diplomacy and international pressure will 
 succeed in disarming the regime … But we cannot allow weapons of mass 
-destruction to fall into the hands of terrorists. I will not allow that to happen.”191 
+destruction to fall into the hands of terrorists. I will not allow that to happen.”[^191] 
 
 402.  General Franks wrote that he gave a further briefing on the developing plan 
 to President Bush and US Principals on 7 February 2002, in which he identified the 
-“optimum operational timing” as “December-mid-March” [2003].192 
+“optimum operational timing” as “December-mid-March” [2003].[^192] 
 
 ## Developments in January 2002
 403.  Following an inter-departmental meeting chaired by the Cabinet Office on 
 14 January 2002, Mr McKane reported to Sir David Manning that the UK continued to 
 push for the introduction of the Goods Review List by 30 May 2002 as authorised by 
-resolution 1382 (2001).193 The prospects for agreement on implementation of resolution 
+resolution 1382 (2001).[^193] The prospects for agreement on implementation of resolution 
 1284 (i.e. the return of weapons inspectors) were “slim”. There was a continued 
 discussion about whether the introduction of the GRL should take place before, or in 
 parallel with, clarification of what Iraq had to do to get sanctions suspended and the 
 regime which would be put in place thereafter.
 
-188 Bush GW. Decision Points. Virgin Books, 2010.
-189 Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011.
-190 Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing Office, 
+[^188]: Bush GW. Decision Points. Virgin Books, 2010.
+[^189]: Rumsfeld D. Known and Unknown: A Memoir. Sentinel, 2011.
+[^190]: Bowen SW Jr. Hard Lessons: The Iraq Reconstruction Experience. U.S. Government Printing Office, 
 2009.
-191 Bush GW. Decision Points. Virgin Books, 2010. 
-192 Franks T & McConnell M. American Soldier. HarperCollins, 2004. 
-193 Minute McKane to Manning, 15 January 2002, ‘Iraq’. 
+[^191]: Bush GW. Decision Points. Virgin Books, 2010. 
+[^192]: Franks T & McConnell M. American Soldier. HarperCollins, 2004. 
+[^193]: Minute McKane to Manning, 15 January 2002, ‘Iraq’. 
 
 379
 
 404.  Sir David Manning and Sir Richard Dearlove visited Washington again on 
-21 January 2002.194 
+21 January 2002.[^194] 
 
 405.  In relation to discussions on Iraq, Sir David reported that there was an expectation 
 that Saddam Hussein would “make a display of renewed co-operation” in the coming 
@@ -3556,10 +3525,10 @@ were some doubts about whether a strategy for regime change would be viable.
 “… in the knowledge that Iraq had been the subject of considerable debate 
 in Washington … and I recall saying to Dr Rice that if there was a review … 
 it would certainly … have to include the whole question of how to incorporate 
-inspections …”195
+inspections …”[^195]
 
 409.  Mr Powell told the Inquiry that Sir David had told Dr Rice that the UK would need 
-the advice of the Attorney General before any action at any stage would be possible.196
+the advice of the Attorney General before any action at any stage would be possible.[^196]
 
 410.  Following a visit to Baghdad by Mr Amre Moussa, the Secretary General of the 
 Arab League, on 18 and 19 January, Mr John Sawers, British Ambassador to Egypt, 
@@ -3569,28 +3538,28 @@ reported that Mr Moussa had told him Saddam Hussein had:
 
 a dialogue with Mr Annan, without pre-conditions and with an open agenda, 
 
-194 Minute Manning to Powell, 22 January 2002, ‘Talks with Condi Rice, 21 January: Iraq’. 
-195 Public hearing, 30 November 2009, page 10.
-196 Public hearing, 18 January 2010, page 100.
+[^194]: Minute Manning to Powell, 22 January 2002, ‘Talks with Condi Rice, 21 January: Iraq’. 
+[^195]: Public hearing, 30 November 2009, page 10.
+[^196]: Public hearing, 18 January 2010, page 100.
 
 380
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 although Iraq would not make the first move and the initiative would have to 
 come from the UN; and
 
 *  accepted that the time had come for Iraq to start talking about the return of 
 
-inspectors and asked Mr Moussa to contact Dr Blix on his behalf.197
+inspectors and asked Mr Moussa to contact Dr Blix on his behalf.[^197]
 
 411.  Mr Powell drew the telegram to Mr Blair’s attention, commenting:
 
 “This ties in with other indications that Saddam is wriggling, trying to get off the 
 hook. The US will want to ignore these talks and keep open the possibility of 
-regime change instead of inspectors.”198
+regime change instead of inspectors.”[^198]
 
-412.  Mr Blair responded: “We shd keep up the pressure.”199 
+412.  Mr Blair responded: “We shd keep up the pressure.”[^199] 
 
 # Conclusions
 413.  After the attacks on the US on 9/11, which was widely accepted as having 
@@ -3618,10 +3587,10 @@ of the coalition which had been established for action against international
 terrorism. He recommended identifying an alternative policy which would 
 command widespread international support. 
 
-197 Telegram 21 Cairo to FCO London, 24 January 2002, ‘Iraq/Arab League: Moussa’s Visit to Baghdad’. 
-198 Manuscript comment Powell to Prime Minister, [undated], on Telegram 21 Cairo to FCO London,  
+[^197]: Telegram 21 Cairo to FCO London, 24 January 2002, ‘Iraq/Arab League: Moussa’s Visit to Baghdad’. 
+[^198]: Manuscript comment Powell to Prime Minister, [undated], on Telegram 21 Cairo to FCO London,  
 24 January 2002, ‘Iraq/Arab League: Moussa’s Visit to Baghdad’.
-199 Manuscript comment Prime Minister to Powell, [undated], on Telegram 21 Cairo to FCO London,  
+[^199]: Manuscript comment Prime Minister to Powell, [undated], on Telegram 21 Cairo to FCO London,  
 24 January 2002, ‘Iraq/Arab League: Moussa’s Visit to Baghdad’.
 
 381
@@ -3676,12 +3645,10 @@ need to be resolved as part of developing the “clever strategy”.
 
 382
 
-The Report of the Iraq Inquiry3.1  |  Development of UK strategy and options, 9/11 to early January 2002
+
 
 428.  The evidence indicates that Mr Straw and Mr Hoon were unaware that, with 
 No.10’s knowledge, a dialogue had subsequently been initiated between SIS and 
 the CIA.
 
 383
-
-

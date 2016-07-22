@@ -100,8 +100,6 @@ necessary to consider further steps to ensure compliance with the resolution.
 
 24
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
-
 13.  On 6 August, the Security Council adopted resolution 661 (1990), reaffirming 
 resolution 660 and expressing deep concern that it had not been implemented, despite 
 Kuwait’s expression of readiness to comply. Acting under Chapter VII of the UN Charter 
@@ -140,11 +138,11 @@ a pause of goodwill, to do so;
 “Authorises Member States co-operating with the Government of Kuwait, unless Iraq 
 on or before 15 January 1991 fully implements the above-mentioned resolutions, to 
 use all necessary means to uphold and implement resolution 660 and all subsequent 
-relevant resolutions and to restore international peace and security in the area.”1
+relevant resolutions and to restore international peace and security in the area.”[^1]
 
 16.  The resolution was adopted by 12 votes to two (Cuba and Yemen); China abstained.
 
-1 UN Security Council resolution 678 (1990).
+[^1]: UN Security Council resolution 678 (1990).
 
 25
 
@@ -197,9 +195,7 @@ the Members of the United Nations or by some of them, as the Security Council sh
 
 26
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
-
-determine”.2 There is no suggestion in the Charter of a residual right for individual 
+determine”.[^2] There is no suggestion in the Charter of a residual right for individual 
 Members to enforce Security Council decisions.
 Article 51 provides that nothing in the Charter should impair the inherent right of individual 
 or collective self-defence in the event of an armed attack on a Member State, until the 
@@ -239,9 +235,7 @@ Kuwait, but Iraq’s conditions were unacceptable to the Security Council. In a 
 to obtain Iraqi compliance, coalition governments issued a statement on 22 February 
 setting out the conditions which Iraq needed to meet to bring about a cessation of 
 
-2 In resolution 221 (1966) the Security Council authorised the UK “to prevent, by the use of force, if 
-necessary” the arrival at Beira of vessels believed to be carrying oil destined for Southern Rhodesia, 
-and empowered the UK to arrest and detain the tanker Joanna V upon departure from Beira.
+[^2]: In resolution 221 (1966) the Security Council authorised the UK “to prevent, by the use of force, if 
 
 27
 
@@ -293,8 +287,6 @@ region of the Middle East;
 UN Charter.
 
 28
-
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 
 24.  The resolution’s operative paragraphs were divided into a number of separate parts. 
 Sections A, B, D, E and G all addressed various issues relating to Kuwait, including: 
@@ -360,7 +352,7 @@ particularly in the North, where they were caught in the mountains on the border
 including: inhibitions about interference in the internal affairs of Iraq and being 
 sucked into a civil war; concerns about the break-up of Iraq; and fears of a possible 
 revolutionary Shia government. But outrage at Saddam Hussein’s actions, and claims 
-that coalition rhetoric had encouraged the uprisings,3 led to decisions to take action. 
+that coalition rhetoric had encouraged the uprisings,[^3] led to decisions to take action. 
 US commanders warned that they would shoot down any Iraqi aircraft flying over the 
 country; two Iraq Su-22 aircraft were subsequently shot down, one on 15 and one 
 on 22 March.
@@ -368,7 +360,7 @@ on 22 March.
 34.  On 5 April, the Security Council adopted resolution 688 (1991), which condemned 
 “the repression of the Iraqi civilian population in many parts of Iraq” and demanded 
 that “Iraq, as a contribution to removing the threat to international peace and security 
-in the region, immediately end this repression”.4 It insisted that “Iraq allow immediate 
+in the region, immediately end this repression”.[^4] It insisted that “Iraq allow immediate 
 access by international humanitarian organisations”; requested the Secretary-General 
 “to pursue his humanitarian efforts in Iraq”; and appealed to all Member States “to 
 contribute to these humanitarian relief efforts”.
@@ -379,15 +371,15 @@ of sedition, sabotage, and rioting in all towns of Iraq”. Refugees were moving
 the borders with Turkey and Iran and, because the border with Turkey was closed, their 
 position caused serious concern. On 6 April, the US-led Operation Provide Comfort 
 
-3 Dr Barham Salih, the Kurdistan Front spokesman in London, was reported in the Los Angeles Times on 
+[^3]: Dr Barham Salih, the Kurdistan Front spokesman in London, was reported in the Los Angeles Times on 
 8 April saying that the Kurds felt a bitter sense of betrayal, having taken President Bush’s encouragement 
 of an Iraqi revolt literally. “I don’t know of any other interpretation … There was a clear statement that 
 Saddam ought to be removed and the Iraqi people will be supported.”
-4 UN Security Council resolution 688 (1991).
+[^4]: UN Security Council resolution 688 (1991).
 
 30
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 began to provide humanitarian relief to the Kurds and to help them return to northern 
 Iraq. The creation of a No-Fly Zone (NFZ) followed.
@@ -397,7 +389,7 @@ Understanding (MOU) between the Government of Iraq and the UN, signed on 18 Apri
 permitted only a limited UN presence to provide humanitarian assistance and relief 
 for the “return and normalisation” of the lives of “displaced persons” in their place of 
 origin, “without prejudice to the sovereignty, territorial integrity, political independence, 
-security and non-interference in the internal affairs” of Iraq.5 The MOU was to apply until 
+security and non-interference in the internal affairs” of Iraq.[^5] The MOU was to apply until 
 December 1991.
 
 ### Diplomatic isolation
@@ -415,21 +407,20 @@ provocative action against its neighbours constituted a threat to peace and secu
 in the region; and underlined that the Security Council would “consider Iraq fully 
 responsible for the serious consequences of any failure to fulfil the demands” in the 
 resolution, including that Iraq withdraw its forces and not take any other action to 
-enhance its military capacity in southern Iraq.6 Iraq accepted the UN demarcation of the 
-border in a letter of 27 November 19947 but Iraq’s claim to the territory of Kuwait was 
-never resolved.8
+enhance its military capacity in southern Iraq.[^6] Iraq accepted the UN demarcation of the 
+border in a letter of 2[^7] November 1994[^7] but Iraq’s claim to the territory of Kuwait was 
+never resolved.[^8]
 
 39.  The US and UK did not resume diplomatic relations with Iraq. Of the other 
 Permanent Members of the Security Council, Russia and China maintained an 
 Embassy in Baghdad, and France maintained a liaison office. Russia represented 
-the UK’s interests.9
+the UK’s interests.[^9]
 
-5 Memorandum of Understanding signed by the Iraq Minister of Foreign Affairs and the Secretary-
-General’s Executive Delegate, His Excellency Sadruddin Aga Khan, 18 April 1991.
-6 UN Security Council resolution 833 (1993).
-7 Paper FCO Research Analysts, November 2009, ‘UN Security Council Resolutions on Iraq, 1990-2001’.
-8 Minutes, Defence Committee (House of Commons), 19 April 2000, [Evidence Session], Qs 20-39.
-9 The UK did not maintain a British Interests Section staffed by UK diplomats within the Russian Embassy.
+[^5]: Memorandum of Understanding signed by the Iraq Minister of Foreign Affairs and the Secretary-
+[^6]: UN Security Council resolution 833 (1993).
+[^7]: Paper FCO Research Analysts, November 2009, ‘UN Security Council Resolutions on Iraq, 1990-2001’.
+[^8]: Minutes, Defence Committee (House of Commons), 19 April 2000, [Evidence Session], Qs 20-39.
+[^9]: The UK did not maintain a British Interests Section staffed by UK diplomats within the Russian Embassy.
 
 31
 
@@ -443,13 +434,13 @@ was neither a political nor a military objective” of the US, and that:
 … We cannot police what goes on inside Iraq, and we cannot be the arbiters of 
 who governs Iraq. As President [George HW] Bush has repeatedly made clear, our 
 objective was the liberation of Kuwait. It never extended to the remaking of Iraq. 
-We repeatedly said that could only be done by the Iraqi people.”10
+We repeatedly said that could only be done by the Iraqi people.”[^10]
 
 41.  In a later interview, Mr Dick Cheney, the US Defense Secretary in 1991, said that 
 there had been concern about what to do with Iraqi soldiers who were “surrendering in 
 droves”; and that there was a limit to how long you could “continue the bloodshed without 
 having it look as though we were asking our troops to do something we probably shouldn’t 
-ask them to do”.11 He added that, while some had argued that the coalition should have 
+ask them to do”.[^11] He added that, while some had argued that the coalition should have 
 continued to Baghdad, he thought that if they had done that “we would have been bogged 
 down there for a very long time with the real possibility we might not have succeeded”.
 
@@ -458,7 +449,7 @@ Baghdad was an element of the policy debate in Washington. Mr Richard Haass, who
 served in the administration of each President Bush, observed that the administrations 
 of President George HW Bush, President Bill Clinton and President George W Bush 
 “each contended with the question of how to balance containment with a desire for 
-regime change”.12
+regime change”.[^12]
 
 43.  Saddam Hussein proved more intractable than was predicted. Throughout the 1990s 
 the UN Security Council frequently discussed Iraq and Saddam’s continued refusal 
@@ -477,13 +468,13 @@ including:
 
 (until 1996) French aircraft;
 
-10 Statements by James A Baker III reported in Los Angeles Times, 8 April 1991.
-11 Transcript Frontline, ‘Oral History: Richard Cheney’.
-12 Haass RN. War of Necessity War of Choice: A Memoir of two Iraqi Wars. Simon & Schuster, 2009.
+[^10]: Statements by James A Baker III reported in Los Angeles Times, 8 April 1991.
+[^11]: Transcript Frontline, ‘Oral History: Richard Cheney’.
+[^12]: Haass RN. War of Necessity War of Choice: A Memoir of two Iraqi Wars. Simon & Schuster, 2009.
 
 32
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 sanctions;
 
@@ -501,7 +492,7 @@ Those elements are described in the following Sections.
 45.  Sir Peter Ricketts, FCO Director General Political 2001 to 2003, told the Inquiry that 
 the purpose of the UK’s policy was “containment” of “Saddam Hussein’s ambitions to 
 redevelop weapons of mass destruction but also containment of the threat which Iraq 
-had posed to the region”.13
+had posed to the region”.[^13]
 
 46.  Sir Peter said that containment had three strands. The first was sanctions, where 
 the arms embargo was the most effective element and sanctions on Iraqi oil exports 
@@ -519,7 +510,7 @@ HAVEN, also involved the deployment of 3 Commando Brigade into northern Iraq
 until mid-July. In a statement to Parliament on 15 April, Mr Douglas Hurd, the Foreign 
 Secretary, explained that the UK’s policy envisaged the creation of “temporary safe 
 havens in Iraq, in which UN officials can provide for the basic needs of refugees and 
-monitor their security until they can return to their homes in safety”.14 The aim was 
+monitor their security until they can return to their homes in safety”.[^14] The aim was 
 “to create places and conditions in which refugees can feel secure … We support the 
 territorial integrity of Iraq.”
 
@@ -531,8 +522,8 @@ or to the camps constructed for them by coalition forces.
 49.  On 24 July, Op Provide Comfort and Op HAVEN were replaced by Operation 
 Provide Comfort II, of which the UK contribution was Operation WARDEN. Its primary 
 
-13 Public hearing, 24 November 2009, page 13.
-14 House of Commons, Official Report, 15 April 1991, column 21.
+[^13]: Public hearing, 24 November 2009, page 13.
+[^14]: House of Commons, Official Report, 15 April 1991, column 21.
 
 33
 
@@ -577,13 +568,13 @@ operations in the NFZs were:
 
 “… essentially based on the overwhelming humanitarian necessity of protecting 
 people on the ground, combined with the need to monitor the effect of [resolution] 
-688; so it is the two taken in combination that provides the legal justification.” 15
+688; so it is the two taken in combination that provides the legal justification.” [^15]
 
-15 Minutes, Defence Committee (House of Commons), 19 April 2000, [Evidence Session], Qs 3 and 11.
+[^15]: Minutes, Defence Committee (House of Commons), 19 April 2000, [Evidence Session], Qs 3 and 11.
 
 34
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 56.  Sir Michael Wood, FCO Legal Adviser from 1999 to 2006, told the Inquiry that the 
 legal basis on which the UK Government relied in establishing the NFZs:
@@ -596,7 +587,7 @@ British Government as being derived from customary international law, and the
 essence of it, I think, is that if something like the Holocaust were happening today, if 
 the Security Council were blocked, you couldn’t get an authorisation from it, then it 
 simply cannot be the law that States cannot take action to intervene in that kind of a 
-situation, an emergency of that scale.”16
+situation, an emergency of that scale.”[^16]
 
 57.  Sir Michael also referred to the answer given by Baroness Symons to Parliament in 
 1998 in relation to Kosovo, which set out the Government’s position on the use of force 
@@ -610,7 +601,7 @@ that was the only means to avert an immediate and overwhelming humanitarian
 catastrophe. Such cases would in the nature of things be exceptional and would 
 depend on an objective assessment of the factual circumstances at the time 
 and on the terms of relevant decisions of the Security Council bearing on the 
-situation in question.”17
+situation in question.”[^17]
 
 58.  While enforcing the NFZs, coalition aircraft also collected tactical reconnaissance 
 information to help monitor Saddam Hussein’s compliance with resolution 688.
@@ -630,8 +621,8 @@ to station aircraft in Saudi Arabia.
 61.  The zones, covering around 60 percent of the land area of Iraq, continued to exist 
 until March 2003.
 
-16 Public hearing, 24 November 2009, page 119.
-17 House of Lords, Official Report, 16 November 1998, column WA140.
+[^16]: Public hearing, 24 November 2009, page 119.
+[^17]: House of Lords, Official Report, 16 November 1998, column WA140.
 
 35
 
@@ -655,7 +646,7 @@ of the NFZs in 2000 and 2001 are addressed in Section 1.2.
 and related materiel of all types, and called on all States to maintain national controls 
 to ensure compliance. In his statement on 15 April 1991, Mr Hurd recorded that 
 the UK’s proposal was for “a strict arms embargo against Iraq to remain in force as 
-long as Saddam Hussein is in power”.18 The principle of the embargo was relatively 
+long as Saddam Hussein is in power”.[^18] The principle of the embargo was relatively 
 uncontroversial, but the control of items which had “dual use” (a civilian as well as a 
 military use) did create difficulties. Various arrangements were made, including resolution 
 1051 (1996) adopted on 27 March 1996; but there were increasing disagreements.
@@ -679,11 +670,11 @@ costs of the Iraq-Kuwait Boundary Demarcation Commission; the purchase of foodst
 medicines and materials and supplies for essential civilian needs; and the costs of 
 implementing resolution 706 and other necessary humanitarian activity in Iraq.
 
-18 House of Commons, Official Report, 15 April 1991, column 21.
+[^18]: House of Commons, Official Report, 15 April 1991, column 21.
 
 36
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 67.  The resolution asked the UN Secretary-General to produce a scheme, which 
 became known as the “Oil-for-Food” programme, to cover those purchases, and 
@@ -714,7 +705,7 @@ should be put in place as Iraq complied with UN demands.
 1995. It directed the committee established by resolution 661 to monitor the sale of 
 petroleum and petroleum products exported by Iraq, with the assistance of independent 
 inspection agents appointed by the UN Secretary-General; and to verify that the 
-purchase price was “reasonable in the light of prevailing market conditions”.19 A separate 
+purchase price was “reasonable in the light of prevailing market conditions”.[^19] A separate 
 escrow account was established to finance the export to Iraq of material covered by 
 the resolution. In the exceptional circumstances in northern Iraq, and to ensure an 
 equitable distribution, the UN Inter-Agency Humanitarian Programme operating in 
@@ -727,7 +718,7 @@ Understanding was agreed. Following the Iraqi offensive against the Kurds in Aug
 implementation was suspended until December. The first shipment of food arrived in 
 March 1997 and the first shipment of medicines in May 1997.
 
-19 UN Security Council resolution 986 (1995).
+[^19]: UN Security Council resolution 986 (1995).
 
 37
 
@@ -735,7 +726,7 @@ March 1997 and the first shipment of medicines in May 1997.
 Iraq could sell from US$2bn every six months to US$5.2bn. The resolution requested the 
 establishment of a group of experts to determine, with the Government of Iraq, “whether 
 Iraq is able to export petroleum or petroleum products sufficient to produce” the funds 
-identified in the resolution as necessary to meet Iraq’s needs.20 They reported in April 
+identified in the resolution as necessary to meet Iraq’s needs.[^20] They reported in April 
 that it could not, leading to authorisation of the import of oil industry spare parts and 
 equipment in resolution 1175 (1998) on 19 June.
 
@@ -775,13 +766,13 @@ southern Iraq was a “side benefit of risk reduction”: it was an alternative 
 significant ground forces in Kuwait because it enabled the US and UK to know what 
 the military situation was in Iraq. If an Iraqi military build-up was detected it would 
 
-20 UN Security Council resolution 1153 (1998).
+[^20]: UN Security Council resolution 1153 (1998).
 
 38
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
-give the US and UK time to attack ground forces before they could attack Kuwait.21 
+give the US and UK time to attack ground forces before they could attack Kuwait.[^21] 
 The US and other allies had forces stationed in countries in the region, in particular 
 Kuwait, Saudi Arabia, Bahrain and Turkey, which could respond at short notice, 
 should a threat emerge.
@@ -798,7 +789,7 @@ around 7,000.
 
 79.  The term “weapons of mass destruction” originated as an umbrella concept 
 covering weapons with the capability to cause indiscriminate loss of life and wide-scale 
-destruction.22 All nuclear, chemical and biological weapons are frequently characterised 
+destruction.[^22] All nuclear, chemical and biological weapons are frequently characterised 
 as weapons of mass destruction, and radiological devices have been included 
 more recently.
 
@@ -817,8 +808,8 @@ Use Goods to Iraq and Related Prosecutions published in 1996.
 83.  In March 1990, an attempt to smuggle nuclear-weapons-related components was 
 discovered at Heathrow Airport.
 
-21 Public hearing, 24 November 2009, pages 49-50.
-22 The first official definition was provided by the UN Commission for Conventional Armaments in 
+[^21]: Public hearing, 24 November 2009, pages 49-50.
+[^22]: The first official definition was provided by the UN Commission for Conventional Armaments in 
 1948 which defined weapons of mass destruction as “atomic explosive devices, radioactive material 
 weapons, lethal chemical and biological weapons, and any weapons developed in the future which have 
 characteristics comparable in destructive effect to those of the atomic bomb or other weapons mentioned 
@@ -832,7 +823,7 @@ with disarmament.
 “In the late 1970s, Iraq obtained large quantities of uranium ore from Niger, Portugal 
 and Brazil. By the mid-1980s, however, Iraq had become self-sufficient in uranium 
 ore, which was a by-product of indigenous phosphate mines … which extracted and 
-purified the uranium ore for subsequent use in nuclear enrichment processes.”23
+purified the uranium ore for subsequent use in nuclear enrichment processes.”[^23]
 
 85.  After the invasion of Kuwait in August 1990, the Joint Intelligence Committee (JIC) 
 issued a number of Assessments about Iraq’s possession of weapons of mass 
@@ -852,7 +843,7 @@ without “significant external assistance”, it would take Iraq:
 
 the production of one nuclear device; and
 
-material for a small stockpile of 3-4 weapons.”24
+material for a small stockpile of 3-4 weapons.”[^24]
 
 88.  The JIC’s Assessment was based on an assumption that Iraq was “using only a 
 centrifuge route” for enriching fissile material which was “later shown to be incorrect”.
@@ -872,14 +863,12 @@ be incorporated into a nuclear device.
 have the capability to make an untested nuclear weapon … with a yield of 
 approximately 20 kilotonnes by the end of this year.”
 
-23  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-pages 121-122.
-24  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-pages 42-43.
+[^23]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^24]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 40
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  Saddam Hussein might have authorised a development project on those lines 
 but its conclusion remained that “the technical difficulties would be so great as  
@@ -900,13 +889,13 @@ deployments”, estimated that Iraq:
 *  had a stockpile of “about 700” ballistic missiles;
 *  could have “about 300 SCUD-B” short range (300km) missiles;
 *  “may have converted some 250 SCUD-B missiles to the longer range [650km] 
-*  could have “up to 150” (900km) Al Abbas missiles.25
+*  could have “up to 150” (900km) Al Abbas missiles.[^25]
 
 Al Hussein variant”; and
 
 95.  The Butler Report found that a single intelligence report, received in November 
 1990, had had a significant impact on the JIC’s Assessments of Iraq’s biological and 
-chemical weapons capabilities.26
+chemical weapons capabilities.[^26]
 
 96.  On 9 November 1990, the JIC reported:
 
@@ -919,17 +908,14 @@ assessment that it might have done so. But we have no collateral for the claim t
 it has developed plague to a similar extent. Plague was, however, one of the agents 
 included in the list of those that Iraq had studied or on which it had information 
 … We believe that Iraq has the facilities to produce plague in sufficient quantities 
-for weaponisation.”27
+for weaponisation.”[^27]
 
 97.  Later that November, the Defence Intelligence Staff (DIS) said that plague 
 seedstock was now probably available to Iraq.
 
-25  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 49.
-26  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 45.
-27  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 134.
+[^25]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^26]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^27]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 41
 
@@ -944,7 +930,7 @@ the report:
 chemical agents held in the Iraqi stockpile; the capabilities of those agents; their 
 weaponisation into free-fall bombs; the availability of suitable ballistic missiles for the 
 delivery of particular agents; and the volumes of each type of agent, and hence of 
-the total chemical agent stockpile.”28
+the total chemical agent stockpile.”[^28]
 
 100.  On the basis of that report, the JIC “briefly” put “Iraq’s total chemical agent stocks in 
 the range 15,000-22,000 tonnes”.
@@ -952,93 +938,78 @@ the range 15,000-22,000 tonnes”.
 101.  A JIC Assessment before military action against Iraq in 1991, intended “to provide 
 military commanders with an indication of the possible scale of Iraq’s use of chemical 
 weapons, and of how long such use could be sustained”, subsequently reduced the 
-estimate of the size of the stockpile, to between 6,000-10,000 tonnes of agent.29
+estimate of the size of the stockpile, to between 6,000-10,000 tonnes of agent.[^29]
 
 102.  The enduring effect of that Assessment is addressed later in this Section.
 
 103.  Iraq fired 86 of its SCUD missiles during the 1991 conflict, 40 against Israel, 
-44 against Saudi Arabia and two in the direction of Bahrain and Qatar.30 No Al Abbas 
-missiles were fired.31
+44 against Saudi Arabia and two in the direction of Bahrain and Qatar.[^30] No Al Abbas 
+missiles were fired.[^31]
 
 104.  Based on its Assessment in September 1990, the JIC concluded on 17 April 1991 
 that Iraq might have up to 600 ballistic missiles left, “both standard SCUD and extended 
-range variants”, but the figure was “probably less”.32
+range variants”, but the figure was “probably less”.[^32]
 
 105.  The Butler Report commented that JIC Assessments of Iraq’s chemical warfare 
 and ballistic missile programmes before military action in 1991 were “done on what was 
-effectively a worst case basis”, but that was not made explicitly clear.33
+effectively a worst case basis”, but that was not made explicitly clear.[^33]
 
 106.  Reporting in 2005, the Iraq Survey Group (ISG) concluded that in 1991 the 
 coalition’s military actions had:
 
-28  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 45.
-29  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 46.
-30 Ministry of Defence, Statement on the Defence Estimates, July 1991, page 22.
-31  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 49.
-32  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 50.
-33  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 49.
+[^28]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^29]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^30]: Ministry of Defence, Statement on the Defence Estimates, July 1991, page 22.
+[^31]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^32]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^33]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 42
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
-*  destroyed or damaged most of Iraq’s chemical weapons infrastructure;34
-*  damaged but did not destroy Iraq’s biological weapons infrastructure;35
+*  destroyed or damaged most of Iraq’s chemical weapons infrastructure;[^34]
+*  damaged but did not destroy Iraq’s biological weapons infrastructure;[^35]
 *  successfully bombed most of the key facilities involved in the processing of 
 nuclear material or weapons research which had been identified; and
-*  effectively targeted much of Iraq’s delivery systems infrastructure.36
+*  effectively targeted much of Iraq’s delivery systems infrastructure.[^36]
 
 107.  In its report, ISG stated that:
 
 *  Iraq produced hundreds of tons of a range of chemical agents annually, 
 
 including mustard, sarin and tabun in the 1980s, and had committed significant 
-resources to a long-term programme.37
+resources to a long-term programme.[^37]
 
-the Kurdish population during the Iran-Iraq War.38
+the Kurdish population during the Iran-Iraq War.[^38]
 
 *  More than 100,000 “chemical munitions” were used against Iranian forces and 
-*  Production of chemical agent ceased in 1988 but re-started in 1990.39
-*  A biological weapons programme had started in the 1970s.40
+*  Production of chemical agent ceased in 1988 but re-started in 1990.[^39]
+*  A biological weapons programme had started in the 1970s.[^40]
 *  Between 1979 and 1982 Iraq bought large quantities of uranium in several 
 
 forms from several countries and, in 1982, began formally to pursue uranium 
-enrichment.41
+enrichment.[^41]
 
 complex at Al Athir.
 
 *  In 1988 work began on a nuclear weapon research, development and production 
-*  In April 1990 orders were given to weaponise agents.42
+*  In April 1990 orders were given to weaponise agents.[^42]
 *  By early 1991, Iraq had produced large quantities of agent, including anthrax, 
 botulinum toxin, Clostridium perfringens, aflatoxin and small quantities of ricin 
 and it had successfully weaponised some of them into ballistic missiles, aerial 
-bombs, artillery shells and aircraft spray tanks.43
+bombs, artillery shells and aircraft spray tanks.[^43]
 
-34 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Biological’, page 5.
-35 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Chemical’, page 7.
-36 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume II, ‘Delivery Systems’, page 1.
-37 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Chemical’, page 8.
-38 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Chemical’, page 9.
-39 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Chemical’, page 9.
-40 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Biological’, page 1.
-41 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume II, ‘Nuclear’, page 3.
-42 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Biological’, page 9.
-43 US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
-the DCI on Iraq’s WMD with Addendums. Volume III, ‘Biological’, page 10.
+[^34]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^35]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^36]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^37]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^38]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^39]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^40]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^41]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^42]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
+[^43]: US Government Publishing Office, 25 April 2005, The Comprehensive Report of the Special Advisor to 
 
 43
 
@@ -1054,7 +1025,7 @@ its obligations under the Geneva Protocol for the Prohibition of the Use in War 
 Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare 
 signed at Geneva on 17 June 1925, and of its prior use of chemical weapons and 
 affirming that grave consequences that would follow any further use by Iraq of 
-such weapons”.44
+such weapons”.[^44]
 
 110.  The preambular paragraphs of the resolution also:
 
@@ -1085,16 +1056,15 @@ towards the establishment in the Middle East of a zone free of such weapons.”
 Iraq’s disarmament obligations.
 
 112.  Operative paragraph (OP) 7 of the resolution invited Iraq to reaffirm unconditionally 
-its obligations under the 1925 Geneva Protocol and to ratify the 1972 Convention.45
+its obligations under the 1925 Geneva Protocol and to ratify the 1972 Convention.[^45]
 
-44 UN Security Council resolution 687 (1991).
-45  Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological 
-(Biological) and Toxin Weapons and on Their Destruction, [signed] London and Moscow and Washington, 
+[^44]: UN Security Council resolution 687 (1991).
+[^45]:  Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological 
 10 April 1972.
 
 44
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 113.  In OP8, the Security Council decided that Iraq should “unconditionally accept the 
 destruction, removal, or rendering harmless, under international supervision”, of all:
@@ -1178,32 +1148,28 @@ to co-operate with inspections and concealed activities.
 *  verification of those disclosures by the Commission; and
 *  destruction, removal or rendering harmless under international supervision,  
 
-of all proscribed weapons, materials and facilities.46
+of all proscribed weapons, materials and facilities.[^46]
 
 123.  UNSCOM’s approach was to establish a “material balance”, for each of the 
 weapons categories, between items acquired by Iraq through import or production and 
-their disposal by use or destruction.47
+their disposal by use or destruction.[^47]
 
 124.  Iraq provided initial declarations of its holdings of prohibited weapons on 
-18 and 28 April 1991.48
+18 and 28 April 1991.[^48]
 
 125.  The Butler Review was told that the JIC pre-conflict estimate that Iraq’s stockpile 
 of chemical agent was between 6,000 and10,000 tonnes was “derived from past 
 
-46 UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council 
-resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94), paragraph 3.
-47 UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/258).
-48 UN Security Council resolution 707 (1991).
+[^46]: UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
+[^47]: UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^48]: UN Security Council resolution 707 (1991).
 
 46
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 intelligence about production at individual plants, pieced together to provide a figure for 
-the combined capacity for Iraq’s production plants of 3,000-5,000 tonnes per annum”.49 
+the combined capacity for Iraq’s production plants of 3,000-5,000 tonnes per annum”.[^49] 
 The estimate was based on two years’ production at full capacity since the end of 
 the Iran-Iraq War, and the range reflected the inherent uncertainties in the calculation.
 
@@ -1229,29 +1195,23 @@ and deception in the early- and mid-1990s, reinforcing any suspicions that Iraq 
 substantial stocks to hide.”
 
 128.  Iraq “consistently and emphatically denied that it had undertaken any proscribed 
-biological warfare related activity”.50
+biological warfare related activity”.[^50]
 
 129.  In May 1991, the JIC stated that, while it could not “be precise”, it was “confident” 
-that Iraq had “substantially under-reported the numbers of missiles”.51
+that Iraq had “substantially under-reported the numbers of missiles”.[^51]
 
 130.  The UN Security Council adopted resolution 699 (1991) approving the plans for 
-UNSCOM and IAEA inspections on 17 June 1991.52
+UNSCOM and IAEA inspections on 17 June 1991.[^52]
 
 131.  In July, UNSCOM supervised the destruction of 48 operational missiles, 
 14 conventional warheads, six operational mobile launchers and other equipment 
-and material.53
+and material.[^53]
 
-49  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 46.
-50 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-51  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 50.
-52 UN Security Council resolution 699 (1991).
-53 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
+[^49]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^50]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^51]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^52]: UN Security Council resolution 699 (1991).
+[^53]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
 
 47
 
@@ -1260,7 +1220,7 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 132.  Following IAEA inspections in May and June 1991, and a meeting in 
 Baghdad, Mr Ahmed Hussein, Iraq’s Minister for Foreign Affairs, wrote to the 
 UN Secretary-General on 7 July stating that Iraq had “decided that it would be 
-appropriate to give an account” of its “peaceful nuclear programme”.54
+appropriate to give an account” of its “peaceful nuclear programme”.[^54]
 
 133.  In an “overview” attached to the letter, Iraq stated that the programme had 
 begun in 1956, after the US had announced that it was launching a peaceful nuclear 
@@ -1278,7 +1238,7 @@ nuclear fuel cycle allowed Iraq to achieve:
   * research laboratories for processing spent nuclear fuel;
   * the nuclear power plant programme;
   * uranium extraction from phosphate ores; and
-  * the establishment of the Tammuz 155 reactor and related facilities and 
+  * the establishment of the Tammuz 1[^55] reactor and related facilities and 
 
 equipment, which Israel had destroyed on 7 June 1981.
 
@@ -1298,13 +1258,12 @@ cycle, through self-reliance and the non-disclosure of information.”
 whilst they were in operation and that was “equivalent to a nuclear attack” which had 
 endangered the population and the environment.
 
-54 Letter Minister for Foreign Affairs of Iraq to Secretary-General of the United Nations, 7 July 1991, 
-[untitled], attaching ‘Overview of the Iraqi nuclear programme’ and tables.
-55 This reactor is frequently referred to as Osirak.
+[^54]: Letter Minister for Foreign Affairs of Iraq to Secretary-General of the United Nations, 7 July 1991, 
+[^55]: This reactor is frequently referred to as Osirak.
 
 48
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 136.  Iraq also provided detailed tables of its equipment and activities, which stated 
 that it had produced half a kilogram of uranium 235 enriched to 4 percent through the 
@@ -1351,9 +1310,9 @@ receiving interminable lists of equipment to be destroyed”.
 49
 
 143.  In an exchange of correspondence with Dr Blix, which followed Iraq’s admission, 
-the IAEA disputed Iraq’s view that it had not violated its obligations.56
+the IAEA disputed Iraq’s view that it had not violated its obligations.[^56]
 
-144.  Iraq continued to contest the IAEA view.57 It stated that:
+144.  Iraq continued to contest the IAEA view.[^57] It stated that:
 
 threshold for notification of 75 kilogrammes.
 
@@ -1375,7 +1334,7 @@ warheads.
 they were verifying and had pointed out that yellowcake was not subject to 
 inspection.
 
-145.  On 11 July, the JIC addressed Iraq’s nuclear activities.58
+145.  On 11 July, the JIC addressed Iraq’s nuclear activities.[^58]
 
 146.  The JIC reported that, on the basis of post-war intelligence, it now knew that:
 
@@ -1393,20 +1352,17 @@ the intelligence. The JIC added:
 cannot exclude the possibility that Iraq might have produced more fissile material 
 than we have previously believed.”
 
-56 International Atomic Energy Agency, 9 July 1991, ‘Letter dated 9 July 1991 from the Director General to 
-the Minister for Foreign Affairs of Iraq’ (GOV/2530 Annex 2); International Atomic Energy Agency, 11 July 
+[^56]: International Atomic Energy Agency, 9 July 1991, ‘Letter dated 9 July 1991 from the Director General to 
 1991, ‘Letter dated 11 July 1991 from the Director General to the Minister for Foreign Affairs of Iraq’ 
 (GOV/2530 Annex 3).
-57 International Atomic Energy Agency, 10 July 1991, ‘Letter dated 10 July 1991 from the Minister for 
-Foreign Affairs of Iraq to the Director General’ (GOV/2530 Annex 4); International Atomic Energy Agency, 
+[^57]: International Atomic Energy Agency, 10 July 1991, ‘Letter dated 10 July 1991 from the Minister for 
 12 July 1991, ‘Letter dated 12 July 1991 from the Minister for Foreign Affairs of Iraq to the Director 
 General’ (GOV/2530 Annex 5).
-58  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 44.
+[^58]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 50
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 148.  Resolution 707 (1991), adopted on 15 August, condemned Iraq’s:
 
@@ -1414,7 +1370,7 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 (1991) and of its undertakings to co-operate with the Special Commission and the 
 IAEA, which constitutes a material breach of the relevant provisions of resolution 
 687 which established a cease-fire and provided the conditions essential to the 
-restoration of peace and security in the region.”59
+restoration of peace and security in the region.”[^59]
 
 149.  The resolution also condemned Iraq’s “non-compliance” with its obligations 
 under its safeguards agreement with the IAEA, which constituted a “violation of its 
@@ -1437,7 +1393,7 @@ UNSCOM; and
 
 151.  In his memoir, Dr Blix wrote that between May and September 1991, IAEA 
 inspections teams had produced “spectacular” results and the documents recovered 
-provided “crucial and convincing evidence” about Iraq’s nuclear programme.60
+provided “crucial and convincing evidence” about Iraq’s nuclear programme.[^60]
 
 152.  Dr Blix wrote that “the revelation that Iraq had secretly enriched uranium without 
 being detected shook the world” and resulted in agreement that it was necessary to 
@@ -1448,22 +1404,22 @@ significant volumes of documents about Iraq’s nuclear weapons.
 
 154.  In his statement to the Inquiry, Mr Ekéus said that the identification of the building 
 in central Baghdad containing documentation about Iraq’s nuclear programme was as 
-a result of data provided by the US.61
+a result of data provided by the US.[^61]
 
 155.  The Review of Intelligence on Weapons of Mass Destruction (The Butler Report) 
 records that, in an Assessment in October 1991, the JIC noted that inspection had 
 confirmed the existence of a comprehensive nuclear weapons programme and 
 concluded:
 
-59 UN Security Council resolution 707 (1991).
-60 Blix H. Disarming Iraq. Bloomsbury, 2004.
-61 Statement Ekéus, 23 April 2011, page 3.
+[^59]: UN Security Council resolution 707 (1991).
+[^60]: Blix H. Disarming Iraq. Bloomsbury, 2004.
+[^61]: Statement Ekéus, 23 April 2011, page 3.
 
 51
 
 “On the basis of the evidence so far of the programme’s progress before Desert 
 Storm, Iraq could have made its first nuclear weapon by 1993, had its work not been 
-interrupted by the war.”62
+interrupted by the war.”[^62]
 
 156.  That was two years earlier than had been assessed before the 1990-1991 conflict. 
 The unexpected discoveries had a significant impact on subsequent JIC Assessments, 
@@ -1471,7 +1427,7 @@ which tended to look at Iraq’s potential capability on a “worst case” basi
 
 157.  By the end of 1992, the processes of transporting Iraq’s fissionable material to 
 Russia and of the IAEA supervising the destruction of many large installations that had 
-been used in Iraq’s weapons programme was mostly complete.63
+been used in Iraq’s weapons programme was mostly complete.[^63]
 
 ## Concealment of WMD activities
 158.  Iraq’s actions to conceal the scale and details of its activity, including the unilateral 
@@ -1479,10 +1435,10 @@ destruction of prohibited weapons and material, created major problems for UNSCO
 carrying out its mandate.
 
 159.  The regime for “ongoing monitoring and verification” (OMV) was authorised in 
-resolution 715 (1991), adopted by the Security Council on 11 October 1991.64
+resolution 715 (1991), adopted by the Security Council on 11 October 1991.[^64]
 
 160.  Mr Ekéus wrote that “the monitoring system could not be fully operational until 
-early 1995 due to Iraqi’s obstructions”.65
+early 1995 due to Iraqi’s obstructions”.[^65]
 
 161.  In January 1992, the JIC significantly revised its assessment of Iraq’s remaining 
 ballistic missile holdings, stating:
@@ -1495,33 +1451,30 @@ remain concealed.”
 and engine packages which cannot be accounted for, and would be critical for 
 future production. Provided the raw material was available, Iraq could build 
 its own replacement mid-body sections and assemble new material from this 
-stockpile.” 66
+stockpile.” [^66]
 
 162.  Iraq told UNSCOM, after 1999, that it produced 17 Al Abbas and 387 Al Hussein 
-missiles between 1987 and 1990.67
+missiles between 1987 and 1990.[^67]
 
-62  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 44.
-63 Blix H. Disarming Iraq. Bloomsbury, 2004. 
-64 UN Security Council resolution 715 (1991).
-65 Statement Ekéus, 23 April 2011.
-66  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-pages 50-51.
-67  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-pages 49-50.
+[^62]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^63]: Blix H. Disarming Iraq. Bloomsbury, 2004. 
+[^64]: UN Security Council resolution 715 (1991).
+[^65]: Statement Ekéus, 23 April 2011.
+[^66]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^67]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 52
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 163.  In 1991, Iraq had declared 30 chemical warheads for its ballistic missiles which 
-were destroyed by April 1993.68
+were destroyed by April 1993.[^68]
 
 164.  Despite the provisions of resolution 687, which stated that prohibited items should 
 be declared and subsequently dealt with under international supervision, Iraq admitted 
 in March 1992 that a decision had been taken in late June 1991 to carry out a unilateral 
 programme to destroy proscribed equipment, including missile launchers, munitions and 
-chemical agents.69
+chemical agents.[^69]
 
 165.  Iraq disclosed that it had concealed “the greater part of its operational missile force 
 (85 … missiles, over 130 warheads, both conventional and chemical, 8 operational 
@@ -1530,7 +1483,7 @@ it had “unilaterally and secretly destroyed in late July 1991”. Iraq also cl
 destruction “had not been fully documented or recorded”.
 
 166.  In June 1992, the JIC judged that Iraq retained a “potential BW agent production 
-capability and has hidden BW weapons”.70
+capability and has hidden BW weapons”.[^70]
 
 167.  UNSCOM subsequently reported that the decision to destroy proscribed weapons 
 and equipment had been taken by a high-level committee, of which Iraq’s Deputy Prime 
@@ -1553,19 +1506,12 @@ and
 
 *  “conceal the very existence of its offensive biological weapons programmes and 
 
-retain all production capabilities”.71
+retain all production capabilities”.[^71]
 
-68 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-69 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-70  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 48.
-71 UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council 
-resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94), Appendix IV. 
+[^68]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^69]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^70]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^71]: UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
 
 53
 
@@ -1574,12 +1520,12 @@ activities, the JIC was more sanguine in September 1994 about the size and value
 Iraq’s chemical and biological agent stockpiles.
 
 169.  After 1992, UNSCOM “continued to have concerns that not all proscribed items 
-had been disclosed”.72
+had been disclosed”.[^72]
 
 170.  In January 1993, there were two incidents involving Iraqi incursions into the 
 demilitarised zone between Iraq and Kuwait. On 8 and 11 January, two Presidential 
 Statements were issued, declaring that Iraq’s actions constituted unacceptable and 
-material breaches of relevant provisions of resolution 687.73 Again, Iraq was warned that 
+material breaches of relevant provisions of resolution 687.[^73] Again, Iraq was warned that 
 “serious consequences” would flow from such continued defiance. The status and legal 
 significance of Presidential Statements is addressed in Section 5.
 
@@ -1592,26 +1538,20 @@ fact that there was a marked absence of protest on the part of Member States eve
 when the air strikes continued for a third wave. By issuing repeated warnings to Iraq 
 in the form of Presidential Statements which conveyed the sense of the Security 
 Council as a collective organ, the Council had clearly signified its agreement to the 
-course of action which had been taken.”74
+course of action which had been taken.”[^74]
 
 172.  In April, an Iraqi plot to assassinate former US President George HW Bush during 
 a visit to Kuwait was foiled. On 26 June, his successor, President Bill Clinton, responded 
 with a cruise missile attack against the headquarters of the Iraqi Intelligence Services 
 in Baghdad.
 
-72 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848).
-73 Statement by the President of the Security Council concerning United Nations flights in Iraqi territory, 
-Document S/25081 of 8 January 1993; Statement by the President of the Security Council concerning 
-various actions by Iraq vis a vis UNIKOM [United Nations Iraq-Kuwait Observation Mission] and 
-UNSCOM, Document S/25091 of 11 January 1993.
-74 Zacklin R. The United Nations Secretariat and the Use of Force in a Unipolar World: Power v. Principle. 
-Cambridge University Press, 2010.
+[^72]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^73]: Statement by the President of the Security Council concerning United Nations flights in Iraqi territory, 
+[^74]: Zacklin R. The United Nations Secretariat and the Use of Force in a Unipolar World: Power v. Principle. 
 
 54
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 173.  On 25 August, the JIC stated:
 
@@ -1619,7 +1559,7 @@ The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
 to 1990, but claims never to have produced agent in quantity nor to have possessed 
 biological weapons. We have information that this claim is untrue and assess that 
 Iraq produced BW weapons containing anthrax and plague … Stocks of agents and 
-weapons have probably been hidden, together with key items of equipment.”75
+weapons have probably been hidden, together with key items of equipment.”[^75]
 
 174.  Commenting on the judgement that Iraq had produced plague, the Butler 
 Report recorded that, after the Gulf Conflict, two further sources had provided “some 
@@ -1634,7 +1574,7 @@ reactivated.
 
 176.  By May 1994, UNSCOM had supervised the destruction of “480,000 litres of live 
 chemical agent, 28,000 chemical munitions and approximately 1.8 million litres, and over 
-1 million kilograms of some 45 different precursor chemicals”.76
+1 million kilograms of some 45 different precursor chemicals”.[^76]
 
 177.  A JIC Assessment of 8 September noted that it did “not believe the full extent of the 
 CW programme” had been revealed:
@@ -1643,7 +1583,7 @@ CW programme” had been revealed:
 precursors and weapons, Iraq may have retained a secret stockpile but we have 
 no direct evidence. Hidden stockpiles are probably unnecessary as the Iraqi civil 
 chemical industry can produce all the precursors needed to make mustard agent 
-and most of those for nerve agents.”77
+and most of those for nerve agents.”[^77]
 
 178.  In OP22 of resolution 687, the Security Council had decided that, upon approval by 
 the Security Council of the programme called for in OP19 (which would establish a fund 
@@ -1654,22 +1594,18 @@ the sanctions imposed by resolution 661 should “have no further force or effec
 179.  In response to Iraq’s deployment of forces into southern Iraq, the Security Council 
 adopted resolution 949 (1994) on 15 October 1994, which condemned “deployments 
 
-75  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 134.
-76 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-77  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-pages 46-47.
+[^75]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^76]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^77]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 55
 
-by Iraq in the direction of the border with Kuwait”.78 It included a demand that Iraq 
+by Iraq in the direction of the border with Kuwait”.[^78] It included a demand that Iraq 
 “co-operate fully with the United Nations Special Commission”.
 
 180.   In autumn 1994, UNSCOM conducted a thorough review of Iraq’s biological 
 weapons programme, including “an attempt to create a material balance of equipment 
-and … growth media acquired by Iraq”.79 The review “reinforced the suspicion that the 
+and … growth media acquired by Iraq”.[^79] The review “reinforced the suspicion that the 
 Al Hakam factory was a biological warfare agent production facility and that other sites 
 were also involved in the biological weapons programme”.
 
@@ -1689,7 +1625,7 @@ establishment were involved in the programme.”
 
 183.  Iraq admitted in December that it received proscribed SCUD missile gyroscope 
 components in 1991 and a shipment of proscribed advanced missile gyroscopes was 
-intercepted in 1995.80
+intercepted in 1995.[^80]
 
 184.  Mr Haass wrote in his memoir that, during the Clinton Administration, there was:
 
@@ -1697,43 +1633,39 @@ intercepted in 1995.80
 the CIA and the Clinton administration enmeshed in a disastrous attempt to oust 
 Saddam Hussein by covert means. The coup was uncovered and crushed in March 
 1995. There was as well a parallel overt initiative to strengthen the Iraqi opposition 
-that lived outside Iraq …”81
+that lived outside Iraq …”[^81]
 
 185.  In April 1995, the Security Council was advised that the Special Commission 
 assessed that Iraq had “obtained or sought to obtain all the items and materials required 
 to produce biological warfare agents in Iraq”. Given Iraq’s failure to account for those 
 
-78 UN Security Council resolution 949 (1994).
-79 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-80 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-81 Haass RN. War of Necessity War of Choice: A Memoir of two Iraqi Wars. Simon & Schuster, 2009. 
+[^78]: UN Security Council resolution 949 (1994).
+[^79]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^80]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^81]: Haass RN. War of Necessity War of Choice: A Memoir of two Iraqi Wars. Simon & Schuster, 2009. 
 
 56
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 items, the only conclusion was that there was “a high risk that they had been purchased 
-and in part used for proscribed activities”.82
+and in part used for proscribed activities”.[^82]
 
 186.  Mr Ekéus told the Inquiry that he was able to make that report as a result of the 
-work of UNSCOM scientists, including Dr David Kelly.83
+work of UNSCOM scientists, including Dr David Kelly.[^83]
 
 187.  On 1 July 1995, as part of a further “full, final, and complete disclosure (FFCD)” of 
 its capabilities, Iraq admitted for the first time to the production of bulk biological agent, 
-but not to its weaponisation.84
+but not to its weaponisation.[^84]
 
 188.  In July 1995, dual-use items were rendered harmless or destroyed, “under strong 
 protest from Iraq”. In November 1995, Iraq acknowledged that the items had been 
-specifically procured for and used in proscribed activities.85
+specifically procured for and used in proscribed activities.[^85]
 
 189.  Mr Ekéus told the Inquiry that, in 1995, Mr Aziz had asked him to approach 
 Mr Tony Lake, US National Security Advisor, to offer, on Mr Aziz’s behalf, “high quality 
 information about activity and planning inside terrorist networks” in exchange for an 
-accommodating attitude on the easing of sanctions against Iraq.86 Mr Lake declined.
+accommodating attitude on the easing of sanctions against Iraq.[^86] Mr Lake declined.
 
 ## The defection of Lieutenant General Hussein Kamil
 
@@ -1743,7 +1675,7 @@ Corporation defected to Jordan. He had been responsible for the development and
 manufacture of Iraq’s proscribed weapons programmes.
 
 191.  Lt Gen Kamil met Mr Ekéus and two other officials from the IAEA and UNSCOM 
-and an interpreter in Amman.87 Lt Gen Kamil said that, after inspections had started, 
+and an interpreter in Amman.[^87] Lt Gen Kamil said that, after inspections had started, 
 Iraq had destroyed its biological weapons and he himself had ordered the destruction of 
 Iraq’s chemical weapons. In addition, all Iraq’s SCUD missiles and their components had 
 been destroyed, although two launchers had been dismantled and hidden. Lt Gen Kamil 
@@ -1753,18 +1685,12 @@ where equipment had been buried.
 192.  Mr Tim Dowse, Chief of the Assessments Staff from 2003 to 2009, told the Inquiry 
 that Lt Gen Kamil had claimed that:
 
-82 UN Security Council, 10 April 1995, ‘Report of the Secretary-General on the status of the 
-implementation of the Special Commission’s plan for the ongoing monitoring and verification of Iraq’s 
-compliance with relevant parts of section C of Security Council resolution 687 (1991)’ (S/1995/284). 
-83 Statement Ekéus, 23 April 2011, page 3.
-84 UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council 
-resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94), Annex C.
-85 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-86 Statement Ekéus, 23 April 2011, page 6.
-87 Note Smidovich, [undated], ‘Note for the File’.
+[^82]: UN Security Council, 10 April 1995, ‘Report of the Secretary-General on the status of the 
+[^83]: Statement Ekéus, 23 April 2011, page 3.
+[^84]: UN Security Council, ‘Letter dated 25 January 1999 from the Executive Chairman of the Special 
+[^85]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^86]: Statement Ekéus, 23 April 2011, page 6.
+[^87]: Note Smidovich, [undated], ‘Note for the File’.
 
 57
 
@@ -1774,17 +1700,17 @@ to know about the biological programme.
 
 “He also exposed an organised Iraqi campaign of deception directed from the top 
 – so I think in many ways what he revealed to us very much coloured our approach 
-thereafter.”88
+thereafter.”[^88]
 
 193.  In the aftermath of Lt Gen Kamil’s departure, Iraq admitted that its disclosures had 
 been “deliberately misleading” and released a large amount of information which had 
 both “confirmed” many of UNSCOM’s earlier observations and “brought to light earlier 
-unknown documents of significance”.89 It included “new information related to Iraq’s 
+unknown documents of significance”.[^89] It included “new information related to Iraq’s 
 attempts to acquire advanced chemical and biological weapons capabilities, as well 
 as long-range missile systems with ranges of up to and over 2,000 kilometres”.
 
 194.  Iraq’s disclosures “represented a great step forward in the work of the Commission” 
-and expedited the inspection process.90 In December 1995, Mr Ekéus reported to the 
+and expedited the inspection process.[^90] In December 1995, Mr Ekéus reported to the 
 Security Council that Iraq had recently submitted new declarations, containing “full, final 
 and complete disclosures” in relation to its chemical, biological and missile programmes, 
 which still did not meet UNSCOM’s requirements.
@@ -1796,7 +1722,7 @@ certain of the most important documentation had not yet been handed over”.
 
 196.  UNSCOM concluded that the documents disclosed by Iraq in August 1995 
 showed that Iraq’s chemical weapons programme was more developed and wider in 
-scope than had previously been admitted.91 Iraq had “used chemical weapons facilities 
+scope than had previously been admitted.[^91] Iraq had “used chemical weapons facilities 
 to support other weapons of mass destruction programmes”, including “production of 
 casings for radiological bombs, activities for the uranium chemical enrichment process 
 and major support for the biological weapons programme”. They had also provided 
@@ -1806,23 +1732,17 @@ production including “the most important phase after 1988 when Iraq conducted
 research and development, inter alia, on more advanced chemical weapons agents and 
 delivery systems”.
 
-88 Public hearing, 25 November 2009, page 45.
-89 UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/258).
-90 UN Security Council, 17 December 1995, ‘Tenth Report of the Executive Chairman of the Special 
-Commissions established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 
-(1991)’ (S/1995/1038).
-91 UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/258).
+[^88]: Public hearing, 25 November 2009, page 45.
+[^89]: UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^90]: UN Security Council, 17 December 1995, ‘Tenth Report of the Executive Chairman of the Special 
+[^91]: UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
 
 58
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 197.  In an Assessment issued on 24 August, the JIC reassessed Iraq’s capabilities 
-in the light of the new information.92
+in the light of the new information.[^92]
 
 198.  In relation to Iraq’s nuclear programme, the JIC noted that Iraq:
 
@@ -1843,7 +1763,7 @@ refers to the ‘crash programme’. It is very unlikely to be true.”
 “UNSCOM has verified destruction of the declared SCUDs (and the Iraqi derivatives) 
 and their launchers and believes it has a satisfactory account of what happened to 
 the rest. UNSCOM has also supervised destruction of components and much of the 
-missile-related infrastructure …”93
+missile-related infrastructure …”[^93]
 
 200.  The JIC noted, however, that Iraq would:
 
@@ -1856,14 +1776,11 @@ UNSCOM had previously expressed itself to be satisfied.”
 
 201.  In relation to chemical weapons, the JIC concluded that it was “unlikely” that 
 Iraq had “a covert stockpile of [chemical] weapons or agent in any significant quantity; 
-Hussein Kamil claims that there are no remaining stockpiles of agent”.94
+Hussein Kamil claims that there are no remaining stockpiles of agent”.[^94]
 
-92  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 45.
-93  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 51.
-94  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 47.
+[^92]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^93]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^94]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 59
 
@@ -1885,44 +1802,34 @@ implausibly denied it had ever considered weaponisation … In the last few days
 has admitted to UNSCOM that agent was produced at additional sites, field-testing 
 of weapons took place in 1989, and that bombs and missile warheads were filled 
 with anthrax and botulinum toxin in December 1990 … Many questions remain on 
-the BW programme; Iraq has not, for example admitted any work on plague.”95
+the BW programme; Iraq has not, for example admitted any work on plague.”[^95]
 
 204.  After Lt Gen Kamil’s defection, concerns began to grow that Iraq had a systematic 
 programme of concealment.
 
 205.  UNSCOM reported that Iraq’s FFCD on ballistic missiles in November 1995 did 
 not appear to constitute a firm basis for establishing a definite and verifiable material 
-balance for proscribed weapons and activities.96
+balance for proscribed weapons and activities.[^96]
 
 206.  From early 1996, UNSCOM undertook a series of inspections specifically targeting 
 sites it “believed to be associated with concealment activities” in response to Iraq’s 
-assertion that “there was no systematic mechanism for concealment”.97
+assertion that “there was no systematic mechanism for concealment”.[^97]
 
 207.  While Iraq complied with its obligations in respect of most inspections, UNSCOM 
 reported encountering difficulties and delays on five occasions in March 1996 when it 
 requested no-notice inspections of sites related to Iraq’s missile programmes, and that 
-Iraq had also imposed restrictions on aerial surveillance.98
+Iraq had also imposed restrictions on aerial surveillance.[^98]
 
-95  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 134.
-96 UN Security Council, 17 December 1995, ‘Tenth report of the Executive Chairman of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council 
-resolution 687 (1991), and paragraph 3 of resolution 699 (1991) on the activities of the Special 
-Commission’ (S/1995/1038). 
-97 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-98 UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/258). 
+[^95]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^96]: UN Security Council, 17 December 1995, ‘Tenth report of the Executive Chairman of the Special 
+[^97]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^98]: UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
 
 60
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
-
 208.  In a letter to the President of the Security Council on 17 March 1996, Mr Aziz 
 stated that the problems related to the special nature of the sites and that the delays 
-were “no longer than the time necessitated by … practical factors”.99 Mr Aziz cited the 
+were “no longer than the time necessitated by … practical factors”.[^99] Mr Aziz cited the 
 agreement in July 1993, in response to Iraq’s concerns in respect of its sovereignty, 
 internal security and the dignity of the people and State of Iraq, that UNSCOM and the 
 IAEA intention was to implement their plans “in the least intrusive manner consistent 
@@ -1956,15 +1863,14 @@ resolutions 687 (1991), 707 (1991) and 715 (1991)”.
 213.  On 27 March 1996, as part of developing the OMV system, the Security Council 
 adopted resolution 1051 (1996), which implemented a mechanism for monitoring sales 
 or supplies of items “relevant to the implementation of Section C of resolution 687 (1991) 
-and other relevant resolutions”.100
+and other relevant resolutions”.[^100]
 
 214.  To replace the previous reporting systems, the resolution also consolidated the 
 progress reports on UNSCOM and the IAEA’s activities into reports every six months 
 from the UN on all aspects of its work.
 
-99 UN Security Council, 18 March 1998, ‘Letter dated 17 March 1996 from the Deputy Prime Minister of the 
-Republic of Iraq addressed to the President of the Security Council’ (S/1996/204).
-100 UN Security Council resolution 1051 (1996).
+[^99]: UN Security Council, 18 March 1998, ‘Letter dated 17 March 1996 from the Deputy Prime Minister of the 
+[^100]: UN Security Council resolution 1051 (1996).
 
 61
 
@@ -1978,7 +1884,7 @@ related to them. The Commission’s concerns stem particularly from the difficul
 encountered in substantiating Iraq’s claims that, in 1991, in flagrant violation of its 
 obligations under resolution 687 (1991) it secretly destroyed large quantities of these 
 prohibited weapons and materials instead of declaring and handing them over for 
-the Commission’s verification.”101
+the Commission’s verification.”[^101]
 
 216.  The report stated that “large quantities” of prohibited items had been “successfully 
 eliminated”, but “relatively minor, but highly significant, quantities” of proscribed items 
@@ -2010,13 +1916,11 @@ of sophisticated guidance and control components” which it assessed were “us
 missiles with ranges over thousands of kilometres”. Iraq had denied acquiring the items 
 but following official investigations it had confirmed that “its authorities and missile 
 
-101 UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/258).
+[^101]: UN Security Council, 11 April 1996, ‘Report of the Secretary-General on the activities of the Special 
 
 62
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 facilities had been involved … through a specific middleman” and some components 
 had been delivered in July 1995. Other components had been stored in transit in 
@@ -2120,7 +2024,7 @@ in the summer of 1991.
 
 64
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 233.  UNSCOM hoped that the diminution in the quality of information and the quantity 
 of documents provided since mid-February, and the difficulties with inspections in March, 
@@ -2128,19 +2032,19 @@ of documents provided since mid-February, and the difficulties with inspections 
 to the summer of 1995”.
 
 234.  Iraq’s biological weapons facilities, and growth media it had purchased, were 
-destroyed under UNSCOM supervision in May and June 1996.102
+destroyed under UNSCOM supervision in May and June 1996.[^102]
 
 235.  In May 1996, Iraq admitted that the documents handed over on 20 August 1995 
 “constituted only a portion” of the documentation which had been concealed; the rest 
-had “been burnt just a few days” earlier, “at another farm west of Baghdad”.103
+had “been burnt just a few days” earlier, “at another farm west of Baghdad”.[^103]
 
 236.  In May, UNSCOM sent a team to Iraq to conduct interviews with Iraqi officials 
-believed to be involved in concealment activities.104 Iraq “abruptly” terminated its 
+believed to be involved in concealment activities.[^104] Iraq “abruptly” terminated its 
 co-operation with the inspectors, and claimed that Lt Gen Kamil had been entirely 
 responsible for the concealment programme, a claim which was retracted in August.
 
 237.  A JIC Assessment on 12 June 1996 reflected the concerns about Iraq’s 
-concealment activities.105
+concealment activities.[^105]
 
 238.  In relation to ballistic missiles, the JIC stated:
 
@@ -2156,17 +2060,10 @@ and expertise required … an accurate 1,000km range missile could probably be
 produced within three to five years. A 300–500km range SCUD type missile could 
 be indigenously manufactured within two years.”
 
-102 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848).
-103 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848).
-104 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848).
-105  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 51.
+[^102]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^103]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^104]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^105]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 65
 
@@ -2174,15 +2071,15 @@ page 51.
 
 “We do not believe Iraqi statements that the BW programme has been destroyed. 
 Possibly substantial elements, including some production equipment and 
-weaponised agent, continue to be concealed.”106
+weaponised agent, continue to be concealed.”[^106]
 
 241.  The JIC also stated:
 
 “Iraq has not yet admitted to work on plague and has played down its success in 
-developing BW aerosol delivery systems.”107
+developing BW aerosol delivery systems.”[^107]
 
 242.  In relation to chemical warfare, the JIC stated that it doubted whether “all agents, 
-munitions, precursor chemicals and equipment have been accounted for”.108
+munitions, precursor chemicals and equipment have been accounted for”.[^108]
 
 243.  The Butler Report stated that its authors had been informed that the reason for 
 the change in the JIC’s view on Iraq’s biological warfare programme, “in the apparent 
@@ -2190,7 +2087,7 @@ absence of underpinning reliable intelligence”, was:
 
 “… the impact of … Kamil’s defection, UNSCOM’s inability to reconcile Iraqi claims 
 for production and destruction, unaccounted-for growth media and a total lack of 
-co-operation from the Iraqis.”109
+co-operation from the Iraqis.”[^109]
 
 ## Events leading to the withdrawal of UNSCOM
 
@@ -2198,32 +2095,26 @@ co-operation from the Iraqis.”109
 resolution 1060 (1996), adopted on 12 June 1996, deplored Iraq’s refusal to allow 
 UNSCOM access to sites designated for inspections and demanded “immediate, 
 unconditional and unrestricted access to any and all areas, facilities, equipment, records 
-and means of transportation” that UNSCOM wished to inspect.110
+and means of transportation” that UNSCOM wished to inspect.[^110]
 
 245.  After talks in Baghdad between Mr Ekéus and Mr Aziz, a joint programme of action 
-was agreed on 22 June.111 It included Iraq’s intention to submit “official declarations 
+was agreed on 22 June.[^111] It included Iraq’s intention to submit “official declarations 
 containing full final and complete disclosures on its proscribed programmes in the  
 non-nuclear areas” before the end of June.
 
 246.  In the joint statement issued after the agreement, Iraq “undertook to secure … 
 immediate, unconditional and unrestricted access to all sites which the Commission 
 
-106  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 48.
-107  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 135.
-108  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 47.
-109  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 48.
-110 UN Security Council resolution 1060 (1996).
-111 UN Security Council, 24 June 1996, ‘Letter dated 24 June 1997 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1996/463).
+[^106]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^107]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^108]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^109]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^110]: UN Security Council resolution 1060 (1996).
+[^111]: UN Security Council, 24 June 1996, ‘Letter dated 24 June 1997 from the Executive Chairman of the 
 
 66
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 or the IAEA may wish to inspect”. UNSCOM undertook “to operate with full respect for 
 the legitimate security concerns of Iraq”. It stated that Iraq and UNSCOM had “agreed 
@@ -2240,14 +2131,14 @@ that proscribed weapons or materials were present, the Commission’s utility in
 achieving the Council’s objectives would have been irreparably harmed.”
 
 248.  The joint programme of action focused on Iraq’s FFCDs of its activities and the 
-means and techniques of verifying them.112 As a priority and to accelerate verification, 
+means and techniques of verifying them.[^112] As a priority and to accelerate verification, 
 Iraq and UNSCOM agreed to concentrate on the fundamental areas of the:
 
 *  material balance of proscribed weapons and their major components;
 *  unilateral destruction of proscribed items;
 *  further provision of documentation; 
 *  identification of measures used to retain proscribed items; and
-*  immediate, unconditional and unrestricted access”.113
+*  immediate, unconditional and unrestricted access”.[^113]
 
 249.  Mr Ekéus told the Inquiry:
 
@@ -2256,22 +2147,19 @@ modalities for functioning access for inspectors, which guaranteed realization
 of inspections of what Iraq called sensitive sites (Presidential Palaces etc). The 
 modalities implied some delay of access but without compromising control of the 
 facility (entrance/exit and aerial helicopter surveillance). This was welcome[d] by 
-all the Security Council members with the exception of the US/UK.”114
+all the Security Council members with the exception of the US/UK.”[^114]
 
 250.  Dr Blix wrote in 2004:
 
 “The solution was not welcomed by the US and some other members of the 
 Security Council, who felt that it introduced a limitation in the inspection rights 
 that had been laid down by the Council. This was certainly how the Iraqis also 
-saw the instruction.”115
+saw the instruction.”[^115]
 
-112 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-113 UN Security Council, 19 March 1996, ‘Statement by the President of the Security Council’  
-(S/PRST/1996/11).
-114 Statement Ekéus, 23 April 2011, page 4.
-115 Blix H. Disarming Iraq. Bloomsbury, 2004. 
+[^112]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^113]: UN Security Council, 19 March 1996, ‘Statement by the President of the Security Council’  
+[^114]: Statement Ekéus, 23 April 2011, page 4.
+[^115]: Blix H. Disarming Iraq. Bloomsbury, 2004. 
 
 67
 
@@ -2301,11 +2189,11 @@ to allow it fully to discharge its mandate and stating that:
 its obligations.
 
 conditions on interviews were a “gross violation of its obligations” as well as  
-a contradiction of its commitments in the joint statement of 22 June.116
+a contradiction of its commitments in the joint statement of 22 June.[^116]
 
 253.  On 3 September, Mr Ekéus reported that, during discussions in Baghdad on  
 26 to 28 August, Mr Aziz had stated that Iraq “was abiding and would continue to abide 
-sincerely and effectively” by the June agreements.117
+sincerely and effectively” by the June agreements.[^117]
 
 254.  Mr Ekéus had stressed that concerns relating to concealment of proscribed items 
 remained a prime objective for UNSCOM. Mr Aziz made a formal statement to the effect 
@@ -2317,15 +2205,12 @@ issue. Mr Ekéus said they must continue.
 UNSCOM’s rights and privileges and on several occasions “attempted to dictate how 
 and to what extent” those rights should be exercised.
 
-116 UN Security Council, 23 August 1996, ‘Statement by the President of the Security Council’  
-(S/PRST/1996/36).
-117 UN Security Council, 3 September 1996, ‘Letter dated 3 September 1996 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1996/714).
+[^116]: UN Security Council, 23 August 1996, ‘Statement by the President of the Security Council’  
+[^117]: UN Security Council, 3 September 1996, ‘Letter dated 3 September 1996 from the Executive Chairman 
 
 68
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 256.  Mr Ekéus concluded that the visit had been useful, clarifying the respective 
 positions of Iraq and UNSCOM and narrowing certain differences. UNSCOM would 
@@ -2337,11 +2222,11 @@ out its obligations”.
 257.  In the subsequent press briefing, Mr Ekéus stated that he felt there was “a certain 
 commitment” although UNSCOM suspected “an active policy of concealment”. Its task 
 was to find and destroy prohibited items and to ensure that no new ones were produced 
-but it would now have to “wait until the situation had become a bit more settled”.118
+but it would now have to “wait until the situation had become a bit more settled”.[^118]
 
 258.  Following a meeting with UNSCOM in September 1996, Iraq admitted in a letter 
 of 3 October that production tools and components for ballistic missiles had been 
-collected and concealed in July 1991, but they had been destroyed in March 1992.119 
+collected and concealed in July 1991, but they had been destroyed in March 1992.[^119] 
 Iraq had also declared that three missiles which had been retained in July 1991 were 
 not destroyed until October that year.
 
@@ -2357,7 +2242,7 @@ officially sanctioned false statements had been made to mislead the Commission
 in its investigations. It has resorted to delays and denials of access … Despite 
 this behaviour the Commission has accumulated information which reinforces its 
 assessment that the concealment mechanism has been established for the purpose 
-of hiding and protecting proscribed material.”120
+of hiding and protecting proscribed material.”[^120]
 
 260.  UNSCOM had:
 
@@ -2366,14 +2251,9 @@ believes it has destroyed its major facilities. However, it needs to continue
 to investigate the scope and extent of the programme to arrive at a complete 
 picture of it.”
 
-118 UN Security Council, 4 September 1996, ‘Press Briefing by Executive Chairman of Special 
-Commission’ (19960904).
-119 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848). 
-120 UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1996/848).
+[^118]: UN Security Council, 4 September 1996, ‘Press Briefing by Executive Chairman of Special 
+[^119]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
+[^120]: UN Security Council, 11 October 1996, ‘Report of the Secretary-General on the activities of the Special 
 
 69
 
@@ -2418,13 +2298,13 @@ the invasion of Kuwait, nothing more”. But that:
 
 “… left Saddam Hussein in power, the predatory leader of a brutal, tyrannical regime 
 that demonstrated little evidence of intending to comply fully with the demands of the 
-international community.”121
+international community.”[^121]
 
-121 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^121]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
 
 70
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 268.  Mr Annan added that his predecessor as Secretary-General had offered him only 
 one piece of advice when he left office at the end of 1996:
@@ -2435,7 +2315,7 @@ one piece of advice when he left office at the end of 1996:
 
 269.  In a speech at Georgetown University on 26 March 1997, Dr Madeleine Albright, 
 the new US Secretary of State, reaffirmed that US policy in Iraq was “part of a broad 
-commitment to protect the security and territory of our friends and allies in the Gulf”.122
+commitment to protect the security and territory of our friends and allies in the Gulf”.[^122]
 
 270.  Quoting President George HW Bush, Dr Albright stated that, as well as driving Iraq 
 out of Kuwait, the US objective in launching Operation Desert Storm in 1991 had been 
@@ -2473,7 +2353,7 @@ technical documents related to the production of nuclear weapons”; and
 
 warheads” before the Gulf Conflict;
 
-122 Speech, 26 March 1997, ‘SecState Albright Policy Speech on Iraq, March 26’.
+[^122]: Speech, 26 March 1997, ‘SecState Albright Policy Speech on Iraq, March 26’.
 
 71
 
@@ -2503,7 +2383,7 @@ of Iraqi citizens”.
 
 “Tariq Aziz made it clear to me that from now on it would be close to impossible 
 to convince the President of the value of co-operating with the UN inspectors. 
-This move by the US was from our perspective destructive.”123
+This move by the US was from our perspective destructive.”[^123]
 
 ## UNSCOM activity
 
@@ -2511,7 +2391,7 @@ This move by the US was from our perspective destructive.”123
 
 278.  The Security Council was told in April 1997 that there had been tangible results in 
 some areas of UNSCOM’s activities but the capabilities which could not be accounted 
-for could not be ignored.124
+for could not be ignored.[^124]
 
 279.  The report of UNSCOM’s activities since 11 October 1996 stated that work over the 
 last two years had “led to the unmasking” of:
@@ -2520,14 +2400,12 @@ last two years had “led to the unmasking” of:
 
 warfare nerve agent VX”; and
 
-123 Statement Ekéus, 23 April 2011, page 6.
-124 UN Security Council, 11 April 1997, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1997/301).
+[^123]: Statement Ekéus, 23 April 2011, page 6.
+[^124]: UN Security Council, 11 April 1997, ‘Report of the Secretary-General on the activities of the Special 
 
 72
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  the development and production of SCUD-type missile engines.
 
@@ -2612,7 +2490,7 @@ acquire the proscribed weapons …”
 
 289.  UNSCOM’s activities between October 1996 and April 1997 and the discrepancies 
 between its findings and Iraq’s declarations were set out in detail in an Appendix to the 
-report.125 Its key points included:
+report.[^125] Its key points included:
 
 *  Iraq had still not provided a credible account of quantities and types of “special 
 warheads” which had been produced for proscribed missiles, and UNSCOM had 
@@ -2631,13 +2509,11 @@ and retained “equipment for the large-scale production of VX”.
 to mislead the Commission, Iraq had tried to falsify evidence” of missile 
 destruction.
 
-125 UN Security Council, 11 April 1997, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1997/301), ‘Appendix I Inspection activities and operational, administrative and other matters’.
+[^125]: UN Security Council, 11 April 1997, ‘Report of the Secretary-General on the activities of the Special 
 
 74
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  Four complete missile engines which had not been declared were found in 
 *  In March 1997, IAEA excavations at declared burial sites had unearthed an 
@@ -2652,7 +2528,7 @@ it was:
 
 “… a matter of months rather than years before UNSCOM/IAEA could report 
 the accomplishment of the WMD disarmament and the monitoring functionality 
-in place.”126
+in place.”[^126]
 
 291.  In May 1997, Mr Blair became Prime Minister of the UK.
 
@@ -2667,41 +2543,35 @@ between UNSCOM and Iraq, including two letters on 5 June from Mr Aziz to Mr Eké
 
 294.  In one letter, Mr Aziz stated that UNSCOM’s activities gave “rise to profound 
 disquiet” and raised “serious questions” about UNSCOM’s commitment to “complete 
-its mandate … expeditiously and in an impartial and businesslike manner”.127
+its mandate … expeditiously and in an impartial and businesslike manner”.[^127]
 
 295.  In a second letter, Mr Aziz stated that UNSCOM was conducting inspections “on 
 the pretext of alleged concealment” and fabricating “crises and tensions” to “provide a 
-pretext for directing … unfounded accusations against Iraq” and prolonging its duties.128
+pretext for directing … unfounded accusations against Iraq” and prolonging its duties.[^128]
 
 296.  In response, Mr Ekéus wrote to the President of the Security Council suggesting 
-that the Council “might wish to remind Iraq of its obligations”.129
+that the Council “might wish to remind Iraq of its obligations”.[^129]
 
 297.  A Presidential Statement issued on 13 June expressed “serious concern” about 
 the incidents in which “Iraqi personnel unacceptably interfered with helicopter flights 
 operating in support of inspection” of designated sites. The Security Council deplored 
 
-126 Statement Ekéus, 23 April 2011, page 6.
-127 UN Security Council, 16 June 1997, ‘Letter dated 5 June 1997 from the Deputy Prime Minister of Iraq 
-addressed to the Executive Chairman of the Special Commission Established by the Secretary-General 
-pursuant to paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1997/462).
-128 UN Security Council, 13 June 1997, ‘Letter dated 5 June 1997 from the Deputy Prime Minister of Iraq 
-addressed to the Executive Chairman of the Special Commission Established by the Secretary-General 
-pursuant to paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1997/456).
-129 UN Security Council, 13 June 1997, ‘Letter dated 9 June 1997 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/455).
+[^126]: Statement Ekéus, 23 April 2011, page 6.
+[^127]: UN Security Council, 16 June 1997, ‘Letter dated 5 June 1997 from the Deputy Prime Minister of Iraq 
+[^128]: UN Security Council, 13 June 1997, ‘Letter dated 5 June 1997 from the Deputy Prime Minister of Iraq 
+[^129]: UN Security Council, 13 June 1997, ‘Letter dated 9 June 1997 from the Executive Chairman of the 
 
 75
 
 the incidents, reminding Iraq of its obligations and its support for UNSCOM’s efforts 
-to implement its mandate.130
+to implement its mandate.[^130]
 
 298.  Mr Ekéus wrote to the President of the Security Council again on 12 June to report 
-Iraq’s decision to deny UNSCOM access to three sites on 10 and 12 June.131
+Iraq’s decision to deny UNSCOM access to three sites on 10 and 12 June.[^131]
 
 299.  In a response on 15 June, Mr Aziz set out at length Iraq’s “serious and real 
 concerns relating to Special Commission inspection teams’ access to sites” which were 
-“important” to Iraq’s “sovereignty or national security”.132
+“important” to Iraq’s “sovereignty or national security”.[^132]
 
 300.  Mr Aziz stated that, following their agreement of 22 June 1996, he had agreed 
 with Mr Ekéus in October that “joint work should concentrate on reviewing” the missile, 
@@ -2736,16 +2606,13 @@ out in 1991 by Hussein Kamil and a very small number of individuals”.
 endless continuation of the embargo”, which served “the well-known purposes 
 of a certain State”.
 
-130 UN Security Council, ‘3789th Meeting Friday 13 June 1997’ (S/PV.3789).
-131 UN Security Council, 19 June 1997, ‘Letter dated 12 June 1997 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/474).
-132 UN Security Council, 16 June 1997, ‘Letter dated 16 June 1997 from Deputy Prime Minister of Iraq 
-addressed to the President of the Security Council’ (S/1997/465).
+[^130]: UN Security Council, ‘3789th Meeting Friday 13 June 1997’ (S/PV.3789).
+[^131]: UN Security Council, 19 June 1997, ‘Letter dated 12 June 1997 from the Executive Chairman of the 
+[^132]: UN Security Council, 16 June 1997, ‘Letter dated 16 June 1997 from Deputy Prime Minister of Iraq 
 
 76
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  The agreement that missiles should be analysed outside Iraq, in response to 
 Mr Ekéus’s “allegations” in 1996 “that Iraq might retain an operational missile 
@@ -2790,13 +2657,13 @@ Representative to the UN in New York, stated that the Council was meeting “to 
 to the latest in a series of incidents” in which the Iraqi authorities had “sought to 
 impose conditions”, which he described as an “Iraqi campaign to prevent the Special 
 Commission carrying out the mandate given to it by this Council” which was “obviously 
-directed from the highest levels in Baghdad”.133
+directed from the highest levels in Baghdad”.[^133]
 
 308.  Sir John added that it was “simply incredible for Iraq to claim that this campaign 
 of concealment was the work of the late Hussein Kamil and a few associates”. It was 
 “essential” that the “mechanism of deception and concealment” was:
 
-133 UN Security Council, ‘3792nd Meeting Saturday 21 June 1997’ (S/PV.3792).
+[^133]: UN Security Council, ‘3792nd Meeting Saturday 21 June 1997’ (S/PV.3792).
 
 77
 
@@ -2850,7 +2717,7 @@ precisely at those parties most responsible for the continued concealment of
 
 78
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 Iraq’s weapons programmes, if Iraq … fails to comply … with the substance of the 
 Commission’s authority to conduct inspections and interviews without interference 
@@ -2873,7 +2740,7 @@ Persian Gulf on the basis of resolution 687 (1991)”.
 ### Mr Richard Butler succeeds Mr Rolf Ekéus
 316.  On 1 July, Mr Richard Butler, an Australian diplomat and former Permanent 
 Representative to the UN, succeeded Mr Ekéus as the Executive Chairman of 
-UNSCOM.134
+UNSCOM.[^134]
 
 317.  From mid-September 1997 there were further serious incidents in which UNSCOM 
 access to designated sites was denied or delayed, and material was moved or 
@@ -2885,31 +2752,28 @@ destroyed, which were reported to the Security Council.
 its arsenal before UN inspections began in 1991. These admissions, while assessed 
 to be largely accurate, are incomplete. We assess that Iraq has withheld information 
 on key elements of its programme: reliable intelligence has described work on 
-plague and suspicions persist of work on other pox viruses.”135
+plague and suspicions persist of work on other pox viruses.”[^135]
 
 319.  Following a briefing to Security Council members from Mr Butler about two 
 incidents the previous weekend, the President of the Security Council told the press 
 on 17 September that the Council viewed Iraq’s failure to co-operate and to apply the 
 procedures agreed on 22 June “in the gravest terms”, and called on Iraq to co-operate 
-fully with UNSCOM.136
+fully with UNSCOM.[^136]
 
-134 UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1997/774). 
-135  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 135.
-136 United Nations Daily Highlights, 17 September 2007.
+[^134]: UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
+[^135]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^136]: United Nations Daily Highlights, 17 September 2007.
 
 79
 
 320.  Despite that statement, inspection teams were prevented from inspecting three 
-sites between 27 September and 1 October.137 Constraints had also been imposed 
+sites between 27 September and 1 October.[^137] Constraints had also been imposed 
 on two occasions on UNSCOM flights inside Iraq.
 
 321.  Mr Butler’s report to the Security Council of 6 October acknowledged that progress 
 had been made in “substantive areas” of UNSCOM’s mandate, “in particular with respect 
 to accounting for Iraq’s proscribed long-range missiles and the destruction of chemical 
-weapons-related equipment and materials”.138
+weapons-related equipment and materials”.[^138]
 
 322.  In addition, since April there had been more than 170 site inspections by visiting 
 teams and more than 700 site inspections by resident monitoring teams. The majority 
@@ -2948,16 +2812,12 @@ documents.
 
 Iraq’s retention of proscribed assets.
 
-137 UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1997/774).
-138 UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1997/774).
+[^137]: UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
+[^138]: UN Security Council, 6 October 1997, ‘Report of the Secretary-General on the activities of the Special 
 
 80
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  Iraq had increased its declarations on the number of special warheads for the 
 
@@ -3069,7 +2929,7 @@ material and concealment systems.
 
 82
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  UNSCOM’s view was that, “were it to have full access to all relevant sites and 
 
@@ -3146,7 +3006,7 @@ resolution 687 (1991) (removal of the restrictions on trade in resolution 661).
 
 the obligations imposed on it” and the Security Council should do the same, 
 “starting at the earliest date”. If the “imbalance” continued, the “situation” would 
-become “absolutely unacceptable”.139
+become “absolutely unacceptable”.[^139]
 
 ### IAEA report, October 1997
 
@@ -3157,7 +3017,7 @@ was acceptable was a political judgement.
 
 339.  The Butler Report stated that, after 1995, the JIC consistently assessed that, “if 
 all United Nations controls on Iraq’s nuclear activities were removed, Iraq could possibly 
-develop a nuclear device in around five years”.140
+develop a nuclear device in around five years”.[^140]
 
 340.  Dr Blix’s final consolidated report assessed that the IAEA had a “technically 
 coherent picture” which revealed a programme:
@@ -3174,14 +3034,12 @@ enrichment technologies culminating in the industrialisation of EMIS [Electro
 Magnetic Isotope Separation] and the demonstration of a proven prototype 
 gas centrifuge.
 
-139 UN Security Council, 13 October 1997, ‘Letter dated 12 October 1997 from the Deputy Prime Minister 
-of Iraq addressed to the President of the Security Council’ (S/1997/789).
-140  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 45.
+[^139]: UN Security Council, 13 October 1997, ‘Letter dated 12 October 1997 from the Deputy Prime Minister 
+[^140]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 84
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 the uranium components of a nuclear weapon.
 
@@ -3193,7 +3051,7 @@ further development and production.
 
 –  Research and development activities related to the integration of a nuclear 
 
-weapon system with a missile delivery system.” 141
+weapon system with a missile delivery system.” [^141]
 
 341.  Dr Blix added that the IAEA’s ability to understand the details of the programme 
 had been “severely hampered by Iraq’s persistence in a policy of concealment and 
@@ -3235,9 +3093,7 @@ production of HEU [Highly Enriched Uranium] through the EMIS process, the
 production and pilot … of … gas centrifuge machines, and the fabrication of the 
 explosive package for a nuclear weapon”.
 
-141 UN Security Council, 8 October 1997, ‘Fourth consolidated report of the Director General of the 
-International Atomic Energy Agency under paragraph 16 of Security Council resolution 1051 (1996)’ 
-(S/1997/779).
+[^141]: UN Security Council, 8 October 1997, ‘Fourth consolidated report of the Director General of the 
 
 85
 
@@ -3284,23 +3140,23 @@ information …”
 348.  In his memoir, Dr Blix wrote:
 
 “There was general agreement … that there were no significant ‘disarmament’ 
-matters to clear up in the nuclear dossier, only some ‘questions’ to clarify.”142
+matters to clear up in the nuclear dossier, only some ‘questions’ to clarify.”[^142]
 
 349.  The Security Council considered the report from Mr Butler and a draft resolution 
-on 23 October.143 Dr Blix’s report was not formally tabled for discussion in the Security 
+on 23 October.[^143] Dr Blix’s report was not formally tabled for discussion in the Security 
 Council.
 
-142 Blix H. Disarming Iraq. Bloomsbury, 2004.
-143 UN Security Council, ‘3826th Meeting Thursday 23 October 1997’ (S/PV.3826).
+[^142]: Blix H. Disarming Iraq. Bloomsbury, 2004.
+[^143]: UN Security Council, ‘3826th Meeting Thursday 23 October 1997’ (S/PV.3826).
 
 86
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 ### Resolution 1134 (1997)
 350.  Resolution 1134 (1997), expressing the intention to impose travel restrictions in the 
 event that UNSCOM reported that Iraq was not in compliance with resolution 1115, was 
-adopted on 23 October.144
+adopted on 23 October.[^144]
 
 351.  The draft text which became resolution 1134 was co-sponsored by nine members 
 of the Council and adopted by ten votes. Five members, including three Permanent 
@@ -3344,10 +3200,10 @@ ensure the implementation of its mandate”.
 the approach adopted, with the UK and US speaking in strong terms about the need 
 for action while the members who abstained argued that the terms of the resolution 
 were unbalanced and unlikely to bring about a resolution of the problems faced 
-by UNSCOM.145
+by UNSCOM.[^145]
 
-144 UN Security Council resolution 1134 (1997).
-145 UN Security Council, ‘3826th Meeting Thursday 23 October 1997’ (S/PV.3826).
+[^144]: UN Security Council resolution 1134 (1997).
+[^145]: UN Security Council, ‘3826th Meeting Thursday 23 October 1997’ (S/PV.3826).
 
 87
 
@@ -3401,7 +3257,7 @@ co-operation over the past six months”, which was “too little, too late”.
 
 88
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 362.  Addressing comments by other members of the Council about Dr Blix’s report, 
 Ambassador Richardson stated:
@@ -3503,7 +3359,7 @@ provisions of resolution 687”.
 
 90
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 371.  Russia could not understand why there was “no mention of the IAEA report” and 
 the significant progress on the Iraqi nuclear dossier, which could be “viewed as closed”. 
@@ -3543,10 +3399,9 @@ to continue co-operation with UNSCOM:
 
 “… provided no individuals of American nationality shall participate in any 
 activity … inside Iraq, particularly inspections, interviews, and aerial and ground 
-surveillance.”146
+surveillance.”[^146]
 
-146 UN Security Council, 29 October 1997, ‘Letter dated 29 October 1997 from Mr Tariq Aziz, Deputy Prime 
-Minister of Iraq, addressed to the President of the Security Council’ (S/1997/829).
+[^146]: UN Security Council, 29 October 1997, ‘Letter dated 29 October 1997 from Mr Tariq Aziz, Deputy Prime 
 
 91
 
@@ -3576,32 +3431,28 @@ fully with the Special Commission in accordance with the relevant resolutions”
 
 personnel; and
 
-fully with its obligations under the relevant resolutions”.147
+fully with its obligations under the relevant resolutions”.[^147]
 
 380.  The statement concluded that the Council was “determined to ensure rapid and full 
 Iraqi compliance with the relevant resolutions” and that it would “remain actively seized 
 of the matter”.
 
 381.  On 30 October, Mr Butler advised the President of the Security Council that Iraq 
-had refused entry for two UNSCOM officials, and one IAEA official, of US nationality.148
+had refused entry for two UNSCOM officials, and one IAEA official, of US nationality.[^148]
 
 382.  In a letter of 31 October, Dr Blix informed Mr Annan that the IAEA had suspended 
-its monitoring activities in Iraq on 29 October.149 Dr Blix reported that Iraq had 
+its monitoring activities in Iraq on 29 October.[^149] Dr Blix reported that Iraq had 
 subsequently informed the IAEA that it wished its work to continue and that “all IAEA 
 staff, inspectors and experts” would be “welcomed as usual”, there was “no reason 
 whatsoever to suspend any IAEA activities in Iraq”.
 
-147 UN Security Council, 29 October 1997, ‘Statement by the President of the Security Council’  
-(S/PRST/1997/49).
-148 UN Security Council, 30 October 1997, ‘Letter dated 30 October 1997 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/830).
-149 UN Security Council, 31 October 1997, ‘Letter dated 31 October 1997 from the Director General of the 
-International Atomic Energy Agency addressed to the Secretary-General’ (S/1997/833).
+[^147]: UN Security Council, 29 October 1997, ‘Statement by the President of the Security Council’  
+[^148]: UN Security Council, 30 October 1997, ‘Letter dated 30 October 1997 from the Executive Chairman of 
+[^149]: UN Security Council, 31 October 1997, ‘Letter dated 31 October 1997 from the Director General of the 
 
 92
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 383.  Dr Blix added that it was his view that, as the IAEA and Special Commission 
 were acting “as organs of the Security Council” to contribute to “a common objective”, 
@@ -3610,7 +3461,7 @@ the time being … to suspend the practical implementation of its ongoing monito
 verification plan”.
 
 384.  On 2 November, Mr Nizar Hamdoon, Iraqi Permanent Representative to the UN, 
-reiterated Iraq’s decision on U-2 flights in a letter to Mr Butler.150 He wrote:
+reiterated Iraq’s decision on U-2 flights in a letter to Mr Butler.[^150] He wrote:
 
 “In the light of current developments, Iraq anticipates that the United States will 
 engage in military aggression … as it has done on previous occasions. Accordingly, 
@@ -3619,14 +3470,14 @@ therefore urge you to cancel the overflights scheduled … on 5 and 7 November.�
 
 385.  On 2 November, Mr Butler informed the President of the Security Council that two 
 UNSCOM personnel of US nationality had the previous day again been refused entry 
-by Iraq.151
+by Iraq.[^151]
 
 386.  In further letters on 4 and 5 November, Mr Butler reported that US personnel in 
 UNSCOM inspection teams had been denied access to Iraqi facilities, and that dual-use 
-equipment had been moved without authorisation.152
+equipment had been moved without authorisation.[^152]
 
 387.  In his memoir, Mr Annan wrote that in November 1997 he had “personally stepped 
-into the Iraq quagmire for the first time”.153 He had known “full well” that his “interventions 
+into the Iraq quagmire for the first time”.[^153] He had known “full well” that his “interventions 
 would be met with suspicion and manoeuvring on all sides”. He had appointed three 
 senior diplomats to engage the Iraqis:
 
@@ -3637,20 +3488,10 @@ without receiving adequate respect for its sovereignty, integrity, and security;
 and that one member state – the United States – was using UNSCOM for its 
 own purposes.”
 
-150 UN Security Council, 2 November 1997, ‘Letter dated 2 November 1997 from the Permanent 
-Representative of Iraq to the United Nations addressed to the Executive Chairman of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council 
-resolution 689 (1991)’ (S/1997/837).
-151 UN Security Council, 3 November 1997, ‘Letter dated 2 November 1997 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/836).
-152 UN Security Council, 4 November 1997, ‘Letter dated 4 November 1997 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/843); 
-UN Security Council, 5 November 1997, ‘Letter dated 5 November from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/851).
-153 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^150]: UN Security Council, 2 November 1997, ‘Letter dated 2 November 1997 from the Permanent 
+[^151]: UN Security Council, 3 November 1997, ‘Letter dated 2 November 1997 from the Executive Chairman 
+[^152]: UN Security Council, 4 November 1997, ‘Letter dated 4 November 1997 from the Executive Chairman 
+[^153]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
 
 93
 
@@ -3658,11 +3499,11 @@ Council resolution 687 (1991) addressed to the President of the Security Council
 Security Council that, in response to a request from the UN Secretary-General, he had 
 decided to postpone the U-2 flights on 5 and 7 November while Mr Annan’s Personal 
 Envoys were delivering a message to Iraq; but that the flights would resume the 
-following week.154
+following week.[^154]
 
 389.  On 6 November, Iraq informed the President of the Security Council that it had 
 requested US personnel not to enter a site, but UNSCOM had instructed the team 
-to withdraw.155 The letter added that, as a precaution against the possibility of US 
+to withdraw.[^155] The letter added that, as a precaution against the possibility of US 
 attacks, Iraq had moved equipment but the items would be returned for inspection 
 and authentication and it would not be used for proscribed activities.
 
@@ -3671,7 +3512,7 @@ the monitoring plan” in resolution 715.
 
 391.  On 7 November, Mr Butler reported further incidents on 6 November and also drew 
 attention to a further Iraqi request for cancellations of U-2 flights and to concerns about 
-the visibility or absence of equipment being monitored by UNSCOM cameras.156
+the visibility or absence of equipment being monitored by UNSCOM cameras.[^156]
 
 392.  On 10 November, Mr Mohammed Said Al-Sahaf, the Iraqi Minister for Foreign 
 Affairs, wrote to Mr Annan reporting that a “United States U-2 spy plane together with 
@@ -3679,11 +3520,11 @@ several formations of United States warplanes fitted with all kinds of weapons a
 espionage equipment” had “violated” Iraq’s airspace and sovereignty that morning. 
 As a result it was “no longer to be considered, even nominally or formally, as one of 
 the means used by the United Nations to conduct so-called inspections”. Iraq would 
-act against US aircraft to safeguard its sovereignty and security.157
+act against US aircraft to safeguard its sovereignty and security.[^157]
 
 393.  In a briefing for members of the Council on 10 November, Mr Annan stated that, 
 “Had Iraq agreed to return to full compliance”, he would have had “no hesitation” in 
-recommending that Iraq should be “granted a hearing”.158
+recommending that Iraq should be “granted a hearing”.[^158]
 
 394.  Despite diplomatic efforts by a number of Member States and Mr Annan, Iraq 
 refused to rescind its decision of 29 October.
@@ -3691,21 +3532,15 @@ refused to rescind its decision of 29 October.
 395.  Significant differences in position remained within the Council, particularly 
 in relation to any potential use of force.
 
-154 UN Security Council, 5 November 1997, ‘Letter dated 5 November 1997 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/848).
-155 UN Security Council, 6 November 1997, ‘Letter dated 6 November 1997 from the Minister for Foreign 
-Affairs of Iraq addressed to the President of the Security Council’ (S/1997/855).
-156 UN Security Council, 7 November 1997, ‘Letter dated 7 November 1997 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1997/864).
-157 UN Security Council, 10 November 1997, ‘Letter dated 10 November 1997 from the Minister for Foreign 
-Affairs of Iraq addressed to the Secretary-General’ (S/1997/867).
-158 UN Security Council, ‘3831st Meeting Wednesday 12 November 1997’ (S/PV.3831).
+[^154]: UN Security Council, 5 November 1997, ‘Letter dated 5 November 1997 from the Executive Chairman 
+[^155]: UN Security Council, 6 November 1997, ‘Letter dated 6 November 1997 from the Minister for Foreign 
+[^156]: UN Security Council, 7 November 1997, ‘Letter dated 7 November 1997 from the Executive Chairman 
+[^157]: UN Security Council, 10 November 1997, ‘Letter dated 10 November 1997 from the Minister for Foreign 
+[^158]: UN Security Council, ‘3831st Meeting Wednesday 12 November 1997’ (S/PV.3831).
 
 94
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 ### Resolution 1137 (1997)
 396.  On 12 November, the Security Council unanimously adopted resolution 1137 
@@ -3721,7 +3556,7 @@ UNSCOM;
 *  demanded Iraq rescind its decision of 29 October; and
 *  decided to impose a travel ban on designated Iraqi officials, as foreshadowed in 
 
-resolution 1134.159
+resolution 1134.[^159]
 
 397.  The resolution also expressed the Council’s “firm intention to take further measures 
 as may be required for the implementation of this resolution”.
@@ -3731,7 +3566,7 @@ supported united action and targeted sanctions in response to Iraq’s defiance 
 but significant differences in position remained.
 
 399.  Mr Elaraby drew attention to the impact of sanctions on the Iraqi people and the 
-lack of hope that they would be lifted.160 Iraq’s co-operation had “not been ideal”, but it 
+lack of hope that they would be lifted.[^160] Iraq’s co-operation had “not been ideal”, but it 
 had gone a long way. Iraq’s defiance and failure to respond to attempts to persuade it 
 to change its position were unwise because it meant “squandering the achievements 
 made on Iraq’s long road of co-operation with the Special Commission”. There 
@@ -3752,8 +3587,8 @@ within the framework of the Security Council”. The resolution did not “encou
 or justify any escalation”. The Council should “persevere” in an “active search for 
 a diplomatic solution”.
 
-159 UN Security Council resolution 1137 (1997).
-160 UN Security Council, ‘3831st Meeting Wednesday 12 November 1997’ (S/PV.3831).
+[^159]: UN Security Council resolution 1137 (1997).
+[^160]: UN Security Council, ‘3831st Meeting Wednesday 12 November 1997’ (S/PV.3831).
 
 95
 
@@ -3805,7 +3640,7 @@ since the end of the Gulf Conflict. The successful completion of UNSCOM’s work
 
 96
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 report made clear that there was much to be done, “especially” on chemical and 
 biological weapons.
@@ -3873,14 +3708,14 @@ process and was agitating for military action or full Iraqi compliance. UN inspe
 Gulf War … despite … the regime’s attitude … By this time, Iraq had identified a 
 new reason to resist co-operation; namely, the national security and dignity of its 
 Presidential sites … I knew Saddam had to open these … [to inspection], but I also 
-felt deeply uneasy that the world could go to war over this issue …”161
+felt deeply uneasy that the world could go to war over this issue …”[^161]
 
 417.  In response to Russian diplomatic activity, Iraq agreed to allow UNSCOM 
 to resume its activities in Iraq.
 
 418.  During a visit to Moscow on 18 to 19 November, Mr Aziz and Mr Yevgeny 
 Primakov, the Russian Foreign Minister, agreed that Iraq would allow the return 
-of UNSCOM from 20 November.162
+of UNSCOM from 20 November.[^162]
 
 419.  The Joint Communiqué stated that Russia would:
 
@@ -3892,24 +3727,24 @@ without additional conditions.”
 420.  The Moscow Times reported that Mr Primakov had been very careful to observe 
 the substance of UN policy on Iraq, and that he had warned Iraq not to expect an end 
 to economic sanctions until it had closed down its chemical and biological weapons 
-programmes.163 The composition of UN inspections teams would be slightly adjusted, 
+programmes.[^163] The composition of UN inspections teams would be slightly adjusted, 
 but would retain many US inspectors.
 
-161 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-162  BBC News, 20 November 1997, Text of Iraqi-Russian communiqué on return of UN inspectors.
-163  The Moscow Times, 20 November 1997, Russia can score points in Iraq crisis.
+[^161]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^162]:  BBC News, 20 November 1997, Text of Iraqi-Russian communiqué on return of UN inspectors.
+[^163]:  The Moscow Times, 20 November 1997, Russia can score points in Iraq crisis.
 
 98
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 ## Inspectors return to Iraq
 
-421.  UNSCOM and IAEA inspectors returned to Iraq on 21 November 1997.164
+421.  UNSCOM and IAEA inspectors returned to Iraq on 21 November 1997.[^164]
 
 422.  At the request of the Security Council, the members of UNSCOM convened an 
 emergency session on 21 November to discuss and advise on “ways to make the work 
-of the Commission more effective”.165 The outcome of the discussion was reported to the 
+of the Commission more effective”.[^165] The outcome of the discussion was reported to the 
 President of the Security Council the following day.
 
 423.  In relation to nuclear weapons, the members of the Commission understood, from 
@@ -3952,10 +3787,8 @@ practical application of UNSCOM’s mandate;
 
 efforts to frustrate their work;
 
-164 UN Security Council, 24 November 1997, ‘Emergency session of the United Nations Special 
-Commission established under paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1997/922).
-165 UN Security Council, 24 November 1997, ‘Emergency session of the United Nations Special 
-Commission established under paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1997/922).
+[^164]: UN Security Council, 24 November 1997, ‘Emergency session of the United Nations Special 
+[^165]: UN Security Council, 24 November 1997, ‘Emergency session of the United Nations Special 
 
 99
 
@@ -3997,24 +3830,22 @@ session, to implement UNSCOM and IAEA mandates;
 
 *  urged Member States to respond positively to UNSCOM requests for additional 
 
-personnel, equipment and information.166
+personnel, equipment and information.[^166]
 
 428.  Mr Butler, accompanied by his Deputy, Mr Charles Duelfer, and Commissioners 
 from France, Russia and the UK, held talks to discuss the implementation of the 
 mandate set out in the Presidential Statement of 3 December with an Iraqi delegation 
-led by Mr Tariq Aziz.167
+led by Mr Tariq Aziz.[^167]
 
 429.  Mr Butler reported that discussions on access for inspections had addressed five 
 categories of sites identified by Iraq:
 
-166 UN Security Council, ‘3838th Meeting Wednesday 3 December 1997’ (S/PV.3838).
-167 UN Security Council, 17 December 1997, ‘Letter dated 17 December 1997 from the Executive 
-Chairman of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
-of Security Council resolution 687 (1991) addressed to the President of the Council’ (S/1997/987).
+[^166]: UN Security Council, ‘3838th Meeting Wednesday 3 December 1997’ (S/PV.3838).
+[^167]: UN Security Council, 17 December 1997, ‘Letter dated 17 December 1997 from the Executive 
 
 100
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  Normal – which could be visited without restriction.
 *  National Security – where the modalities for inspections of sensitive sites would 
@@ -4040,7 +3871,7 @@ which Mr Butler doubted would be acceptable to the Security Council.
 and UNSCOM would need the owner’s permission for inspections. Mr Butler 
 expressed reservations about Iraq’s position.
 
-*  Foreign – where UNSCOM would have to deal directly with the owners.168
+*  Foreign – where UNSCOM would have to deal directly with the owners.[^168]
 
 430.  Iraq asked again whether the U-2 surveillance flights could be replaced by Iraqi 
 assets or those of another nation.
@@ -4060,13 +3891,12 @@ had been returned and the Commission had found no evidence of proscribed activit
 
 434.  In December 1997, the JIC noted that Iraq “may have retained hidden production 
 equipment, agent and delivery systems” and that it “could … regenerate a significant 
-offensive BW capability within months”.169
+offensive BW capability within months”.[^169]
 
-168 UN Security Council, 17 December 1997, ‘Report on the visit to Baghdad from 12 to 16 December 
+[^168]: UN Security Council, 17 December 1997, ‘Report on the visit to Baghdad from 12 to 16 December 
 1997 by the Executive Chairman of the Special Commission established by the Secretary-General under 
 paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1997/987).
-169  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 48.
+[^169]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
 
 101
 
@@ -4076,17 +3906,17 @@ co-operate fully with UNSCOM and allow inspection teams “immediate, unconditio
 access”, and stated that any failure to do so would be “unacceptable and a clear 
 violation of the relevant resolutions”. The Council also acknowledged that discussions on 
 the practical arrangements were continuing, reiterated its full support for the Commission 
-and Mr Butler, and called on the Government of Iraq to co-operate fully.170
+and Mr Butler, and called on the Government of Iraq to co-operate fully.[^170]
 
 436.  On 12 January 1998, the Government of Iraq announced that, on the basis of 
 the nationalities present, a team would not be permitted to conduct further inspections 
-in Iraq.171
+in Iraq.[^171]
 
 437.  On 14 January, the President of the Security Council issued a further statement 
 deploring the Iraqi statement of 12 January and its “subsequent failure to fulfil its 
 obligations to provide the Special Commission with full, unconditional, and immediate 
 access to all sites”. The Council determined that “failure” was “unacceptable and a clear 
-violation of the relevant resolutions”.172
+violation of the relevant resolutions”.[^172]
 
 438.  The Council also:
 
@@ -4102,7 +3932,7 @@ Chairman; and
 it could “decide as necessary on the appropriate response”.
 
 439.  On 15 January, the IAEA’s report of its visit to Iraq in December was made 
-available to the Security Council.173 The purpose of the visit had been to clarify five 
+available to the Security Council.[^173] The purpose of the visit had been to clarify five 
 points identified in paragraph 75 of the earlier report, specifically:
 
 *  “… information provided by Iraq in respect of its post-war procurement procedures 
@@ -4112,19 +3942,14 @@ clandestine procurement of proscribed or dual-use equipment and materials.”
 *  “The specification of the scope and content for the summary of the technical 
 achievements of Iraq’s clandestine nuclear programme that IAEA handed to 
 
-170 UN Security Council, 22 December 1997, ‘Statement by the President of the Security Council’  
-(S/PRST/1997/56).
-171 UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1998/332).
-172 UN Security Council, 14 January 1998, ‘Statement by the President of the Security Council’  
-(S/PRST/1998/1).
-173 UN Security Council, 15 January 1998, ‘Report on the International Atomic Energy Agency technical 
-team visit to Iraq, 19 to 31 December 1997’ (S/1998/38).
+[^170]: UN Security Council, 22 December 1997, ‘Statement by the President of the Security Council’  
+[^171]: UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
+[^172]: UN Security Council, 14 January 1998, ‘Statement by the President of the Security Council’  
+[^173]: UN Security Council, 15 January 1998, ‘Report on the International Atomic Energy Agency technical 
 
 102
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 the Iraqi counterpart should facilitate the production by Iraq of a document that 
 will provide further assurance that the technically coherent picture of Iraq’s 
@@ -4147,7 +3972,7 @@ weapons purposes, any relevant material to which it might gain access”.
 Iraqi co-operation with the use of fixed-wing aircraft.
 
 440.  On 22 January, Mr Butler sent a report of his recent visit to Iraq to the President 
-of the Security Council.174
+of the Security Council.[^174]
 
 441.  During his visit, Iraq had proposed a three-month moratorium on any attempt by 
 UNSCOM to visit Presidential and sensitive sites, pending completion of initial technical 
@@ -4172,7 +3997,7 @@ ambition to develop nuclear, chemical and biological weapons; weapons which
 threaten not only his immediate neighbours in the Middle East, but pose a direct and 
 fundamental challenge to world peace.
 
-174 UN Security Council, 22 January 1998, ‘Report of the visit to Baghdad from 19 January to 21 January 
+[^174]: UN Security Council, 22 January 1998, ‘Report of the visit to Baghdad from 19 January to 21 January 
 1998 by the Executive Chairman of the Special Commission established by the Security Council under 
 paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1998/58).
 
@@ -4180,7 +4005,7 @@ paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1998/58).
 
 “All our experience of him teaches us that it is sometimes hard to succeed with him 
 via diplomacy, but one thing is for sure: diplomacy stands no chance of success at all 
-unless he knows that if he fails to listen to reason, we have the force to back it up.” 175
+unless he knows that if he fails to listen to reason, we have the force to back it up.” [^175]
 
 In his press conference on 20 December 1998, Mr Blair said:
 
@@ -4189,16 +4014,16 @@ it is right and when the will of the international community is at stake we will
 enforce it because the first stirrings of a new global reality are upon us. Those who 
 abuse force to wage war must be confronted by those willing to use force to maintain 
 peace, otherwise the simple truth is that war becomes more likely. We cannot do 
-everything, that is true, but what we can do reasonably we should do.” 176
+everything, that is true, but what we can do reasonably we should do.” [^176]
 
 443.  Lord Wilson of Dinton, Cabinet Secretary from 1998 to 2002, told the Inquiry that 
 between January 1998 and January 1999 he had attended and noted 21 Ministerial 
 discussions on Iraq; 10 in Cabinet, of which seven had “some substance”; five in the 
 Defence and Overseas Policy Committee (DOP); and six ad hoc meetings, including 
-one JIC briefing.177
+one JIC briefing.[^177]
 
 444.  Iraq was discussed in one of Lord Wilson’s first Cabinet meetings on 28 January 
-1998.178 Lord Wilson recalled that Mr Cook told his colleagues things which were 
+1998.[^178] Lord Wilson recalled that Mr Cook told his colleagues things which were 
 “entirely recognisable four or five years later”, namely:
 
 “… a serious situation is building; we would be ready to use force if necessary, 
@@ -4211,52 +4036,51 @@ take action whereas our legal advice was more nuanced.”
 446.  The Cabinet Office has informed the Inquiry that there was no discussion of Iraq in 
 DOP in 1999 or 2000, and that the four discussions in Cabinet in early 1999 (the last on 
 7 March) were confined to brief updates on the NFZs. There is no record of any Cabinet 
-discussion of Iraq in 2000.179
+discussion of Iraq in 2000.[^179]
 
 447.  In a joint press conference with Dr Albright on 31 January 1998, Mr Cook said:
 
 “No option is ruled out but the best prospect of us achieving a solution by diplomatic 
 measures is to leave Saddam Hussein in no doubt about our resolve to win this 
-struggle and no doubt in his mind that all options are open to us.”180
+struggle and no doubt in his mind that all options are open to us.”[^180]
 
-175 Public hearing, 26 November 2009, page 43.
-176 Transcript of Press conference by Mr Blair, 20 December 1998.
-177 Public hearing, 25 January 2011, page 11.
-178 Public hearing, 25 January 2011, pages 73-74.
-179 Email Cabinet Office to Aldred, 5 July 2011, ‘FOI request for joint MOD/FCO memo on Iraq 
-Policy 1999’.
-180 House of Commons Library Research Paper 98/28, 16 February 1998, ‘The Iraq Crisis’.
+[^175]: Public hearing, 26 November 2009, page 43.
+[^176]: Transcript of Press conference by Mr Blair, 20 December 1998.
+[^177]: Public hearing, 25 January 2011, page 11.
+[^178]: Public hearing, 25 January 2011, pages 73-74.
+[^179]: Email Cabinet Office to Aldred, 5 July 2011, ‘FOI request for joint MOD/FCO memo on Iraq 
+[^180]: House of Commons Library Research Paper 98/28, 16 February 1998, ‘The Iraq Crisis’.
 
 104
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 448.   Mr Alastair Campbell, Mr Blair’s Director of Communications and Strategy, wrote 
 in his diary on 2 February:
 
 “Iraq was the main focus with the French and Russians trying to get a diplomatic 
-solution, but TB was pretty clear where it was heading.”181
+solution, but TB was pretty clear where it was heading.”[^181]
 
 449.  The Butler Report stated that the JIC concluded on 4 February that:
 
 “UNSCOM and the IAEA have succeeded in destroying or controlling the vast 
 majority of Saddam Hussein’s 1991 weapons of mass destruction (WMD) 
-programme.”182
+programme.”[^182]
 
 450.  On the same date, Mr Campbell recorded: “We turned the factual briefing into 
 a paper for the media showing the extent of Saddam’s capability and the damage 
-he could do.”183
+he could do.”[^183]
 
 451.  During Defence Questions on 9 February, Mr George Robertson, the Defence 
 Secretary, told the House of Commons that he was making available new information 
 on Iraq’s chemical weapons capability at the time of the Gulf War, concerning “recently 
 received intelligence that Iraq may have possessed large quantities of a chemical 
-weapons agent known as Agent 15 since the 1980s”.184 Mr Robertson described Agent 
+weapons agent known as Agent 15 since the 1980s”.[^184] Mr Robertson described Agent 
 15 as “a mental incapacitant”.
 
 452.  Mr Campbell recorded that Mr Blair chaired the first meeting of the Iraq media 
 management group on 16 February, and was “alarmed at how poor the FCO/MOD 
-propaganda effort was”.185
+propaganda effort was”.[^185]
 
 453.  On 19 February, Mr Campbell recorded that Cabinet was “mainly Iraq and Ireland”, 
 and that Mr Blair said “it was not an option to do nothing. We either got the inspectors in 
@@ -4266,19 +4090,18 @@ us.” That concern was also discussed in a call with President Bill Clinton on 
 
 454.  On 20 February, the Security Council adopted resolution 1153 (1998) which 
 increased the size of the Oil-for-Food programme, “to avoid any further deterioration 
-of the current humanitarian situation”.186
+of the current humanitarian situation”.[^186]
 
 455.  On 23 February, Mr Annan obtained an undertaking from the Iraqi Government 
 to resume co-operation. In an MOU signed by Mr Annan and Mr Aziz, the Government 
 of Iraq reconfirmed “its acceptance of all relevant resolutions of the Security Council” 
 
-181 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-182  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 45.
-183 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-184 House of Commons, Official Report, 9 February 1998, column 11.
-185 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-186 UN Security Council resolution 1153 (1998).
+[^181]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^182]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^183]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^184]: House of Commons, Official Report, 9 February 1998, column 11.
+[^185]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^186]: UN Security Council resolution 1153 (1998).
 
 105
 
@@ -4287,7 +4110,7 @@ unrestricted access”.
 
 456.  The MOU contained details of special procedures for the inspection of the 
 eight Presidential sites, including having diplomats, not just technical experts, in the 
-inspection teams.187
+inspection teams.[^187]
 
 457.  Mr Annan wrote that Secretary Albright had travelled to New York on 22 February 
 to set out “red lines” before he left for Baghdad. He had “had to remind her” of his role 
@@ -4313,25 +4136,25 @@ UN inspectors had found and destroyed “horrific amounts of chemical and biolog
 weapons … despite systematic obstruction, deceit and concealment by Saddam 
 Hussein”. The crisis over access to Presidential palaces had “not been an artificial 
 argument about some theoretical threat, but a reflection of real alarm … about the use 
-of those sites to conceal both evidence and actual weapons”.188
+of those sites to conceal both evidence and actual weapons”.[^188]
 
 460.  Mr Blair added:
 
 “We should never forget that if we do not stop Saddam Hussein acting in breach 
 of his agreement on weapons of mass destruction, the losers will not just be those 
-threatened by him, but the authority and standing of the UN itself …”189
+threatened by him, but the authority and standing of the UN itself …”[^189]
 
 461.  In Mr Blair’s view, “nothing else” apart from “effective diplomacy and firm 
 willingness to use force” would have changed Saddam Hussein’s mind and produced 
 a signed agreement with the UN:
 
-187 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-188 House of Commons, Official Report, 24 February 1998, column 173.
-189 House of Commons, Official Report, 24 February 1998, column 174.
+[^187]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^188]: House of Commons, Official Report, 24 February 1998, column 173.
+[^189]: House of Commons, Official Report, 24 February 1998, column 174.
 
 106
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 “Throughout the dispute, our aim has been a peaceful, diplomatic settlement. There 
 was no desire on either side of the Atlantic to use force, but it was also clear to us 
@@ -4340,24 +4163,24 @@ throughout that Saddam Hussein only understands and respects force …
 “… As Kofi Annan said in Baghdad: ‘You can achieve much by diplomacy, but you 
 can achieve a lot more when diplomacy is backed by firmness and force.’
 
-“I would put it this way: with Saddam, diplomacy plus force equals success.”190
+“I would put it this way: with Saddam, diplomacy plus force equals success.”[^190]
 
 462.  Mr Blair concluded:
 
 “Saddam Hussein has spent seven years playing for time, but has been thwarted 
 by the resolve of the international community. It is now clearer than ever that his 
 games have to stop once and for all. If they do not, the consequences should be 
-clear to all.”191
+clear to all.”[^191]
 
 463.  Mr Campbell recorded that, when Cabinet discussed Iraq on 26 February, 
 Mr Cook said there were “really worrying signs about what UNSCOM can do. We were 
 pursuing a twin track approach – light at the end of the tunnel on sanctions, allied to 
-clear warnings if Saddam breaks the agreement.”192 Mr Blair said “he was assured 
+clear warnings if Saddam breaks the agreement.”[^192] Mr Blair said “he was assured 
 by [President] Chirac he agrees the language makes clear military action will follow if 
 Saddam breaks the agreement.”
 
 ### Resolution 1154 (1998)
-464.  On 2 March, the Security Council unanimously adopted resolution 1154 (1998).193 It:
+464.  On 2 March, the Security Council unanimously adopted resolution 1154 (1998).[^193] It:
 *  endorsed the MOU of 23 February and looked forward to its full implementation;
 *  stressed the need for Iraq to comply with its obligations to provide access 
 to UNSCOM and the IAEA which was necessary for the implementation of 
@@ -4377,15 +4200,15 @@ action; and
 465.  It is clear from the statements in the Council meeting on 2 March, made before and 
 after the vote, including from seven States who were not members of the Council, that 
 
-190 House of Commons, Official Report, 24 February 1998, columns 174-175.
-191 House of Commons, Official Report, 24 February 1998, column 176.
-192 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-193 UN Security Council resolution 1154 (1998).
+[^190]: House of Commons, Official Report, 24 February 1998, columns 174-175.
+[^191]: House of Commons, Official Report, 24 February 1998, column 176.
+[^192]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^193]: UN Security Council resolution 1154 (1998).
 
 107
 
 there had been significant tensions about the Secretary-General’s mission and the text 
-of the draft resolution co-sponsored by the UK and Japan.194 Tensions centred on the 
+of the draft resolution co-sponsored by the UK and Japan.[^194] Tensions centred on the 
 Security Council determining whether the use of force was appropriate and authorising 
 such action, not individual Member States.
 
@@ -4429,11 +4252,11 @@ fulfilment of his duty.
 to find a diplomatic solution” as “just the latest and the most serious in a series of Iraqi 
 provocations”. His success was “not a success for diplomacy alone but a success for 
 
-194 UN Security Council, ‘3858th Meeting Monday 2 March 1998’ (S/PV.3858).
+[^194]: UN Security Council, ‘3858th Meeting Monday 2 March 1998’ (S/PV.3858).
 
 108
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 diplomacy firmly backed by the willingness to use force if diplomacy should fail”, and 
 no one could “seriously imagine” the same result without that.
@@ -4536,7 +4359,7 @@ resolutions”. China hoped that UNSCOM would “complete its task of verificati
 
 110
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 destruction of Iraq’s weapons of mass destruction at an early date, so that steps can be 
 taken to lift the sanctions against Iraq at the earliest possible date”.
@@ -4603,19 +4426,19 @@ taken by Iraq in 1990-1991 who constituted one percent of the population of Iraq
 attached to saving others in the region from the threat from weapons of mass destruction.
 
 494.  On 5 March, UNSCOM inspectors returned to Iraq and successfully carried out a 
-number of site inspections.195 A baseline survey of the eight Presidential sites by a team 
+number of site inspections.[^195] A baseline survey of the eight Presidential sites by a team 
 including senior diplomats was successfully carried out between 25 March and 4 April.
 
 495.  During a visit by Mr Blair to Paris on 24 March, Mr Campbell recorded that, on 
 Iraq, Mr Blair and President Jacques Chirac were “in very different places, TB claiming 
 a success for diplomacy backed by force, Chirac basically saying we were killing 
-children through sanctions”.196
+children through sanctions”.[^196]
 
 496.  In his report of 3 April, Mr Butler set out UNSCOM’s responsibility for reporting 
 whether Iraq had met the requirements set out in paragraphs 8 to 10 of resolution 687, 
 and that those reports were the “sole criteria” for assessing Iraq’s actions to provide 
 the basis for a Council decision on lifting the provisions of paragraph 22 prohibiting the 
-imports of commodities and products originating in Iraq.197
+imports of commodities and products originating in Iraq.[^197]
 
 497.  Describing them as the “indispensible context” for the Council’s consideration 
 of Iraq’s compliance, Mr Butler set out:
@@ -4632,17 +4455,13 @@ fulfil its obligations”. Those steps, which were “not separable” were:
 
   * full declaration by Iraq;
 
-195 UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1998/332).
-196 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-197 UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1998/332).
+[^195]: UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
+[^196]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^197]: UN Security Council, 16 April 1998, ‘Report of the Executive Chairman on the activities of the Special 
 
 112
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
   * verification by the Commission; and
   * destruction, removal or rendering harmless under international supervision.
@@ -4720,7 +4539,7 @@ first report to the Security Council on Iraq. He stated that there were no indic
 prohibited activities at any of the sites inspected by the IAEA and that all equipment and 
 materials which had been moved by Iraq had been returned to their former locations. 
 Initial inspections of the designated “Presidential sites” had “revealed no immediate 
-indications” of prohibited materials, equipment or activities.198
+indications” of prohibited materials, equipment or activities.[^198]
 
 504.  Dr ElBaradei reported that the IAEA had “no independently verifiable information” 
 to verify Iraqi claims that:
@@ -4744,12 +4563,11 @@ clandestine nuclear programme” and “fulfilled its obligation to produce … 
 the technical achievements”. The latter document was regarded as “consistent with” the 
 “picture” of the programme developed by the IAEA.
 
-198 UN Security Council, 9 April 1998, ‘Letter dated 7 April 1998 from the Director General of the 
-International Atomic Energy Agency addressed to the Secretary-General’ (S/1998/312).
+[^198]: UN Security Council, 9 April 1998, ‘Letter dated 7 April 1998 from the Director General of the 
 
 114
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 506.  Following consultations between the members of the Security Council on the 
 UNSCOM and IAEA reports, the President issued a statement on behalf of the Council 
@@ -4784,25 +4602,24 @@ General of the IAEA stating that the necessary technical and substantive
 clarifications have been made, including provision by Iraq of the necessary 
 responses to all IAEA questions and concerns”, to adopt a resolution agreeing 
 that the IAEA should dedicate its resources to ongoing monitoring and 
-verification.199
+verification.[^199]
 
 507.  Mr Ekéus explained to the Inquiry that he had had “little belief” that Saddam 
 Hussein would have been attracted by the idea of keeping WMD sensitive material in his 
-private residence; and that events proved this assumption was correct.200
+private residence; and that events proved this assumption was correct.[^200]
 
 508.  In response to a meeting of the Security Council on 27 April at which sanctions had 
 been discussed, Mr Al-Sahaf forwarded an open letter from Iraq’s Revolution Command 
 Council and the leadership of the Iraqi branch of the Arab Socialist Ba’ath Party 
-complaining about the injustice of continued sanctions.201 It asserted that the purpose 
+complaining about the injustice of continued sanctions.[^201] It asserted that the purpose 
 of sanctions was to “hurt the Iraqi people and to force the Security Council to remain 
 the pawn of a single member [the US], assisted by the old imperialist devil, the English 
 policeman”. The letter also complained about “unfounded accusations and blatant lies” 
 in Mr Butler’s reports to the Council.
 
-199 UN Security Council, ‘3880th Meeting Thursday 14 May 1998’ (S/PV.3880).
-200 Statement Ekéus, 23 April 2011, page 4.
-201 UN Security Council, 1 May 1998, ‘Letter dated 1 May 1998 from the Minister for Foreign Affairs of Iraq 
-addressed to the President of the Security Council’ (S/1998/368).
+[^199]: UN Security Council, ‘3880th Meeting Thursday 14 May 1998’ (S/PV.3880).
+[^200]: Statement Ekéus, 23 April 2011, page 4.
+[^201]: UN Security Council, 1 May 1998, ‘Letter dated 1 May 1998 from the Minister for Foreign Affairs of Iraq 
 
 115
 
@@ -4814,7 +4631,7 @@ had wished to inspect and also granted unrestricted access to equipment.
 
 *  Iraq had “granted unrestricted and unconditional access” to all sites UNSCOM 
 *  The issue of access to means of transportation and to officials UNSCOM wished 
-*  Mr Butler hoped that Iraq would provide the records UNSCOM had requested.202
+*  Mr Butler hoped that Iraq would provide the records UNSCOM had requested.[^202]
 
 to interview had “not arisen”.
 
@@ -4830,12 +4647,12 @@ matter. The Security Council has failed to discharge its responsibilities under 
 Charter of the United Nations, whereas Iraq has satisfied all the requirements 
 and conditions set forth in Security Council resolution 687 (1991), section C. 
 The Security Council must now do its part, meeting its obligations towards Iraq 
-by implementing resolution 687 (1991), paragraph 22, without further delay.”203
+by implementing resolution 687 (1991), paragraph 22, without further delay.”[^203]
 
 512.  An UNSCOM “informal paper” providing a “statement of specific tasks and 
 information” which would need to be completed and verified before a report could be 
 made, pursuant to resolution 687 (1991), that Iraq had completed the disarmament 
-actions required, was presented to the Security Council on 4 June.204 In addition, the 
+actions required, was presented to the Security Council on 4 June.[^204] In addition, the 
 Commission would need to conclude that Iraq had ceased concealment of proscribed 
 programmes.
 
@@ -4848,19 +4665,13 @@ programmes.
 
 biological aerial bombs;
 
-202 UN Security Council, 6 May 1998, ‘Letter dated 6 May 1998 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1888/377).
-203 UN Security Council, 4 May 1998, ‘Letter dated 1 May 1998 from the Permanent Representative of Iraq 
-to the United Nations addressed to the President of the Security Council’ (S/1998/368).
-204 UN Security Council, 17 June 1998, ‘Report by the Executive Chairman of the Special Commission 
-established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council resolution 687 
-(1991), on his mission to Baghdad, 11-15 June 1998’, ‘Appendix I – Informal paper presented to the 
-Security Council on 4 June 1998’ (S/1998/529).
+[^202]: UN Security Council, 6 May 1998, ‘Letter dated 6 May 1998 from the Executive Chairman of the 
+[^203]: UN Security Council, 4 May 1998, ‘Letter dated 1 May 1998 from the Permanent Representative of Iraq 
+[^204]: UN Security Council, 17 June 1998, ‘Report by the Executive Chairman of the Special Commission 
 
 116
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
   * major components used for the indigenous production of missiles;
   * chemical weapons production equipment; and
@@ -4881,7 +4692,7 @@ before the adoption of resolution 687; and
 514.  On 16 June, following a visit to Baghdad, Mr Butler reported that, although Mr Aziz 
 did not accept all the tasks listed in the UNSCOM paper were disarmament issues, 
 they had agreed a schedule of work to be carried out over two months to “try to resolve 
-the outstanding disarmament issues”.205 Mr Butler described the talks as “cordial and 
+the outstanding disarmament issues”.[^205] Mr Butler described the talks as “cordial and 
 professional”, reflecting “the new spirit of co-operation between both sides” following 
 the signature of the MOU on 23 February. If Iraq met its undertakings to provide full 
 co-operation, it “should be possible for the Commission to resolve remaining issues and 
@@ -4913,9 +4724,7 @@ additional information or documentation would be provided; and
 
 the grounds that it was unrelated to its work.
 
-205 UN Security Council, 17 June 1998, ‘Report by the Executive Chairman of the Special Commission 
-established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security Council resolution 687 
-(1991), on his mission to Baghdad, 11-15 June 1998’ (S/1998/529).
+[^205]: UN Security Council, 17 June 1998, ‘Report by the Executive Chairman of the Special Commission 
 
 117
 
@@ -4942,7 +4751,7 @@ elements were of lesser substantive importance. Conversely, the inability of Ira
 satisfy these issues would point to more ominous explanations for other unverified 
 parts of Iraq’s declarations. Whether these other parts will ultimately be addressed 
 is an open question, but one which has a direct bearing upon confidence in future 
-monitoring.”206
+monitoring.”[^206]
 
 522.  This approach became the method for establishing whether an “acceptable 
 material balance” could be produced for weapons within UNSCOM’s remit.
@@ -4950,30 +4759,26 @@ material balance” could be produced for weapons within UNSCOM’s remit.
 523.  The Butler Report records that there were two meetings between UK officials 
 and UNSCOM representatives, including Col Ritter, in May and June 1998 at which 
 discussions took place about how to make public the traces of VX which had been 
-discovered on missile warheads.207 A Secret Intelligence Service (SIS) operation, 
+discovered on missile warheads.[^207] A Secret Intelligence Service (SIS) operation, 
 “Operation Mass Appeal” was set up for that purpose, but was abandoned after the 
 UNSCOM report was leaked to the press in Washington.
 
 524.  On 17 July, in a speech marking the thirtieth anniversary of the 1968 Iraqi 
 revolution, Saddam Hussein drew attention to the letter to the Security Council of 1 May, 
 which he described as “not just a protest cry”, but evidence of “a will and alternative 
-strategy” if “other means and methods” failed “to return life to its natural track”.208
+strategy” if “other means and methods” failed “to return life to its natural track”.[^208]
 
-206 UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94).
-207  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 121.
-208 Transcript, 17 July 1998, ‘Speech of His Excellency President Saddam Hussein on the 30th Anniversary 
-of 17-30 July 1968 Revolution’ (www.al-moharer.net).
+[^206]: UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
+[^207]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^208]: Transcript, 17 July 1998, ‘Speech of His Excellency President Saddam Hussein on the 30th Anniversary 
 
 118
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 525.  On 18 July, a document relating to expenditure of four types of “special” munitions, 
 a term which denoted chemical and biological agent delivery, was discovered during an 
-inspection of the headquarters of the Iraqi Air Force.209 UNSCOM was not allowed to 
+inspection of the headquarters of the Iraqi Air Force.[^209] UNSCOM was not allowed to 
 copy or remove the document but it was agreed that it would be jointly sealed and stored 
 in the custody of Iraq’s National Monitoring Directorate.
 
@@ -4982,7 +4787,7 @@ experts in Baghdad on 17 to 22 July had not succeeded in “closing the gaps bet
 the two sides”. Iraq deemed it “highly important to devote sufficient time to this issue 
 during our next meeting … to be able to study it intensively from the political and 
 technical angles”. That might require a longer visit than planned and the participation 
-of the largest possible number of experts.210
+of the largest possible number of experts.[^210]
 
 527.  Mr Butler responded on 24 July that he had not yet seen the Chief Inspector’s 
 report of the meetings but:
@@ -5010,24 +4815,19 @@ information”.
 *  UNSCOM’s “firm position” continued to be that resolution of the biological 
 
 weapons issues could “be accomplished with the provision of further documents 
-and other verifiable information” which Iraq possessed.211
+and other verifiable information” which Iraq possessed.[^211]
 
-209 Federation of American Scientists, 22 July 1998, ‘Text of Amb. Butler letter to UNSC protesting latest 
-Iraqi obstruction’. Letter Butler to Lavrov [President of Council], 22 July 1998.
-210 UN Security Council, 14 August 1998, ‘Letter dated 23 July 1998 from the Deputy Prime Minister of Iraq 
-addressed to the Executive Chairman of the Special Commission established by the Secretary-General 
-pursuant to paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ ( S/1998/718).
-211 UN Security Council, 14 August 1998, ‘Letter dated 24 July 1998 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the Deputy Prime Minister of Iraq’ (S/1998/718).
+[^209]: Federation of American Scientists, 22 July 1998, ‘Text of Amb. Butler letter to UNSC protesting latest 
+[^210]: UN Security Council, 14 August 1998, ‘Letter dated 23 July 1998 from the Deputy Prime Minister of Iraq 
+[^211]: UN Security Council, 14 August 1998, ‘Letter dated 24 July 1998 from the Executive Chairman of the 
 
 119
 
 528.  UNSCOM subsequently reported that its team had concluded that none of the 
-components of the material balance for biological weapons could be verified.212
+components of the material balance for biological weapons could be verified.[^212]
 
 529.  As requested in the Presidential Statement of 14 May, Dr ElBaradei submitted an 
-“interim status report” on 27 July.213 The report contained little new information, although 
+“interim status report” on 27 July.[^213] The report contained little new information, although 
 it did state that Iraq had been unable to locate any additional documents about the 
 decision to abandon the nuclear programme.
 
@@ -5060,20 +4860,17 @@ as well as assurance of the absence of those items at routinely inspected locati
 534.  After its visit to Iraq in April 1998, the IAEA reported that it had “found no 
 indications that Iraq has retained the physical capability – in terms of hardware and 
 facilities – to produce weapons-usable nuclear material. Nor are there any indications 
-of Iraq having achieved its programme goal of producing nuclear weapons”.214 The 
+of Iraq having achieved its programme goal of producing nuclear weapons”.[^214] The 
 IAEA could not provide assurances that there were no “readily concealable items such 
 as components of centrifuge machines”. In addition, because of the progress that 
 
-212 UN Security Council, 6 October 1998, ‘Report of the Executive Chairman of the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1998/920).
-213 UN Security Council, 27 July 1998, ‘Interim status report of the Director General of the International 
-Atomic Energy Agency in response to the Presidential statement on Iraq of 14 May 1998’ (S/1998/694).
-214 Interim Status Report on Nuclear Inspections in Iraq, IAEA Press Release PR 98/12, 28 July 1998.
+[^212]: UN Security Council, 6 October 1998, ‘Report of the Executive Chairman of the activities of the Special 
+[^213]: UN Security Council, 27 July 1998, ‘Interim status report of the Director General of the International 
+[^214]: Interim Status Report on Nuclear Inspections in Iraq, IAEA Press Release PR 98/12, 28 July 1998.
 
 120
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 it had made in weaponisation technologies before 1991 and the existence of a 
 “cadre of experienced personnel who were employed in the clandestine nuclear 
@@ -5088,19 +4885,19 @@ had been:
 “… close to agreeing that Iraq was no longer pursuing nuclear weapons capability, 
 but the United States blocked a certification of that status because Saddam Hussein 
 had not fulfilled absolutely all the detailed requirements. The chemical, biological 
-and missile development files were left open.”215
+and missile development files were left open.”[^215]
 
 536.  The Strategic Defence Review, published in July 1998, stated that “Saddam 
 Hussein’s Iraq” represented a “continuing threat”; and that:
 
 “The size of the military forces available and the presence and potential spread of 
 ballistic missiles, chemical and biological weapons and even nuclear weapons add 
-to the risks. These dangers seem unlikely to diminish and may grow.”216
+to the risks. These dangers seem unlikely to diminish and may grow.”[^216]
 
 537.  On 30 July, the Iraqi leadership made a statement which set out concerns about 
 the deliberations on the “nuclear file” currently under way in the Security Council, “the 
 arbitrary and aggressive position” of the US, and the “failure of the Security Council to 
-adopt a fair and equitable resolution”.217
+adopt a fair and equitable resolution”.[^217]
 
 538.  The statement concluded that, “As a result of the way in which the nuclear file 
 has been dealt with … and of the manoeuvres of the Special Commission”, Iraq faced 
@@ -5116,10 +4913,9 @@ debate … and on the position that should be adopted” in the near future; and
 forthcoming meeting with the Special Commission would be “an essential indication” 
 of its attitude.
 
-215 Statement, November 2009, page 1.
-216 Ministry of Defence, Strategic Defence Review, July 1998.
-217 UN Security Council, 30 July 1998, ‘Letter dated 30 July 1998 from the Permanent Representative of 
-Iraq to the United Nations addressed to the President of the Security Council’ (S/1998/703).
+[^215]: Statement, November 2009, page 1.
+[^216]: Ministry of Defence, Strategic Defence Review, July 1998.
+[^217]: UN Security Council, 30 July 1998, ‘Letter dated 30 July 1998 from the Permanent Representative of 
 
 121
 
@@ -5128,7 +4924,7 @@ schedule agreed in June, Mr Butler had also proposed to address substantive issu
 outside the agreed work programme, including VX, concealment and the implications 
 of the document found on 18 July, and to propose a further programme of intensive 
 work “directed at bringing [the] remaining issues in the missile and chemical weapons 
-areas to closure” before UNSCOM’s next report to the Security Council in October.218
+areas to closure” before UNSCOM’s next report to the Security Council in October.[^218]
 
 541.  Mr Aziz had rejected both proposals and “insisted” that he should immediately 
 report to the Security Council that “there were no more proscribed weapons and [related] 
@@ -5144,7 +4940,7 @@ immediately to the Council.”
 
 543.  Mr Annan wrote that Iraq had “clearly taken a strategic decision to force the issue”, 
 demanding that UNSCOM should report Iraq had fully disarmed or lose the regime’s 
-co-operation.219
+co-operation.[^219]
 
 544.  Mr Annan added that Mr Butler was:
 
@@ -5157,7 +4953,7 @@ denouncing UNSCOM, and Butler in particular as untrustworthy.”
 545.  On 5 August, the Revolutionary Command Council and the Iraqi Regional 
 Command of the Arab Ba’ath Socialist Party issued a statement recording the decision 
 to suspend “co-operation with the Special Commission in its current form” and with 
-the IAEA.220
+the IAEA.[^220]
 
 546.  The decision also:
 
@@ -5165,16 +4961,13 @@ the IAEA.220
 
 step on the road leading to the complete and total lifting of sanctions”;
 
-218 UN Security Council, 5 August 1998, ‘Letter dated 5 August 1998 from the Executive Chairman of the 
-Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1998/719).
-219 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-220 UN Security Council, 14 August 1998, ‘Statement issued by the Revolution Command Council and the 
-Iraqi Regional Command of the Arab Ba’ath Socialist Party’ (S/1998/718).
+[^218]: UN Security Council, 5 August 1998, ‘Letter dated 5 August 1998 from the Executive Chairman of the 
+[^219]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^220]: UN Security Council, 14 August 1998, ‘Statement issued by the Revolution Command Council and the 
 
 122
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  requested the Security Council to re-establish the Special Commission, 
 
@@ -5257,7 +5050,7 @@ be under siege regardless of what it does, and regardless of its fulfilment of t
 Council’s requirements”.
 
 551.  Mr Aziz forwarded the decision in a letter to the President of the Security Council 
-on 5 August.221
+on 5 August.[^221]
 
 552.  Mr Aziz stated that the Special Commission:
 
@@ -5283,12 +5076,11 @@ and gyroscopes for ballistic missiles.
 
 *  Iraq had “proved that the material balance for R400 bombs was complete”.
 
-221 UN Security Council, 14 August 1998, ‘Letter dated 5 August 1998 from the Deputy Prime Minister of 
-Iraq addressed to the President of the Security Council’ (S/1998/718).
+[^221]: UN Security Council, 14 August 1998, ‘Letter dated 5 August 1998 from the Deputy Prime Minister of 
 
 124
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  The missing 155mm shells were less than 5 percent of the total stock, and had 
 been destroyed in early 1991 when a truck was set on fire. The remnants were 
@@ -5363,7 +5155,7 @@ Council attempted to take in the direction of achieving justice and equity”.
 555.  Mr Annan wrote that he had been contacted by Secretary Albright and Mr Samuel 
 (Sandy) Berger, the US National Security Advisor, who insisted that Iraq’s stance was 
 an attack on the UN and on Mr Annan’s own position as it was his MOU that had been 
-violated.222 His response to the “standoff” was to propose “a comprehensive review of 
+violated.[^222] His response to the “standoff” was to propose “a comprehensive review of 
 the UN’s relationship with Iraq, including the role of UNSCOM”. The US had opposed 
 such a move on the grounds that it was “bargaining” with Saddam Hussein, but:
 
@@ -5374,30 +5166,27 @@ set out on a path to a conclusion rather than permanent crisis.”
 556.  On 11 August, Dr ElBaradei confirmed that, as a result of Iraq’s decision, the 
 IAEA was carrying out limited monitoring and verification tasks which fell “far short 
 of full implementation of the OMV plan” and resulted in a “significantly reduced level 
-of assurance” which could be provided for the Council.223
+of assurance” which could be provided for the Council.[^223]
 
 557.  On 12 August, Mr Butler reported that Iraq’s decision had brought “to a halt” all 
 UNSCOM’s disarmament activities, including discussions at the political and technical 
 level, and monitoring activities were “limited to sites previously declared by Iraq or 
 designated by the Commission”. UNSCOM fully shared the IAEA’s conclusions on the 
-impact on its ability to provide assurance.224
+impact on its ability to provide assurance.[^224]
 
 558.  The President of the Security Council responded to both letters on 18 August, 
 stating that the members of the Council noted “with concern that Iraq’s decision to 
 
-222 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-223 UN Security Council, 18 August 1998, ‘Letter dated 11 August 1998 from the Director General of the 
-International Atomic Energy Agency addressed to the President of the Security Council’ (S/1998/766).
-224 UN Security Council, 18 August 1998, ‘Letter dated 12 August 1988 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1998/767).
+[^222]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^223]: UN Security Council, 18 August 1998, ‘Letter dated 11 August 1998 from the Director General of the 
+[^224]: UN Security Council, 18 August 1998, ‘Letter dated 12 August 1988 from the Executive Chairman of 
 
 126
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 suspend co-operation” prevented the IAEA and UNSCOM from carrying out the full 
-range of its mandated activities and the “significantly reduced level of assurance”.225
+range of its mandated activities and the “significantly reduced level of assurance”.[^225]
 
 559.  The initial reaction of the members of the Security Council was that Iraq’s 
 announcement was “totally unacceptable” and that it contravened the MOU signed 
@@ -5411,7 +5200,7 @@ ready to respond favourably to future progress made in the disarmament process�
 
 561.  In a letter to Mr Aziz of 19 August, Mr Butler proposed that Iraq and UNSCOM 
 should resume the full range of activities and that Iraq should confirm it would 
-co-operate.226 There was no formal response.
+co-operate.[^226] There was no formal response.
 
 562.  Following discussions in the Council on 1 September, Mr Butler provided briefing 
 notes on:
@@ -5436,14 +5225,8 @@ particular resolution 687;
 
 or to refuse to provide the necessary co-operation; and
 
-225 UN Security Council, 18 August 1998, ‘Letter dated 18 August 1998 from the President of the Security 
-Council addressed to the Director General of the International Atomic Energy Agency’ (S/1998/768); UN 
-Security Council, 18 August 1998, ‘Letter dated 18 August 1998 from the President of the Security Council 
-addressed to the Executive Chairman of the Special Commission established by the Secretary-General 
-pursuant to paragraph 9 (b) (i) of Security Council resolution 687 (1991)’ (S/1998/769).
-226 UN Security Council, 6 October 1998, ‘Report of the Executive Chairman on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1998/920).
+[^225]: UN Security Council, 18 August 1998, ‘Letter dated 18 August 1998 from the President of the Security 
+[^226]: UN Security Council, 6 October 1998, ‘Report of the Executive Chairman on the activities of the Special 
 
 127
 
@@ -5451,7 +5234,7 @@ Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
 
 and expressed “its readiness to consider, in a comprehensive review, Iraq’s 
 compliance with its obligations … once Iraq has rescinded its … decision and 
-demonstrated that it is prepared to fulfil all its obligations”.227
+demonstrated that it is prepared to fulfil all its obligations”.[^227]
 
 565.  Acting under Chapter VII of the Charter, the Council:
 
@@ -5471,16 +5254,16 @@ the full range of activities provided for in their mandates, including inspectio
 566.  On 20 September, the JIC concluded that:
 
 “Some biological warfare (BW) production equipment, stocks of agents and even 
-weapons are probably retained by Iraq.”228
+weapons are probably retained by Iraq.”[^228]
 
 567.  Mr Annan wrote that Sir Jeremy Greenstock, in his capacity as President of the 
 Security Council, was authorised “by all members of the Council” to engage Mr Aziz on 
 the terms proposed by Mr Annan but because of the “fundamental mistrust between Iraq 
-and UNSCOM”, the “standoff continued for another month”.229
+and UNSCOM”, the “standoff continued for another month”.[^229]
 
 ### UNSCOM and IAEA reports, October 1998
 568.  Mr Butler’s consolidated UNSCOM report of 6 October rehearsed the 
-developments over the preceding six months.230
+developments over the preceding six months.[^230]
 
 569.  Mr Butler reported that the outstanding issues in relation to missile warheads were:
 *  UNSCOM was “able to account for the destruction of between 43 and 45 of the 
@@ -5489,17 +5272,14 @@ destroyed”. That was a “major accomplishment”.
 
 *  The VX issue needed to be resolved.
 
-227 UN Security Council resolution 1194 (1998).
-228  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 49.
-229 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-230 UN Security Council, 6 October 1998, ‘Report of the Executive Chairman on the activities of the Special 
-Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of resolution 687 (1991)’ 
-(S/1198/920).
+[^227]: UN Security Council resolution 1194 (1998).
+[^228]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^229]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^230]: UN Security Council, 6 October 1998, ‘Report of the Executive Chairman on the activities of the Special 
 
 128
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  UNSCOM had “arrived at an assessment … that Iraq’s declarations on the 
 unilateral destruction of the special warheads did not match all the physical 
@@ -5617,9 +5397,9 @@ at Habbaniyah, 120km from Baghdad.
 
 130
 
-The Report of the Iraq Inquiry576.  Mr Butler concluded that:
+576.  Mr Butler concluded that:
 
-1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  Disarmament of Iraq’s proscribed missile and chemical weapons was “possibly 
 
@@ -5644,7 +5424,7 @@ placed on Iraq by the Security Council”.
 
 577.  In his report of 7 October, Dr ElBaradei confirmed that there was no evidence 
 or indications of prohibited activity at sites inspected before Iraq’s decision of 5 August 
-to cease co-operation.231 There were still some difficulties, including Iraq’s instructions 
+to cease co-operation.[^231] There were still some difficulties, including Iraq’s instructions 
 that personnel should not respond to any questions about Iraq’s clandestine nuclear 
 programme, the quality of Iraq’s declarations. Greater transparency “would contribute 
 considerably to clarifying the few remaining questions and concerns”.
@@ -5661,14 +5441,10 @@ to be placed on international controls.”
 
 579.  Following informal consultations in the Security Council on 13 October, Mr Butler 
 submitted an experts’ report of the findings from analysis of special missile warhead 
-fragments excavated in Iraq to the President of the Security Council on 26 October.232
+fragments excavated in Iraq to the President of the Security Council on 26 October.[^232]
 
-231 UN Security Council, 7 October 1998, ‘Sixth consolidated report of the Director General of the 
-International Atomic Energy Agency under paragraph 16 of Security Council resolution 1051 (1996)’ 
-(S/1998/927).
-232 UN Security Council, 26 October 1998, ‘Letter dated 26 October 1998 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to President of the Security Council’ (S/1998/995).
+[^231]: UN Security Council, 7 October 1998, ‘Sixth consolidated report of the Director General of the 
+[^232]: UN Security Council, 26 October 1998, ‘Letter dated 26 October 1998 from the Executive Chairman of 
 
 131
 
@@ -5683,7 +5459,7 @@ questions posed by the report”.
 “… the presence of degradation products of nerve agents … [T]he presence of 
 compound known as VX stabiliser and its degradation product, and to provide more 
 information on the Iraqi efforts during the period from mid-1998 to the end of 1990 to 
-develop and produce VX by improved synthetic routes.”233
+develop and produce VX by improved synthetic routes.”[^233]
 
 Iraq and VX
 
@@ -5715,12 +5491,11 @@ products of a decontamination compound and found that a large number of the samp
 contained the same unidentified non-phosphorous compounds as the US laboratory had 
 identified.
 
-233 UN Security Council, 26 October 1998, ‘Report of the Group of International Experts on VX’ 
-(S/1998/995).
+[^233]: UN Security Council, 26 October 1998, ‘Report of the Group of International Experts on VX’ 
 
 132
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 The French experts “noted that the decontaminant could also have been used for … 
 chemical destruction of biological warfare agents”.
@@ -5735,21 +5510,21 @@ could no longer be confirmed in two samples.
 to Mr Annan was agreed on 30 October, “describing the Council’s initial views” on the 
 proposed comprehensive review of Iraqi compliance in two phases: the first dedicated 
 to disarmament and the second other requirements, including those relating to Kuwaiti 
-missing persons and property.234 The letter reflected a consensus that the assessment 
+missing persons and property.[^234] The letter reflected a consensus that the assessment 
 should be designed to lead to the definition of an agreed course of action and timetable 
 which, if followed, would allow the Council to act.
 
 583.  On the evening of 31 October, the National Monitoring Directorate of Iraq (NMD) 
 informed UNSCOM’s representative in Baghdad that the Revolutionary Command 
 Council and the Ba’ath Party had decided “to suspend, stop or cease all activities of 
-the Special Commission, including monitoring”.235 Iraq made clear that it was not asking 
+the Special Commission, including monitoring”.[^235] Iraq made clear that it was not asking 
 the monitoring teams to leave Iraq and its cameras and other equipment would remain 
 in place. The IAEA would be allowed to continue its monitoring activities, provided they 
 were independent of UNSCOM.
 
 584.  In a statement to the press on 31 October, the President of the Security Council 
 reported that the members had “unanimously condemned” Iraq’s decision and 
-demanded that it should be rescinded “immediately and unconditionally”.236 Once Iraq 
+demanded that it should be rescinded “immediately and unconditionally”.[^236] Once Iraq 
 had rescinded this decision, and its decision of 5 August to limit co-operation, the 
 members of the Council remained ready “to implement a comprehensive review of Iraq’s 
 compliance”.
@@ -5759,18 +5534,16 @@ of the IAEA as “deeply disturbing”. The Council would “remain actively sei
 matter, in order to ensure the full implementation of the relevant resolutions and secure 
 peace and security in the region”.
 
-234 UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
-235 UN Security Council, 31 October 1998, ‘Letter dated 31 October 1998 from the Deputy Executive 
-Chairman of the Special Commission established by the Secretary-General pursuant to paragraph 
+[^234]: UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
+[^235]: UN Security Council, 31 October 1998, ‘Letter dated 31 October 1998 from the Deputy Executive 
 9 (b) (i) of Security Council resolution 687 (1991 addressed to the President of the Security Council’ 
 (S/1998/1023).
-236 UN Security Council Press Statement, 31 October 1998, ‘Text: UNSC Condemns Iraq’s decision on 
-weapons inspectors’.
+[^236]: UN Security Council Press Statement, 31 October 1998, ‘Text: UNSC Condemns Iraq’s decision on 
 
 133
 
 586.  In response to a request from the Security Council, Mr Butler submitted a report 
-on the consequences of Iraq’s decision of 31 October, on 2 November.237
+on the consequences of Iraq’s decision of 31 October, on 2 November.[^237]
 
 587.  Mr Butler stated that Iraq’s decisions of 5 August and 31 October made it 
 “impossible for the Commission to implement its disarmament and monitoring rights and 
@@ -5788,7 +5561,7 @@ published an open letter to President Clinton calling for a stronger approach:
 “The only acceptable strategy is one that eliminates the possibility that Iraq will be 
 able to use or threaten to use weapons of mass destruction. In the near term, this 
 means a willingness to undertake military action as diplomacy is clearly failing. In the 
-long term, it means removing Saddam Hussein and his regime from power.” 238
+long term, it means removing Saddam Hussein and his regime from power.” [^238]
 
 The 18 signatories included Mr Donald Rumsfeld, Mr Paul Wolfowitz, Mr John Bolton, 
 Mr Richard Armitage and Mr Robert Zoellick, each of whom became prominent members 
@@ -5799,7 +5572,7 @@ Gulf”, published a further open letter to President Clinton, which said:
 “For years, the United States has tried to remove Saddam by encouraging coups 
 and internal conspiracies. These attempts have all failed … Saddam must be 
 overpowered; he will not be brought down by a coup d’état … Iraq today is ripe for a 
-broad-based insurrection.” 239
+broad-based insurrection.” [^239]
 
 A bipartisan group of members of Congress drafted a bill, which made it the policy of the 
 US to support efforts to remove the regime headed by Saddam Hussein from power in 
@@ -5809,20 +5582,17 @@ It was approved by the House of Representatives by 360 votes to 38, and unanimou
 by the Senate. It was signed into law by President Clinton on 31 October 1998 as the Iraq 
 Liberation Act, and regime change in Iraq became the official policy of the US.
 
-237 UN Security Council, 4 November 1998, ‘Letter dated 2 November 1998 from the Executive Chairman 
-of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of 
-Security Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1998/1032).
-238 Letter Project for the New American Century to Clinton, 26 January 1998.
-239 Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism. Harper 
-Collins, 2008.
+[^237]: UN Security Council, 4 November 1998, ‘Letter dated 2 November 1998 from the Executive Chairman 
+[^238]: Letter Project for the New American Century to Clinton, 26 January 1998.
+[^239]: Feith DJ. War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism. Harper 
 
 134
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 ### Resolution 1205 (1998)
 589.  The Security Council unanimously adopted resolution 1205 (1998), condemning 
-Iraq’s decision to cease co-operation with UNSCOM, on 5 November.240
+Iraq’s decision to cease co-operation with UNSCOM, on 5 November.[^240]
 
 590.  The resolution:
 
@@ -5836,7 +5606,7 @@ without conditions or restrictions with its obligations under resolution 687 (19
 
 “comprehensive review” once Iraq had “rescinded” its decisions of 5 August 
 and 31 October and “demonstrated that it is prepared to fulfil all its obligations, 
-including” the MOU of 23 February.241
+including” the MOU of 23 February.[^241]
 
 591.  Acting under Chapter VII of the Charter, the Council:
 
@@ -5867,12 +5637,12 @@ incomprehension which Iraq’s decision caused amongst the members of the Counci
 not authorise the use of force.
 
 594.  Mr Dejammet stated that the Security Council’s decision demonstrated its unity and 
-sent a firm message to Iraq in response to its “unacceptable and irrational” decision.242 
+sent a firm message to Iraq in response to its “unacceptable and irrational” decision.[^242] 
 Iraq was “turning its back on the Council’s clearly expressed intention to proceed without 
 
-240 UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
-241 UN Security Council resolution 1205 (1998).
-242 UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
+[^240]: UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
+[^241]: UN Security Council resolution 1205 (1998).
+[^242]: UN Security Council, ‘3939th Meeting Thursday 5 November 1998’ (S/PV.3939).
 
 135
 
@@ -5927,7 +5697,7 @@ constituted a “thoughtful and balanced approach which could allow for progress
 
 136
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 that Brazil had learned of Iraq’s decision “with a deep sense of dismay”. He also drew 
 attention to the “special importance” of the provisions in the resolution which stressed 
@@ -6007,7 +5777,7 @@ sincerely hopes that Iraq will heed the clear message of this resolution and tak
 necessary steps without delay.”
 
 609.  On the evening of 10 November, Mr Butler decided to remove all UNSCOM 
-personnel from Iraq.243 He stated, in a letter to the President of the Security Council the 
+personnel from Iraq.[^243] He stated, in a letter to the President of the Security Council the 
 following day, that the “prime consideration which motivated the decision, and the speed 
 at which it was executed, was the safety of the Commission’s staff”. He had consulted 
 the President of the Security Council, Dr ElBaradei and the Chilean Acting Permanent 
@@ -6016,27 +5786,26 @@ office. Mr Butler regretted that it had not been possible to hold wider consulta
 
 610.  In his memoir, Mr Annan recounts learning of UNSCOM’s withdrawal through a 
 telephone call from Dr ElBaradei at 0330 on the morning of 11 November and his anger 
-at what he considered to be Mr Butler’s “deeply unprofessional behaviour”.244
+at what he considered to be Mr Butler’s “deeply unprofessional behaviour”.[^244]
 
-243 UN Security Council, 11 November 1998, ‘Letter dated 11 November 1998 from the Executive 
-Chairman of the Special Commission established by the Secretary-General pursuant to paragraph 
+[^243]: UN Security Council, 11 November 1998, ‘Letter dated 11 November 1998 from the Executive 
 9 (b) (i) of Security council resolution 687 (1991) addressed to the President of the Security Council’ 
 (S/1998/1059).
-244 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^244]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
 
 138
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 611.  On 11 November, Mr Annan issued a press statement containing a personal appeal 
-to Saddam Hussein to take the necessary steps for a diplomatic solution to the crisis.245 
+to Saddam Hussein to take the necessary steps for a diplomatic solution to the crisis.[^245] 
 It expressed “surprise” at Iraq’s decision when the Security Council had “agreed a way 
 forward on a comprehensive review”.
 
 612.  Mr Blair wrote in his memoir that Saddam Hussein had “thrown out the weapons 
 inspectors, who had written a damming report on the outstanding issues relating 
 to weapons of mass destruction and Saddam’s continuing ambitions to develop a 
-programme for them” and “President Clinton was contemplating a military strike”.246 
+programme for them” and “President Clinton was contemplating a military strike”.[^246] 
 At a meeting with Mr Robertson, Mr Cook and General Sir Charles Guthrie, Chief of 
 the Defence Staff, on 11 November, Mr Blair had been briefed on the military options. 
 Cabinet had been taken through the issue the following day, with Mr Robertson warning 
@@ -6044,7 +5813,7 @@ that it was “the most serious development” since the Gulf Conflict.
 
 613.  Mr Campbell wrote that Mr Robertson had told Cabinet that Saddam Hussein had 
 broken the cease-fire agreement, broken his word to Mr Annan, and was rebuilding 
-chemical and biological weapons programmes.247 He was weaponising nerve 
+chemical and biological weapons programmes.[^247] He was weaponising nerve 
 agents. These were “ferocious weapons” and “his neighbours believe there is intent”. 
 Mr Campbell wrote: “TB made clear this was the US demanding and us complying, but 
 that our own independent judgement was that he [Saddam Hussein] must be forced to 
@@ -6052,28 +5821,26 @@ comply. He said there was a real breach, not a technical breach.”
 
 614.  On 12 November, the Iraqi Permanent Representative to the UN in New York was 
 given a private warning that, if Iraq did not return to full compliance very quickly it would 
-face a substantial military strike.248
+face a substantial military strike.[^248]
 
 615.  Following discussions in the Security Council in which “all the members … 
 expressed preference for a diplomatic solution”, Mr Annan wrote to Saddam Hussein 
 on 13 November asking for “an early response” to the appeal in his press statement 
-of 11 November, which had been “unanimously endorsed” by the Security Council.249
+of 11 November, which had been “unanimously endorsed” by the Security Council.[^249]
 
 616.  Mr Aziz’s response on 14 November stated that Iraq had put its trust in Mr Annan 
 and his good faith but, because of US objections, the deliberations of the Security 
 Council on the procedures for the comprehensive review had not provided a clear 
-picture.250 On the basis of Mr Annan’s appeal and messages from Russia, China, 
+picture.[^250] On the basis of Mr Annan’s appeal and messages from Russia, China, 
 France, Brazil and other States, Iraq had “decided to resume working with the Special 
 Commission and the IAEA and to allow them to perform their normal duties”. He also 
 
-245 UN Security Council, 14 November 1998, ‘Letter dated 13 November 1998 from the Secretary-General 
-addressed to the President of the Republic of Iraq’ (S/1998/1077).
-246 Blair T. A Journey. Hutchinson, 2010.
-247 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-248 House of Commons, Official Report, 16 November 1998, column 609.
-249 UN Security Council, 14 November 1998, ‘Letter dated 13 November 1998 from the Secretary-General 
-addressed to the President of the Republic of Iraq’ (S/1998/1077).
-250 UN Security Council, 14 November 1998, ‘Annex II’ (S/1998/1077).
+[^245]: UN Security Council, 14 November 1998, ‘Letter dated 13 November 1998 from the Secretary-General 
+[^246]: Blair T. A Journey. Hutchinson, 2010.
+[^247]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^248]: House of Commons, Official Report, 16 November 1998, column 609.
+[^249]: UN Security Council, 14 November 1998, ‘Letter dated 13 November 1998 from the Secretary-General 
+[^250]: UN Security Council, 14 November 1998, ‘Annex II’ (S/1998/1077).
 
 139
 
@@ -6091,7 +5858,7 @@ Special Commission and the International Atomic Energy Agency (IAEA)”.
 the IAEA will allow the return of inspectors to resume all their activities on an 
 immediate, unconditional and unrestricted basis, in accordance with 
 the relevant resolutions and with the Memorandum of Understanding of 
-23 February 1998.”251
+23 February 1998.”[^251]
 
 618.  The press statement also said that “Taking note of past experience”, Council 
 members had “underlined that their confidence in Iraq’s intentions” needed to be 
@@ -6109,25 +5876,24 @@ was received.
 620.  Mr Blair wrote that air strikes had been due to begin at 4.30pm on 14 November, 
 but President Clinton “had decided to pause” when Iraq’s letter was received. Mr Blair 
 described Iraq’s response as “full of holes, typical Saddam rubbish”, but early on 
-15 November action was suspended.252
+15 November action was suspended.[^252]
 
 621.  Mr Blair wrote that Mr Cook was relieved, but he had been “determined to keep 
 the US alliance intact and functioning at what was a crucial moment”.
 
 622.  Mr Campbell wrote that Mr Blair understood why President Clinton had decided 
-to pause, “but our general view was that we should have gone ahead”.253 He wrote: 
+to pause, “but our general view was that we should have gone ahead”.[^253] He wrote: 
 “TB was worried we would end up diluting the support we had. Clear breach would get 
 us support. If we were signalling we weren’t sure, or it didn’t matter, we would dissipate 
 it.” Mr Blair and President Clinton spoke eight times over an 18-hour period.
 
-251 UN Press Release, 15 November 1998, ‘Security Council notes agreement of Iraq to rescind earlier 
-decisions, allow resumption of UNSCOM and IAEA activities’ (SC/6596 IK/258).
-252 Blair T. A Journey. Hutchinson, 2010.
-253 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^251]: UN Press Release, 15 November 1998, ‘Security Council notes agreement of Iraq to rescind earlier 
+[^252]: Blair T. A Journey. Hutchinson, 2010.
+[^253]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
 
 140
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 623.  Mr Campbell recorded in his diary a conversation with Mr Blair on the morning 
 of 15 November, in which he said that “the US were still talking about going in today. 
@@ -6136,7 +5902,7 @@ This was a nightmare, he said.”
 624.  In a statement to the House of Commons on 16 November, Mr Blair explained 
 why the UK Government had been prepared to take military action, why it had stayed 
 its hand and why it remained “ready to strike” if Iraq failed to comply fully with its 
-obligations.254
+obligations.[^254]
 
 625.  Mr Blair stated that Iraq had “built up a vast arsenal of weapons of mass 
 destruction” before the Gulf Conflict and that, since then, he had “been trying to hide 
@@ -6174,7 +5940,7 @@ opposite … we and the Americans have suspended further military action while w
 bolt down every detail of what the Iraqis have said, and while we test the words in 
 practice …
 
-254 House of Commons, Official Report, 16 November 1998, columns 607-623.
+[^254]: House of Commons, Official Report, 16 November 1998, columns 607-623.
 
 141
 
@@ -6212,7 +5978,7 @@ that point.”
 the coming year, asked whether Iraq deserved a comprehensive review, Mr Annan 
 responded that the Security Council itself “would want to know, after eight years of 
 sanctions, where it stands, what has been achieved, what needs to be done, and within 
-what reasonable time frame it can be done”.255
+what reasonable time frame it can be done”.[^255]
 
 634.  Asked about “any inherent conflict of interest” between multilateral interests in the 
 UN and the US, Mr Annan stated that there were “areas” where Washington’s policies 
@@ -6223,26 +5989,25 @@ moment we get the indication from the inspectors … that Iraq has been disarmed
 sanctions will be lifted. American policy goes beyond that, but I am guided only by 
 the United Nations policy.”
 
-255 UN Press Release, 14 December 1998, ‘Transcript of Press Conference by Secretary-General Kofi 
-Annan at Headquarters, 14 December’ (SG/SM/6837).
+[^255]: UN Press Release, 14 December 1998, ‘Transcript of Press Conference by Secretary-General Kofi 
 
 142
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 635.  Mr Annan submitted reports from the IAEA and UNSCOM covering the period 
-since 17 November to the President of the Security Council on 15 December.256
+since 17 November to the President of the Security Council on 15 December.[^256]
 
 636.  The report from Dr ElBaradei, of 14 December, was very short, simply listing 
 the IAEA’s activities and reporting that Iraq had “provided the necessary level 
 of co-operation” to enable it to complete the tasks “efficiently and effectively”. 
 In discussions on “the few remaining questions and concerns related to Iraq’s 
 clandestine nuclear programme”, Iraq had “expressed its intention to continue 
-to co-operate with the IAEA on the resolution of the issues”.257
+to co-operate with the IAEA on the resolution of the issues”.[^257]
 
 637.  Mr Annan told the Security Council that the report from UNSCOM presented 
 “a mixed picture” and concluded that “UNSCOM did not enjoy full co-operation 
-from Iraq”.258
+from Iraq”.[^258]
 
 638.  In his report of 15 December, Mr Butler briefly rehearsed the impact of Iraq’s 
 policies on UNSCOM’s ability to carry out its tasks before 17 November, adding that, 
@@ -6253,7 +6018,7 @@ personnel;
 *  requests for information through access to documents and interviews of Iraqi 
 *  monitoring inspections;
 *  inspection of capable sites; and
-*  disarmament inspections relating to proscribed weapons and activities.259
+*  disarmament inspections relating to proscribed weapons and activities.[^259]
 
 639.  Mr Butler reported that UNSCOM had asked for 12 sets of documents related to 
 chemical weapons and missiles and access to the archives of Iraq’s Ministry of Defence 
@@ -6270,15 +6035,10 @@ of special warheads in the 1980s. Iraq had refused, stating that it was “ready
 only to ‘consider’ … relevant portions of the document” in the presence of the 
 Secretary-General’s Special Representative.
 
-256 UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
-addressed to the President of the Security Council’ (S/1998/1172).
-257 UN Security Council, 15 December 1998, ‘Letter dated 14 December 1998 from the Director General of 
-the International Atomic Energy Agency addressed to the Secretary-General’ (S/1998/1172).
-258 UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
-addressed to the President of the Security Council’ (S/1998/1172).
-259 UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Executive 
-Chairman of the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) 
-of Security Council resolution 687 (1991) addressed to the Secretary-General’ (S/1998/1172).
+[^256]: UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
+[^257]: UN Security Council, 15 December 1998, ‘Letter dated 14 December 1998 from the Director General of 
+[^258]: UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
+[^259]: UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Executive 
 
 143
 
@@ -6338,7 +6098,7 @@ the full co-operation promised on 14 November, and:
 
 144
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 “… during the period under review, Iraq initiated new forms of restrictions upon 
 the Commission’s work. Amongst the Commission’s many concerns about this 
@@ -6357,7 +6117,7 @@ it requires with respect to Iraq’s prohibited weapons programmes.”
 645.  Mr Annan also circulated a letter of 14 December from Mr Aziz, reporting in detail 
 on the activities of the IAEA and UNSCOM between 18 November and 13 December 
 and stating that, despite concerns about aspects of UNSCOM’s actions, Iraq had 
-provided full co-operation.260
+provided full co-operation.[^260]
 
 646.  Mr Aziz’s concerns included:
 
@@ -6383,16 +6143,14 @@ a sufficient basis to move forward with a comprehensive review at this time.”
 additional time to demonstrate its commitment to do so.”
 
 premise that it is sufficiently important to know precisely what has been achieved 
-in the area of disarmament over the entire period since 1991.”261
+in the area of disarmament over the entire period since 1991.”[^261]
 
-260 UN Security Council, 15 December 1998, ‘Letter dated 14 December 1998 from the Deputy Prime 
-Minister of Iraq addressed to the Secretary-General’ (S/1998/1173).
-261 UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
-addressed to the President of the Security Council’ (S/1998/1172).
+[^260]: UN Security Council, 15 December 1998, ‘Letter dated 14 December 1998 from the Deputy Prime 
+[^261]: UN Security Council, 15 December 1998, ‘Letter dated 15 December 1998 from the Secretary-General 
 
 145
 
-648.  Mr Campbell wrote that a meeting of DOP took place on 15 December.262 Mr Cook 
+648.  Mr Campbell wrote that a meeting of DOP took place on 15 December.[^262] Mr Cook 
 considered that Mr Butler’s report was sufficient reason for action. Mr Blair had given 
 explicit authority for the UK to participate if the US decided to go ahead with strikes.
 
@@ -6400,16 +6158,16 @@ explicit authority for the UK to participate if the US decided to go ahead with 
 
 649.  On 16 December, a spokesman for Mr Annan briefed the press that, overnight, 
 Mr Annan had received a telephone call from Mr Burleigh, who had advised him that 
-US personnel in Iraq were being asked to leave.263 Mr Butler had also been advised 
+US personnel in Iraq were being asked to leave.[^263] Mr Butler had also been advised 
 to withdraw UNSCOM personnel, and had instructed them to do so.
 
 650.  On the same day, Dr ElBaradei informed the Council that he had decided 
 IAEA personnel should be “temporarily” relocated to Bahrain once UNSCOM, “on 
 whose logistic support IAEA activities in Iraq” depended, had decided to withdraw 
-its personnel.264
+its personnel.[^264]
 
 651.  During Prime Minister’s Questions on 16 December, action against Iraq 
-was raised.265
+was raised.[^265]
 
 652.  Mr Hague assured Mr Blair “of the full support of the Opposition for the use of 
 military action … provided that action has clear and achievable objectives” and asked 
@@ -6434,18 +6192,17 @@ than do as he was told by President Clinton, Mr Blair responded that the questio
 how to stop Saddam Hussein building weapons of mass destruction. He added that the 
 cease-fire in 1991 had depended on the fulfilment of obligations accepted by Iraq. The 
 
-262 Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
-263 UN Security Council, 16 December 1998, ‘Press Briefing’.
-264 UN Security Council, 16 December 1998, ‘Letter dated 16 December 1998 from the Director General of 
-the International Atomic Energy Agency addressed to the President of the Security Council’ (S/1999/1175).
-265 House of Commons, Official Report, 16 December 1998, columns 959-960.
+[^262]: Campbell A & Stott R. The Blair Years: Extracts from the Alastair Campbell Diaries. Hutchinson, 2007.
+[^263]: UN Security Council, 16 December 1998, ‘Press Briefing’.
+[^264]: UN Security Council, 16 December 1998, ‘Letter dated 16 December 1998 from the Director General of 
+[^265]: House of Commons, Official Report, 16 December 1998, columns 959-960.
 
 146
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 requirement for Iraq to fulfil those obligations had been confirmed in successive Security 
-Council resolutions.266
+Council resolutions.[^266]
 
 656.  Mr Blair added that, when the MOU between Mr Annan and Iraq had been agreed 
 in February:
@@ -6459,17 +6216,17 @@ legal authority to do so.”
 
 ## Operation Desert Fox
 657.  The US and UK launched air attacks against Iraq, Operation Desert Fox, at 2200 
-on 16 December.267
+on 16 December.[^267]
 
 658.  Military action began while the Security Council was holding informal discussions 
-on the IAEA and UNSCOM reports and the options identified by Mr Annan.268
+on the IAEA and UNSCOM reports and the options identified by Mr Annan.[^268]
 
 659.  Mr Annan issued a press statement in which he said it was “a sad day for the 
 United Nations, and for the world” as well as a “very sad day” for him personally. 
 Throughout the year, he had “done everything” in his power “to ensure peaceful 
 compliance with Security Council resolutions, and to avert the use of force”. It had “not 
 been an easy or a painless process”, but “the United Nations had to try as long as any 
-hope for peace remained”.269
+hope for peace remained”.[^269]
 
 660.  Mr Annan concluded:
 
@@ -6484,16 +6241,15 @@ these tasks, the United Nations will be ready, as ever, to play its part.”
 weapons of mass destruction and ballistic missiles, the international community had 
 good reason to impose restrictions on Iraq because it had “repeatedly” used them, 
 
-266 House of Commons, Official Report, 16 December 1998, columns 961-962.
-267  BBC News, 16 December 1998, Blair’s statement on Iraq strikes: Full text.
-268 UN Security Council, ‘3955th Meeting Wednesday 16 December 1998’ (S/PV.3995).
-269 UN Press Release, 16 December 1998, ‘Secretary-General deeply regrets that United Nations efforts 
-to seek peace in Iraq have proved insufficient’ (SG/SM/6841).
+[^266]: House of Commons, Official Report, 16 December 1998, columns 961-962.
+[^267]:  BBC News, 16 December 1998, Blair’s statement on Iraq strikes: Full text.
+[^268]: UN Security Council, ‘3955th Meeting Wednesday 16 December 1998’ (S/PV.3995).
+[^269]: UN Press Release, 16 December 1998, ‘Secretary-General deeply regrets that United Nations efforts 
 
 147
 
 including against civilians. He had “no doubt” that “left unchecked” Saddam Hussein 
-would use them again.270
+would use them again.[^270]
 
 662.  President Clinton described the conclusions in Mr Butler’s report as “stark, 
 sobering and profoundly disturbing”. Iraq had “abused its final chance”. The situation 
@@ -6539,15 +6295,15 @@ community has worked to stop Saddam Hussein from keeping and developing
 nuclear, chemical and biological weapons and from continuing to threaten his 
 neighbours.
 
-270  CNN, 16 December 1998, Transcript: President Clinton explains Iraq strike.
+[^270]:  CNN, 16 December 1998, Transcript: President Clinton explains Iraq strike.
 
 148
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 “For the safety and stability of the region and the wider world, he cannot be allowed 
 to do so. If he will not, through reason and diplomacy, abandon his weapons of mass 
-destruction programme, it must be degraded and diminished by military force.” 271
+destruction programme, it must be degraded and diminished by military force.” [^271]
 
 666.  Mr Blair said that Saddam Hussein had “no intention of abiding by the agreements 
 he has made”. The report from Mr Butler had been “damning”; it was “a catalogue of 
@@ -6561,7 +6317,7 @@ have exhausted all other avenues. We act because we must.”
 
 668.  Mr Burleigh informed the President of the Security Council that “Coalition forces” 
 were making “substantial” military attacks against “Iraq’s weapons of mass destruction 
-programmes and its ability to threaten its neighbours”.272
+programmes and its ability to threaten its neighbours”.[^272]
 
 669.  Mr Burleigh stated that:
 
@@ -6590,10 +6346,8 @@ on each occasion”.
 resolution 687 (1991)” by “refusing to make available documents and information 
 requested by UNSCOM … by imposing new restrictions on the weapons 
 
-271  BBC News, 16 December 1998, Blair’s statement on Iraq strikes: full text.
-272 UN Security Council, 16 December 1998, ‘Letter dated 16 December 1998 from the Charge D’Affaires 
-AI of the United States Mission to the United Nations addressed to the President of the Security Council’ 
-(S/1998/1181).
+[^271]:  BBC News, 16 December 1998, Blair’s statement on Iraq strikes: full text.
+[^272]: UN Security Council, 16 December 1998, ‘Letter dated 16 December 1998 from the Charge D’Affaires 
 
 149
 
@@ -6611,7 +6365,7 @@ defiance and non-compliance”.
 
 670.  In a parallel letter to the President of the Security Council, Sir Jeremy Greenstock 
 stated that the action was taken “following a long history of non-co-operation by 
-Iraq”.273 Iraq had promised on 14 November to co-operate fully, but Mr Butler’s letter of 
+Iraq”.[^273] Iraq had promised on 14 November to co-operate fully, but Mr Butler’s letter of 
 15 December stated “clearly that Iraq did not provide the full co-operation it promised”, 
 and that UNSCOM was “unable as a result to conduct the substantive work mandated 
 to it by the Security Council”.
@@ -6622,11 +6376,11 @@ to it by the Security Council”.
 The operation was undertaken when it became apparent that there was no prospect 
 of this being achieved by peaceful means. It will have the effect of degrading 
 capabilities which have been the subject of Security Council resolutions over the 
-past nine years. Targets have been carefully chosen to avoid civilian casualties.”274
+past nine years. Targets have been carefully chosen to avoid civilian casualties.”[^274]
 
 672.  In the subsequent meeting of the Council, Mr Hamdoon condemned the 
 “aggression” of the US and UK and the decision to flout international law and the 
-UN Charter.275
+UN Charter.[^275]
 
 673.  Mr Hamdoon also criticised Mr Butler’s “partiality, lack of integrity and lack of 
 objectivity” by singling out five incidents from 300 inspections as “categorical evidence 
@@ -6640,17 +6394,13 @@ including:
 
 *  “never” giving UNSCOM the co-operation it needed to complete its tasks;
 
-273 UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the 
-United Kingdom of Great Britain and Northern Ireland to the United Nations addressed to the President 
-of the Security Council’ (S/1998/1182).
-274 UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the 
-United Kingdom of Great Britain and Northern Ireland to the United Nations addressed to the President 
-of the Security Council’ (S/1998/1182).
-275 UN Security Council, ‘3955th Meeting Wednesday 16 December 1998’ (S/PV.3995).
+[^273]: UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the 
+[^274]: UN Security Council, ‘Letter dated 16 December 1998 from the Permanent Representative of the 
+[^275]: UN Security Council, ‘3955th Meeting Wednesday 16 December 1998’ (S/PV.3995).
 
 150
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  concealing the “evidence of its past and current programmes”;
 *  engaging in a “policy of harassment and deceit”;
@@ -6751,7 +6501,7 @@ Sweden would have been ready “to support a decision in the Council on military
 
 152
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 as a last resort” when Iraq “seriously violates its obligations, and when all diplomatic 
 means have been exhausted”. But, “that would be a decision for the Security Council”. 
@@ -6804,11 +6554,11 @@ that the law prevails, despite the obstacles and pitfalls encountered”.
 
 “The US and UK came under intensive criticism from all other members of the 
 Council, and the UN as a whole, for taking matters in their own hands in this way but 
-there was no formal motion of condemnation put forward.”276
+there was no formal motion of condemnation put forward.”[^276]
 
 696.  The military action was supported by the main political parties in the UK.
 
-697.  Mr Blair made a statement to the House of Commons on 17 December.277 He said 
+697.  Mr Blair made a statement to the House of Commons on 17 December.[^277] He said 
 that the objectives of the military operation were:
 
 “… clear and simple: to degrade the ability of Saddam Hussein to build and use 
@@ -6852,12 +6602,12 @@ opportunity to do wrong. He is blind to reason.”
 he could get away”, which he had used “deliberately to try to blackmail the 
 international community into lifting sanctions”.
 
-276 Statement, November 2009, page 1.
-277 House of Commons, Official Report, 17 December 1998, columns 1097-1102.
+[^276]: Statement, November 2009, page 1.
+[^277]: House of Commons, Official Report, 17 December 1998, columns 1097-1102.
 
 154
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  There had been “a stark choice” between letting “the process continue further, 
 with UNSCOM more and more emasculated” or, “having tried every possible 
@@ -6899,13 +6649,13 @@ the issue … could have been resolved several years ago”.
 704.  The Rev. Martin Smyth stated that “the greater number of people in Northern 
 Ireland support the attacks whole-heartedly”.
 
-705.  Mr Blair’s statement was followed by a debate on the military action.278
+705.  Mr Blair’s statement was followed by a debate on the military action.[^278]
 
 706.  Mr Cook stated that action had been taken because of Saddam Hussein’s failure 
 to keep the commitments he had made, and “with the full authority of repeated Security 
 Council resolutions, supported by all members of the Council”. The background was 
 
-278 House of Commons, Official Report, 17 December 1998, columns 1112-1193.
+[^278]: House of Commons, Official Report, 17 December 1998, columns 1112-1193.
 
 155
 
@@ -6937,7 +6687,7 @@ bars too fragile to hold him. What we have done is put him back securely and fir
 in the cage …
 
 “We have reduced the danger Saddam poses consistent with common sense and 
-a proportionate use of force.”279
+a proportionate use of force.”[^279]
 
 711.  In Mr Blair’s view, military action had sent:
 
@@ -6955,12 +6705,11 @@ everything … but what we can do reasonably we should do.”
 
 First and foremost, we must maintain a threat of force which Saddam now 
 
-279  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
-Anthony Blair.
+[^279]:  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
 
 156
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 knows to be credible … ready to strike … if he again poses a threat to his 
 neighbours or develops weapons of mass destruction”;
@@ -6978,7 +6727,7 @@ their vision of a better Iraq”.
 
 714.  Mr Blair stated that nearly 100 sites were attacked, US and UK forces fired more 
 than 400 cruise missiles and there were more than 200 aircraft strikes between 16 and 
-19 December.280
+19 December.[^280]
 
 715.  The sites which were targeted comprised:
 
@@ -6991,13 +6740,13 @@ to control military and internal security forces;
 *  10 Republican Guard targets;
 *  27 air defence targets;
 *  six airfields, including those associated with helicopter forces used for internal 
-*  an oil refinery near Basra associated with sanctions breaking.281
+*  an oil refinery near Basra associated with sanctions breaking.[^281]
 
 repression; and
 
 716.  The International Institute for Strategic Studies stated that “a limited number 
 of workshops in half a dozen declared missile facilities were bombed and damaged, 
-including the final assembly and production lines of the al-Samoud”.282
+including the final assembly and production lines of the al-Samoud”.[^282]
 
 717.  In an Assessment in May 2001, the JIC recorded that Operation Desert Fox had 
 targeted:
@@ -7007,20 +6756,14 @@ targeted:
 production and a castor oil plant that could be used to support the production 
 of BW;
 
-280  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
-Anthony Blair.
-281  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
-Anthony Blair; House of Commons, Iraq: ‘Desert Fox’ and Policy Developments, 10 February 1999, 
-Research Paper 99/13, page 17; In his speech to the National Press Club on 23 December 1998, 
-Mr Samuel (Sandy) Berger, National Security Advisor to the President, stated that the targets included TV 
-and radio transmitters.
-282 IISS Strategic Dossier, 9 September 2002, Iraq’s Weapons of Mass Destruction – A Net Assessment, 
-page 65.
+[^280]:  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
+[^281]:  Le Monde diplomatique, 20 December 1998, Conférence de presse du premier ministre britannique 
+[^282]: IISS Strategic Dossier, 9 September 2002, Iraq’s Weapons of Mass Destruction – A Net Assessment, 
 
 157
 
 *  Airfield facilities housing the L-29 remotely piloted aircraft;
-*  Sites used by regime security organisations also involved in WMD.” 283
+*  Sites used by regime security organisations also involved in WMD.” [^283]
 718.  The Assessment added: “Other WMD-related facilities were not targeted.”
 
 719.  In February 1999, the MOD assessed that the effect of Operation Desert Fox 
@@ -7029,7 +6772,7 @@ on Iraq’s military programmes had been:
 *  to set back the ballistic missile programme by between one and two years; and
 *  to disrupt for several months WMD related work of the Iraqi Ministry of Industry 
 
-and Military Industrialisation Headquarters in Baghdad.284
+and Military Industrialisation Headquarters in Baghdad.[^284]
 
 720.   The bombing had “badly damaged, possibly destroyed outright” the L-29 
 unmanned aerial vehicle programme. The rebuilding of the Republican Guard 
@@ -7038,7 +6781,7 @@ infrastructure was estimated to take up to a year.
 721.  Following the 1998 Strategic Defence Review, which had identified the importance 
 of preparations to overcome the possible threat from biological and chemical weapons 
 particularly in the Gulf, the MOD published a paper in July 1999 setting out the results 
-of a further review.285 In his foreword to the paper, Mr Robertson stated that knowing 
+of a further review.[^285] In his foreword to the paper, Mr Robertson stated that knowing 
 what the threat was, how to reduce it, and how to protect against it, was “a constantly 
 developing process” which he regarded as one of his “highest priorities”.
 
@@ -7064,14 +6807,13 @@ through arms control agreements.
 and chemical weapons would “not be allowed to secure political or military 
 advantage”; it would “on the contrary, invite a proportionately serious response” 
 
-283 JIC Assessment, 10 May 2001, ‘Iraqi WMD Programmes: Status and Vulnerability’.
-284 House of Commons, Iraq: ‘Desert Fox’ and Policy Developments, 10 February 1999, Research 
-Paper 99/13.
-285 Ministry of Defence, Defending Against the Threat from Biological and Chemical Weapons, July 1999.
+[^283]: JIC Assessment, 10 May 2001, ‘Iraqi WMD Programmes: Status and Vulnerability’.
+[^284]: House of Commons, Iraq: ‘Desert Fox’ and Policy Developments, 10 February 1999, Research 
+[^285]: Ministry of Defence, Defending Against the Threat from Biological and Chemical Weapons, July 1999.
 
 158
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 and those “responsible for any breach of international law relating to the use of 
 such weapons” would be “held personally accountable”.
@@ -7179,7 +6921,7 @@ ballistic missile”;
 
 160
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  destroyed some key buildings of the Iraqi Directorate of General Security, which 
 *  “set back” Iraq’s ability to regenerate its biological and chemical capability.
@@ -7207,8 +6949,8 @@ a breach which would entitle another party to argue that a cease-fire had been b
 
 “… my use of resolution 1205 seriously annoyed my Russian counterpart, because 
 he realised that I had succeeded in establishing … a declaration of material 
-breach286 of Iraq which he hadn’t intended should be allowed by the resolution, 
-which then lay the basis for the use of force in December 1998.”287
+breach[^286] of Iraq which he hadn’t intended should be allowed by the resolution, 
+which then lay the basis for the use of force in December 1998.”[^287]
 
 735.  On 24 September 1998, the JIC had assessed:
 
@@ -7217,17 +6959,16 @@ these could be available for use within a matter of weeks or perhaps even days.
 Provided it still has key components – and that is unclear – Iraq could within a few 
 months build, with little risk of detection, missiles capable of hitting Israel and key 
 targets in Saudi Arabia. If it needs to make or acquire the components, production of 
-such missiles could begin within a year …”288
+such missiles could begin within a year …”[^288]
 
 736.  The Butler Report concluded that JIC readers in December 1998 would have 
 had the impression that Iraq had the ability “to regenerate a small number of ballistic 
 missiles, either through bringing back into use missiles that had been hidden or by 
 re-assembling missiles from hidden components”.
 
-286 Resolution 1205 refers only to “flagrant violation”.
-287 Public hearing, 27 November 2009, page 35.
-288  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
-page 52.
+[^286]: Resolution 1205 refers only to “flagrant violation”.
+[^287]: Public hearing, 27 November 2009, page 35.
+[^288]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
 
 161
 
@@ -7239,7 +6980,7 @@ on 28 December.
 
 738.  In a speech on Iraq on 23 December, Mr Berger dismissed the proposition that the 
 threat from Saddam Hussein could be downgraded, stating that his “external aggression 
-and internal repression” still posed a “genuine threat to his neighbours and the world”.289 
+and internal repression” still posed a “genuine threat to his neighbours and the world”.[^289] 
 Saddam Hussein had proved he sought WMD “not for some abstract concept of 
 deterrence, but for the very real purpose of using them”. His “history of aggression” left 
 “little doubt that he would resume his drive for regional domination and his quest for 
@@ -7275,12 +7016,11 @@ could and would pursue was, therefore, to:
  “… contain Saddam in the short and medium term, by force if necessary, and 
 to work toward a new government over the long term.”
 
-289 Speech to the National Press Club by Samuel (Sandy) Berger, National Security Advisor to the 
-President, 23 December 1998.
+[^289]: Speech to the National Press Club by Samuel (Sandy) Berger, National Security Advisor to the 
 
 162
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 743.  The best option was for Saddam Hussein to allow the inspectors to return and 
 Mr Butler had “proposed a roadmap to compliance that would take between three 
@@ -7331,7 +7071,7 @@ Administration towards Iraq during its remaining two years in office.
 163
 
 749.  In his memoir, Mr Blair wrote that following the UNSCOM report in mid-December, 
-President Clinton had decided to act.290 The air strikes had been “nerve wracking” and 
+President Clinton had decided to act.[^290] The air strikes had been “nerve wracking” and 
 the operation was “a limited success”. He added:
 
 “The general feeling was that Saddam had got away with it again.”
@@ -7341,7 +7081,7 @@ had been:
 
 “… a gift to Saddam – allowing him, with a growing body of evidence – to claim that 
 he was all for disarming and co-operating with the international community, but that 
-UNSCOM’s approach made this impossible.”291
+UNSCOM’s approach made this impossible.”[^291]
 
 751.  Mr Annan wrote that this was “entirely untrue”; but Mr Butler “and his backers 
 in Washington and London” had “failed to understand” how it “undermined his own 
@@ -7359,7 +7099,7 @@ West, and not his own misrule for the misery of his people.”
 753.  Sir Jeremy Greenstock wrote in his statement for the Inquiry:
 
 “When those attacks were called to a halt, the Security Council was left divided and 
-the inspectors were unable to return to the country.”292
+the inspectors were unable to return to the country.”[^292]
 
 The impact of Operation Desert Fox
 
@@ -7368,34 +7108,33 @@ had been to set back the ballistic missile programme by between one and two year
 that the WMD-related work of the Iraqi Ministry of Industry and Military Industrialisation 
 Headquarters in Baghdad had been disrupted for several months at least, and that the 
 bombing had “badly damaged, possibly destroyed outright” the L-29 unmanned aerial 
-vehicle programme.293 Rebuilding the Republican Guard infrastructure was estimated 
+vehicle programme.[^293] Rebuilding the Republican Guard infrastructure was estimated 
 to require up to a year.
 
-290 Blair T. A Journey. Hutchinson, 2010.
-291 Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
-292 Statement, November 2009, page 1.
-293 House of Commons, Iraq: ‘Desert Fox’ and Policy Developments, 10 February 1999, Research 
-Paper 99/13.
+[^290]: Blair T. A Journey. Hutchinson, 2010.
+[^291]: Annan K. Interventions: A Life In War And Peace. Allen Lane, 2012.
+[^292]: Statement, November 2009, page 1.
+[^293]: House of Commons, Iraq: ‘Desert Fox’ and Policy Developments, 10 February 1999, Research 
 
 164
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 Mr Webb told the Inquiry the MOD had looked at how effective the action in 1998 had 
 been in “keeping the WMD lid on by bombing … and we concluded that it was not 
 effective and we were not able to offer any reassurance that you have been able to deal 
-with the WMD problem solely by air power.” 294 In response to a further question, he said it 
+with the WMD problem solely by air power.” [^294] In response to a further question, he said it 
 was “Not conclusively ineffective, but it hadn’t achieved a result of which one felt assured”. 
 Mr Webb added: “It did have a very useful effect on reducing the capacity of the Iraqi 
 Integrated Air Defence System, which was posing a threat to the aircraft.”
 Dr Condoleezza Rice wrote in her memoir that, in July 2003, it became clear that “the 
 air assault on Iraq’s WMD in 1998 had been more successful than we had known, and 
-serious damage had been done to Saddam’s capabilities at the time”.295
+serious damage had been done to Saddam’s capabilities at the time”.[^295]
 The Review of Intelligence on Weapons of Mass Destruction concluded in 2004 that JIC 
 assessments in 1998 would have left the impression “of suspicion and concern about Iraq’s 
 break-out capability, coupled with possible possession of chemical [and biological] agent 
 stockpiles, in breach of its [Iraq’s] United Nations obligations” and “concern about the ability 
-of Iraq to regenerate a small number of ballistic missiles” in the minds of readers.296
+of Iraq to regenerate a small number of ballistic missiles” in the minds of readers.[^296]
 Professor Marc Weller, Professor of International Law and International Constitutional 
 Studies at the University of Cambridge, suggests that Operation Desert Fox had three 
 important consequences for future policy towards Iraq:
@@ -7406,7 +7145,7 @@ military action. Second, support for any further action by the Council resulted 
 stalemate due to the ‘breakdown in the Security Council’ after the bombing campaign 
 … Finally, and most damaging for the negotiations leading up to resolution 1441 (2002), 
 several states resolved not to be lured again into the finding of a breach that might be 
-invoked to justify the use of force, as had been the case with resolution 1205.” 297
+invoked to justify the use of force, as had been the case with resolution 1205.” [^297]
 
 754.  Operation Desert Fox had created a deep fissure at the United Nations and 
 within the P5. The Kosovo campaign, bitterly opposed by Russia and not mandated 
@@ -7421,11 +7160,10 @@ threat, coalition aircraft targeted a variety of different elements of Iraq’s 
 Air Defence System (IADS), such as radar sites and associated communications and 
 control networks, surface-to-air missile batteries and anti-aircraft artillery positions. 
 
-294 Public hearing, 24 November 2009, page 76.
-295 Rice C. No Higher Honour: A Memoir of My Years in Washington. Simon & Schuster, 2011.
-296  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 52.
-297 Weller M. Iraq and the Use of Force in International Law. Oxford University Press, 2010.
+[^294]: Public hearing, 24 November 2009, page 76.
+[^295]: Rice C. No Higher Honour: A Memoir of My Years in Washington. Simon & Schuster, 2011.
+[^296]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^297]: Weller M. Iraq and the Use of Force in International Law. Oxford University Press, 2010.
 
 165
 
@@ -7445,18 +7183,18 @@ operations to rescue any downed aircrew. Those are addressed in Section 1.2.
 
 equipment, stocks of agents and perhaps even BW weapons …”
 
-agents within weeks.” 298
+agents within weeks.” [^298]
 
 759.  The Butler Review was told that the reason for shortening the timescales for 
 production of biological agent to “within weeks” was “intelligence of Iraqi requests for 
 large quantities of growth media”, which was “judged to be greatly in excess of Iraq’s 
-likely legitimate requirements”.299 But it was “not known” if Iraq had actually obtained 
+likely legitimate requirements”.[^299] But it was “not known” if Iraq had actually obtained 
 the growth media.
 
 ## UNSCOM’s findings, January 1999
 760.  Mr Butler produced two reports on 25 January 1999, one on the disarmament of 
 Iraq’s weapons of mass destruction and one on monitoring and verification, which were 
-formally circulated to the Security Council on 29 January.300
+formally circulated to the Security Council on 29 January.[^300]
 
 761.  The report on disarmament described the work of UNSCOM since 1991 and its 
 methodology, and set out “material balances” for the proscribed missile, chemical and 
@@ -7470,17 +7208,13 @@ disclosures:
 “… indicated that, during the first four years of its activities, the Commission had 
 been very substantially misled by Iraq both in terms of its understanding of Iraq’s 
 
-298  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
-page 58.
-299  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
-page 59.
-300 UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94).
+[^298]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898, 
+[^299]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
+[^300]: UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
 
 166
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 proscribed weapons programmes and the continuation of prohibited activities … 
 Positive conclusions on Iraq’s compliance … had to be revised … Analysis of the 
@@ -7531,7 +7265,7 @@ or weapons remain in Iraq; and that a BW capability does not still exist in Iraq
 167
 
 It also raised “serious doubts” about Iraq’s claim that it had “obliterated” the BW 
-programme in 1991.301
+programme in 1991.[^301]
 
 770.  UNSCOM recorded uncertainties about the destruction of Iraq’s “special weapons”, 
 warheads for ballistic missiles filled with chemical and biological agent. It also recorded 
@@ -7554,7 +7288,7 @@ activities in contravention of Council resolutions”.
 772.  The annex on “Actions by Iraq to obstruct disarmament” stated that UNSCOM’s 
 work in Iraq had been “plagued by co-ordinated efforts to thwart full discovery of Iraq’s 
 proscribed programmes” which had begun “immediately following the adoption” of 
-resolution 687 (1991).302
+resolution 687 (1991).[^302]
 
 773.  In a “brief summary” of its “current understanding of the evolution of these 
 concealment policies and practices”, the report stated:
@@ -7581,16 +7315,12 @@ necessary to revive programmes when possible”;
 
 VX project” and retaining “production equipment and raw materials”;
 
-301 UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94). 
-302 UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
-the Special Commission established by the Secretary-General pursuant to paragraph 9 (b) (i) of Security 
-Council resolution 687 (1991) addressed to the President of the Security Council’ (S/1999/94). 
+[^301]: UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
+[^302]: UN Security Council, 29 January 1999, ‘Letter dated 25 January 1999 from the Executive Chairman of 
 
 168
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
   * concealing “the number and type of BW and CW warheads for proscribed 
 
@@ -7717,10 +7447,10 @@ and surveillance” of UNSCOM’s activities.
 
 170
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 775.  An intelligence report issued in 1999 stated that the informant was unaware of any 
-Iraqi work on plague as a BW agent.303
+Iraqi work on plague as a BW agent.[^303]
 
 ## The Amorim Review
 776.  In late January 1999, the Security Council established three panels chaired by 
@@ -7737,10 +7467,10 @@ recommendations to re-establish an effective regime;
 
 Iraq and make recommendations” for improvements; and
 
-assessment … of Iraqi compliance” and make recommendations.304
+assessment … of Iraqi compliance” and make recommendations.[^304]
 
 777.  The panel on “disarmament and current and future ongoing monitoring and 
-verification” reported on 27 March.305
+verification” reported on 27 March.[^305]
 
 778.  The report stated that the panel’s “main objective” was “to make recommendations 
 … on how … to reestablish an effective disarmament/ongoing monitoring and verification 
@@ -7761,12 +7491,9 @@ extent to which that would be acceptable would be “a policy judgement”.
 781.  The panel suggested changes to the practices and procedures of UNSCOM 
 to ensure an effective and credible system, including:
 
-303  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
-page 135.
-304 UN Security Council, 30 January 1999, ‘Note by the President of the Security Council’ (S/1999/100).
-305 UN Security Council, 30 March 1999, ‘Letter dated 27 March 1999, from the Chairman of the panels 
-established pursuant to the note by the President of the Security Council of 30 January 1999 (S/1999/100) 
-addressed to the President of the Security Council’ (S/1999/356).
+[^303]:  Review of Intelligence on Weapons of Mass Destruction [“The Butler Report”], 14 July 2004, HC 898,
+[^304]: UN Security Council, 30 January 1999, ‘Note by the President of the Security Council’ (S/1999/100).
+[^305]: UN Security Council, 30 March 1999, ‘Letter dated 27 March 1999, from the Chairman of the panels 
 
 171
 
@@ -7819,16 +7546,16 @@ question before the Security Council.”
 
 172
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 786.  The final reports of the panels on humanitarian issues and prisoners of war and 
-Kuwaiti property were delivered on 30 March.306
+Kuwaiti property were delivered on 30 March.[^306]
 
 787.  Work began in the Security Council to follow up the recommendations of the 
 three Amorim panels, but agreement proved elusive. A number of different approaches 
 and draft resolutions were discussed informally over the following months and it was 
 eventually decided that the subject should be remitted to the P5, although not all the 
-elected members were happy with that approach.307
+elected members were happy with that approach.[^307]
 
 788.  Sir Jeremy Greenstock told the Inquiry:
 
@@ -7840,17 +7567,17 @@ organisation for Iraq. The US and UK argued for continuation of the regime
 stemming from SCR 687, but with tougher measures to ensure co-operation with 
 and access for the inspectors, under the continuing threat of sanctions if Iraq did not 
 comply; while Russia, France and China opposed the continuation of sanctions, but 
-were interested in getting the inspectors back into the country.”308
+were interested in getting the inspectors back into the country.”[^308]
 
 ## Mr Blair’s Chicago speech
 789.  In the context of a visit to the US, for a Summit in Washington to mark the 50th 
 anniversary of NATO’s creation and an attempt to persuade the US that ground forces 
 were needed in Kosovo, Mr Blair made a widely publicised speech to the Economic Club 
-of Chicago on 23 April 1999.309
+of Chicago on 23 April 1999.[^309]
 
 790.  In response to a request from Mr Jonathan Powell (Mr Blair’s Chief of Staff), 
 Sir Lawrence Freedman submitted ideas for the speech. These were set out in the 
-attachment to Sir Lawrence’s letter to Sir John Chilcot on 18 January 2010.310
+attachment to Sir Lawrence’s letter to Sir John Chilcot on 18 January 2010.[^310]
 
 791.  Mr Blair argued that globalisation was not just economic it was also a political 
 and security phenomenon. This meant that problems could only be addressed by 
@@ -7859,13 +7586,11 @@ international institutions. The time was right to work in earnest “in a seriou
 sustained way” on the principles of the doctrine of “international community” and on the 
 institutions that delivered them.
 
-306 UN Security Council, 30 March 1999, ‘Letter dated 27 March 1999, from the Chairman of the panels 
-established pursuant to the note by the President of the Security Council of 30 January 1999 (S/1999/100) 
-addressed to the President of the Security Council’ (S/1999/356).
-307 UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
-308 Statement, November 2009, page 2.
-309 Speech, Blair, Doctrine of the International Community, 23 April 1999.
-310 Paper Freedman [undated], ‘Chicago Speech: Some Suggestions’.
+[^306]: UN Security Council, 30 March 1999, ‘Letter dated 27 March 1999, from the Chairman of the panels 
+[^307]: UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
+[^308]: Statement, November 2009, page 2.
+[^309]: Speech, Blair, Doctrine of the International Community, 23 April 1999.
+[^310]: Paper Freedman [undated], ‘Chicago Speech: Some Suggestions’.
 
 173
 
@@ -7918,7 +7643,7 @@ by international co-operation then we have to support the UN as its central pill
 
 174
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 797.  In a message specifically to the US, Mr Blair warned that “those nations which 
 have the power, have the responsibility” and that the US should “never fall again for 
@@ -7930,12 +7655,12 @@ is the only dream that makes humanity worth preserving.”
 
 798.  The speech attracted considerable attention and acclaim, including in the US. In 
 his memoir, Mr Blair described it as “an explicit rejection of the narrow view of national 
-interest”.311 The Inquiry addresses the military intervention in Iraq in relation to the 
+interest”.[^311] The Inquiry addresses the military intervention in Iraq in relation to the 
 principles set out in the speech and Mr Blair’s message to the US in Section 3.
 
 ## Cabinet discusses Iraq strategy, May 1999
 799.  Mr Cook and Mr Robertson circulated a Joint Memorandum on Future Strategy 
-towards Iraq to members of DOP on 17 May 1999.312 It set out the short, medium 
+towards Iraq to members of DOP on 17 May 1999.[^312] It set out the short, medium 
 and long-term objectives for UK policy against a background of international concern 
 about the adverse humanitarian impact of sanctions and a shortfall in “Oil-for-Food” 
 revenues (US$4bn in the previous year) against assessed need (US$10.6bn per annum 
@@ -7962,9 +7687,8 @@ stated:
 it does not produce rapid or decisive results; it is resource-intensive, requiring 
 constant diplomatic effort and a significant military presence; and it is not always 
 
-311 Blair T. A Journey. Hutchinson, 2010. 
-312 Joint Memorandum Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
-State for Defence, 17 May 1999, ‘Iraq: Future Strategy’.
+[^311]: Blair T. A Journey. Hutchinson, 2010. 
+[^312]: Joint Memorandum Secretary of State for Foreign and Commonwealth Affairs and the Secretary of 
 
 175
 
@@ -8006,19 +7730,19 @@ package immediately but “might be persuaded to acquiesce eventually”.
 containment would not solve the pressing issue of ensuring that the basic needs of the 
 Iraqi people were met; and that, although there had been “an extensive exchange of 
 correspondence”, she hoped it would be “possible to have the opportunity to discuss 
-these very difficult issues with Ministerial colleagues”.313 Mr Phillip Barton, a No.10 
+these very difficult issues with Ministerial colleagues”.[^313] Mr Phillip Barton, a No.10 
 Private Secretary, advised Mr Blair that there was no need for a DOP discussion 
-“unless you [Mr Blair] particularly want one”.314 Mr Blair endorsed the conclusions of 
+“unless you [Mr Blair] particularly want one”.[^314] Mr Blair endorsed the conclusions of 
 
-313 Letter Smith to Packenham, 24 May 1999, ‘Iraq, the Way Forward’.
-314 Minute Barton to Prime Minister, 27 May 1999, ‘Iraq: Future Strategy’.
+[^313]: Letter Smith to Packenham, 24 May 1999, ‘Iraq, the Way Forward’.
+[^314]: Minute Barton to Prime Minister, 27 May 1999, ‘Iraq: Future Strategy’.
 
 176
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
-the Joint Memorandum,315 and a revised draft UNSCR, including language on sanctions 
-suspension, was agreed.316
+the Joint Memorandum,[^315] and a revised draft UNSCR, including language on sanctions 
+suspension, was agreed.[^316]
 
 ## Resolution 1284 (1999)
 806.  Throughout 1999, debate and negotiation continued in the UN Security Council 
@@ -8060,8 +7784,8 @@ Council to adopt, as soon as possible, a new omnibus resolution on Iraq”. Chin
 “extremely dissatisfied and disappointed” by the deadlock, but the unilateral military 
 strike in December 1998 was the “main reason” the UN arms-verification programme 
 
-315 Letter Barton to Barrow, 2 June 1999, ‘Iraq: Future Strategy’.
-316 Letter Barton to Barrow, 14 June 1999, ‘Iraq: Future Strategy’.
+[^315]: Letter Barton to Barrow, 2 June 1999, ‘Iraq: Future Strategy’.
+[^316]: Letter Barton to Barrow, 14 June 1999, ‘Iraq: Future Strategy’.
 
 177
 
@@ -8072,7 +7796,7 @@ show flexibility”.
 panels chaired by Mr Amorim, which had been subject to “comprehensive consideration” 
 by the Council, and stressed the “importance of a comprehensive approach to the full 
 implementation of all relevant Security Council resolutions … and the need for Iraqi 
-compliance with those resolutions”.317
+compliance with those resolutions”.[^317]
 
 813.  The resolution also acknowledged the “progress made by Iraq towards compliance 
 with the provisions of resolution 687”, but noted that “as a result of its failure to 
@@ -8111,11 +7835,11 @@ resolutions, and “provide advice and guidance to the Executive Chairman,
 including on significant policy decisions and on written reports to be submitted to 
 the Council through the Secretary-General”;
 
-317 UN Security Council resolution 1284 (1999).
+[^317]: UN Security Council resolution 1284 (1999).
 
 178
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 *  requested the Executive Chairman to put forward proposals for the organisation 
 *  decided that UNMOVIC and the IAEA would, “not later than 60 days after 
@@ -8202,7 +7926,7 @@ adoption of the resolution, “provided the conditions set out” in this paragr
 819.  The draft resolution had been tabled by the UK, and many members of the Council 
 praised the skill and perseverance of Sir Jeremy Greenstock and his delegation in 
 producing a draft which the majority of the Council could support after almost a year 
-of deadlock on Iraq.318 It is clear, however, that there were still significant differences 
+of deadlock on Iraq.[^318] It is clear, however, that there were still significant differences 
 about the interpretation of the resolution and the way ahead. As a result, China, France, 
 Malaysia and Russia abstained in the vote, but there was no veto.
 
@@ -8225,11 +7949,11 @@ to “harmful provisions” in previous drafts of the resolution, including:
 “always stressed that the wording ‘full co-operation’” was “extremely dangerous”, 
 and “Nobody has forgotten that it was under the pretext of an absence of full 
 
-318 UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
+[^318]: UN Security Council, ‘4084th Meeting Friday 17 December 1999’ (S/PV.4084).
 
 180
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 co-operation from Iraq that the former Special Commission provoked large-scale 
 strikes by the United States and Great Britain against Iraq in December last 
@@ -8340,7 +8064,7 @@ and Kosovo had “clearly demonstrated that the wilful use of force, especially 
 
 182
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 actions taken without the Council’s authorisation”, severely damaged the status and 
 authority of the Council and complicated the situation.
@@ -8418,14 +8142,14 @@ and of the region” and in the “interests of the future authority” of the U
 
 839.  The UK’s short-term objective had been “an agreed Security Council approach on 
 the way forward … allowing us to draw a line under the differences which developed 
-over Operation Desert Fox”.319
+over Operation Desert Fox”.[^319]
 
 840.  A note for No.10 on the background to the inspections process, produced in March 
 2002 by FCO Research Analysts, stated that the “main feature” of resolution 1284 was 
 that it offered Iraq “a suspension of sanctions in return for co-operation with the weapons 
 inspectors, including progress on key disarmament tasks”, in contrast to resolution 687 
 (1991) which offered lifting of sanctions “only when the inspectors say disarmament 
-is complete”.320 Iraq regarded the latter as “an unattainable goal”, claiming that the 
+is complete”.[^320] Iraq regarded the latter as “an unattainable goal”, claiming that the 
 resolution was “so ambiguous” that the US could “easily deny” that co-operation had 
 been “adequate”.
 
@@ -8435,18 +8159,17 @@ been “adequate”.
 was unable to reach agreement. If positions remain as entrenched as they were 
 during … negotiations, there is little prospect of the situation changing …”
 
-319 Letter Goulty to McKane, 20 October 2000, [untitled].
-320 Letter McDonald to Manning, 15 March 2002, ‘Iraq’ attaching Paper FCO, [undated], ‘Iraq: Weapons 
-Inspectors’.
+[^319]: Letter Goulty to McKane, 20 October 2000, [untitled].
+[^320]: Letter McDonald to Manning, 15 March 2002, ‘Iraq’ attaching Paper FCO, [undated], ‘Iraq: Weapons 
 
 184
 
-The Report of the Iraq Inquiry1.1  |  UK Iraq strategy 1990 to 2000
+
 
 842.  Mr Ekéus commented to the Inquiry that the Security Council had “dissolved … 
 arguably [the] most successful inspection regime in disarmament history” and suggested 
 it was “the British Government and its Foreign Secretary Robin Cook that enforced the 
-dissolution of UNSCOM … in spite of American doubts and hesitations”.321
+dissolution of UNSCOM … in spite of American doubts and hesitations”.[^321]
 
 ## UNMOVIC begins work
 843.  Dr Hans Blix, the Director General of the IAEA until November 1997, was 
@@ -8458,11 +8181,11 @@ on 1 March 2000.
 “The inspectors were gone. The sanctions were condemned by a broad world 
 opinion and … they had become less painful, and were eroding … The revenues 
 from the Oil-for-Food Program provided many billions of dollars and huge purchase 
-orders were so placed as to produce maximum political benefit – or punishment.”322
+orders were so placed as to produce maximum political benefit – or punishment.”[^322]
 
 845.  In an interview published in March 2000, Mr Ekéus stated that UNSCOM had been 
 “highly successful”, but had not destroyed “everything”; and the “contradictions” in Iraq’s 
-declarations meant that there was “reason to be careful”.323 There was “new information 
+declarations meant that there was “reason to be careful”.[^323] There was “new information 
 about procurement efforts by Iraq” and useful information from individuals who had 
 left Iraq.
 
@@ -8485,17 +8208,16 @@ only reason” for the failure of UNSCOM.
 exhausted with the subject … Sanctions continued, but the regime remained 
 vulnerable to Iraqi non-co-operation and deceit and the feeling that sanctions 
 
-321 Statement, 23 April 2011, pages 4-5.
-322 Blix H. Disarming Iraq. Bloomsbury, 2004.
-323 Arms Control Association, March 2000, ‘Shifting Priorities: UNMOVIC and the Future of Inspections 
-in Iraq: An Interview with Ambassador Rolf Ekéus’.
+[^321]: Statement, 23 April 2011, pages 4-5.
+[^322]: Blix H. Disarming Iraq. Bloomsbury, 2004.
+[^323]: Arms Control Association, March 2000, ‘Shifting Priorities: UNMOVIC and the Future of Inspections 
 
 185
 
 were gradually unravelling increasingly took hold internationally. The Oil-for-Food 
 programme also attracted greater criticism because of the loopholes and corruption 
 which surrounded the handling of the programme in Iraq. And the Security Council 
-remained divided.”324
+remained divided.”[^324]
 
 849.  Sir Jeremy also wrote that UNMOVIC had stronger investigative powers than 
 UNSCOM and that the abstentions had diminished the political force of the resolution.
@@ -8506,24 +8228,22 @@ in the Cabinet Office from 1999 to 2002, told the Inquiry that the resolution wa
 
 “… designed to make progress on controlling Iraq’s WMD while at the same time 
 alleviating the impact of sanctions on the Iraqi people by lifting the ceiling on Iraq’s 
-oil exports under the Oil-for-Food programme”.325
+oil exports under the Oil-for-Food programme”.[^325]
 
 851.  Mr McKane subsequently told the Inquiry that, after resolution 1284 until the spring 
 of 2001, there was a sense that Iraq was in “a more manageable state” and “didn’t need 
-urgent day-to-day attention”.326
+urgent day-to-day attention”.[^326]
 
 852.  The UK’s short-term objective in 1999 had been “an agreed Security Council 
 approach on the way forward, allowing us to draw a line under the differences which 
-developed over Operation Desert Fox”.327
+developed over Operation Desert Fox”.[^327]
 
 853.  Although resolution 1284 was a step forward for the Security Council and a hard-
 won compromise, it did not bridge the gap between opposing viewpoints.
 
-324 Statement, November 2009, page 2.
-325 Statement, 8 December 2010, page 2.
-326 Public hearing, 19 January 2011, pages 26-27.
-327 Letter Goulty to McKane, 20 October 2000, ‘Iraq’ attaching Paper FCO, ‘Iraq: Future Strategy’.
+[^324]: Statement, November 2009, page 2.
+[^325]: Statement, 8 December 2010, page 2.
+[^326]: Public hearing, 19 January 2011, pages 26-27.
+[^327]: Letter Goulty to McKane, 20 October 2000, ‘Iraq’ attaching Paper FCO, ‘Iraq: Future Strategy’.
 
 186
-
-The Report of the Iraq Inquiry
