@@ -63,14 +63,14 @@ Defence Secretary, had cautioned that, “before any decision to commit British 
 3
 
 we ought to know that the US has a militarily plausible plan with a reasonable prospect 
-of success compared to the risks and within the framework of international law”.1 
+of success compared to the risks and within the framework of international law”.[^1] 
 
 6.  Mr Hoon had also suggested UK involvement in US planning would “improve” the 
 US process and enable Admiral Sir Michael Boyce, Chief of the Defence Staff (CDS) 
 to either “reassure you that there is a sound military plan or give you a basis to hold 
 back if the US cannot find a sensible scheme”. 
 
-7.  Much of the discussion at Crawford took place privately between the two leaders.2 
+7.  Much of the discussion at Crawford took place privately between the two leaders.[^2] 
 Sir David Manning, Mr Blair’s Foreign Policy Adviser and Head of the Overseas and 
 Defence Secretariat (OD Sec), recorded that the meeting on Saturday morning was 
 informed of a number of points, including: 
@@ -90,10 +90,10 @@ probably wanted to build a coalition.
 9.  Mr Hoon discussed Iraq with Adm Boyce and Sir Kevin Tebbit, MOD Permanent 
 Under Secretary (PUS), on 8 April (see Section 6.1). He commissioned work on military 
 options as a “precaution against the possibility that military action might have to be taken 
-at some point in the future”.3 
+at some point in the future”.[^3] 
 
 10.  On 12 April, Mr Simon Webb, MOD Policy Director, sent Mr Hoon a “think piece” 
-to give context to the work on Iraq.4 
+to give context to the work on Iraq.[^4] 
 
 11.  Mr Webb explored potential end states for military action in Iraq in the context of 
 Mr Blair’s “commitment to regime change (‘if necessary and justified’)” in his speech 
@@ -107,14 +107,14 @@ Israel/Palestine.”
 
 identified either a successor or a constitutional restructuring to provide a more 
 
-1 Minute Hoon to Prime Minister, 22 March 2002, ‘Iraq’. 
-2 Letter Manning to McDonald, 8 April 2002, ‘Prime Minister’s Visit to the United States: 5-7 April’. 
-3 Minute Watkins to PSO/CDS and PS/PUS, 8 April 2002, ‘Iraq’. 
-4 Minute Webb to PS/Secretary of State [MOD], 12 April 2002, ‘Bush and the War on Terrorism’. 
+[^1]: Minute Hoon to Prime Minister, 22 March 2002, ‘Iraq’. 
+[^2]: Letter Manning to McDonald, 8 April 2002, ‘Prime Minister’s Visit to the United States: 5-7 April’. 
+[^3]: Minute Watkins to PSO/CDS and PS/PUS, 8 April 2002, ‘Iraq’. 
+[^4]: Minute Webb to PS/Secretary of State [MOD], 12 April 2002, ‘Bush and the War on Terrorism’. 
 
 4
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 representational regime: Various ideas for replacements have been aired over 
 the years and none so far look convincing …”
@@ -151,7 +151,7 @@ based on a minute from the Defence Secretary …”
 
 15.  In April the MOD established “a small group of senior officials and military 
 planners to think about the issues that would be involved in any military operation in 
-Iraq, as the basis for initial contingency planning in the MOD”.5 That body, which was 
+Iraq, as the basis for initial contingency planning in the MOD”.[^5] That body, which was 
 chaired by Lieutenant General Sir Anthony Pigott, Deputy Chief of the Defence Staff 
 (Commitments) (DCDS(C) and was known as the Pigott Group, considered issues 
 related to UK participation in a US-led ground offensive in Iraq. Participants included 
@@ -159,7 +159,7 @@ the FCO, the Cabinet Office and the intelligence Agencies.
 
 16.  The work of the Group is addressed in more detail in Sections 6.1 and 6.4. 
 
-5 Minute Ricketts to Private Secretary [FCO], 25 April 2002, ‘Iraq: Contingency Planning’.
+[^5]: Minute Ricketts to Private Secretary [FCO], 25 April 2002, ‘Iraq: Contingency Planning’.
 
 5
 
@@ -178,11 +178,11 @@ must be preserved.
 20.  At the request of the JIC, an Assessment of “Iraq’s relations with its neighbours … 
 what influence Iraq has over them and how it is trying to improve its position; where 
 Iraq’s neighbours’ concerns and interests lie” and an evaluation of “the regional reactions 
-so far to the prospects of a US-led attack on Iraq” was produced on 19 April.6 
+so far to the prospects of a US-led attack on Iraq” was produced on 19 April.[^6] 
 
 21.  During the discussion of the draft, the JIC had been told that Israel’s attack on Jenin 
 in the Occupied Territories had produced a “seismic shift” and there were “few, if any, 
-Arab countries who would support a strike against Iraq”.7 
+Arab countries who would support a strike against Iraq”.[^7] 
 
 22.  The JIC asked for the position of Iran and Saudi Arabia to be brought out more 
 clearly in the final Assessment. 
@@ -212,12 +212,12 @@ determination and willingness to deploy overwhelming force could help bolster
 regional support. However, all would strongly prefer covert operations to topple 
 Saddam rather than a full-scale attack.”
 
-6 JIC Assessment, 19 April 2002, ‘Iraq: Regional Attitudes’. 
-7 Minutes, 17 April 2002, JIC meeting. 
+[^6]: JIC Assessment, 19 April 2002, ‘Iraq: Regional Attitudes’. 
+[^7]: Minutes, 17 April 2002, JIC meeting. 
 
 6
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 *  “Regional states would prefer UN inspections to a US-led attack on Iraq. Such 
 
@@ -229,7 +229,7 @@ and none would provide practical … support for Iraq against a US-led attack.�
 *  “There is consensus among Iraq’s neighbours that its territorial integrity must be 
 preserved, but there are great mutual suspicions and differences over the place 
 of the Kurds and the Shia in any new Iraqi regime, the regime’s nature and its 
-relationship with the West.”8 
+relationship with the West.”[^8] 
 
 24.  Key points from the Assessment are set out in the Box below. 
 
@@ -273,7 +273,7 @@ on any other member.
 Iraq’s neighbours remained “suspicious of its intentions” and were “focused on 
 economic gains”. 
 
-8 JIC Assessment, 19 April 2002, ‘Iraq: Regional Attitudes’. 
+[^8]: JIC Assessment, 19 April 2002, ‘Iraq: Regional Attitudes’. 
 
 7
 
@@ -331,7 +331,7 @@ at least in the short term.”
 ## Mr Blair's interview on *BBC Breakfast with Frost*, 21 April 2002
 
 25.  In an interview on BBC Breakfast with Frost on 21 April, primarily about the Budget, 
-Mr David Frost asked Mr Blair how close action was on Iraq.9 Mr Blair replied:
+Mr David Frost asked Mr Blair how close action was on Iraq.[^9] Mr Blair replied:
 
 “We have not taken any decisions on Iraq at all … we have identified weapons of 
 mass destruction as a crucial issue … Saddam Hussein is a threat, the world would 
@@ -367,7 +367,7 @@ to pursue agreement on a new resolution introducing a smart sanctions regime.
 32.  Following Mr Blair’s discussions with President Bush at Crawford, Mr Straw advised 
 Mr Blair on 9 April that the shift in focus to the re-admission of weapons inspectors drew 
 the UK “inexorably into the question of cover in international law” for military action in the 
-event that, as Mr Straw suspected, Iraq failed to comply (see Section 3.2).10 
+event that, as Mr Straw suspected, Iraq failed to comply (see Section 3.2).[^10] 
 
 33.  Mr Charles Gray, Head of the FCO Middle East Department, wrote that Mr Straw 
 asked for advice on:
@@ -376,8 +376,8 @@ asked for advice on:
 
 unachievable, we might hope to get in the Security Council to sustain the 
 
-9  BBC News, 21 April 2002, BBC Breakfast with Frost Interview: Prime Minister Tony Blair.
-10 Minute Straw to Prime Minister, 9 April 2002, ‘Your Commons Statement’. 
+[^9]:  BBC News, 21 April 2002, BBC Breakfast with Frost Interview: Prime Minister Tony Blair.
+[^10]: Minute Straw to Prime Minister, 9 April 2002, ‘Your Commons Statement’. 
 
 9
 
@@ -387,7 +387,7 @@ action; and
 *  whether the May resolution giving effect to the Goods Review List (GRL) 
 
 agreed in November 2001 (resolution 1382) might “repeat in stronger terms 
-the Council’s demands for the unconditional return of the inspectors”.11 
+the Council’s demands for the unconditional return of the inspectors”.[^11] 
 
 34.  Mr Gray advised that he did “not think there was any prospect in foreseeable 
 circumstances” of getting a resolution “explicitly authorising military action”; and it was 
@@ -420,22 +420,22 @@ amenable to a smart sanctions regime … in February or so of 2002, the US …
 Secretary [of State] Colin Powell went serious on getting the smart sanctions regime 
 and there was a series of bilateral negotiations between Washington and Moscow 
 which was out of sight of the Security Council … The UK had no part in those 
-negotiations.”12
+negotiations.”[^12]
 
 37.  Cabinet was informed on 9 May that a revised system of sanctions was likely to be 
-adopted by the UN.13
+adopted by the UN.[^13]
 
 38.  The Security Council adopted resolution 1409 on Iraq on 14 May. It introduced 
 a new sanctions regime, with a revised GRL and new procedures for applications for 
 licences to trade with Iraq, with effect from 30 May. Trade in commodities or products, 
 
-11 Minute Gray to Goulty and PS [FCO], 11 April 2002, ‘Iraq: UN’. 
-12 Public hearing, 27 November 2009, pages 19-20.
-13 Cabinet Conclusions, 9 May 2002.
+[^11]: Minute Gray to Goulty and PS [FCO], 11 April 2002, ‘Iraq: UN’. 
+[^12]: Public hearing, 27 November 2009, pages 19-20.
+[^13]: Cabinet Conclusions, 9 May 2002.
 
 10
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 other than military or military-related ones as defined in paragraph 24 of resolution 687 
 (1991) or covered by the GRL, would be permitted. Applications for licences to trade 
@@ -451,7 +451,7 @@ for an unlimited period of time; and the Council had lost credibility by compell
 countries, and not others, to implement its resolutions. Syria rejected the “double 
 standards … whereby Israel carried out its policy of blatant aggression against the 
 Palestinian people, despite the statements of United Nations representatives concerning 
-the war crimes that it [Israel] committed in Jenin”.14 
+the war crimes that it [Israel] committed in Jenin”.[^14] 
 
 40.  There was no reference in either the resolution or any statements in the Security 
 Council to the need for clarification of resolution 1284 (1999) as requested by Iraq in its 
@@ -465,7 +465,7 @@ and debate between the five Permanent Members (P5) of the Security Council.
 and that the provision to limit scrutiny by the UN sanctions committee to applications 
 to export military and dual-use equipment was a significant step forward in ensuring 
 that the sanctions regime could not legitimately be blamed for causing humanitarian 
-problems in Iraq.15 
+problems in Iraq.[^15] 
 
 43.  There was no further discussion of the policy. 
 
@@ -480,13 +480,13 @@ There was also significant concern over the humanitarian impact of sanctions …
 There was also a broader complaint, particularly in the Arab world, that the US/UK 
 practised double standards in demanding the full implementation of resolutions on 
 
-14 UN Security Council, ‘4531st Meeting Tuesday 14 May 2002’ (S/PV.4531).
-15 Cabinet Conclusions, 16 May 2002. 
+[^14]: UN Security Council, ‘4531st Meeting Tuesday 14 May 2002’ (S/PV.4531).
+[^15]: Cabinet Conclusions, 16 May 2002. 
 
 11
 
 Iraq, but ignoring Israel’s failure to implement resolutions demanding that it leave 
-the occupied Palestinian territories.”16
+the occupied Palestinian territories.”[^16]
 
 45.  Other points made by Mr Ross in his statement included:
 
@@ -508,16 +508,16 @@ sanctions busting.”
 
 46.  Mr Ross subsequently told the Inquiry:
 
-had to constantly adjust it.17
+had to constantly adjust it.[^17]
 
-Saddam’s illegal bank accounts which we knew to exist in Jordan.18
+Saddam’s illegal bank accounts which we knew to exist in Jordan.[^18]
 
 *  “It [containment] was a continuing state, and … to maintain containment you 
 *  “… It is astonishing to me … that neither the US nor the UK did anything about 
 *  “Nobody questioned at all in the Security Council that the arms embargo should 
 be lifted. I don’t think there was a single country that said at any point we should 
 let Iraq import arms again. I think the question was: what kind of controls, short 
-of that, do we really need to make sure that Iraq’s WMD is controlled …”19
+of that, do we really need to make sure that Iraq’s WMD is controlled …”[^19]
 
 47.  Asked about pursuing resolution 1409 while the Bush Administration was planning 
 regime change, Sir Jeremy Greenstock told the Inquiry:
@@ -529,17 +529,17 @@ other aspects of policy on Iraq that needed to be followed up.
 
 “We needed to curtail smuggling, which was increasing through Jordan, Syria and 
 Turkey, and which Secretary Powell had not expended a huge amount of effort on 
-behalf of his Administration to close from early 2001 onwards, which surprised me.”20
+behalf of his Administration to close from early 2001 onwards, which surprised me.”[^20]
 
-16 Statement, 12 July 2010, pages 1-5. 
-17 Public hearing, 12 July 2010, page 12.
-18 Public hearing, 12 July 2010, page 17.
-19 Public hearing, 12 July 2010, page 44.
-20 Public hearing, 27 November 2009, pages 23-24.
+[^16]: Statement, 12 July 2010, pages 1-5. 
+[^17]: Public hearing, 12 July 2010, page 12.
+[^18]: Public hearing, 12 July 2010, page 17.
+[^19]: Public hearing, 12 July 2010, page 44.
+[^20]: Public hearing, 27 November 2009, pages 23-24.
 
 12
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 48.  Subsequently, Sir Jeremy added:
 
@@ -551,12 +551,12 @@ part of the relationship with those three countries … I understood that was th
 choice of the United States, not to expend capital on stopping the smuggling … 
 there were equivocal views within the US Administration about how much effort and 
 energy and capital to expend on maintaining sanctions and a containment regime 
-that might, anyway, not do the trick.”21
+that might, anyway, not do the trick.”[^21]
 
 49.  Mr Blair told the Inquiry that the fact that the provisions to tighten the borders could 
 not be agreed with Russia was important, and that, while the sanctions framework 
 agreed in the resolution might have been successful, it was “at least as persuasive 
-an argument that it wouldn’t have been”.22 
+an argument that it wouldn’t have been”.[^22] 
 
 50.  Asked whether containment was still the policy of Government, Lord Wilson of 
 Dinton, Cabinet Secretary from January 1998 to September 2002, responded: 
@@ -565,28 +565,28 @@ Dinton, Cabinet Secretary from January 1998 to September 2002, responded:
 Let’s discontinue that as a policy.’ It was noted as a success … After that [Cabinet 
 discussion on 16 May 2002] there was no further discussion of containment … for 
 it to end you would need to have a discussion about it. There was no discussion 
-about it.”23
+about it.”[^23]
 
 51.  Lord Wilson stated that Mr Blair had been disappointed that concessions had been 
 made to secure Russian support for the resolution, and regarded it as a significant 
-weakness.24 
+weakness.[^24] 
 
 52.  Lord Wilson, told the Inquiry that the “Americans had got engaged in getting it 
-[the resolution] through”.25 
+[the resolution] through”.[^25] 
 
 53.  In his memoir, published in 2012, Mr Straw wrote:
 
 “… resolution 1409 was inadequate and stood no chance of plugging the gaping 
 holes in the sanctions framework. This failure to get comprehensive and robust 
 ‘smart sanctions’ effectively marked the end of the ‘containment’ policy, especially 
-for those of us who regarded Iraq as a significant threat.”26
+for those of us who regarded Iraq as a significant threat.”[^26]
 
-21 Public hearing, 27 November 2009, pages 26-27.
-22 Public hearing, 29 January 2010, pages 15-16.
-23 Public hearing, 25 January 2011, pages 43-44.
-24 Public hearing, 25 January 2011, page 45.
-25 Public hearing, 25 January 2011, page 76.
-26 Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012. 
+[^21]: Public hearing, 27 November 2009, pages 26-27.
+[^22]: Public hearing, 29 January 2010, pages 15-16.
+[^23]: Public hearing, 25 January 2011, pages 43-44.
+[^24]: Public hearing, 25 January 2011, page 45.
+[^25]: Public hearing, 25 January 2011, page 76.
+[^26]: Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012. 
 
 13
 
@@ -605,7 +605,7 @@ Black Rod; street crime … There were all sorts of issues around which engaged
 attention. 
 
 “If you had said to me ‘Where are we on Iraq?’ I would have said: ‘Things are going 
-on, No.10 has started talking to Washington.’ But nothing major.”27
+on, No.10 has started talking to Washington.’ But nothing major.”[^27]
 
 ## Discussions with the US and France
 
@@ -618,13 +618,13 @@ Advisor, on 17 May, Sir David set out what he described as the conditions
 “stipulated” by Mr Blair.
 
 58.  Mr Blair had a meeting on Iraq with Mr Straw, Mr Hoon and Adm Boyce on 2 May 
-but there is no record of the discussion.28
+but there is no record of the discussion.[^28]
 
 59.  Iraq was not discussed at Cabinet that day.
 
 60.  In a discussion on 8 May, Mr Straw told Mr Colin Powell, the US Secretary of State, 
 that Mr Blair “had always taken the view that if in the end President Bush decided on 
-military action, the UK had a duty to support him”.29 Mr Straw wrote that:
+military action, the UK had a duty to support him”.[^29] Mr Straw wrote that:
 
 “… the rhetoric (in the US) might get beyond what was possible. Powell agreed this 
 was a considerable danger. I had rather gathered that the more military options were 
@@ -633,16 +633,16 @@ considered, the more, not less, difficult military action appeared.”
 61.  Mr Straw’s minute was sent to Sir David Manning and Sir Christopher Meyer, British 
 Ambassador to the US.
 
-27 Public hearing, 25 January 2011, pages 60-61.
-28 Internal No.10 note prepared for Mr Blair’s appearance at the Butler Inquiry.
-29 Minute Straw to PUS [FCO], 9 May 2002, ‘Powell/Straw Tete-a-Tete, 8 May 2002’. 
+[^27]: Public hearing, 25 January 2011, pages 60-61.
+[^28]: Internal No.10 note prepared for Mr Blair’s appearance at the Butler Inquiry.
+[^29]: Minute Straw to PUS [FCO], 9 May 2002, ‘Powell/Straw Tete-a-Tete, 8 May 2002’. 
 
 14
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 62.  Sir David Manning was in Washington on 17 May, for discussions on a range of 
-issues including India and Pakistan and the Middle East Peace Process (MEPP).30 
+issues including India and Pakistan and the Middle East Peace Process (MEPP).[^30] 
 
 63.  In preparation for Sir David Manning’s visit to Washington, Sir Christopher Meyer 
 reported in a personal letter that he had been told by a senior official in the State 
@@ -655,7 +655,7 @@ the first quarter of next year was “realistic” for action against Saddam Hus
 
 contemplating contributing an armoured division.
 
-“but” in our “yes, but …”31
+“but” in our “yes, but …”[^31]
 
 64.  Sir Christopher also recorded that it was doubtful that much work had been done 
 on handling the UN and getting the weapons inspectors back in and that the nightmare 
@@ -670,11 +670,11 @@ mean that we have to tread with the greatest care”.
 66.  Sir Christopher told the Inquiry, that he had been told by a senior American official 
 “shortly after Crawford” that there were problems with the UK’s “yes, but” approach: 
 “the ‘yes’ was greedily devoured by the American Administration, but the ‘buts’ had kind 
-of faded away”.32
+of faded away”.[^32]
 
 67.  In discussions with Dr Rice on Iraq, Sir David told her that the UK’s “offer of military 
 support for a campaign against Saddam was firm. But we must go the UN inspectors 
-route first; we must stabilise Arab/Israel … and we must prepare public opinion.”33 
+route first; we must stabilise Arab/Israel … and we must prepare public opinion.”[^33] 
 He was assured that the UK would be brought into the planning process at a very 
 early stage, once such planning got under way. 
 
@@ -682,14 +682,14 @@ early stage, once such planning got under way.
 perception that the UK was considering providing an armoured division, there were 
 dangers that the “moderates in Washington” were worried that “the hawks” would 
 
-30 Minute Manning to Prime Minister, 19 May 2002, ‘Visit to Washington: 17 May’. 
-31 Letter Meyer to Manning, 15 May 2002, ‘Your Visit to Washington’. 
-32 Public hearing, 26 November 2009, page 64.
-33 Letter Rycroft to McDonald, 18 May 2002, ‘David Manning’s Visit to Washington, 17 May; Iraq’.
+[^30]: Minute Manning to Prime Minister, 19 May 2002, ‘Visit to Washington: 17 May’. 
+[^31]: Letter Meyer to Manning, 15 May 2002, ‘Your Visit to Washington’. 
+[^32]: Public hearing, 26 November 2009, page 64.
+[^33]: Letter Rycroft to McDonald, 18 May 2002, ‘David Manning’s Visit to Washington, 17 May; Iraq’.
 
 15
 
-“now simply ignore the conditions that you have stipulated”.34 Sir David reported that he 
+“now simply ignore the conditions that you have stipulated”.[^34] Sir David reported that he 
 had twice made very clear to Dr Rice that:
 
 “… before we would commit to military action, we must exhaust the UN inspectors 
@@ -700,12 +700,12 @@ opinion.”
 69.  In a meeting with Mr Richard Armitage, the US Deputy Secretary of State, Sir David 
 Manning had been told that “a UK officer at Tampa had said that the UK would provide 
 an armoured division”. That had been “dropped into the conversation” of the most senior 
-US policy-makers.35 
+US policy-makers.[^35] 
 
 70.  Asked about that meeting and the fact that Mr Armitage had been told that Mr Blair 
 had discussed the question of a British armoured division taking part in the invasion 
 with President Bush at Crawford, Sir David Manning told the Inquiry: “Yes I didn’t 
-know that.”36
+know that.”[^36]
 
 71.  Sir David subsequently stated:
 
@@ -718,29 +718,29 @@ chances of persuading the Americans to go back to the UN.
 
 “So I don’t myself think … in April or May … he had made his mind up he was going 
 to send troops. I think he was always ready to do it, but always hoped he wouldn’t 
-have to.”37 
+have to.”[^37] 
 
 72.  Asked, in the context of an offer of a division, whether the military planners were 
 getting ahead of the policy, Sir David Manning told the Inquiry that he was:
 
 “… surprised they had said that because certainly later … when there is a request 
 from the MOD to the Prime Minister to give an indication of what he would be willing 
-to sign up for, he refuses. So it doesn’t seem logical to me.”38
+to sign up for, he refuses. So it doesn’t seem logical to me.”[^38]
 
 73.  A letter from Sir Christopher Meyer on 20 May following up Sir David’s visit 
 reported that “military planning was grinding on”, and described the UK conditions as 
-“preconditions for action against Saddam”.39 
+“preconditions for action against Saddam”.[^39] 
 
-34 Minute Manning to Prime Minister, 19 May 2002, ‘Visit to Washington: 17 May’. 
-35 Letter Rycroft to McDonald, 18 May 2002, ‘David Manning’s Visit to Washington, 17 May; Iraq’. 
-36 Private hearing, 24 June 2010, page 38.
-37 Private hearing, 24 June 2010, page 39. 
-38 Private hearing, 24 June 2010, page 40.
-39 Letter Meyer to Manning, 20 May 2002, ‘Your Visit to Washington’. 
+[^34]: Minute Manning to Prime Minister, 19 May 2002, ‘Visit to Washington: 17 May’. 
+[^35]: Letter Rycroft to McDonald, 18 May 2002, ‘David Manning’s Visit to Washington, 17 May; Iraq’. 
+[^36]: Private hearing, 24 June 2010, page 38.
+[^37]: Private hearing, 24 June 2010, page 39. 
+[^38]: Private hearing, 24 June 2010, page 40.
+[^39]: Letter Meyer to Manning, 20 May 2002, ‘Your Visit to Washington’. 
 
 16
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 74.  In a meeting with French officials, Mr Edward Chaplin, FCO Director Middle 
 East and North Africa, stated that a continuing threat of US action was needed 
@@ -765,7 +765,7 @@ start;
 *  were less convinced than before that US military action was inevitable; and
 *  saw the return of inspectors as the best way to avoid military action and would 
 
-want to maintain the unity of the P5 as the means to deliver it.40
+want to maintain the unity of the P5 as the means to deliver it.[^40]
 
 76.  In relation to UN authority for military action, a French official stated:
 
@@ -789,7 +789,7 @@ was a change of regime.
 resolution 1284 a reality. The UK would follow Dr Blix on the procedures he thought 
 necessary for the inspectors to do their job: “But it was hard to see the US agreeing to 
 
-40 Telegram 337 Paris to FCO London, 28 May 2002, ‘Iraq: Quai’s Views’. 
+[^40]: Telegram 337 Paris to FCO London, 28 May 2002, ‘Iraq: Quai’s Views’. 
 
 17
 
@@ -812,7 +812,7 @@ from any military action.”
 
 81.  The paragraph on France’s views of the UN authority for military action was drawn 
 to the attention of Lord Goldsmith, the Attorney General, with the comment that it was: 
-“An important statement from a Permanent Member of the UNSC.”41 
+“An important statement from a Permanent Member of the UNSC.”[^41] 
 
 ## Definition of the UK's objective
 
@@ -822,7 +822,7 @@ the elimination of Iraq’s WMD capability, called on Iraq to abide by its inter
 obligations on WMD. 
 
 83.  The first meeting of the Pigott Group in late April considered how to define the 
-objective, or “end state” of a military operation.42 Mr Ricketts advised Mr Straw:
+objective, or “end state” of a military operation.[^42] Mr Ricketts advised Mr Straw:
 
 “As we found in the run-up to the Afghanistan operation, defining the objective of an 
 operation is crucial … The MOD had tried their hand at a definition of the ‘end-state’ 
@@ -840,13 +840,13 @@ is as follows:
 international community, no longer posing a threat to global security or to its 
 neighbours, and abiding by its international obligations on control of its WMD.’”
 
-41 Manuscript comment [Paul Berman] to AG, [undated], on Telegram 337 Paris to FCO London, 
+[^41]: Manuscript comment [Paul Berman] to AG, [undated], on Telegram 337 Paris to FCO London, 
 28 May 2002, ‘Iraq: Quai’s Views’.
-42 Minute Ricketts to Private Secretary [FCO], 25 April 2002, ‘Iraq: Contingency Planning’. 
+[^42]: Minute Ricketts to Private Secretary [FCO], 25 April 2002, ‘Iraq: Contingency Planning’. 
 
 18
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 84.  Mr Ricketts added that three issues had been debated in the Pigott Group:
 
@@ -874,7 +874,7 @@ which is designed to capture that. There is a risk of overloading a definition o
 
 “In the event of military action, we should need to be satisfied that there was a 
 proper legal basis, and what we say publicly would need to be consistent with that 
-legal basis.”43 
+legal basis.”[^43] 
 
 86.  Mr Wood agreed that regime change could not of itself be a lawful objective of 
 military action. He also warned that: 
@@ -889,7 +889,7 @@ Iraq … cooperating with the international community’ or ‘regime change’.
 from the above that the language you propose in … your minute could not serve as 
 the public aim of any military action.” 
 
-43 Minute Wood to Ricketts, 29 April 2002, ‘Iraq: Contingency Planning’.
+[^43]: Minute Wood to Ricketts, 29 April 2002, ‘Iraq: Contingency Planning’.
 
 19
 
@@ -899,7 +899,7 @@ agreed by Mr Straw, to Mr Webb:
 “A stable and law-abiding Iraq, within its present borders, co-operating with 
 the international community, no longer posing a threat to its neighbours or to 
 international security, and abiding by its international obligations on control of 
-its WMD.”44
+its WMD.”[^44]
 
 The previous reference to “global security” was replaced by “international security”. 
 
@@ -917,7 +917,7 @@ reference to ‘regime change’.”
 89.  Mr Webb’s response of 10 May recorded that there was some discussion in the 
 Pigott Group about the language on WMD on the grounds that a follow-on regime 
 might only be happy if it retained some WMD as long as its neighbours continued to 
-do the same.45 He suggested that the end state should be amended to “abiding by its 
+do the same.[^45] He suggested that the end state should be amended to “abiding by its 
 international obligations on WMD”.
 
 90.  On the question of legal justification, Mr Webb noted Mr Straw’s caution but added: 
@@ -933,19 +933,19 @@ approval, we should prefer the usual approach of his putting advice to colleague
 as part of a collective decision.” 
 
 91.  When Mr Webb visited Washington in mid-May, he discussed draft objectives with 
-US officials.46 His report of US views included:
+US officials.[^46] His report of US views included:
 
 *  The elimination of WMD by Iraq should be a firm objective. The view that an Iraq 
 government was unlikely to stay in office if it could not provide a counter-weight 
 to an Iran which had a WMD capability was discounted. 
 
-44 Letter Ricketts to Webb, 3 May 2002, ‘Iraq: Contingency planning’. 
-45 Letter Webb to Ricketts, 10 May 2002, [untitled]. 
-46 Minute Webb to Ricketts, 16 May 2002, ‘Iraq: Objectives’. 
+[^44]: Letter Ricketts to Webb, 3 May 2002, ‘Iraq: Contingency planning’. 
+[^45]: Letter Webb to Ricketts, 10 May 2002, [untitled]. 
+[^46]: Minute Webb to Ricketts, 16 May 2002, ‘Iraq: Objectives’. 
 
 20
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 *  The US “understood – and even seemed to accept – the Foreign Secretary’s 
 point that regime change should not be an objective in its own right but a point 
@@ -977,10 +977,10 @@ contribution is addressed in Section 6.1
 
 “A stable and law-abiding Iraq, within its present borders, co-operating with 
 the international community, no longer posing a threat to its neighbours or to 
-international security, abiding by its obligations on WMD.”47
+international security, abiding by its obligations on WMD.”[^47]
 
 94.  Sir Peter Ricketts told the Inquiry that it was “hard to imagine that an Iraq 
-[as envisaged in the objective] … would still have Saddam Hussein in charge”.48 
+[as envisaged in the objective] … would still have Saddam Hussein in charge”.[^48] 
 
 ## Meeting with Secretary Rumsfeld, 5 June 2002
 
@@ -996,8 +996,8 @@ as at “division level” for land forces.
 98.  Mr Hoon also identified that exposing the constraints on the UK’s ability to 
 contribute forces before the end of 2002 could reduce its influence.
 
-47 Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’. 
-48 Public hearing, 1 December 2009, pages 20-21.
+[^47]: Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’. 
+[^48]: Public hearing, 1 December 2009, pages 20-21.
 
 21
 
@@ -1005,7 +1005,7 @@ contribute forces before the end of 2002 could reduce its influence.
 Secretary Rumsfeld. 
 
 100.  In advance of a visit by Secretary Rumsfeld, Mr Hoon wrote to Mr Blair on 31 May 
-with an update on the military contingency planning on Iraq.49 
+with an update on the military contingency planning on Iraq.[^49] 
 
 101.  The minute was also sent to Mr Brown, Mr Straw and Sir Richard Wilson, 
 Cabinet Secretary. 
@@ -1046,11 +1046,11 @@ if we are not clear with the US at this stage about our military constraints, we
 the danger of our not being able to bring anything meaningful to the table at the 
 right time and the consequent loss of influence that would bring. Finally it could be 
 
-49 Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
+[^49]: Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
 
 22
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 precisely our readiness to participate that would allow you to counsel the President 
 against proceeding if no convincing plan were to emerge.”
@@ -1071,7 +1071,7 @@ we need plenty of warning in order to be able to contribute to military action
 I would reinforce the need for the UK to be exposed fully to US thinking as soon 
 as possible.” 
 
-109.  Mr Blair wrote alongside the last point: “No. That will send a wobbly message.”50
+109.  Mr Blair wrote alongside the last point: “No. That will send a wobbly message.”[^50]
 
 110.  Mr Blair’s decision on the tactics to be adopted demonstrated he did not 
 intend to set “conditions” for UK support for the US. He was focusing on the 
@@ -1088,20 +1088,20 @@ would need to:
 “… reiterate the conditions you attach to any UK involvement in any military 
 operation, including a proper go down the UN route. You also need to press 
 Rumsfeld to involve us closely in the military planning and warn him that we may 
-face longer warning times than the US.”51 
+face longer warning times than the US.”[^51] 
 
 113.  Mr Blair’s response amplified his comment on the minute from Mr Hoon: 
 
 “… We should say we’ll be with you. Here’s how to make it happen successfully; 
-not: here are our conditions for being with you.”52 
+not: here are our conditions for being with you.”[^52] 
 
-50 Manuscript comment Blair on Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
-51 Minute Rycroft to Prime Minister, 30 May 2002, ‘Don Rumsfeld’.
-52 Manuscript comment Blair on Minute Rycroft to Prime Minister, 30 May 2002, ‘Don Rumsfeld’. 
+[^50]: Manuscript comment Blair on Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
+[^51]: Minute Rycroft to Prime Minister, 30 May 2002, ‘Don Rumsfeld’.
+[^52]: Manuscript comment Blair on Minute Rycroft to Prime Minister, 30 May 2002, ‘Don Rumsfeld’. 
 
 23
 
-114.  Mr Blair and Mr Hoon met Secretary Rumsfeld on 5 June.53 The record of the 
+114.  Mr Blair and Mr Hoon met Secretary Rumsfeld on 5 June.[^53] The record of the 
 discussion on Iraq confirmed that the US would begin discussions with the UK at the 
 military level.
 
@@ -1131,19 +1131,18 @@ against Saddam Hussein.
 reported on 7 June that Mr Blair’s message at College Station to Saddam Hussein on 
 the weapons inspectors had “heavily influenced” the US views on the UK’s approach 
 towards inspections, “particularly in the NSC [National Security Council] and OSD [Office 
-of the Secretary of Defense]”; the US “assume we are on board for a tough approach”.54
+of the Secretary of Defense]”; the US “assume we are on board for a tough approach”.[^54]
 
-53 Letter Rycroft to Watkins, 5 June 2002, ‘Prime Minister’s Meeting with Rumsfeld, 5 June: Iraq’.
-54 Telegram 778 Washington to FCO London, 7 June 2002, ‘Iraq: US/UK Talks, 13 June’.
+[^53]: Letter Rycroft to Watkins, 5 June 2002, ‘Prime Minister’s Meeting with Rumsfeld, 5 June: Iraq’.
+[^54]: Telegram 778 Washington to FCO London, 7 June 2002, ‘Iraq: US/UK Talks, 13 June’.
 
-## The need to address the legal basis for military action
 
 120.  Mr Tom McKane, Deputy Head of OD Sec, raised the question of when 
 Lord Goldsmith should be brought in to the discussions on the legal basis for 
 military action.
 
 121.  On 22 May, Lord Goldsmith received a visit from Mr William Taft IV, the Legal 
-Adviser to the US State Department.55 Mr Wood’s note of this meeting recorded:
+Adviser to the US State Department.[^55] Mr Wood’s note of this meeting recorded:
 
 “The meeting lasted about an hour, and consisted entirely of an informal discussion, 
 between lawyers, on legal aspects of the use of force … The discussion was a good 
@@ -1154,7 +1153,7 @@ that it might be necessary to:
 
 “… confront the legal base for military action sooner rather than later. The MOD say 
 that the US will not admit the UK to detailed joint planning unless we are able to 
-agree that regime change is a legitimate and legal objective.”56
+agree that regime change is a legitimate and legal objective.”[^56]
 
 123.  Mr McKane added:
 
@@ -1165,27 +1164,26 @@ problems downstream on the legal base. I will provide further advice on this poi
 shortly.” 
 
 124.  Sir David Manning asked Mr Jonathan Powell: “Are you content? We certainly 
-need much greater precision from the MOD.”57 
+need much greater precision from the MOD.”[^57] 
 
 125.  Mr Powell replied: “I think there is a danger of getting ahead of ourselves here 
 unless this is absolutely necessary, to get into detailed military planning with the US. 
-I suggest you discuss with TB on the way to Paris.”58 
+I suggest you discuss with TB on the way to Paris.”[^58] 
 
 126.  Before he spoke to Mr Blair, Sir David Manning asked Mr McKane to “confirm that 
 it is now absolutely necessary to get into the detailed planning with the US” and added: 
-“I suspect it is if we are to have a voice.”59
+“I suspect it is if we are to have a voice.”[^59]
 
 127.  The Inquiry has not seen any written response.
 
-55 Letter Wood to Brenton, 30 May 2002, ‘UK/US Legal Contacts’. 
-56 Minute McKane to Manning, 18 June 2002, ‘Iraq’. 
-57 Manuscript comment Manning to Powell, 19 June 2002, on Minute McKane to Manning,  
+[^55]: Letter Wood to Brenton, 30 May 2002, ‘UK/US Legal Contacts’. 
+[^56]: Minute McKane to Manning, 18 June 2002, ‘Iraq’. 
+[^57]: Manuscript comment Manning to Powell, 19 June 2002, on Minute McKane to Manning,  
 18 June 2002, ‘Iraq’. 
-58 Manuscript comment Powell to Manning on Minute McKane to Manning, 18 June 2002, ‘Iraq’. 
-59 Note (handwritten) Manning to McKane, 21 June 2002. 
+[^58]: Manuscript comment Powell to Manning on Minute McKane to Manning, 18 June 2002, ‘Iraq’. 
+[^59]: Note (handwritten) Manning to McKane, 21 June 2002. 
 
 
-## Cabinet, 20 June 2002
 
 128.  Mr Blair was questioned about the UK’s approach to Iraq during Cabinet on 
 20 June. 
@@ -1197,10 +1195,10 @@ in Iraq. The discussion with Secretary Rumsfeld was not mentioned.
 130.  Cabinet did not discuss Iraq between 20 June and 24 July when the House of 
 Commons rose for the summer recess.
 
-131.  Iraq was discussed in Cabinet on 20 June.60
+131.  Iraq was discussed in Cabinet on 20 June.[^60]
 
 132.  Mr Hoon told his colleagues that he would be making a statement about 
-withdrawing troops from Afghanistan.61 If asked whether the Government was 
+withdrawing troops from Afghanistan.[^61] If asked whether the Government was 
 withdrawing personnel from Afghanistan to prepare for operations against Iraq, he would 
 make it clear that no decisions had been taken in relation to military operations, except 
 for the continuing patrols over the No-Fly Zones (NFZs).
@@ -1208,14 +1206,14 @@ for the continuing patrols over the No-Fly Zones (NFZs).
 133.  In his diaries, Mr Alastair Campbell, Mr Blair’s Director of Communications and 
 Strategy, wrote that, Ms Clare Short, the International Development Secretary, had said 
 that “if Bush sent in Saddam death squads” there would be a “proper discussion” in 
-Cabinet before they went.62
+Cabinet before they went.[^62]
 
 134.  Lord Wilson told the Inquiry that, following press reports of troops being “brought 
 out of Afghanistan in preparation for military action on Iraq”, two Cabinet Ministers had 
 asked Mr Blair: “We were not finding ourselves getting involved in some strange military 
 action by the United States, were we? There is not something happening here?” Mr Blair 
 had been “absolutely taken aback … He gave them reassurance. They had a discussion 
-about handling the press … which I put in the minutes.”63 
+about handling the press … which I put in the minutes.”[^63] 
 
 135.  Lord Wilson told the Inquiry that the discussion was not a major item. It was “a tiny 
 clue as to the mood and indication this was not a period when everyone was gung-ho. 
@@ -1225,17 +1223,15 @@ It was a period when people were worried, concerned.”
 
 “… the … incident is important to me because it kind of calibrates where they were 
 and the degree to which they knew what was going on, that they were asking 
-questions on the basis … of a press report”.64
+questions on the basis … of a press report”.[^64]
 
-60 Cabinet Conclusions, 20 June 2002.
-61 The statement was made on 20 June 2002.
-62 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012. 
-63 Public hearing, 25 January 2011, pages 76-77.
-64 Public hearing, 25 January 2011, page 94.
+[^60]: Cabinet Conclusions, 20 June 2002.
+[^61]: The statement was made on 20 June 2002.
+[^62]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^63]: Public hearing, 25 January 2011, pages 76-77.
+[^64]: Public hearing, 25 January 2011, page 94.
 
 
-# Development of UK policy, July 2002
 137.  Sir David Manning asked Mr Hoon for further advice on the steps which 
 would be necessary to keep open the option of a deploying a large scale force 
 by the end of the year.
@@ -1250,7 +1246,7 @@ Mr Blair had:
 “… asked for further advice on precisely what steps would have to be taken now, 
 including financial commitments … to keep open the possibility of deploying a 
 large scale force by the end of this year – bearing in mind that we might not get 
-six months’ warning.”65
+six months’ warning.”[^65]
 
 140.  Sir David wrote that it was “encouraging that following the Rumsfeld visit, our 
 military planners have now been invited to discussions with the US” (see Section 6.1). 
@@ -1270,7 +1266,7 @@ the removal of the Hussein regime;
 “* 
 *  the neutralisation of WMD within Iraq;
 *  the elimination of a safe haven for terrorists;
-*  an acceptable new government.”66
+*  an acceptable new government.”[^66]
 142.  Mr Watkins stated that the US goals:
 
 “… broadly align with the objective previously agreed by the Foreign and Defence 
@@ -1278,8 +1274,8 @@ Secretaries … although Mr Hoon understands that Mr Straw, rightly, sees remova
 of Saddam as a way point – if necessary and justified – to the final outcome rather 
 than an objective in its own right.” 
 
-65 Letter Manning to Watkins, 25 June 2002, ‘Iraq’. 
-66 Letter Watkins to Manning, 26 June 2002, ‘Iraq’. 
+[^65]: Letter Manning to Watkins, 25 June 2002, ‘Iraq’. 
+[^66]: Letter Watkins to Manning, 26 June 2002, ‘Iraq’. 
 
 27
 
@@ -1307,7 +1303,7 @@ to address the strategic, as opposed to the narrowly military, dimension.
 
 147.  On 2 July, Mr Watkins reported to Sir David Manning that “US military thinking is 
 quite well advanced”, but US planners were assuming offensive operations to overthrow 
-Saddam Hussein “in a policy void”.67 The US “end state to be achieved after conflict” 
+Saddam Hussein “in a policy void”.[^67] The US “end state to be achieved after conflict” 
 had not been identified, and there seemed to be no “overarching campaign strategy for 
 dealing with Iraq”. 
 
@@ -1329,11 +1325,11 @@ action, but to clarify timelines; to incorporate the Prime Minister’s conditio
 UK participation; and to establish the framework for an information campaign. 
 The draft public document, which you are currently considering, would ultimately 
 
-67 Letter Watkins to Manning, 2 July 2002, ‘Iraq’.
+[^67]: Letter Watkins to Manning, 2 July 2002, ‘Iraq’.
 
 28
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 form an important part of that campaign. He suggests that the Prime Minister 
 may like to call an early meeting of a small group of colleagues to consider how 
@@ -1355,7 +1351,7 @@ Sir David Manning, which drew attention to:
 *  US ignorance of Iraqi WMD locations;
 *  the lack of clarity about what the US might ask the UK to do;
 *  the need for basing in the region; and 
-*  the use of British bases in Diego Garcia and Cyprus.68 
+*  the use of British bases in Diego Garcia and Cyprus.[^68] 
 
 151.  Sir David also reported Mr Hoon’s suggestion for an early meeting and advised 
 that funding and legal issues would need to be considered “before we go much 
@@ -1365,7 +1361,7 @@ and Lord Goldsmith should attend.
 
 152.  Manuscript notes on the minute by Mr Powell suggested to Mr Blair that Mr Brown 
 and Sir Richard Wilson should be removed and Adm Boyce and Lt Gen Pigott added; 
-and that those changes had been agreed by Mr Blair.69 
+and that those changes had been agreed by Mr Blair.[^69] 
 
 153.  Asked why Mr Brown and Ms Short had not been invited to the meeting, which 
 took place on 23 July, Mr Blair told the Inquiry:
@@ -1377,13 +1373,13 @@ the diplomacy, particularly in relation to the military …
 touch with the Treasury and so on … at that moment, the single most important 
 areas were diplomacy and … military planning …
 
-68 Minute Manning to Prime Minister, 3 July 2002, ‘Iraq’. 
-69 Manuscript comments Powell on Minute Manning to Prime Minister, 3 July 2002, ‘Iraq’.
+[^68]: Minute Manning to Prime Minister, 3 July 2002, ‘Iraq’. 
+[^69]: Manuscript comments Powell on Minute Manning to Prime Minister, 3 July 2002, ‘Iraq’.
 
 29
 
 “The key thing was to get the right players together so you could have a proper, 
-frank discussion and take the decisions necessary …”70
+frank discussion and take the decisions necessary …”[^70]
 
 ## Sir Kevin Tebbit's advice, 3 July 2002
 
@@ -1400,7 +1396,7 @@ conditions for UK participation and moved American planning into acceptable
 channels and slowed it down, was needed. 
 
 157.  Having seen a draft of Mr Watkins’ letter to No.10, Sir Kevin Tebbit wrote to 
-Mr Hoon on 3 July setting out a number of concerns.71 
+Mr Hoon on 3 July setting out a number of concerns.[^71] 
 
 158.  Sir Kevin advised:
 
@@ -1427,12 +1423,12 @@ engagement designed seriously to influence US conceptual as well as operational
 thinking, albeit at the risk that we could end up converting an unviable plan into 
 a credible one.
 
-70 Public hearing, 29 January 2010, pages 224-226.
-71 Minute Tebbit to Secretary of State [MOD], 3 July 2002, ‘Iraq’. 
+[^70]: Public hearing, 29 January 2010, pages 224-226.
+[^71]: Minute Tebbit to Secretary of State [MOD], 3 July 2002, ‘Iraq’. 
 
 30
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 “Secondly there is the difficulty of confronting the US Administration itself about 
 the need to produce a credible political plan … (and without which the Prime 
@@ -1455,7 +1451,7 @@ of 2 July.
 
 161.  Mr Watkins marked the letter to Mr Hoon observing that the MOD did not know the 
 views of Secretary Powell or Dr Rice; and there was a risk “that the PM’s conditions will 
-be simply sidelined”.72
+be simply sidelined”.[^72]
 
 162.  Sir Kevin Tebbit told the Inquiry that getting involved in US planning had posed 
 a dilemma because:
@@ -1470,7 +1466,7 @@ give misleading signals of support for military action that was not present at t
 stage.
 
 “On the other hand, if we continued to stand aside, it might be too late for us to 
-influence events or meet the political requirement which might be placed on us.”73
+influence events or meet the political requirement which might be placed on us.”[^73]
 
 ## JIC Assessment, 4 July 2002
 
@@ -1478,9 +1474,9 @@ influence events or meet the political requirement which might be placed on us.�
 deal with an attack including ground forces, the JIC assessed on 4 July that only 
 massive military force would be guaranteed to topple Saddam Hussein. 
 
-72 Manuscript comment Watkins to Hoon, 3 July 2002, on Minute Tebbit to Secretary of State [MOD], 
+[^72]: Manuscript comment Watkins to Hoon, 3 July 2002, on Minute Tebbit to Secretary of State [MOD], 
 3 July 2002, ‘Iraq’. 
-73 Public hearing, 3 December 2009, pages 20-21.
+[^73]: Public hearing, 3 December 2009, pages 20-21.
 
 31
 
@@ -1495,7 +1491,7 @@ the ground.
 
 166.  At the request of the MOD, the JIC issued an Assessment of “how cohesion of the 
 Iraqi regime is maintained and how the regime would fare under pressure or attack” on 
-4 July.74 
+4 July.[^74] 
 
 167.  The minutes of the JIC discussion of the draft paper described it as:
 
@@ -1518,9 +1514,9 @@ under pressure the different groups would behave differently.
 
 “UK policy makers, and military planners, would be keen before too long to identify 
 the point at which self-interested loyalty for Saddam might turn into disillusionment, 
-fragility and fragmentation.”75 
+fragility and fragmentation.”[^75] 
 
-168.  The Key Judgements from the Assessment are set out in the Box below.76 
+168.  The Key Judgements from the Assessment are set out in the Box below.[^76] 
 
 JIC Assessment, 4 July 2002: ‘Iraq: Regime Cohesion’
 
@@ -1530,13 +1526,13 @@ Key Judgements
 
 expects a US attack […]
 
-74 JIC Assessment, 4 July 2002, ‘Iraq: Regime Cohesion’. 
-75 Minutes, 3 July 2002, JIC meeting. 
-76 JIC Assessment, 4 July 2002, ‘Iraq: Regime Cohesion’. 
+[^74]: JIC Assessment, 4 July 2002, ‘Iraq: Regime Cohesion’. 
+[^75]: Minutes, 3 July 2002, JIC meeting. 
+[^76]: JIC Assessment, 4 July 2002, ‘Iraq: Regime Cohesion’. 
 
 32
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 *  The clear prospect of a major attack would put the regime under unprecedented 
 
@@ -1578,7 +1574,7 @@ to succeed before they begin to feel the pressure.”
 171.  Mr Hoon’s proposal prompted Mr William Nye, Head of the Treasury Defence, 
 Diplomacy and Intelligence Team, to advise Mr Brown that he should write to the MOD 
 proposing that all options for UK participation in military operations (including smaller 
-and more specialised options) should be costed.77 This would enable the Government 
+and more specialised options) should be costed.[^77] This would enable the Government 
 to assess how much it wished to devote to securing a degree of influence over US policy 
 and operations, in terms of risk to UK troops, the opportunity cost of withdrawing from 
 other operations, and the financial cost. 
@@ -1587,11 +1583,11 @@ other operations, and the financial cost.
 and that UK participation on a large scale could cost £2bn or more in the financial year 
 2002/03. 
 
-77 Minute Nye to Bowman, 5 July 2002, ‘Iraq’. 
+[^77]: Minute Nye to Bowman, 5 July 2002, ‘Iraq’. 
 
 33
 
-173.  The Treasury told the Inquiry that Mr Brown decided not to write to the MOD.78 
+173.  The Treasury told the Inquiry that Mr Brown decided not to write to the MOD.[^78] 
 
 174.  Mr Nye’s advice and Mr Brown’s involvement in discussions on the costs of 
 operations in Iraq are addressed in Section 13. 
@@ -1606,7 +1602,7 @@ political and economic as well as military implications before action was taken.
 serious about its “conditions for UK involvement”.
 
 177.  Mr Straw wrote to Mr Blair on 8 July supporting Mr Hoon’s suggestion for an early 
-Ministerial meeting.79 
+Ministerial meeting.[^79] 
 
 178.  Mr Straw wrote:
 
@@ -1639,12 +1635,12 @@ Regional states in particular will want assurance that the US has thought throug
 such as Kuwait cannot be counted on in the absence of some serious ground-work 
 by the US.
 
-78 Email Treasury to Inquiry, 26 February 2010, [untitled].
-79 Minute Straw to Prime Minister, 8 July 2002, ‘Iraq: Contingency Planning’. 
+[^78]: Email Treasury to Inquiry, 26 February 2010, [untitled].
+[^79]: Minute Straw to Prime Minister, 8 July 2002, ‘Iraq: Contingency Planning’. 
 
 34
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 “The fact that the US plan apparently ignores these conditions causes me particular 
 concern. Are they determined to go ahead regardless? Does the omission signal a 
@@ -1678,7 +1674,7 @@ that we are serious about our conditions for UK involvement.”
 ## Sir Christopher Meyer's advice, 9 July 2002
 
 182.  Sir Christopher Meyer reported speculation in the US media and a number of 
-recent discussions in Washington on 9 July.80 
+recent discussions in Washington on 9 July.[^80] 
 
 183.  In a press conference on 8 July, President Bush had not attempted to challenge 
 the veracity of a story about leaked military plans. Sir Christopher’s contacts suggested 
@@ -1694,7 +1690,7 @@ co-operating on the marginal issues but doing little on the core questions”. T
 concern about the lack of knowledge about Iraq amongst the non-P5 members of the 
 Security Council.
 
-80 Telegram 926 Washington to FCO London, 9 July 2002, ‘Iraq: US views’. 
+[^80]: Telegram 926 Washington to FCO London, 9 July 2002, ‘Iraq: US views’. 
 
 35
 
@@ -1702,17 +1698,17 @@ Security Council.
 
 185.  Mr David Brummell, the Legal Secretary to the Law Officers, wrote to the FCO and 
 the Cabinet Office on 11 July seeking clarification of the precise position regarding plans 
-for any future action by the US or the UK in relation to Iraq.81 
+for any future action by the US or the UK in relation to Iraq.[^81] 
 
 186.  Mr McKane replied on 12 July that there were no plans for military action by 
 the UK. As for the US, he understood that “military contingency planning” was under 
 way, but that “no decisions have yet been taken on whether to embark on a military 
 operation”. He repeated that, as had been agreed in earlier exchanges, it would be 
 important to ensure that Lord Goldsmith was engaged as the Government’s thinking 
-developed on the subject.82 
+developed on the subject.[^82] 
 
 187.  Mr Brummell replied that Lord Goldsmith had “noted the contents” of Mr McKane’s 
-letter and was “grateful” for his confirmation of the position.83
+letter and was “grateful” for his confirmation of the position.[^83]
 
 188.  Lord Goldsmith was invited to the meeting held by Mr Blair on 23 July.
 
@@ -1723,46 +1719,46 @@ what he had read in the press about what was being said by President Bush:
 “I’m not aware of the detail of discussions. I would presume there were discussions 
 taking place. I wasn’t a part of them. I didn’t attend Cabinet. This was a practice 
 which had grown up over quite a long period of time that the Attorney General didn’t 
-attend Cabinet unless apparently legal advice was called for.”84
+attend Cabinet unless apparently legal advice was called for.”[^84]
 
 190.  As early as March 2002, Lord Goldsmith had “wanted to be in a position to engage 
 constructively” so that his “advice could be factored into the development of different 
-options” in relation to the use of force in Iraq.85 His Office had explicitly told the Cabinet 
+options” in relation to the use of force in Iraq.[^85] His Office had explicitly told the Cabinet 
 Office that “It would not be helpful” if Lord Goldsmith was “presented at the last moment 
 with a request for a ‘yes or no’ answer”. Lord Goldsmith was “always available to discuss 
 these matters with Ministerial colleagues”.
 
 191.  Lord Goldsmith had warned Mr Straw and Mr Hoon on 28 March that he had not 
 been asked for an opinion on the legality of possible military action, but that he would 
-be “happy to discuss the matter” with them “at any time”.86 
+be “happy to discuss the matter” with them “at any time”.[^86] 
 
 192.  Asked why Lord Goldsmith was not involved until later, Mr McKane told the Inquiry 
 that he could not recall why Lord Goldsmith was not brought into discussions after the 
 
-81 Letter Brummell to Wood, 11 July 2002, ‘Iraq: US views – FCO Telegram No. 926’. 
-82 Letter McKane to Brummell, 12 July 2002, ‘Iraq: US views – FCO telegram No. 926’. 
-83 Letter Brummell to McKane, 17 July 2002, ‘Iraq: US views – FCO Telegram No. 926’. 
-84 Public hearing, 27 January 2010, pages 16-17.
-85 Minute Berman to Attorney General, 11 March 2002, ‘Iraq’. 
-86 Letter Goldsmith to Hoon, 28 March 2002, [untitled]. 
+[^81]: Letter Brummell to Wood, 11 July 2002, ‘Iraq: US views – FCO Telegram No. 926’. 
+[^82]: Letter McKane to Brummell, 12 July 2002, ‘Iraq: US views – FCO telegram No. 926’. 
+[^83]: Letter Brummell to McKane, 17 July 2002, ‘Iraq: US views – FCO Telegram No. 926’. 
+[^84]: Public hearing, 27 January 2010, pages 16-17.
+[^85]: Minute Berman to Attorney General, 11 March 2002, ‘Iraq’. 
+[^86]: Letter Goldsmith to Hoon, 28 March 2002, [untitled]. 
 
 36
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 Crawford meeting, but he had remained in contact with the Legal Secretary to the Law 
-Officers over the following months.87
+Officers over the following months.[^87]
 
 193.  Mr McKane told the Inquiry that the main consideration in deciding when to engage 
 Lord Goldsmith was the difficulty in seeking formal advice when there wasn’t a specific 
-proposition to put before him.88
+proposition to put before him.[^88]
 
 194.  Asked about Lord Goldsmith’s request to be involved in Ministerial thinking about 
 Iraq policy as it developed rather than at the last minute, Lord Wilson told the Inquiry that 
 there had been no need to involve the Attorney General as no decisions needed to be 
 taken. He offered the view that Lord Goldsmith might have written to the Cabinet Office 
 because previous incidents had taught him the importance and difficulty of the issues 
-involved in military action, and the importance of being involved early.89 
+involved in military action, and the importance of being involved early.[^89] 
 
 ## Liaison Committee, 16 July 2002
 
@@ -1780,34 +1776,34 @@ Defence Secretary on 15 July. Mr Hoon assured Mrs Alice Mahon (Labour) that:
 
 “Absolutely no decisions have been taken by the British Government in relation to 
 operations in Iraq or anywhere near Iraq … I can assure the House that any such 
-decision would be properly reported to the House.”90 
+decision would be properly reported to the House.”[^90] 
 
 199.  In response to a subsequent question from Mr Bernard Jenkin (Conservative) 
 about links between Al Qaida and the Iraqi regime, Mr Hoon replied that there was no 
-evidence of any direct links and any new information would be investigated.91 He added: 
+evidence of any direct links and any new information would be investigated.[^91] He added: 
 
 “Let us not be in any doubt about Iraq. We cannot ignore the threat it poses to the 
 international community. We have always made it clear that the world would be 
 a much better and safer place without Saddam Hussein.”
 
-87 Public hearing, 19 January 2011, page 44.
-88 Public hearing, 19 January 2011, page 47.
-89 Public hearing, 25 January 2011, pages 60-61.
-90 House of Commons, Official Report, 15 July 2002, column 10.
-91 House of Commons, Official Report, 15 July 2002, column 11.
+[^87]: Public hearing, 19 January 2011, page 44.
+[^88]: Public hearing, 19 January 2011, page 47.
+[^89]: Public hearing, 25 January 2011, pages 60-61.
+[^90]: House of Commons, Official Report, 15 July 2002, column 10.
+[^91]: House of Commons, Official Report, 15 July 2002, column 11.
 
 37
 
-200.  President Bush telephoned Mr Blair on 15 July.92 In relation to issues like Iraq, 
+200.  President Bush telephoned Mr Blair on 15 July.[^92] In relation to issues like Iraq, 
 Mr Blair told President Bush that it was “absolutely right that the US and UK should 
 stand together”.
 
 201.  Mr Campbell recorded that President Bush had telephoned to say that he 
 understood Mr Blair “was taking a fair bit of stick for being supportive, and he was 
-grateful”.93 That is confirmed by the record of the telephone call.
+grateful”.[^93] That is confirmed by the record of the telephone call.
 
 202.  At the hearing of the Liaison Committee on 16 July, Mr Blair was questioned about 
-Iraq by Mr Donald Anderson, Chair of the Foreign Affairs Committee (FAC).94 
+Iraq by Mr Donald Anderson, Chair of the Foreign Affairs Committee (FAC).[^94] 
 
 203.  Asked if the UK’s policy on Iraq had evolved in the same way as the “sea change” 
 in US policy under President Bush, Mr Blair observed that President Clinton “had also 
@@ -1829,38 +1825,36 @@ for the threat to materialise and then take action.”
 205.  Asked if the UK was “preparing for possible military action against Iraq”, Mr Blair 
 replied: 
 
-“No, there are no decisions which have been taken about military action.”95
+“No, there are no decisions which have been taken about military action.”[^95]
 
 206.  Asked if the recent “deployment” of troops from Kosovo and Afghanistan should 
 be interpreted as preparation, Mr Blair replied:
 
 “No … That is not to say it is not important that we look at all the various options that 
 we may have … and if the situation changes in any serious or dramatic way we will 
-tell them.”96
+tell them.”[^96]
 
-92 Letter Wechsburg to McDonald, 16 July 2002, ‘US: Prime Minister’s Telephone Conversation with 
-President Bush’.
-93 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012.
-94 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 93.
-95 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 94.
-96 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 95.
+[^92]: Letter Wechsburg to McDonald, 16 July 2002, ‘US: Prime Minister’s Telephone Conversation with 
+[^93]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^94]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 93.
+[^95]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 94.
+[^96]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 95.
 
 38
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 207.  Asked whether the UK should only take action in accordance with international law, 
 Mr Blair replied:
 
 “Yes, certainly I agree we should act, as I hope this country always does, in 
-accordance with international law.”97
+accordance with international law.”[^97]
 
 208.  Asked whether there was any evidence linking Saddam Hussein with Al Qaida, 
 Mr Blair replied that “as far as he was aware there was no evidence linking Saddam 
 Hussein to the actual attack on 11 September”; there were “various rough linkages” 
 to Al Qaida. The issue (on Iraq) was “weapons of mass destruction. It is not what 
-happened on 11 September or the Al Qaida terrorist network.”98
+happened on 11 September or the Al Qaida terrorist network.”[^98]
 
 209.  Asked what had changed since President Bush took office, Mr Blair replied:
 
@@ -1875,7 +1869,7 @@ as I would, ‘there are lessons which should be learned from it’ … What we 
 learn … is that if there is a gathering threat or danger let us deal with it before it 
 materialises rather than afterwards … people can get the idea that all the decisions 
 have been taken … They have not been but there is a threat … The options are 
-open but we do have to deal with it …”99
+open but we do have to deal with it …”[^99]
 
 210.  Mr Blair also told Mr Anderson that there would be documentation setting out the 
 nature of the WMD threat and that: 
@@ -1892,10 +1886,10 @@ keep the House very, very closely involved indeed.”
 212.  Mr Anderson stated that “the special relationship with the US is clearly the key part 
 of our security policy and the closeness, the unwillingness to criticise is justified by the 
 
-97 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 96.
-98 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 97-98.
-99 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 99-100.
-100 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 87-88.
+[^97]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 96.
+[^98]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 97-98.
+[^99]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 99-100.
+[^100]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 87-88.
 
 39
 
@@ -1908,7 +1902,7 @@ points. It is just not like that. The truth is that we are very interlocked in o
 relationship and we discuss and deal with issues the whole time together … I do 
 not put it like ‘an influence on them’ … post-11 September … the strategic details of 
 the Afghan campaign … the new NATO-Russia relationship … we worked terribly 
-closely with the United States … I prefer to look at it as a partnership.”101
+closely with the United States … I prefer to look at it as a partnership.”[^101]
 
 213.  Commenting on the impact of Mr Blair’s evidence, Mr Campbell wrote:
 
@@ -1917,7 +1911,7 @@ and when to do the documents. TB had raised the temperature another gear by
 making clear publicly we intended to do something and also saying that Saddam 
 had to be dealt with. We agreed not to go for it yet, because it would look like we 
 were going to go to war if we did, TB having made it clear that it would be the start 
-of another phase.”102 
+of another phase.”[^102] 
 
 214.  Asked whether it would have been reasonable or expedient to have explained 
 publicly much earlier that, while the UK hoped for a peaceful outcome, it was also 
@@ -1931,7 +1925,7 @@ campaign and nothing is going to stop them.’
 “… had I said – and maybe, in retrospect, it is better just to say it … ‘Yes, we are 
 doing military planning, our fear was people would push you into a position where 
 you appeared to be on a kind of irreversible path to military action, and this wasn’t 
-our position …”103
+our position …”[^103]
 
 ## Cabinet Office paper, 19 July 2002: 'Iraq: Conditions for Military Action'
 
@@ -1941,14 +1935,13 @@ the international community would support military action in Iraq. These include
 
 *  The UN inspectors needed to be given every chance of success.
 
-101 Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 101.
-102 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012.
-103 Public hearing, 29 January 2010, page 93.
+[^101]: Minutes, Liaison Committee (House of Commons), 16 July 2002, [Evidence Session], Q 101.
+[^102]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^103]: Public hearing, 29 January 2010, page 93.
 
 40
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 support, not unilateral action.
 
@@ -1979,27 +1972,27 @@ international support for any military action.
 
 218.  As is clear from his response to Mr Hoon’s minute of 31 May, Mr Blair considered 
 that he was seeking to influence US policy by describing key elements for a successful 
-strategy to secure international support for any military action against Iraq.104
+strategy to secure international support for any military action against Iraq.[^104]
 
 219.  FCO officials identified high risks which might arise from military action and 
 three conditions which it regarded as essential for UK participation in such action. 
 
 220.  Following a meeting on 9 July, Mr McKane circulated an outline framework for a 
 Cabinet Office paper for Ministers, and invited contributions from the MOD, the FCO 
-and the Assessments Staff.105 
+and the Assessments Staff.[^105] 
 
 221.  Mr Chaplin advised Mr Straw’s Private Office on 12 July that the Cabinet Office 
 paper would “focus on the need to persuade the US Administration to put their military 
-planning in a broader political context”.106 
+planning in a broader political context”.[^106] 
 
 222.  Mr Chaplin wrote that, as Mr Straw’s minute to Mr Blair of 8 July had noted, 
 “fundamental UK interests in the region” were at stake. Mr Chaplin stated that he was 
 “less gloomy than some of our Ambassadors about the consequences of military action”, 
 but the risks were “high”.
 
-104 Manuscript comment Blair on Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
-105 Minute McKane to Chaplin, 10 July 2002, ‘Iraq’. 
-106 Minute Chaplin to Private Secretary [FCO], 12 July 2002, ‘Iraq: Military Action’. 
+[^104]: Manuscript comment Blair on Minute Hoon to Prime Minister, 31 May 2002, ‘Iraq’.
+[^105]: Minute McKane to Chaplin, 10 July 2002, ‘Iraq’. 
+[^106]: Minute Chaplin to Private Secretary [FCO], 12 July 2002, ‘Iraq: Military Action’. 
 
 41
 
@@ -2057,7 +2050,7 @@ President Bush on 4 August; and
 
 42
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 *  the establishment of an ad hoc group of officials to consider the 
 
@@ -2073,7 +2066,7 @@ UK would support military action to bring about regime change, provided certain
 conditions were met.
 
 230.  The Cabinet Office paper ‘Iraq: Conditions for Military Action’ was issued on 
-19 July to those who would attend the meeting chaired by Mr Blair on 23 July.107
+19 July to those who would attend the meeting chaired by Mr Blair on 23 July.[^107]
 
 231.  Ministers were invited to note the latest position on US military planning, the 
 timescales for possible action, and to agree:
@@ -2106,7 +2099,7 @@ of UK officials was that it was by “no means certain” that one would follow 
 other: even if regime change was “a necessary condition for controlling Iraq’s WMD”, 
 it was “certainly not a sufficient one”.
 
-107 Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. 
+[^107]: Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. 
 
 43
 
@@ -2160,7 +2153,7 @@ early as November, with air strikes and support for opposition groups and small 
 
 44
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 land operations while further ground forces built up to overwhelm Iraqi forces; “leading 
 to the collapse of the Iraqi regime”. A “Generated Start” following a military build-up 
@@ -2189,7 +2182,7 @@ Section 6.3.
 
 246.  Mr McKane advised Sir David Manning separately that the Cabinet Office paper 
 covered US military plans “only in headline form” on the grounds that Mr Blair would 
-“wish to receive a short oral brief from CDS”.108
+“wish to receive a short oral brief from CDS”.[^108]
 
 247.  Regime change was “not a proper basis for international action” but it could 
 “result from action which is otherwise lawful”. 
@@ -2207,12 +2200,12 @@ to establish a monitoring and verification system.
 251.  Addressing the basis on which military action might be justified, the Cabinet Office 
 paper explained that the US and UK views of international law varied. While “regime 
 
-108 Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
+[^108]: Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
 
 45
 
 change per se” was “not a proper basis for international action”, it could “result from 
-action which is otherwise lawful”.109 
+action which is otherwise lawful”.[^109] 
 
 252.  The UK would regard the use of force as lawful if it was:
 
@@ -2254,18 +2247,18 @@ during this period, but this [is] more likely when they are fully operational.�
 258.  An earlier draft of the paper had been more explicit about the timetable for 
 inspections set out in resolution 1284 and more cautious about the consequences, 
 
-109 Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’.
+[^109]: Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’.
 
 46
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 concluding that there would be difficulties in using that route as the means to establish 
 a legal base for action in spring 2003. It had concluded:
 
 “So either we need to conclude that military action will be deferred until winter 
 2003/4 or we need to establish a justification/legal base which does not rely on 
-the return of the weapons inspectors.”110
+the return of the weapons inspectors.”[^110]
 
 259.  The Cabinet Office paper stated:
 
@@ -2273,11 +2266,11 @@ the return of the weapons inspectors.”110
 reject (because he is unwilling to accept unfettered access) and which would not 
 be regarded as unreasonable by the international community … failing that (or an 
 Iraqi attack) we would be most unlikely to achieve a legal base for military action 
-by January 2003.”111 
+by January 2003.”[^111] 
 
 260.  The detailed consideration of legal issues prepared by FCO Legal Advisers and 
 issued with the Cabinet Office paper of 8 March was circulated again as an Annex to 
-the 19 July paper.112 
+the 19 July paper.[^112] 
 
 261.  Mr McKane advised that the legal basis for military action had deliberately 
 been left open.
@@ -2286,13 +2279,13 @@ been left open.
 
 “The paper is rather thin in its treatment of the legal base. This is because a 
 fuller treatment would have resulted in options being closed off – in particular the 
-justification based on self defence – by legal advisers.”113 
+justification based on self defence – by legal advisers.”[^113] 
 
 263.  An international coalition would be necessary to provide a military platform 
 and would be desirable for political purposes.
 
 264.  The Cabinet Office paper stated that an international coalition would be 
-necessary to provide a military platform and would be desirable for political purposes.114 
+necessary to provide a military platform and would be desirable for political purposes.[^114] 
 The “greater the international support, the greater the prospects of success”.
 
 265.  Military forces would need agreement to use bases in the region. Without UN 
@@ -2301,13 +2294,12 @@ although Australia “would be likely to participate on the same basis as the UK
 “might be prepared to take part if she saw military action as inevitable”. Russia and 
 China might “set aside their misgivings if sufficient attention were paid to their legal and 
 
-110 Paper [draft] Cabinet Office, ‘Iraq: Conditions for Military Action’ attached to Minute McKane to Bowen, 
+[^110]: Paper [draft] Cabinet Office, ‘Iraq: Conditions for Military Action’ attached to Minute McKane to Bowen, 
 16 July 2002, ‘Iraq’. 
-111 Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’.
-112 Paper FCO, [undated], ‘Iraq: Legal Background’ attached to Paper Cabinet Office, 8 March 2002, 
-‘Iraq: Options Paper’.
-113 Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
-114 Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. 
+[^111]: Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’.
+[^112]: Paper FCO, [undated], ‘Iraq: Legal Background’ attached to Paper Cabinet Office, 8 March 2002, 
+[^113]: Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
+[^114]: Paper Cabinet Office, 19 July 2002, ‘Iraq: Conditions for Military Action’. 
 
 47
 
@@ -2362,7 +2354,7 @@ to support.
 
 48
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 276.  It was not written to provide a broader and more fundamental analysis of the 
 policy choices which the UK Government might at that time have considered, and 
@@ -2399,10 +2391,10 @@ to Mr Straw and Mr Hoon in preparation for the meeting with Mr Blair on 23 July.
 
 278.  Sir David Manning gave the Cabinet Office paper to the Prime Minister on 
 19 July to read over the weekend, writing: “It covers much of the ground we discussed 
-yesterday.”115
+yesterday.”[^115]
 
 279.  Mr Blair commented on the Cabinet Office paper that: “The legal advice is, as ever, 
-far too narrow.”116 
+far too narrow.”[^116] 
 
 280.  Mr Blair’s position on the legal advice is addressed in Section 5.
 
@@ -2411,13 +2403,13 @@ far too narrow.”116
 “Existing government policy – as established by DOP [the Defence and Overseas 
 Policy Sub Committee of Cabinet] in May 1999 – is based on containment of Iraq. 
 If the policy is changing, we ought to reflect this in a new DOP paper. Timing will 
-obviously be critical but you might alert the PM to this point.”117 
+obviously be critical but you might alert the PM to this point.”[^117] 
 
 282.  There is no mention of this point in the written advice sent to Mr Blair.
 
-115 Note Manning to Prime Minister, 19 July 2002, [untitled]. 
-116 Manuscript comment Blair on Note Manning to Prime Minister, 19 July 2002, [untitled]. 
-117 Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
+[^115]: Note Manning to Prime Minister, 19 July 2002, [untitled]. 
+[^116]: Manuscript comment Blair on Note Manning to Prime Minister, 19 July 2002, [untitled]. 
+[^117]: Minute McKane to Manning, 19 July 2002, ‘Iraq’. 
 
 49
 
@@ -2433,7 +2425,7 @@ into action.
 
 286.  Mr Powell submitted separate advice on 19 July, suggesting that Mr Blair should 
 send a Note providing a context for Iraq to President Bush before the expected briefing 
-on US military plans on 4 August, and recommending a telephone call.118 
+on US military plans on 4 August, and recommending a telephone call.[^118] 
 
 287.  Mr Powell advised:
 
@@ -2473,13 +2465,13 @@ now …
 a break before then that we can exploit, but slow deliberate planning like your father 
 in the Gulf war is the best bet.”
 
-118 Minute Powell to Prime Minister, 19 July 2002, ‘Iraq’.
+[^118]: Minute Powell to Prime Minister, 19 July 2002, ‘Iraq’.
 
 50
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
-288.  Mr Blair responded to Mr Powell: “I agree with this entirely”.119
+288.  Mr Blair responded to Mr Powell: “I agree with this entirely”.[^119]
 
 ## Sir Jeremy Greenstock's advice to Mr Straw
 
@@ -2499,7 +2491,7 @@ with any credibility?
 
 that unless Saddam lets the Inspectors in by X, the Council will conclude Iraq 
 has no intention of complying with its obligations (or some other formula well 
-short of an authorisation)?120 
+short of an authorisation)?[^120] 
 
 291.  In his response of 19 July, Sir Jeremy Greenstock set out the “broad dynamics” 
 in New York to provide context:
@@ -2532,8 +2524,8 @@ technical contacts” with Iraq, but there “should be no further talks at his 
 until Iraq showed some flexibility”. The UK “could not credibly argue for further 
 political talks ourselves” as that would “pitch us directly against the Americans”. 
 
-119 Manuscript comment Blair on Minute Powell to Prime Minister, 19 July 2002, ‘Iraq’. 
-120 Letter Greenstock to Ricketts, 19 July 2002, ‘Iraq at the UN’. 
+[^119]: Manuscript comment Blair on Minute Powell to Prime Minister, 19 July 2002, ‘Iraq’. 
+[^120]: Letter Greenstock to Ricketts, 19 July 2002, ‘Iraq at the UN’. 
 
 51
 
@@ -2581,13 +2573,13 @@ severely”.
 296.  Sir Jeremy’s letter was intended to inform the discussion on 23 July, and copies 
 were sent by Mr Ricketts to the Cabinet Office and the MOD. 
 
-297.  The letter was also seen by Lord Goldsmith.121
+297.  The letter was also seen by Lord Goldsmith.[^121]
 
-121 Manuscript comments Goldsmith on Letter Greenstock to Ricketts, 19 July 2002, ‘Iraq at the UN’. 
+[^121]: Manuscript comments Goldsmith on Letter Greenstock to Ricketts, 19 July 2002, ‘Iraq at the UN’. 
 
 52
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 ## The mood in Washington
 
@@ -2612,7 +2604,7 @@ acknowledge the scale of the challenge. They appear intent on building a strateg
 rationale for removing Saddam, and show scant interest in pursuing further the 
 UN [inspections] track. Tebbit explains the need to build a solid case first, to ensure 
 that the UN route has been exhausted, and to think through the implications for 
-‘the day after’ …”122 
+‘the day after’ …”[^122] 
 
 302.  No one had disputed the need to make a strong international case first. 
 Some senior Americans had argued that the case needed to be presented in “strategic 
@@ -2633,7 +2625,7 @@ exhausting the UN inspectorate route were listened to politely, but without enth
 or full agreement”. There was “no clear indication about timing” but one American had 
 said that the betting was for an operation in early 2003. 
 
-122 Telegram 970 Washington to FCO London, 20 July 2002, ‘Iraq: Sir K Tebbit’s Visit to Washington,  
+[^122]: Telegram 970 Washington to FCO London, 20 July 2002, ‘Iraq: Sir K Tebbit’s Visit to Washington,  
 18-19 July’. 
 
 53
@@ -2647,21 +2639,21 @@ under which nothing is brought together except and until it reaches the ultimate
 level (and Rumsfeld otherwise operates autonomously with his Commanders-in-
 Chief). But on the basis of the visit we still have a job on our hands to persuade the 
 Administration to prepare for this in a way which would meet the Prime Minister’s 
-conditions for participation and, indeed for overall success.”123 
+conditions for participation and, indeed for overall success.”[^123] 
 
 306.  The letter was sent to Mr Straw’s Private Office and to the Cabinet Office, 
 Sir Richard Dearlove, and Mr Brummell. 
 
-307.  The letter was seen by Mr Blair124 and Lord Goldsmith.125
+307.  The letter was seen by Mr Blair[^124] and Lord Goldsmith.[^125]
 
 308.  Sir Kevin Tebbit told the Inquiry that, at that stage, he and “a lot of other officials” 
 were concerned to ensure that the UK’s conditions “were … seriously being pursued”, 
 rather than (the UK) simply being invited to participate in detailed military planning albeit 
-as a contingency.126
+as a contingency.[^126]
 
 309.  Sir Kevin stated that the first reason for the visit “was to be absolutely clear 
 whether they [the US] were determined to proceed on a military track. It was not clear 
-at that point.”127 The second was to understand the thinking of the different groups in 
+at that point.”[^127] The second was to understand the thinking of the different groups in 
 Washington.
 
 310.  Sir Richard Dearlove reported that the US had already taken a decision on 
@@ -2670,7 +2662,7 @@ set the threshold on weapons inspections so high Iraq would not be able to hold
 up US policy.
 
 311.  Sir Richard Dearlove discussed policy towards Iraq in a meeting with Dr Rice in 
-Washington on 19 July.128
+Washington on 19 July.[^128]
 
 312.  The report of the discussion stated that the US view was:
 
@@ -2682,16 +2674,16 @@ to terrorists [in Iraq] stoking fears of a repeat 9/11 with WMD”.
 
 development of WMD was not in doubt.
 
-123 Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
-124 Manuscript comment Manning on Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
-125 Manuscript comment Goldsmith on Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
-126 Public hearing, 3 December 2009, page 28.
-127 Public hearing, 3 December 2009, page 57.
-128 Report, 22 July 2002, ‘Iraq [C’s account of discussions with Dr Rice]’.
+[^123]: Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
+[^124]: Manuscript comment Manning on Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
+[^125]: Manuscript comment Goldsmith on Letter Tebbit to Manning, 22 July 2002, ‘Iraq’. 
+[^126]: Public hearing, 3 December 2009, page 28.
+[^127]: Public hearing, 3 December 2009, page 57.
+[^128]: Report, 22 July 2002, ‘Iraq [C’s account of discussions with Dr Rice]’.
 
 54
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 313.  Sir Richard reported that he was told a US “decision had already been taken – 
 the question was only how and when”.
@@ -2711,10 +2703,10 @@ from Condi’s: not proven at best …
 
 …
 
-“C [Sir Richard Dearlove] will be able to give the full picture tomorrow.”129 
+“C [Sir Richard Dearlove] will be able to give the full picture tomorrow.”[^129] 
 
 316.  Mr Powell commented: “Strengthens the need for and urgency of your note to 
-Bush.”130
+Bush.”[^130]
 
 ## MOD advice to Mr Hoon
 
@@ -2733,14 +2725,14 @@ Cabinet Office paper of 19 July, and the agenda was expected to cover:
 *  the objectives of any military action;
 *  the strategic policy framework;
 *  the potential UK contribution; and 
-*  an information campaign.131
+*  an information campaign.[^131]
 
 320.  Mr Bowen advised that it was “still too early to be definitive” about whether the US 
 had a winning military concept; but that it was “likely” that the answer to that question 
 
-129 Minute Manning to Prime Minister, 22 July 2002, ‘Iraq’.
-130 Manuscript comment Powell on Minute Manning to Prime Minister, 22 July 2002, ‘Iraq’. 
-131 Minute Bowen to PS/Secretary of State [MOD], 22 July 2002, ‘Iraq: Meeting with the Prime Minister’. 
+[^129]: Minute Manning to Prime Minister, 22 July 2002, ‘Iraq’.
+[^130]: Manuscript comment Powell on Minute Manning to Prime Minister, 22 July 2002, ‘Iraq’. 
+[^131]: Minute Bowen to PS/Secretary of State [MOD], 22 July 2002, ‘Iraq: Meeting with the Prime Minister’. 
 
 55
 
@@ -2787,13 +2779,13 @@ would not be complete until “March/April”.
 
 326.  Mr Watkins also offered Mr Hoon a “Private Office distillation of where we think 
 most of your key advisers – Chiefs, PUS etc (with possible exception of Simon Webb) – 
-are coming from”.132 
+are coming from”.[^132] 
 
-132 Note (handwritten) Watkins to SofS [MOD], 22 July 2002, attaching ‘Iraq: Summary’.
+[^132]: Note (handwritten) Watkins to SofS [MOD], 22 July 2002, attaching ‘Iraq: Summary’.
 
 56
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 327.  In relation to the “threat” posed by Iraq, Mr Hoon was advised:
 
@@ -2878,7 +2870,7 @@ Mr Powell.
 there was “a lot of ground to cover in a short time”.
 
 334.  Sir David Manning provided an annotated agenda for Mr Blair, which indicated that 
-there would be “a lot of ground to cover in a short time”.133 He suggested Mr Blair should 
+there would be “a lot of ground to cover in a short time”.[^133] He suggested Mr Blair should 
 invite:
 
 *  Mr Scarlett to set the scene with a “very brief summary” of the intelligence on the 
@@ -2902,11 +2894,11 @@ questions”, including:
 to prepare them and when we would have to make funding available and on 
 what scale;
 
-133 Minute Manning to Prime Minister, 22 July 2002, ‘Iraq Meeting: 23 July: Annotated Agenda’. 
+[^133]: Minute Manning to Prime Minister, 22 July 2002, ‘Iraq Meeting: 23 July: Annotated Agenda’. 
 
 58
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 use of biological or chemical weapons;
 
@@ -2942,7 +2934,7 @@ when, or what the objectives and tactics of that approach would be.
 Sir Richard Wilson, Adm Boyce, Sir Richard Dearlove, Sir Francis Richards 
 (Director of the Government Communications Headquarters (GCHQ)), Mr Scarlett, 
 Mr Jonathan Powell, Baroness Morgan (Director of Political and Government 
-Communications), Mr Campbell and Sir David Manning, on 23 July.134 
+Communications), Mr Campbell and Sir David Manning, on 23 July.[^134] 
 
 342.  Mr Rycroft’s record of the meeting noted that:
 
@@ -2957,7 +2949,7 @@ was “probably narrowly based”.
 in Washington: “Military action was now seen as inevitable.” President Bush 
 “wanted to remove Saddam, through military action, justified by the conjunction 
 
-134 Minute Rycroft to Manning, 23 July 2002, ‘Iraq: Prime Minister’s Meeting, 23 July’. 
+[^134]: Minute Rycroft to Manning, 23 July 2002, ‘Iraq: Prime Minister’s Meeting, 23 July’. 
 
 59
 
@@ -3015,7 +3007,7 @@ decision would be required. Mr Hoon cautioned that “many in the US did not
 
 60
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 think it was worth going down the ultimatum route”. It would be important for 
 Mr Blair “to set out the political context” to President Bush. 
@@ -3045,7 +3037,7 @@ advice with FCO/MOD legal advisers.”
 344.  Mr Rycroft’s detailed record of the meeting was sent to the participants only.
 
 345.  Mr Rycroft sent a separate letter to Mr Straw’s Private Secretary on 23 July, which 
-very briefly summarised the action points for the FCO, MOD and Cabinet Office.135 
+very briefly summarised the action points for the FCO, MOD and Cabinet Office.[^135] 
 They were:
 
 *  Mr Straw to provide advice on the positions of countries in the region, the 
@@ -3071,7 +3063,7 @@ made up their minds.
 felt the regime would appear to be popular until it tips, but when it tips, it will happen 
 quickly. All the signs out of Washington were that their thinking had moved forward, 
 
-135 Letter Rycroft to McDonald, 23 July 2002, ‘Iraq Prime Minister’s Meeting, 23 July: Follow Up’.
+[^135]: Letter Rycroft to McDonald, 23 July 2002, ‘Iraq Prime Minister’s Meeting, 23 July: Follow Up’.
 
 61
 
@@ -3100,14 +3092,14 @@ influence privately …
 “TB said he needed to be convinced first of the workability of the military plan, and 
 second of an equally workable political strategy. Jack said we could probably get the 
 votes for a UN ultimatum, but the Americans may not want to go down that route. 
-TB saw regime change as the route to dealing with WMD.”136
+TB saw regime change as the route to dealing with WMD.”[^136]
 
 347.  In his memoir, Mr Blair recorded that Adm Boyce had made it pretty clear at the 
 meeting that “he thought the US had decided on it [military action], bar a real change 
-of heart by Saddam”.137 
+of heart by Saddam”.[^137] 
 
 348.  In his memoir published in 2007, Mr Tenet wrote that Sir Richard Dearlove had told 
-him that he had been misquoted.138 Sir Richard had objected in particular to the word 
+him that he had been misquoted.[^138] Sir Richard had objected in particular to the word 
 “fixed” and offered a correction. Mr Tenet wrote that he had been told Sir Richard had: 
 
 “… expressed the view … that the war in Iraq was going to happen. He believed the 
@@ -3119,14 +3111,13 @@ as changing the politics of the Middle East.”
 “… recalled that he had a polite, but significant, disagreement with Scooter Libby 
 [Chief of Staff to Vice President Cheney], who was trying to convince him that 
 
-136 Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
-to Iraq. Hutchinson, 2012. 
-137 Blair T. A Journey. Hutchinson, 2010. 
-138 Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
+[^136]: Campbell A & Hagerty B. The Alastair Campbell Diaries. Volume 4. The Burden of Power: Countdown 
+[^137]: Blair T. A Journey. Hutchinson, 2010. 
+[^138]: Tenet G & Harlow B. At the Center of the Storm: My Years at the CIA. HarperPress, 2007. 
 
 62
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 there was a relationship between Iraq and al-Qa’ida. Dearlove’s strongly held view 
 based on his own Service’s reporting, which had been shared with the CIA, was 
@@ -3139,7 +3130,7 @@ was being used.”
 350.  Sir Richard Dearlove told the Inquiry that, during his visit to Washington in July 
 2002, he had had “quite contentious and difficult conversations” with Mr Libby as well 
 as discussions with Mr Tenet, Dr Rice and Mr Stephen Hadley, US Deputy National 
-Security Advisor.139 He had returned from Washington “deeply concerned that there 
+Security Advisor.[^139] He had returned from Washington “deeply concerned that there 
 was momentum in parts of the [US] Administration”, and he had warned Mr Blair about 
 that momentum.
 
@@ -3154,26 +3145,26 @@ Sir Richard replied:
 terrorism. I think it would be fair to say that the Prime Minister was very worried 
 about the possible conjunction of terrorism and WMD, but not specifically in relation 
 to Iraq … [I] think, one could say this is one of his primary national security concerns 
-given the nature of Al Qaida.”140
+given the nature of Al Qaida.”[^140]
 
 353.  Sir Richard added that he sought an amendment to Mr Rycroft’s record of the 
-meeting on 23 July to clarify the meaning of his remarks.141 
+meeting on 23 July to clarify the meaning of his remarks.[^141] 
 
 354.  The Inquiry has seen that document. 
 
 355.  In response to subsequent questioning, referring to a manuscript note made by 
 Lord Goldsmith during the meeting, Sir Richard accepted that he might well have used 
-the word “fitted”.142 
+the word “fitted”.[^142] 
 
 356.  Mr Rycroft confirmed that Sir Richard had challenged his record of the meeting but, 
 after checking his notes and discussing it with others present, he had taken no further 
-action.143 Mr Rycroft told the Inquiry that he had understood Sir Richard to be making the 
+action.[^143] Mr Rycroft told the Inquiry that he had understood Sir Richard to be making the 
 
-139 Private hearing, 16 June 2010, pages 34-35.
-140 Private hearing, 16 June 2010, pages 39-40. 
-141 Private hearing, 16 June 2010, page 42. 
-142 Private hearing, 16 June 2010, page 70. 
-143 Private hearing, 10 September 2010, pages 27-30.
+[^139]: Private hearing, 16 June 2010, pages 34-35.
+[^140]: Private hearing, 16 June 2010, pages 39-40. 
+[^141]: Private hearing, 16 June 2010, page 42. 
+[^142]: Private hearing, 16 June 2010, page 70. 
+[^143]: Private hearing, 10 September 2010, pages 27-30.
 
 63
 
@@ -3181,7 +3172,7 @@ action.143 Mr Rycroft told the Inquiry that he had understood Sir Richard to be 
 US policy of regime change.
 
 357.  Mr Hoon told the Inquiry that he did not have a specific recollection of the meeting 
-but he did not recall it as a key meeting, rather it was part of an “iterative process”.144
+but he did not recall it as a key meeting, rather it was part of an “iterative process”.[^144]
 
 358.  Mr Hoon subsequently wrote that there was “a very full discussion of the relevant 
 issues” at the meeting, and that:
@@ -3190,12 +3181,12 @@ issues” at the meeting, and that:
 were set out and recorded in the minutes of the meeting. All of the reservations set 
 out in the summary prepared by my Private Office were fully debated in the meeting. 
 At such a meeting I would not have thought it necessary to repeat arguments 
-already made by others … unless there was some specific benefit in doing so.”145
+already made by others … unless there was some specific benefit in doing so.”[^145]
 
 359.  Lord Wilson told the Inquiry that he didn’t think the meeting on 23 July had 
 “decided on much”. It had been a “taking stock” meeting, but what had struck him “was 
 that some of the language used implied that we were closer to military action than I had 
-imagined that we were”.146 
+imagined that we were”.[^146] 
 
 360.  Lord Wilson told the Inquiry that two elements of the meeting stood out in his 
 memory: First, there was “an underlying tension … between the Prime Minister and his 
@@ -3213,21 +3204,21 @@ about military action”.
 Nations Security Council resolution if you were going to specifically undertake 
 military action and if you didn’t do that, his strong advice was that it was illegal to 
 take military action. The Prime Minister simply said ‘Well…’ and that’s it. I remember 
-thinking ‘There is an unresolved issue there’.”147
+thinking ‘There is an unresolved issue there’.”[^147]
 
 362.  Lord Wilson, who remained the Cabinet Secretary until the beginning of September 
 2002, told the Inquiry that he had still been on duty during August 2002 and had taken 
-papers, but he could recall none on Iraq.148
+papers, but he could recall none on Iraq.[^148]
 
-144 Public hearing, 19 January 2010, pages 20-21.
-145 Statement, 2 April 2015, paragraph 13.
-146 Public hearing, 25 January 2011, pages 37-38.
-147 Public hearing, 25 January 2011, page 38.
-148 Public hearing, 25 January 2011, page 35.
+[^144]: Public hearing, 19 January 2010, pages 20-21.
+[^145]: Statement, 2 April 2015, paragraph 13.
+[^146]: Public hearing, 25 January 2011, pages 37-38.
+[^147]: Public hearing, 25 January 2011, page 38.
+[^148]: Public hearing, 25 January 2011, page 35.
 
 64
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 363.  In response to a specific question about whether, following the meeting on 23 July, 
 he thought that the Government’s strategy on Iraq had coalesced by the beginning of 
@@ -3237,7 +3228,7 @@ September, Lord Wilson replied:
 Cabinet government the Cabinet had endorsed a course that was likely to lead to 
 military action, I would tell you emphatically not’ … If you had said to me ‘Is the 
 Prime Minister … serious about military action?’ I would have said ‘There is a gleam 
-in his eye which worries me.’ I think I used that phrase at the time.”149
+in his eye which worries me.’ I think I used that phrase at the time.”[^149]
 
 364.  Lord Wilson stated: 
 
@@ -3245,7 +3236,7 @@ in his eye which worries me.’ I think I used that phrase at the time.”149
 were to be alongside the Americans, whatever that means, on the one hand and 
 his knowledge that a lot of people in his Cabinet and in public opinion and people 
 in Parliament would be unhappy with that. I would guess … that in the summer 
-holidays in August he resolved it.”150 
+holidays in August he resolved it.”[^150] 
 
 365.  In his memoir, Mr Straw wrote that he:
 
@@ -3256,7 +3247,7 @@ we should contemplate not joining the US in any American military effort against
 Iraq. I was concerned that the case against Iraq (why did it merit the most severe 
 action? what differentiated it from the other three?) had not at that stage been made: 
 and also about the potential consequences for Tony’s leadership, and the survival 
-of his government.”151 
+of his government.”[^151] 
 
 ### Request for advice on Saddam Hussein's military capabilities and intentions
 
@@ -3269,12 +3260,12 @@ but the following day Sir David Manning explained to Mr Blair his concern that:
 “… we (and I suspect the Americans) have only a hazy idea of Saddam’s retaliatory 
 capabilities if and when we attack Iraq. CDS was unable to say whether we would 
 expect to fight in a CBW environment. The answer has a crucial bearing on the 
-plausibility and viability of US military plans.”152 
+plausibility and viability of US military plans.”[^152] 
 
-149 Public hearing, 25 January 2011, page 42.
-150 Public hearing, 25 January 2011, page 49.
-151 Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012.
-152 Minute Manning to Prime Minister, 24 July 2002, ‘Iraq’. 
+[^149]: Public hearing, 25 January 2011, page 42.
+[^150]: Public hearing, 25 January 2011, page 49.
+[^151]: Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012.
+[^152]: Minute Manning to Prime Minister, 24 July 2002, ‘Iraq’. 
 
 65
 
@@ -3331,11 +3322,11 @@ course”.
 
 66
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 376.  Sir Christopher Meyer reported on 24 July that he had told a US official that the US 
 could “rest assured that if and when the US decided to move against Saddam Hussein, 
-the UK would be with them. This would not be easy for the Prime Minister politically.”153 
+the UK would be with them. This would not be easy for the Prime Minister politically.”[^153] 
 
 377.  Sir Christopher had been asked about a speech that Dr Henry Kissinger, the 
 former US Secretary of State, had made the previous week, emphasising the need 
@@ -3369,7 +3360,7 @@ The US expected to secure sufficient co-operation from neighbouring countries fo
 military action. 
 
 381.  Sir David Manning commented to Mr Blair that these were: “Further signs that 
-Bush is impatient to move. Little reassurance on the political context.”154
+Bush is impatient to move. Little reassurance on the political context.”[^154]
 
 ## Mr Blair's press conference, 25 July 2002
 
@@ -3379,8 +3370,8 @@ that Iraq intended to comply with its obligations.
 383.  Mr Blair also stated that the evidence on Iraq’s WMD would be published 
 when he judged the moment was right.
 
-153 Letter Meyer to Manning, 24 July 2002, ‘Iraq’.
-154 Manuscript comment Manning to Prime Minister, 25 July 2002, on Letter Meyer to Manning, 
+[^153]: Letter Meyer to Manning, 24 July 2002, ‘Iraq’.
+[^154]: Manuscript comment Manning to Prime Minister, 25 July 2002, on Letter Meyer to Manning, 
 24 July 2002, ‘Iraq’. 
 
 67
@@ -3392,10 +3383,10 @@ Council resolution would be required to authorise military action.
 Mr Peter Kilfoyle (Labour) whether, in the event of the US commencing military action 
 during the Recess, Mr Blair would recall Parliament before any British forces were 
 committed. Mr Blair replied that “we have not yet got to the stage of military action”; 
-if that stage was reached “at any point”, Parliament would be “properly consulted”.155
+if that stage was reached “at any point”, Parliament would be “properly consulted”.[^155]
 
 386.  In his press conference on 25 July, Mr Blair repeated the line that he had taken 
-at the Liaison Committee on 16 July that Iraq’s position on WMD was an issue.156 
+at the Liaison Committee on 16 July that Iraq’s position on WMD was an issue.[^156] 
 He emphasised that no decision had been taken about how to deal with it and the need 
 to avoid “getting ahead of ourselves”. He was not prepared to speculate about an area 
 of such “tremendous sensitivity”. 
@@ -3430,12 +3421,12 @@ somewhat unlikely that the Iraqis intend to comply.”
 to work up the ultimatum to Saddam Hussein, No.10 was advised on 26 July that 
 there would be “formidable obstacles to overcome” to secure agreement to a new 
 
-155 House of Commons, Official Report, 24 July 2002, column 975.
-156 The National Archives, Prime Minister’s Press Conference, 25 July 2002.
+[^155]: House of Commons, Official Report, 24 July 2002, column 975.
+[^156]: The National Archives, Prime Minister’s Press Conference, 25 July 2002.
 
 68
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 resolution incorporating an ultimatum without convincing evidence of a greatly 
 increased threat from Iraq.
@@ -3448,7 +3439,7 @@ it would have no legal force.
 
 393.  Mr Simon McDonald, Mr Straw’s Principal Private Secretary, responded to 
 Mr Rycroft on 26 July with advice on “how to get the Security Council to issue some sort 
-of ultimatum ahead of any military action”.157
+of ultimatum ahead of any military action”.[^157]
 
 394.  The letter reflected advice from the UK Permanent Mission to the UN in New York 
 and the British Embassy Washington and a list of elements which might be incorporated 
@@ -3487,8 +3478,7 @@ ultimatum Iraq would make a show of co-operation to secure a delay, muddy the
 waters and split the Council”; and that Iraq would restrict the inspectors’ access 
 to facilities. 
 
-157 Letter McDonald to Rycroft, 26 July 2002, ‘Iraq: Ultimatum’ attaching Paper ‘Elements which might be 
-incorporated in an SCR embodying an ultimatum to Iraq’. 
+[^157]: Letter McDonald to Rycroft, 26 July 2002, ‘Iraq: Ultimatum’ attaching Paper ‘Elements which might be 
 
 69
 
@@ -3545,14 +3535,14 @@ made for military action against Iraq.
 
 70
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 402.  Mr Blair recognised the difficulties but commented that it was hard to see 
 a way through unless “we just don’t do it”; and he thought it was right to take 
 action.
 
 403.  Mr Straw spoke to Secretary Powell on 26 July to seek a one-to one discussion 
-on Iraq in late August.158 
+on Iraq in late August.[^158] 
 
 404.  Secretary Powell told Mr Straw that meetings in the US “the week after next” 
 would “become ‘much more serious’ but would not necessarily accelerate the timing 
@@ -3590,10 +3580,10 @@ and that the only way to ensure a strong central government would be for the US 
 UK to stay on. That might require “an army of occupation for years to come”. 
 
 411.  As well as the formal record of the discussion, Mr Straw sent Mr Blair a handwritten 
-letter rehearsing doubts about the strength of the case for military action against Iraq.159 
+letter rehearsing doubts about the strength of the case for military action against Iraq.[^159] 
 
-158 Minute McDonald to Ricketts, 26 July 2002, ‘Iraq’.
-159 Letter (handwritten) Straw to Blair, 26 July 2002, ‘Iraq’. 
+[^158]: Minute McDonald to Ricketts, 26 July 2002, ‘Iraq’.
+[^159]: Letter (handwritten) Straw to Blair, 26 July 2002, ‘Iraq’. 
 
 71
 
@@ -3607,16 +3597,16 @@ divisions would open up”.
 
 413.  In his memoir, Mr Straw wrote that the letter had “set out the hazards ahead if our 
 handling of Iraq went wrong” and that it had ended: “And you know where some (not so 
-loyal) are on all this. Licking their lips at the possibility of regime change nearer home.”160
+loyal) are on all this. Licking their lips at the possibility of regime change nearer home.”[^160]
 
 414.  Mr Blair commented to officials in No.10:
 
 “I entirely agree with all this. But it is hard to see the way through, unless we just 
-don’t do it. But I think it’s right to do it.”161 
+don’t do it. But I think it’s right to do it.”[^161] 
 
 ## Mr Blair's Note to President Bush, 28 July 2002
 
-415.  Mr Blair sent President Bush a “Note on Iraq” on 28 July.162
+415.  Mr Blair sent President Bush a “Note on Iraq” on 28 July.[^162]
 
 416.  The Note began:
 
@@ -3642,13 +3632,13 @@ Suppose the Arab street finally erupted eg in […] Suppose Saddam felt sufficie
 politically strong, if militarily weak in conventional terms, to let off WMD. Suppose 
 that, without any coalition, the Iraqis feel ambivalent about being invaded and 
 
-160 Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012. 
-161 Manuscript comment Blair to Powell on Letter (handwritten) Straw to Blair, 26 July 2002, ‘Iraq’. 
-162 Note Blair [to Bush], 28 July 2002, ‘Note on Iraq’.
+[^160]: Straw J. Last Man Standing: Memoirs of a Political Survivor. Macmillan, 2012. 
+[^161]: Manuscript comment Blair to Powell on Letter (handwritten) Straw to Blair, 26 July 2002, ‘Iraq’. 
+[^162]: Note Blair [to Bush], 28 July 2002, ‘Note on Iraq’.
 
 72
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 real Iraqis … decide to offer resistance. Suppose … that any difficulties, without a 
 coalition, are magnified and seized on by a hostile international opinion. If we win 
@@ -3752,7 +3742,7 @@ yet, so this is first blush.
 
 74
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 “The two options are running start and generated start.
 
@@ -3785,7 +3775,7 @@ by providing a framework for action.
 436.  Mr Powell told the Inquiry that the Note was “a very important one … trying to 
 make it clear the basis on which we thought it would be sensible to go ahead”, and the 
 basis on which the US should go to the UN. Mr Blair was “talking about … the danger 
-of unintended consequences”.163 
+of unintended consequences”.[^163] 
 
 437.  Addressing what was meant by the reference to unintended consequences, 
 Mr Powell stated that the Iraqis would “feel ambivalent about being invaded. If we 
@@ -3800,7 +3790,7 @@ the means for taking action, Mr Powell replied:
 “Obviously, there is a trade-off between convincing someone that you are with them, 
 that you believe what they are trying to do and you are going to try to help them and 
 
-163 Public hearing, 18 January 2010, pages 38-39.
+[^163]: Public hearing, 18 January 2010, pages 38-39.
 
 75
 
@@ -3808,7 +3798,7 @@ that you believe what they are trying to do and you are going to try to help the
 Forget it’, the amount of influence you are likely to have … is less.
 
 “So … there is a trade-off between indicating you are with someone and then 
-persuading them to move down a particular route.”164 
+persuading them to move down a particular route.”[^164] 
 
 439.  Asked whether the elements that would be essential for success were red lines 
 for the UK and absolutely essential or whether they were things that would be nice to 
@@ -3828,11 +3818,11 @@ him on that.
 
 “… So the Prime Minister was saying, ‘We are with you. We need to go down the 
 UN route, but that does not necessarily mean war. It may well be that Saddam could 
-comply well short of war.’”165
+comply well short of war.’”[^165]
 
 440.  Mr Powell emphasised that telling the US there were “pre-conditions” would have 
 been a mistake; the UK was “setting out a framework” and “trying to persuade them to 
-move in a particular direction”.166
+move in a particular direction”.[^166]
 
 441.  Sir David Manning confirmed that Mr Blair himself had written the Note he 
 sent to President Bush on 28 July. 
@@ -3840,7 +3830,7 @@ sent to President Bush on 28 July.
 442.  Sir David Manning told the Inquiry that Mr Blair had drafted the Note to President 
 Bush himself. Sir David had tried to take the first sentence out because it was “too 
 sweeping”, it seemed to him “to close off options”, and he did not think that that was 
-“a sensible place to be”.167 
+“a sensible place to be”.[^167] 
 
 443.  Asked who else had seen the Note in draft, Sir David Manning stated: 
 
@@ -3848,14 +3838,14 @@ sweeping”, it seemed to him “to close off options”, and he did not think t
 … I went to Jonathan and said, ‘The Prime Minister should not say this’, and we 
 went up to the flat. We talked through with him [Mr Blair], and I said that the first 
 
-164 Public hearing, 18 January 2010, pages 39-40.
-165 Public hearing, 18 January 2010, pages 40-41.
-166 Public hearing, 18 January 2010, pages 77-78.
-167 Private hearing, 24 June 2010, pages 49-50.
+[^164]: Public hearing, 18 January 2010, pages 39-40.
+[^165]: Public hearing, 18 January 2010, pages 40-41.
+[^166]: Public hearing, 18 January 2010, pages 77-78.
+[^167]: Private hearing, 24 June 2010, pages 49-50.
 
 76
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 sentence should come out and Jonathan agreed, but the Prime Minister decided to 
 leave it.
@@ -3863,7 +3853,7 @@ leave it.
 “I have always assumed, incidentally, because he saw it as a rhetorical flourish, 
 not because at that stage he was thinking anything in terms of what the scale of 
 commitments might be. But it was a sort of emotional statement, I think. But it 
-seemed to me that it went further than we should have gone.”168
+seemed to me that it went further than we should have gone.”[^168]
 
 444.  Asked if he thought it “was heard” in the sense Mr Blair intended, Sir David replied:
 
@@ -3878,7 +3868,7 @@ was absolutely happy to pursue his own course … he was elected and it was [for
 him to decide.
 
 “But the Prime Minister had strong views about things. He was absolutely open to 
-debate, but on a lot of things, if he’d made up his mind, he’d made up his mind.”169 
+debate, but on a lot of things, if he’d made up his mind, he’d made up his mind.”[^169] 
 
 446.  In his evidence to the Inquiry, Mr Blair offered further insights into his 
 thinking.
@@ -3894,7 +3884,7 @@ that George had not decided. He had … a conceptual framework in which the pivo
 concept was that Saddam had to come fully into compliance and disarm but he had 
 taken no final decision on the way to make him.
 
-“In late July, I sent George another personal, private note …”170 
+“In late July, I sent George another personal, private note …”[^170] 
 
 448.  Mr Blair described the Note to President Bush as “setting the case for going the UN 
 route; and stressing again the Middle East Peace Process”. Following the Note he had:
@@ -3903,9 +3893,9 @@ route; and stressing again the Middle East Peace Process”. Following the Note 
 came to war, how did we do it with [the] least bloodshed? That was the military 
 question. On the basis that we did it, how did we maximise the coalition? That was 
 
-168 Private hearing, 24 June 2010, page 50. 
-169 Private hearing, 24 June 2010, page 51.
-170 Blair T. A Journey. Hutchinson, 2010. 
+[^168]: Private hearing, 24 June 2010, page 50. 
+[^169]: Private hearing, 24 June 2010, page 51.
+[^170]: Blair T. A Journey. Hutchinson, 2010. 
 
 77
 
@@ -3914,7 +3904,7 @@ East? That was the Arab question.”
 
 449.  The Inquiry asked Mr Blair to address in a written statement how the US 
 Administration would have interpreted the opening sentence of his Note and whether 
-that corresponded with the degree of the commitment he wanted to give.171
+that corresponded with the degree of the commitment he wanted to give.[^171]
 
 450.  Mr Blair did not respond directly. In the context of a section of his statement 
 addressing the fact that the US had no need of a further UN resolution before acting, 
@@ -3922,17 +3912,17 @@ Mr Blair wrote that the Note had:
 
 “… set out … the strong reason why, politically, I thought a UN resolution was 
 necessary, primarily to build a broad coalition against Saddam and to show we 
-were prepared to disarm him peacefully.”172
+were prepared to disarm him peacefully.”[^172]
 
 451.  Mr Blair also wrote:
 
 “I could not and did not offer some kind of ‘blank cheque’ in how we accomplished 
-our shared objectives.”173
+our shared objectives.”[^173]
 
 452.  Asked subsequently to tell the Inquiry what was in the Note, Mr Blair said that 
 he thought he had amended the opening sentence and commented: “Frankly I think 
 he [Sir David Manning] would have preferred me not to have given any undertaking 
-at all.”174 
+at all.”[^174] 
 
 453.  Mr Blair stated:
 
@@ -3944,7 +3934,7 @@ was “a very clear and simple decision to take”. America was “going to tack
 His first question for President Bush was “do we want it to be a coalition?” His “belief 
 was it was extremely important for the international community to hold together at this 
 point”. He did not see 11 September “as an attack on America”. It was “an attack on us 
-… the West”.175 
+… the West”.[^175] 
 
 455.  Mr Blair added:
 
@@ -3952,26 +3942,26 @@ point”. He did not see 11 September “as an attack on America”. It was “a
 it multilaterally. So in a sense what I was saying to America was … ‘Whatever the 
 political heat, if I think this is the right thing to do I am going to be with you. I am not 
 
-171 Inquiry request for a written statement, 13 December 2010, Qs 2e and 2f, page 1.
-172 Statement, 14 January 2011, page 5.
-173 Statement, 14 January 2011, page 4.
-174 Public hearing, 21 January 2011, page 47.
-175 Public hearing, 21 January 2011, pages 47-48.
+[^171]: Inquiry request for a written statement, 13 December 2010, Qs 2e and 2f, page 1.
+[^172]: Statement, 14 January 2011, page 5.
+[^173]: Statement, 14 January 2011, page 4.
+[^174]: Public hearing, 21 January 2011, page 47.
+[^175]: Public hearing, 21 January 2011, pages 47-48.
 
 78
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 going to back out because the going gets tough. On the other hand, here are the 
 difficulties and this is why I think the UN route is the right way to go’.”
 
 456.  Mr Blair was “absolutely sure” that was how President Bush had interpreted the 
-Note.176
+Note.[^176]
 
 457.  Asked whether the language he had used in his Note was wholly consistent with 
 his statement for the Inquiry, in which he had written that he had not offered the US 
 a blank cheque, Mr Blair told the Inquiry that he “did not think the Americans were 
-in any doubt at all about what was being said”.177 He could not recall all the precise 
+in any doubt at all about what was being said”.[^177] He could not recall all the precise 
 conversations, but “this [the Note] was entirely consistent also” with what he was 
 saying publicly. 
 
@@ -3999,11 +3989,11 @@ America in handling this. However, we should handle it this way’. That was in 
 end what they agreed to do. The single thing that is most important over anything 
 else in this whole business … is that [resolution] 1441 [agreed in November 
 2002] represented a huge compromise on his part and a huge opportunity for the 
-international community to get its act together.”178 
+international community to get its act together.”[^178] 
 
-176 Public hearing, 21 January 2011, page 48.
-177 Public hearing, 21 January 2011, page 49.
-178 Public hearing, 21 January 2011, pages 49-51.
+[^176]: Public hearing, 21 January 2011, page 48.
+[^177]: Public hearing, 21 January 2011, page 49.
+[^178]: Public hearing, 21 January 2011, pages 49-51.
 
 79
 
@@ -4029,7 +4019,7 @@ Does he [Saddam] consider pre-emption a possibility?
 *  Who might act against Saddam and would they act before Baghdad is occupied 
 *  The prospects for an uprising of the civil populace in Shia cities and what the 
 *  The likely popular attitude to a US invasion and the arrival of US or allied troops 
-*  What would be the Israeli response to an Iraqi CBW attack?”179 
+*  What would be the Israeli response to an Iraqi CBW attack?”[^179] 
 
 desert/stop doing their duty?
 
@@ -4039,10 +4029,10 @@ by coalition forces?
 
 on their territory.
 
-460.  Sir David Manning had a “pre-meeting” with Mr Armitage.180 
+460.  Sir David Manning had a “pre-meeting” with Mr Armitage.[^180] 
 
 461.  Mr Rycroft’s record of the meeting stated that Sir David and Mr Armitage discussed 
-the US and UK positions.181 
+the US and UK positions.[^181] 
 
 462.  The US focus was on the disarmament of Iraq, not the re-admittance of inspectors. 
 Sir David had raised questions about Saddam Hussein’s capabilities and intentions and 
@@ -4057,20 +4047,20 @@ Mr Armitage:
 “… Why now? What if Saddam Hussein were to use weapons of mass destruction 
 during a military campaign? What would follow military action? What role … would 
 
-179 Minute Scarlett to Manning, 26 July 2002, ‘Iraq: We do not know enough about …’.
-180 Public hearing, 30 November 2009, page 16.
-181 Minute Rycroft to Manning, 31 July 2002, ‘Iraq: Armitage’.
+[^179]: Minute Scarlett to Manning, 26 July 2002, ‘Iraq: We do not know enough about …’.
+[^180]: Public hearing, 30 November 2009, page 16.
+[^181]: Minute Rycroft to Manning, 31 July 2002, ‘Iraq: Armitage’.
 
 80
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 the United States see the United Nations playing, and what was the United States 
-planning to do about the Middle East Peace Process?”182 
+planning to do about the Middle East Peace Process?”[^182] 
 
 464.  Sir David said he had told Mr Armitage that he “didn’t think we had answers to 
 those questions”. Mr Armitage had replied that he thought they needed a lot more work 
-and that: “It was better to be right than to hurry.”183 
+and that: “It was better to be right than to hurry.”[^183] 
 
 465.  During his visit to Washington, Sir David Manning told President Bush that 
 Mr Blair agreed Saddam Hussein had to go, but it would be impossible for the 
@@ -4082,7 +4072,7 @@ should push the need for action through the UN and an ultimatum “very hard”
 in his telephone call with President Bush on 31 July. 
 
 467.  Sir David Manning delivered the Note from Mr Blair to President Bush to Dr Rice 
-on 29 July.184 Sir David told the Inquiry that he and Dr Rice had discussed the Note 
+on 29 July.[^184] Sir David told the Inquiry that he and Dr Rice had discussed the Note 
 during dinner. He had told her that, as the Note made clear: 
 
 through the United Nations.”
@@ -4098,7 +4088,7 @@ Mr Armitage.
 
 469.  Sir David Manning’s record of his discussion with Dr Rice for Mr Blair advised that 
 he had indicated that the Note was sent personally to the President and not intended 
-for wider circulation.185 Sir David had concluded President Bush wanted the UK to be 
+for wider circulation.[^185] Sir David had concluded President Bush wanted the UK to be 
 involved. There was some reluctance in the US Administration (to involve the UN), but 
 Mr Blair “just might persuade” President Bush. If he did, that would “transform the public 
 relations campaign and make action much easier to manage”. 
@@ -4109,10 +4099,10 @@ President Bush to hear “directly” what Mr Blair had to say.
 471.  Sir David cautioned that, until then, Mr Blair should “not … commit” himself 
 “formally and finally to anything, except moral support … Leaving things open may 
 
-182 Public hearing, 30 November 2009, pages 16-17.
-183 Public hearing, 30 November 2009, pages 16-17.
-184 Public hearing, 30 November 2009, pages 17-18.
-185 Minute Manning to Prime Minister, 31 July 2002, ‘Iraq: Conversation with Condi Rice’. 
+[^182]: Public hearing, 30 November 2009, pages 16-17.
+[^183]: Public hearing, 30 November 2009, pages 16-17.
+[^184]: Public hearing, 30 November 2009, pages 17-18.
+[^185]: Minute Manning to Prime Minister, 31 July 2002, ‘Iraq: Conversation with Condi Rice’. 
 
 81
 
@@ -4120,7 +4110,7 @@ President Bush to hear “directly” what Mr Blair had to say.
 Note and adjust his policy.” 
 
 472.  Sir David Manning told the Inquiry that he had expected a further meeting with 
-Dr Rice and others in the NSC the following morning.186 To his surprise, he was instead 
+Dr Rice and others in the NSC the following morning.[^186] To his surprise, he was instead 
 invited to meet President Bush, and he and Dr Rice had a discussion with President 
 Bush which lasted 30 or 40 minutes. President Bush had been briefed on the discussion 
 the previous evening and had “clearly read and studied the Prime Minister’s Note”. 
@@ -4135,7 +4125,7 @@ he had said that Mr Blair agreed Saddam Hussein had to go:
 Iraq was politically very difficult … We were not bidding for a role. We knew that 
 the US could do the job alone. That would be fine by you if that was the President’s 
 preference, in which case we would lend moral support. But if he wanted more … 
-from us, he had to understand the politics from your perspective.”187
+from us, he had to understand the politics from your perspective.”[^187]
 
 474.  Sir David Manning reported that President Bush had been “struck by your 
 [Mr Blair’s] emphasis on the need for an ultimatum” which the Administration would 
@@ -4161,12 +4151,12 @@ with Mr Blair on the telephone on 31 July; and that Mr Blair should go to Washin
 September. Sir David advised: “I do not think this [the UN and an ultimatum] is yet a lost 
 cause. My advice is that you should push it very hard.” President Bush “might decide 
 
-186 Public hearing, 30 November 2009, pages 18-19.
-187 Minute Manning to Prime Minister, 31 July 2002, ‘Iraq: Conversation with President Bush’. 
+[^186]: Public hearing, 30 November 2009, pages 18-19.
+[^187]: Minute Manning to Prime Minister, 31 July 2002, ‘Iraq: Conversation with President Bush’. 
 
 82
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 to go this route if he thinks it is the key to your active support. If he does, it will transform 
 the domestic and wider international context.” 
@@ -4180,7 +4170,7 @@ Mr Blair at Chequers on 31 July. He told the Inquiry:
 a return to the UN route was a lost cause and it was worth his while to continue 
 to press the President to go down the UN route. Provisionally an agreement was 
 reached … for the Prime Minister to go and see the President as soon as the 
-summer holidays were over, and this is what indeed he did.”188
+summer holidays were over, and this is what indeed he did.”[^188]
 
 480.  Sir David Manning told the Inquiry that he felt his meetings with Dr Rice and 
 President Bush in Washington at the end of July, when he delivered Mr Blair’s 
@@ -4191,12 +4181,12 @@ Note, had reopened a debate in the US that might have been closed.
 “… I was quite clear, when I was sent to Washington at the end of July to talk about 
 the state of the debate in America, that … the United States could take military 
 action if it wished to, but we could not do so unless the United States decided to go 
-back to the United Nations.”189
+back to the United Nations.”[^189]
 
 482.  Subsequently, Sir David Manning told the Inquiry that he had thought “at the end 
 of July” that “[President] Bush had probably made up his mind he was just going to go 
 and attack Iraq at some point over the next few months … and that he had probably 
-subscribed … to the view that the UN was a distraction”.190 President Bush had asked to 
+subscribed … to the view that the UN was a distraction”.[^190] President Bush had asked to 
 see him because of the point he had made to Dr Rice that the UK could not participate 
 without going back to the UN. While he was “wary about making this claim”, he had 
 returned from Washington “feeling that it had reopened a debate that might have been 
@@ -4212,14 +4202,14 @@ accompany the Americans in a shift in policy that might conceivably lead to regi
 change was if they opted to go through the United Nations and if there were a new 
 Security Council resolution …
 
-188 Public hearing, 30 November 2009, pages 22-23.
-189 Public hearing, 30 November 2009, pages 40-41. 
-190 Private hearing, 24 June 2010, pages 55-56.
+[^188]: Public hearing, 30 November 2009, pages 22-23.
+[^189]: Public hearing, 30 November 2009, pages 40-41. 
+[^190]: Private hearing, 24 June 2010, pages 55-56.
 
 83
 
 “… it would not have been possible to have softened those conditions, and so it was 
-absolutely essential, as far as the British Government was concerned.”191
+absolutely essential, as far as the British Government was concerned.”[^191]
 
 ## Lord Goldsmith's minute, 30 July 2002
 
@@ -4231,11 +4221,11 @@ legal basis for the use of force.
 
 486.  A report that Mr Blair had been told “by the Government’s lawyers that British 
 participation in an invasion of Iraq would be illegal” appeared in The Independent on 
-29 July.192 The article also stated that senior government sources had said that Mr Blair 
+29 July.[^192] The article also stated that senior government sources had said that Mr Blair 
 had “also received conflicting legal opinion from law officers that current UN resolutions 
 could offer sufficient cover for any military action”. 
 
-487.  Lord Goldsmith sent Mr Blair a 16-paragraph minute on 30 July.193 He wrote that, 
+487.  Lord Goldsmith sent Mr Blair a 16-paragraph minute on 30 July.[^193] He wrote that, 
 as the record of the 23 July meeting set out his views “only in summary form”, and “given 
 the importance of this matter”, he had thought he should set out his advice “more fully”. 
 
@@ -4261,13 +4251,13 @@ sufficiently grave to undermine the basis or effective operation of the cease-fi
 490.  Lord Goldsmith advised that reliance on the “revival” of the authorisation for the 
 use of force in resolution 678 (1990) had been controversial when it was invoked by the 
 
-191 Public hearing, 30 November 2009, page 56.
-192  The Independent, 29 July 2002, Blair is warned assault on Iraq would be ‘illegal’.
-193 Minute Goldsmith to Prime Minister, 30 July 2002, ‘Iraq’.
+[^191]: Public hearing, 30 November 2009, page 56.
+[^192]:  The Independent, 29 July 2002, Blair is warned assault on Iraq would be ‘illegal’.
+[^193]: Minute Goldsmith to Prime Minister, 30 July 2002, ‘Iraq’.
 
 84
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 UK in 1998 (Operation Desert Fox), because resolution 1205 (1998) did not itself contain 
 any explicit authority to use force. 
@@ -4303,7 +4293,7 @@ in September.
 
 “I phoned Private Offices in FCO and MOD on 30/7, at the request of the AG 
 [Attorney General] (and in his presence) to ask them to destroy their copies to avoid 
-further leaks. PM to discuss further with AG in September.”194 
+further leaks. PM to discuss further with AG in September.”[^194] 
 
 496.  Mr Blair told the Inquiry that Lord Goldsmith’s advice of 30 July had 
 convinced him that a new resolution was necessary, and that it needed to be the 
@@ -4316,7 +4306,7 @@ Lord Goldsmith told the Inquiry:
 resolution 678 authorised the use of force and that resolution 687 suspended it 
 on conditions, but didn’t, in fact, cancel it … 
 
-194 Note (handwritten) Powell, 31 July 2002, ‘File’. 
+[^194]: Note (handwritten) Powell, 31 July 2002, ‘File’. 
 
 85
 
@@ -4333,7 +4323,7 @@ Security Council might take a different view today.
 
 “… you couldn’t rely on 1205 in my judgement in 2002, and you would therefore 
 need to have at least a new determination by the Security Council … that there was 
-a material breach.”195
+a material breach.”[^195]
 
 498.  Lord Goldsmith told the Inquiry that he had sent his minute of 30 July because he 
 did not want Mr Blair to be in any doubt that he could not agree with President Bush to 
@@ -4342,41 +4332,39 @@ use force without going back to the United Nations:
 “I wasn’t asked for it. I don’t, frankly, think it was terribly welcome. I do believe that 
 it may well have been one of the contributing factors to the Prime Minister, to his 
 great credit, persuading President Bush that he must go down the United Nations 
-route.”196
+route.”[^196]
 
 499.  Mr Blair acknowledged that Lord Goldsmith’s advice had had an effect: 
 
 “… one of the things that was most important in us going down the UN route was 
-precisely the legal advice we got.”197 
+precisely the legal advice we got.”[^197] 
 
 500.  Mr Blair stated: 
 
 “… what I took from the advice … was that we needed a fresh resolution. I do point 
 out that – because this was why at a later stage, I became concerned as to what the 
-legal problem was, because, of course, we got a further resolution.”198 
+legal problem was, because, of course, we got a further resolution.”[^198] 
 
 501.  Asked whether Lord Goldsmith’s advice had been unwelcome, Mr Blair replied:
 
 “It wasn’t that it was not particularly welcome … I was dealing with what was already 
 a difficult situation, and now I became aware we had to take a whole new dimension 
-into account.”199
+into account.”[^199]
 
-195 Public hearing, 27 January 2010, pages 21-22.
-196 Public hearing, 27 January 2010, page 23.
-197 Public hearing, 29 January 2010, page 143.
-198 Public hearing, 29 January 2010, pages 144-145.
-199 Public hearing, 29 January 2010, page 147.
+[^195]: Public hearing, 27 January 2010, pages 21-22.
+[^196]: Public hearing, 27 January 2010, page 23.
+[^197]: Public hearing, 29 January 2010, page 143.
+[^198]: Public hearing, 29 January 2010, pages 144-145.
+[^199]: Public hearing, 29 January 2010, page 147.
 
 86
-
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
 
 502.  Mr Blair added: 
 
 “… it actually then was very helpful for him to do this, because he focused our 
 minds, quite rightly, on the need to get the right resolution in 1441 … He wanted 
 to make it absolutely clear that it wasn’t merely … going down the UN route, it is 
-getting the right resolution that will be important.”200
+getting the right resolution that will be important.”[^200]
 
 ## Mr Blair's conversation with President Bush, 31 July 2002
 
@@ -4390,7 +4378,7 @@ to set an ultimatum or whether it would be an obstacle.
 505.  Mr Blair did not tell President Bush that he had been advised that the UK 
 would need a new UN resolution to provide legal authority for military action.
 
-506.  Mr Blair spoke to President Bush on 31 July.201 Mr Rycroft’s letter recording 
+506.  Mr Blair spoke to President Bush on 31 July.[^201] Mr Rycroft’s letter recording 
 the conversation stated that it had become clear during Sir David Manning’s visit to 
 Washington that the US was not about to take imminent action in Iraq and was focusing 
 on the political context. 
@@ -4415,8 +4403,8 @@ would give us the moral high ground.”
 including to secure the support of Arab leaders, and the possibility of a visit to the US in 
 the autumn. 
 
-200 Public hearing, 29 January 2010, page 148.
-201 Letter Rycroft to McDonald, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
+[^200]: Public hearing, 29 January 2010, page 148.
+[^201]: Letter Rycroft to McDonald, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
 31 July’.
 
 87
@@ -4425,7 +4413,7 @@ the autumn.
 Sir Richard Dearlove, Mr Scarlett, Sir Jeremy Greenstock and Sir Christopher Meyer. 
 
 511.  A separate, fuller record of the discussion was prepared for Sir David Manning 
-and Mr Powell.202 It focused on the “central issue of a casus belli” and the need for 
+and Mr Powell.[^202] It focused on the “central issue of a casus belli” and the need for 
 further work on the optimal route to achieving that. Sir David should work with the 
 White House on the possibility of a Security Council resolution and how an ultimatum 
 might be fashioned.
@@ -4442,12 +4430,12 @@ knowledge of the substance of his proposals to President Bush should be limited.
 
 515.  Mr Rycroft commissioned more detailed advice from the FCO on a UN ultimatum, 
 “both on what it would look like and on how we would achieve it”, for Mr Blair’s return 
-to work in late August.203 
+to work in late August.[^203] 
 
 516.  Sir David Manning sent the records of his conversations with Dr Rice and 
 President Bush and No.10’s internal note of Mr Blair’s telephone call with President 
 Bush to the FCO on 1 August, for Mr Straw “to pick up on 19 August” before the possible 
-meeting with Secretary Powell.204 
+meeting with Secretary Powell.[^204] 
 
 517.  In his minute to Mr Straw, Sir David wrote:
 
@@ -4460,18 +4448,18 @@ follow up.”
 Sir David Manning sent a copy of the records of the discussions with Dr Rice and 
 President Bush, with an instruction that they were to be seen by Mr Brenton and 
 Sir Christopher Meyer only. They were not to be mentioned to anyone else in Whitehall 
-“including the FCO”.205 
+“including the FCO”.[^205] 
 
-202 Minute Rycroft to Manning, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
+[^202]: Minute Rycroft to Manning, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
 31 July’.
-203 Letter Rycroft to McDonald, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
+[^203]: Letter Rycroft to McDonald, 31 July 2002, ‘Iraq: Prime Minister’s Phone Call with President Bush, 
 31 July’. 
-204 Minute Manning to Secretary of State [FCO], 1 August 2002, ‘Iraq’.
-205 Letter Manning to Brenton, 2 August 2002, ‘Iraq’. 
+[^204]: Minute Manning to Secretary of State [FCO], 1 August 2002, ‘Iraq’.
+[^205]: Letter Manning to Brenton, 2 August 2002, ‘Iraq’. 
 
 88
 
-The Report of the Iraq Inquiry3.3  |  Development of UK strategy and options, April to July 2002
+
 
 519.  Sir David wrote:
 
@@ -4483,10 +4471,10 @@ I therefore enclose a set, together with the Note for No.10’s internal consump
 the Prime Minister’s call to the President on Wednesday. Please hold all very tightly.”
 
 520.  In a discussion with Mr Straw on 5 August, Secretary Powell informed him that 
-he had seen Mr Blair’s Note to President Bush.206 
+he had seen Mr Blair’s Note to President Bush.[^206] 
 
 521.  Sir David Manning sent copies of Mr Blair’s Note to President Bush and the 
-records of his own conversations in Washington to Sir Michael Jay on 7 August.207 
+records of his own conversations in Washington to Sir Michael Jay on 7 August.[^207] 
 Sir David informed Sir Michael that copies had already been sent on a personal basis 
 to Mr Straw, Sir Christopher Meyer and Sir Richard Dearlove. Mr Blair was “adamant 
 that these papers should not be circulated” although he had agreed that Mr Straw and 
@@ -4514,8 +4502,8 @@ impatient to move on Iraq. It was concerned that the US Administration was
 contemplating military action in circumstances where it would be very difficult 
 for the UK to participate in or, conceivably, to support that action. 
 
-206 Letter Davies to Manning, 5 August 2002, ‘Iraq’. 
-207 Letter Manning to Jay, 7 August 2002, ‘Iraq’. 
+[^206]: Letter Davies to Manning, 5 August 2002, ‘Iraq’. 
+[^207]: Letter Manning to Jay, 7 August 2002, ‘Iraq’. 
 
 89
 
@@ -4561,5 +4549,3 @@ in a way that would make it very difficult for the UK subsequently to withdraw i
 support for the US.
 
 90
-
-The Report of the Iraq Inquiry
