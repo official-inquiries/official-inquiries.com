@@ -4,3 +4,6 @@
 [submodule "uk-parliament-20160706-iraq-inquiry"]
 	path = iraq-inquiry
 	url = https://github.com/official-inquiries/uk-parliament-20160706-iraq-inquiry
+[submodule "enron-report"]
+	path = enron-report
+	url = https://github.com/official-inquiries/us-enron-report.git
