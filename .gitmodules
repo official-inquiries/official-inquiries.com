@@ -7,3 +7,8 @@
 [submodule "enron-report"]
 	path = enron-report
 	url = https://github.com/official-inquiries/us-enron-report.git
+	branch = gh-pages
+[submodule "iraq-inquiry"]
+	branch = gh-pages
+[submodule "psi-financial-crisis"]
+	branch = gh-pages
