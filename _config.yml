@@ -22,15 +22,11 @@ contributors:
 
 supporters:
   -
-    name: Shuttleworth Foundation
-    logo: shuttleworth.png
-    footer_logo: shuttleworth-footer.png
-    url: https://www.shuttleworthfoundation.org/
+    name: The Outlandish Fellowship
+    logo: outlandish.png
+    footer_logo: outlandish-footer.png
+    url: http://www.outlandish.com/fellowship/
   -
-    name: The World Bank
-    logo: worldbank.png
-    footer_logo: worldbank-footer.png
-    url: http://www.worldbank.org/
 
 google_analytics: UA-80458846-1
 
