@@ -12,3 +12,6 @@
 	branch = gh-pages
 [submodule "psi-financial-crisis"]
 	branch = gh-pages
+[submodule "climate-action-us-senate-2014"]
+	path = climate-action-us-senate-2014
+	url = https://github.com/official-inquiries/climate-action-us-senate-2014
